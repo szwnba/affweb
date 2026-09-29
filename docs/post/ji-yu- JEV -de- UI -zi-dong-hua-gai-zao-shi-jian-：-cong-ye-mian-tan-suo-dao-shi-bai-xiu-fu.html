@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="最近讨论度很高的 AI 模型：**JEV**。">
+<meta property="og:title" content="基于 JEV 的 UI 自动化改造实践：从页面探索到失败修复">
+<meta property="og:description" content="最近讨论度很高的 AI 模型：**JEV**。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ji-yu-%20JEV%20-de-%20UI%20-zi-dong-hua-gai-zao-shi-jian-%EF%BC%9A-cong-ye-mian-tan-suo-dao-shi-bai-xiu-fu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>基于 JEV 的 UI 自动化改造实践：从页面探索到失败修复</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">基于 JEV 的 UI 自动化改造实践：从页面探索到失败修复</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/804" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>最近讨论度很高的 AI 模型：<strong>JEV</strong>。</p>
+<p>它和常见的大模型不太一样。ChatGPT、Claude 这类模型更擅长对话、生成文本、写代码、解释问题；JEV 的定位更窄一些，主要用来做判断。调用接口后，它会根据输入内容返回结构化结果，程序可以直接读取这个结果，再决定下一步怎么执行。</p>
+<p><strong>这个特点很适合放在自动化流程里。</strong></p>
+<p>以 UI 自动化测试为例，传统脚本通常是提前写好步骤：点击哪个按钮、输入什么内容、断言哪个元素出现。只要页面结构稳定，这种方式没有问题。但在实际项目里，页面经常会出现一些不确定情况：</p>
+<ul>
+<li>
+<p>同一个业务入口在不同环境里文案不完全一致；</p>
+</li>
+<li>
+<p>页面上有多个相似按钮，需要判断应该点哪一个；</p>
+</li>
+<li>
+<p>执行失败后，需要先判断是定位器失效、等待不足，还是业务状态不满足；</p>
+</li>
+<li>
+<p>探索页面时，需要在多个可操作元素中选择下一步动作。</p>
+</li>
+</ul>
+<p>这些地方如果全部交给固定规则处理，脚本会变得很复杂，也很难维护。如果全部交给通用大模型判断，效果通常可以，但调用成本和响应速度不一定适合频繁执行。</p>
+<p><strong>所以这次我尝试把原来的 UI 自动化流程做了一次改造：保留 Playwright 和 Skill 工作流的主体能力，只把其中需要“做判断”的环节交给 JEV。</strong></p>
+<p>前段时间我做过一套基于 Playwright + Midscene 的双策略 UI 自动化 Skill 工作流，可看这篇文章：<a href="https://mp.weixin.qq.com/s?__biz=Mzk2NDQzMzMwNA==&amp;mid=2247490690&amp;idx=1&amp;sn=385984bd8c063fc8e86b362a18e49d04&amp;scene=21#wechat_redirect" rel="nofollow">基于 Playwright + Midscene实现 UI 自动化｜DOM 定位 + 视觉识别 互补方案</a></p>
+<p>大致流程是：</p>
+<ol>
+<li>
+<p>先通过 Playwright 打开页面，获取页面快照；</p>
+</li>
+<li>
+<p>根据页面结构和任务目标，生成探索计划；</p>
+</li>
+<li>
+<p>根据计划生成自动化代码；</p>
+</li>
+<li>
+<p>执行代码，生成报告；</p>
+</li>
+<li>
+<p>如果执行失败，再走修复流程。</p>
+</li>
+</ol>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7b2d77c3e14e6d28381841c55dd84e42bff6eb5a83e0dbe3f995ed465e501984/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556961444b755265396a594468323646544465494e564d455645724d5841666575515747776d365350716f306f457037304a6d425957714c7638485752486b3359327a75724742596b346d4e57677261645930394b41436a3269636b343148347a5546772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/7b2d77c3e14e6d28381841c55dd84e42bff6eb5a83e0dbe3f995ed465e501984/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556961444b755265396a594468323646544465494e564d455645724d5841666575515747776d365350716f306f457037304a6d425957714c7638485752486b3359327a75724742596b346d4e57677261645930394b41436a3269636b343148347a5546772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUiaDKuRe9jYDh26FTDeINVMEVErMXAfeuQWGwm6SPqo0oEp70JmBYWqLv8HWRHk3Y2zurGBYk4mNWgradY09KACj2ick41H4zUFw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>这套流程的优势是比较完整：从页面探索、计划生成、代码生成，到执行和修复，基本可以串起来。</p>
+<p>但在实际使用时，也能明显看到一些环节不是简单规则能解决的。比如页面快照里有很多按钮，下一步应该点哪个；生成的计划是否已经覆盖主要路径；某个 locator 是否稳定；执行失败到底是页面没加载出来，还是代码选错了元素。</p>
+<p>这些问题本质上都是判断题。</p>
+<p>JEV 刚好适合放在这些位置。<strong>它不负责生成整段测试代码，也不负责替代 Playwright 执行操作，只负责在关键节点给出一个结构化判断结果。</strong></p>
+<p>这次改造主要放在两个 Skill 里：探索 Skill 和修复 Skill。</p>
+<h2>1. 探索 Skill：辅助选择下一步动作</h2>
+<p>页面探索阶段，Playwright 可以拿到当前页面的 snapshot。snapshot 里会包含页面上的文本、按钮、输入框、链接等信息。</p>
+<p>这时可以把页面快照、当前任务目标、已执行步骤一起传给 JEV，让它判断：</p>
+<ul>
+<li>
+<p>当前页面最合理的下一步操作是什么；</p>
+</li>
+<li>
+<p>应该优先选择哪个控件；</p>
+</li>
+<li>
+<p>当前计划是否已经覆盖主要路径；</p>
+</li>
+<li>
+<p>某个 locator 是否存在稳定性风险。</p>
+</li>
+</ul>
+<p>JEV 返回结构化结果后，流程再按这个结果继续执行。</p>
+<h2>2. 修复 Skill：先判断失败原因</h2>
+<p>自动化执行失败时，如果一上来就让模型直接改代码，容易出现两个问题：</p>
+<p>一是改动范围过大。明明只是等待时间不足，结果把 locator 和断言都改了。</p>
+<p>二是修复方向不稳定。失败原因没有判断清楚，后面修复就会带有猜测成分。</p>
+<p>所以这次在修复 Skill 前面加了一步：先让 JEV 判断失败原因。</p>
+<p>下面是这次基于 JEV 改造后的完整使用流程。</p>
+<h3>1. 配置环境变量</h3>
+<p>先创建 <code class="notranslate">.env</code> 文件，填写 JEV 的 API Key。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b75ae31608a01f9d4fdcdfb96e3d3bea7d02ffb93a351d1ce091603bf2eee95/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556a716f4579505243433361474c4769614a6a46366b79794d49654a4b4147684266323078336962353544494a6e396778573669634661376b4c39326b6c356562614c7a4f507a6963706d4d4a446961696272736c784b4a417232793969635076636a6b6d6e6449732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/0b75ae31608a01f9d4fdcdfb96e3d3bea7d02ffb93a351d1ce091603bf2eee95/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556a716f4579505243433361474c4769614a6a46366b79794d49654a4b4147684266323078336962353544494a6e396778573669634661376b4c39326b6c356562614c7a4f507a6963706d4d4a446961696272736c784b4a417232793969635076636a6b6d6e6449732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUjqoEyPRCC3aGLGiaJjF6kyyMIeJKAGhBf20x3ib55DIJn9gxW6icFa7kL92kl5ebaLzOPzicpmMJDiaibrslxKJAr2y9icPvcjkmndIs/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>这里建议把配置和代码分开，不要把 API Key 直接写进脚本里。后续如果在 CI 或不同环境中运行，也更方便切换。</p>
+<p>配置完成后，Skill 在需要做判断的地方会自动读取环境变量，再调用 JEV。</p>
+<h3>2. 探索页面</h3>
+<p>接下来执行探索 Skill。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3b3d69b8499df62c614748fc10857d13db4d41aa7a6523ac79db0fc779e182a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d5567616f31546d4b62666f62516a7176626e5069615a444649676e394257535064776c4e443051553443305a7745625a47393174503956656b636c4434336e785a3258664842563972576a617354324a6e79553431674558784844767164745a7356672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/b3b3d69b8499df62c614748fc10857d13db4d41aa7a6523ac79db0fc779e182a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d5567616f31546d4b62666f62516a7176626e5069615a444649676e394257535064776c4e443051553443305a7745625a47393174503956656b636c4434336e785a3258664842563972576a617354324a6e79553431674558784844767164745a7356672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUgao1TmKbfobQjqvbnPiaZDFIgn9BWSPdwlND0QU4C0ZwEbZG91tP9VekclD43nxZ2XfHBV9rWjasT2JnyU41gEXxHDvqdtZsVg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>探索时，Playwright 会打开目标页面并生成 snapshot。流程会根据当前页面结构、任务目标以及历史步骤，判断下一步应该操作哪个元素。</p>
+<p>在这个过程中，部分节点会调用 JEV 做决策。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c38530e9b4a88a647a783c1455769c4e4954d4b40efda9fdcdbaa51762690970/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676771305561676164736e69627244564f76336c417549556152677669636b43716665644f523550316f346a50684d626f56307a32787168526a6b4b70307a37324634716a456d3067547942353579454b4f3442696354307a315a49615639527172666b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/c38530e9b4a88a647a783c1455769c4e4954d4b40efda9fdcdbaa51762690970/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676771305561676164736e69627244564f76336c417549556152677669636b43716665644f523550316f346a50684d626f56307a32787168526a6b4b70307a37324634716a456d3067547942353579454b4f3442696354307a315a49615639527172666b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUggq0UagadsnibrDVOv3lAuIUaRgvickCqfedOR5P1o4jPhMboV0z2xqhRjkKp0z72F4qjEm0gTyB55yEKO4BicT0z1ZIaV9Rqrfk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>比如页面上同时存在多个可点击元素时，JEV 会结合目标判断当前更应该点击哪个入口；如果页面已经完成了主要路径探索，也可以判断当前计划是否足够完整。</p>
+<p>探索完成后，会生成一份计划文件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/806c50be70ee109a5f246ef2acf402541e0c82b2e4e9769e4da76cde68d29f3c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676e6f62374664573549436b7969614272704a3675614e6963507a6963433769614f45506961354438414468785739686a68685931563369627334747968486962315054624f48664d69627a3470666962593969624e4b467a6b4b633037516f66323634357179566d45382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/806c50be70ee109a5f246ef2acf402541e0c82b2e4e9769e4da76cde68d29f3c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676e6f62374664573549436b7969614272704a3675614e6963507a6963433769614f45506961354438414468785739686a68685931563369627334747968486962315054624f48664d69627a3470666962593969624e4b467a6b4b633037516f66323634357179566d45382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUgnob7FdW5ICkyiaBrpJ6uaNicPzicC7iaOEPia5D8ADhxW9hjhhY1V3ibs4tyhHib1PTbOHfMibz4pfibY9ibNKFzkKc07Qof2645qyVmE8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>这一步不要急着直接生成代码。建议先看一遍计划，重点确认几件事：</p>
+<ul>
+<li>
+<p>目标页面是否探索完整；</p>
+</li>
+<li>
+<p>主流程是否覆盖；</p>
+</li>
+<li>
+<p>有没有明显不该操作的入口；</p>
+</li>
+<li>
+<p>是否遗漏关键业务场景；</p>
+</li>
+<li>
+<p>计划里的步骤是否符合真实业务逻辑。</p>
+</li>
+</ul>
+<p>如果计划有问题，先让 Skill 补探或调整计划。计划确认好，再进入代码生成阶段。</p>
+<h3>3. 生成自动化代码</h3>
+<p>计划确认后，就可以根据计划生成 Playwright 自动化代码。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dcbbf68ff2f9438893d29623bd32a4dc1b91d22c6f573eb7f5221438e0b35aa1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d5569616963333758443643315448555069635a7a6469616a333666507a6735575371744677646557427a7475716e6566696169614b5769623769615a7450656e5836643179524f73544f49587462696365486b66564869624866345954734f56647841777852505969624d7a452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/dcbbf68ff2f9438893d29623bd32a4dc1b91d22c6f573eb7f5221438e0b35aa1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d5569616963333758443643315448555069635a7a6469616a333666507a6735575371744677646557427a7475716e6566696169614b5769623769615a7450656e5836643179524f73544f49587462696365486b66564869624866345954734f56647841777852505969624d7a452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUiaic37XD6C1THUPicZzdiaj36fPzg5WSqtFwdeWBztuqnefiaiaKWib7iaZtPenX6d1yROsTOIXtbiceHkfVHibHf4YTsOVdxAwxRPYibMzE/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>生成结果如下：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/593497a13e2b7901e52967291dbdecc735e1da9f99a14b01205fa9dc3ee30254/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556a69627531656756436a5349726e6c3156734d7765414f6f69636961304c303768616741796c376b776251647a70644b716b5845626962494166654d6961536a374b4e4d366961674a70756a7633696270696362416c576a5166696274734c624d576a686779756837342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/593497a13e2b7901e52967291dbdecc735e1da9f99a14b01205fa9dc3ee30254/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556a69627531656756436a5349726e6c3156734d7765414f6f69636961304c303768616741796c376b776251647a70644b716b5845626962494166654d6961536a374b4e4d366961674a70756a7633696270696362416c576a5166696274734c624d576a686779756837342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUjibu1egVCjSIrnl1VsMweAOoicia0L07hagAyl7kwbQdzpdKqkXEbibIAfeMiaSj7KNM6iagJpujv3ibpicbAlWjQfibtsLbMWjhgyuh74/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>这里仍然建议保持代码可读，不要把所有逻辑都塞进一条长链路里。</p>
+<p>比较理想的结构是：</p>
+<ul>
+<li>
+<p>登录、进入页面、准备数据等动作独立封装；</p>
+</li>
+<li>
+<p>关键操作步骤保留清晰注释；</p>
+</li>
+<li>
+<p>断言尽量和业务结果对应；</p>
+</li>
+<li>
+<p>locator 优先使用稳定属性，比如 role、label、test id。</p>
+</li>
+</ul>
+<p>JEV 可以辅助判断 locator 风险，但最终脚本还是要尽量遵循 Playwright 的最佳实践。否则一旦页面变化，后续维护成本还是会很高。</p>
+<h3>4. 执行代码</h3>
+<p>代码生成后，直接执行测试脚本。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed662f34882eddd504302f67e99b777292292d0f81f099e3668f65dc746ba711/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556961675963465a4777347774334b674f70324e586469614a494250354974595643333965366746356e67584e5673587843727844796b45365243394c6a426a7539696332626f6d6c71584235425a47474f3931564934497a65677a6962546d5756773445452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/ed662f34882eddd504302f67e99b777292292d0f81f099e3668f65dc746ba711/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d556961675963465a4777347774334b674f70324e586469614a494250354974595643333965366746356e67584e5673587843727844796b45365243394c6a426a7539696332626f6d6c71584235425a47474f3931564934497a65677a6962546d5756773445452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUiagYcFZGw4wt3KgOp2NXdiaJIBP5ItYVC39e6gF5ngXNVsXxCrxDykE6RC9LjBju9ic2bomlqXB5BZGGO91VI4IzegzibTmWVw4EE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>如果执行通过，就可以进入报告查看阶段。</p>
+<p>如果执行失败，则进入修复流程。</p>
+<p>这里需要区分两类失败：</p>
+<p>一类是技术问题，比如元素定位不到、等待不足、页面还没加载完成就开始断言。</p>
+<p>另一类是业务问题，比如账号没有权限、数据状态不对、页面本身报错、测试环境不稳定。</p>
+<p>前者可以通过修复脚本解决；后者如果强行改代码，反而会掩盖真实问题。</p>
+<p><strong>所以修复前先做失败原因判断很重要。</strong></p>
+<h3>5. 失败修复</h3>
+<p>如果执行过程中出现问题，就走修复 Skill。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb85b8f8fa5ce52b46049480bbbbbffde4c181ca868aaa2b811a1ff6e21e2eb1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556a4357446b336b5975507a6f59786863476e54766363556f466f384a576c565733326b394977794f724656636a346443556a31734c624a33434c684f626961456447556b764f6334445965546c597244326a566276744e584c36307a69626d4d7757552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/fb85b8f8fa5ce52b46049480bbbbbffde4c181ca868aaa2b811a1ff6e21e2eb1/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556a4357446b336b5975507a6f59786863476e54766363556f466f384a576c565733326b394977794f724656636a346443556a31734c624a33434c684f626961456447556b764f6334445965546c597244326a566276744e584c36307a69626d4d7757552f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUjCWDk3kYuPzoYxhcGnTvccUoFo8JWlVW32k9IwyOrFVcj4dCUj1sLbJ3CLhObiaEdGUkvOc4DYeTlYrD2jVbvtNXL60zibmMwWU/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>修复 Skill 会先收集失败信息，再调用 JEV 判断失败原因。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/012439b632ab81afe3badc35231623caaca68da66f0ea84c17142b427858a23b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556874445644626a544341643658726c633668466961526558676b5435683075735a3657784e6f51506765774d5a33636d64646d647962526638376a76477a686a4d4c3969636a6c494a724e4730553069623356476e706e51704d676642715863546449512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/012439b632ab81afe3badc35231623caaca68da66f0ea84c17142b427858a23b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d556874445644626a544341643658726c633668466961526558676b5435683075735a3657784e6f51506765774d5a33636d64646d647962526638376a76477a686a4d4c3969636a6c494a724e4730553069623356476e706e51704d676642715863546449512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUhtDVDbjTCAd6Xrlc6hFiaReXgkT5h0usZ6WxNoQPgewMZ3cmddmdybRf87jvGzhjML9icjlIJrNG0U0ib3VGnpnQpMgfBqXcTdIQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>判断完成后，再按不同类型选择处理方式：</p>
+<ul>
+<li>
+<p>如果是 locator 问题，重新基于 snapshot 选择更稳定的定位方式；</p>
+</li>
+<li>
+<p>如果是等待问题，补充可见、可点击、网络完成等等待条件；</p>
+</li>
+<li>
+<p>如果是断言问题，检查断言对象是否符合页面真实反馈；</p>
+</li>
+<li>
+<p>如果是测试数据问题，提示补充或重置前置数据；</p>
+</li>
+<li>
+<p>如果是权限或登录状态问题，先处理账号和会话状态。</p>
+</li>
+</ul>
+<p>修复完成后，再重新执行脚本。必要时可以重复几轮，但不建议无限循环修复。</p>
+<p>一般来说，如果连续多次修复仍然失败，就应该人工查看 trace、截图和日志，确认是不是业务流程本身有问题。</p>
+<h3>6. 查看报告</h3>
+<p>执行完成后，可以查看报告列表。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/876e73bdd67a5cce99ac26af9fa8cc15adbcc51f465191f5f2077e5dda3a6800/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676962504a455467575661713445326d414a4b32456a5261335345427455377a4e78484e7a7338706d7043506d6c6b4d6c7a415969614c68684e4a67704a6677687846615330753969626f53614c46594137473669613246454776416239623050315543492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/876e73bdd67a5cce99ac26af9fa8cc15adbcc51f465191f5f2077e5dda3a6800/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55676962504a455467575661713445326d414a4b32456a5261335345427455377a4e78484e7a7338706d7043506d6c6b4d6c7a415969614c68684e4a67704a6677687846615330753969626f53614c46594137473669613246454776416239623050315543492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUgibPJETgWVaq4E2mAJK2EjRa3SEBtU7zNxHNzs8pmpCPmlkMlzAYiaLhhNJgpJfwhxFaS0u9iboSaLFYA7G6ia2FEGvAb9b0P1UCI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>报告里最有价值的通常是两类信息。</p>
+<p>第一类是执行视频。它可以还原脚本到底做了哪些操作，适合判断流程是否真的按预期走完。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ff7ae0b3c459cc655bbd4f979bd346527f85d70a9a73559ffec8b250391fae30/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55696157564b7633345a6d6c396b547369617659554773596170457649444e716b6b7639466e4f326f496475376d63304c69616f6d4879696268617350696169626169634a6861715966554e586e4939584e3841574d676f386655466b49383469634f696137574f7153412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/ff7ae0b3c459cc655bbd4f979bd346527f85d70a9a73559ffec8b250391fae30/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f553043416a32734b6d55696157564b7633345a6d6c396b547369617659554773596170457649444e716b6b7639466e4f326f496475376d63304c69616f6d4879696268617350696169626169634a6861715966554e586e4939584e3841574d676f386655466b49383469634f696137574f7153412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/U0CAj2sKmUiaWVKv34Zml9kTsiavYUGsYapEvIDNqkkv9FnO2oIdu7mc0LiaomHyibhasPiaibaicJhaqYfUNXnI9XN8AWMgo8fUFkI84icOia7WOqSA/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>第二类是 trace。trace 会记录每一步操作、页面状态、网络请求和错误信息。定位失败问题时，比单看控制台日志更直观。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5688c31df392ecc0676047aae90abce35d3541b642981dfb075064da7138e35b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d55684849495a69627932696345784159507571507030746963764d6b37625558797065645a444b5a35567351467933394a4f785434475a49676158776557343472504b615133426d77666b307a6c4e4243544e4550344a5a344c32356f316c78466962744b492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/5688c31df392ecc0676047aae90abce35d3541b642981dfb075064da7138e35b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f553043416a32734b6d55684849495a69627932696345784159507571507030746963764d6b37625558797065645a444b5a35567351467933394a4f785434475a49676158776557343472504b615133426d77666b307a6c4e4243544e4550344a5a344c32356f316c78466962744b492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/U0CAj2sKmUhHIIZiby2icExAYPuqPp0ticvMk7bUXypedZDKZ5VsQFy39JOxT4GZIgaXweW44rPKaQ3Bmwfk0zlNBCTNEP4JZ4L25o1lxFibtKI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>如果脚本是由 Skill 生成和修复的，trace 也可以反过来帮助我们判断：这次失败到底是计划不合理、代码生成不稳定，还是页面本身存在异常。</p>
+<h2>这套方案适合什么场景</h2>
+<p>基于 JEV 的 UI 自动化改造，并不是要把所有判断都交给模型。</p>
+<p>它更适合这些场景：</p>
+<ul>
+<li>
+<p>页面探索过程中，需要在多个控件中选择下一步动作；</p>
+</li>
+<li>
+<p>计划生成后，需要判断覆盖是否完整；</p>
+</li>
+<li>
+<p>自动化执行失败后，需要先分类失败原因；</p>
+</li>
+<li>
+<p>页面变化较频繁，希望降低 locator 维护成本；</p>
+</li>
+<li>
+<p>希望在 Skill 工作流中加入更轻量的决策能力。</p>
+</li>
+</ul>
+<p>但它不适合解决所有问题。</p>
+<p>比如业务规则本身不清楚、测试数据长期不可控、环境经常不可用，或者页面没有稳定可访问状态，这些问题不是接入一个判断模型就能解决的。</p>
+<p>JEV 能提高的是“判断节点”的效率和稳定性，不会替代测试设计，也不会替代环境治理。</p>
+<h2>总结</h2>
+<p>这次基于 JEV 的改造，核心不是把 UI 自动化“AI 化”，而是把原来流程中需要判断的部分单独抽出来，让更适合判断的模型来处理。<strong>Playwright 继续负责浏览器操作，Skill 继续负责组织工作流，JEV 负责在探索和修复阶段做决策辅助。</strong></p>
+<p>从实践效果看，这种方式比较适合作为 UI 自动化工作流的增强层。它不会让自动化测试一步到位，但能减少一些重复判断和无效修复，让脚本生成、执行、修复这条链路更顺一些。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
