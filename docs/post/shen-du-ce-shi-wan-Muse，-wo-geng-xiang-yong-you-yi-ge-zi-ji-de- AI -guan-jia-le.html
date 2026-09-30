@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="Meta 最近出了个 AI 智能体管家，叫 Muse。">
+<meta property="og:title" content="深度测试完Muse，我更想拥有一个自己的 AI 管家了">
+<meta property="og:description" content="Meta 最近出了个 AI 智能体管家，叫 Muse。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/shen-du-ce-shi-wan-Muse%EF%BC%8C-wo-geng-xiang-yong-you-yi-ge-zi-ji-de-%20AI%20-guan-jia-le.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>深度测试完Muse，我更想拥有一个自己的 AI 管家了</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">深度测试完Muse，我更想拥有一个自己的 AI 管家了</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/808" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>Meta 最近出了个 AI 智能体管家，叫 Muse。</p>
+<p>每个用户都有一台专属的云电脑，Muse 在上面替你写代码、跑脚本、做视频、管文件。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/691166e71b109042aec11e6e05e64d2295f6b4a257b1f1d77fc7bacac2111ab8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447774e4c36794877756e6579526579356d526870623747365a5263794750714333415a474e344a69616961427a344f453833614b4176754658446535686275426c73707457354c69626d4c62444d76757547696239544e6a6e43523730734e456f73437041772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/691166e71b109042aec11e6e05e64d2295f6b4a257b1f1d77fc7bacac2111ab8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447774e4c36794877756e6579526579356d526870623747365a5263794750714333415a474e344a69616961427a344f453833614b4176754658446535686275426c73707457354c69626d4c62444d76757547696239544e6a6e43523730734e456f73437041772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGwNL6yHwuneyRey5mRhpb7G6ZRcyGPqC3AZGN4JiaiaBz4OE83aKAvuFXDe5hbuBlsptW5LibmLbDMvuuGib9TNjnCR70sNEosCpAw/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a><br>
+体验下来，其实它是专门为美国消费者定制的 AI 智能体。<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c76ea93f8ff7870f1eea8c01cda73e818f04be53df33efcdc8f68407c9dcccf0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477a4a31774c326436624268666c4c796276335a41705244454b354474696373706739655139776c4f4e6c545276746a4f627169637157393769627a43356e64335644724f5867704f344c6b6e6d4b6845784d61583169633569616b63536f436d3759546573342f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/c76ea93f8ff7870f1eea8c01cda73e818f04be53df33efcdc8f68407c9dcccf0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477a4a31774c326436624268666c4c796276335a41705244454b354474696373706739655139776c4f4e6c545276746a4f627169637157393769627a43356e64335644724f5867704f344c6b6e6d4b6845784d61583169633569616b63536f436d3759546573342f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGzJ1wL2d6bBhflLybv3ZApRDEK5Dticspg9eQ9wlONlTRvtjObqicqW97ibzC5nd3VDrOXgpO4LknmKhExMaX1ic5iakcSoCm7YTes4/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>Gmail、Google 表格、Facebook、instagram、订阅信息……咱们国内生态根本用不上。</p>
+<p>所以这篇文章，我打算测试一下 muse 的通用能力，还有最牛的云浏览器操控。</p>
+<p>看看国内生态，这个国外的 AI 管家，还能帮我干多少活。</p>
+<h2>1. 从京东查到12306，先让它替我跑跑腿</h2>
+<p>最近好像听说羽毛球拍的价格大跳水，正好让它去京东、淘宝和拼多多搜雷霆80，多平台比价。</p>
+<p>它会打开浏览器，进入商品页面。对话里也会出现浏览器卡片，可以点进去看它查到了哪一步。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e385e9de92fa4a1b2f542cfc62cf2f9ec2bd7cbc68ca8b41698a79252510e6b5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477958754879696276514e69617259614f6f385830363451745270696232636c30454b54556344574370565942326a654d4f723157594551664d6c445744707a74496c754653496132656d44326132674c744d424952566e674f444d72393253496c5557672f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/e385e9de92fa4a1b2f542cfc62cf2f9ec2bd7cbc68ca8b41698a79252510e6b5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477958754879696276514e69617259614f6f385830363451745270696232636c30454b54556344574370565942326a654d4f723157594551664d6c445744707a74496c754653496132656d44326132674c744d424952566e674f444d72393253496c5557672f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGyXuHyibvQNiarYaOo8X064QtRpib2cl0EKTUcDWCpVYB2jeMOr1WYEQfMlDWDpztIluFSIa2emD2a2gLtMBIRVngODMr92SIlUWg/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d26aa6e4899ef1f4dcc43db0304238cb2d809dbac76da0269231ecd42ac37a8d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3952786661787045644779355442324a5550734c384a3843724a6f63696354507a3779664f504d646a6962747a4a38774e6963467a66434e6963566378527645544461547058545678756963664453576175476962524655766e7a634c45696171397246636c56566c6f63326962666b5538412f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/d26aa6e4899ef1f4dcc43db0304238cb2d809dbac76da0269231ecd42ac37a8d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f3952786661787045644779355442324a5550734c384a3843724a6f63696354507a3779664f504d646a6962747a4a38774e6963467a66434e6963566378527645544461547058545678756963664453576175476962524655766e7a634c45696171397246636c56566c6f63326962666b5538412f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGy5TB2JUPsL8J8CrJocicTPz7yfOPMdjibtzJ8wNicFzfCNicVcxRvETDaTpXTVxuicfDSWauGibRFUvnzcLEiaq9rFclVVloc2ibfkU8A/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>国内电商惯用套路了；不登录，价格不一定给你看全。</p>
+<p>这里我就先跳过需要登录的网站，最后，它把查到的商品、报价和链接整理了出来，以及第三方渠道里的价格记录。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96a8114bff6f656b59b6ca2b798c1136bba9350396a54918c91fc8a41bccc698/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477a696272655955794f754e4b6d686836434a774c514256466f5a535a616548635972306c6839696345464550696179583955626e6a44797a726961416170413441486a674f6733536d484b374e6b4d6f72485a316530454e6a5246454b4f69613541727163302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/96a8114bff6f656b59b6ca2b798c1136bba9350396a54918c91fc8a41bccc698/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477a696272655955794f754e4b6d686836434a774c514256466f5a535a616548635972306c6839696345464550696179583955626e6a44797a726961416170413441486a674f6733536d484b374e6b4d6f72485a316530454e6a5246454b4f69613541727163302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGzibreYUyOuNKmhh6CJwLQBVFoZSZaeHcYr0lh9icEFEPiayX9UbnjDyzriaAapA4AHjgOg3SmHK7NkMorHZ1e0ENjRFEKOia5Arqc0/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>1200，还是蛮贵的。再蹲蹲吧，早买早享受，我晚买就得享折扣。</p>
+<p>所以我设置了定时任务，让它每天盯一下，发现更低的价格就提醒我，把对应的购买链接一起发过来。</p>
+<p>muse 就创建了一个叫“雷霆80每日价格监控”的任务，右侧的定时任务列表里也能看到。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/62e40527db132a245dc7e41c2d1bc80a2a35bc53668c8aa1e4e1abbd7712eb0c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447794b54635769626961456f496437494b3245634661327273743052496f45784d7037574e6476397654777a45727a3844344343724550595974495262324d384530306b43566b5a4f765333514a6d696334374869636d64494b48513833465a4e664856314d2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/62e40527db132a245dc7e41c2d1bc80a2a35bc53668c8aa1e4e1abbd7712eb0c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447794b54635769626961456f496437494b3245634661327273743052496f45784d7037574e6476397654777a45727a3844344343724550595974495262324d384530306b43566b5a4f765333514a6d696334374869636d64494b48513833465a4e664856314d2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGyKTcWibiaEoId7IK2EcFa2rst0RIoExMp7WNdv9vTwzErz8D4CCrEPYYtIRb2M8E00kCVkZOvS3QJmic47HicmdIKHQ83FZNfHV1M/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p><strong>购物试过了，再来看看国庆出行。</strong></p>
+<p>我让它去12306查车票，要求也很明确，只看符合指定时间、能够购买的高铁或动车，售罄和候补的不算。</p>
+<p>它打开了12306网站，进入车次查询页面，再把查询回复发回对话。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8f7ac56c9cab2994c116a015d3488b782b50b279a587ece02c25b942cc7492c3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477a4f5339576268656d785570364e4954714a73546c30426a305644514e526c644146387931637264657537784b306d794b633477423634684b7663674369615879634a7839473369624778486963304b4c6873776d4b57417550737873746479383074632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/8f7ac56c9cab2994c116a015d3488b782b50b279a587ece02c25b942cc7492c3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477a4f5339576268656d785570364e4954714a73546c30426a305644514e526c644146387931637264657537784b306d794b633477423634684b7663674369615879634a7839473369624778486963304b4c6873776d4b57417550737873746479383074632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGzOS9WbhemxUp6NITqJsTl0Bj0VDQNRldAF8y1crdeu7xK0myKc4wB64hKvcgCiaXycJx9G3ibGxHic0KLhswmKWAuPsxstdy80tc/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>这类任务最好把出发地、目的地、日期和时间范围一起说清楚。</p>
+<p>比如晚上下班后才有空出发，就把最早出发时间写进去，省得它推荐一堆赶不上的车。</p>
+<p>酒店也一样，我给了入住和退房日期、位置范围、每晚预算和评分条件，还让它看看差评具体在说什么。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5996aa1056397d2455939fc603bfecbc8c8a8d590f572fb966a75a9d986f6440/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447797450726961593443647a454563793774704562583246544833544f336d317a3853625045494f595169636d54544758554e6c6554744f63353654453061374f6f6630426961314835796d79776e4b6c536132624c4348483772563067523639716f456b2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/5996aa1056397d2455939fc603bfecbc8c8a8d590f572fb966a75a9d986f6440/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447797450726961593443647a454563793774704562583246544833544f336d317a3853625045494f595169636d54544758554e6c6554744f63353654453061374f6f6630426961314835796d79776e4b6c536132624c4348483772563067523639716f456b2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGytPriaY4CdzEEcy7tpEbX2FTH3TO3m1z8SbPEIOYQicmTTGXUNleTtOc56TE0a7Oof0Bia1H5ymywnKlSa2bLCHH7rV0gR69qoEk/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>这次要求是10月1日入住、7日退房，每晚100到200元，评分4.0以上。</p>
+<p>实际过程没那么顺，去哪儿的页面没加载出来，美团遇到了验证，携程需要登录后查找。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9464293efe843bcd2087d6ad66660e78939c96e316fd09dbd3f66533b38668a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447797a4a7055526e35584a645a5a415378486b64656333594854525378465a49684c717344505363656b6d45666d5a54484b494665726172567036755135563865385242704f3550696354484348475372796b73674f333334365a6a775848764d59552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/9464293efe843bcd2087d6ad66660e78939c96e316fd09dbd3f66533b38668a7/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447797a4a7055526e35584a645a5a415378486b64656333594854525378465a49684c717344505363656b6d45666d5a54484b494665726172567036755135563865385242704f3550696354484348475372796b73674f333334365a6a775848764d59552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGyzJpURn5XJdZZASxHkdec3YHTRSxFZIhLqsDPScekmEfmZTHKIFerarVp6uQ5V8e8RBpO5PicTHCHGSryksgO3346ZjwXHvMYU/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>最后得到的是一份携程的六家酒店候选。每家带着它整理的价格、评分、评价内容和位置说明，还把卫生、烟味这类差评单独提了出来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7fdab42d6468eb69470d38efeca333f6dc7df3fed2589347371ae140a320831a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447787034315a4f31426c394b554d69616c7a547178656879597a3562664d336e33444d4859796c7430514156484553586962584a37486e5a496b5170735a4767304a3751387a4d54593073624b576f75656a4f56497a78424b465557454c7a32455045382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/7fdab42d6468eb69470d38efeca333f6dc7df3fed2589347371ae140a320831a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447787034315a4f31426c394b554d69616c7a547178656879597a3562664d336e33444d4859796c7430514156484553586962584a37486e5a496b5170735a4767304a3751387a4d54593073624b576f75656a4f56497a78424b465557454c7a32455045382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGxp41ZO1Bl9KUMialzTqxehyYz5bfM3n3DMHYylt0QAVHESXibXJ7HnZIkQpsZGg0J7Q8zMTY0sbKWouejOVIzxBKFUWELz2EPE8/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>这份清单可以拿来缩小选择范围。比如先看交通方便的，还是先看价格低的，再点进候选酒店核对房型、总价和取消条件。</p>
+<p>Muse 的浏览器确实厉害，但是一旦遇到登录、验证码、滑块之类的验证手段，直接就嘎巴一下躺那宕机了。</p>
+<h2>2. 邮箱连接</h2>
+<p>看 Muse 的连接器，Gmail 这些服务都有入口。那国内的163、QQ邮箱能不能连？</p>
+<p>毕竟这两个还是国内比较常用的邮箱了，如果能连接，对接一下国外用户还是不错的。</p>
+<p>它先给了一个通过邮件协议连接的方案，要开启服务、设置权限。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c578aff1df5a4b28728fc3f6d5c7737e70bcf79ef390470f7aa637ce90f55472/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447774632696169623135367332476d765a716e466f364e73704c42304a56706e30504f455554495a6250414c376571386233625a744d5064506962486349376a426c4e4c724935746a53446f45716e415748564d43485877354e52647862486233543448672f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/c578aff1df5a4b28728fc3f6d5c7737e70bcf79ef390470f7aa637ce90f55472/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447774632696169623135367332476d765a716e466f364e73704c42304a56706e30504f455554495a6250414c376571386233625a744d5064506962486349376a426c4e4c724935746a53446f45716e415748564d43485877354e52647862486233543448672f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGwF2iaib156s2GmvZqnFo6NspLB0JVpn0POEUTIZbPAL7eq8b3bZtMPdPibHcI7jBlNLrI5tjSDoEqnAWHVMCHXw5NRdxbHb3T4Hg/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>这里直接走muse的浏览器。</p>
+<p>它先把163登录页打开，我在浏览器窗口里接管，完成登录。</p>
+<p>简简单单，连接成功，它就可以自由查看收件箱了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2d63c03e2b742fb71fbb1d4b54204b61a984c3b871f240e5dfc5e0de96754375/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477741326d6963794c4a414746716c7463496962456754753445485943654c497a763244756e426769616b594974396e7a595737545178554a547645517268774c696169613244376d336d5778644c657757336853744465304a6875696371776a4d357969633349302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/2d63c03e2b742fb71fbb1d4b54204b61a984c3b871f240e5dfc5e0de96754375/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477741326d6963794c4a414746716c7463496962456754753445485943654c497a763244756e426769616b594974396e7a595737545178554a547645517268774c696169613244376d336d5778644c657757336853744465304a6875696371776a4d357969633349302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGwA2micyLJAGFqltcIibEgTu4EHYCeLIzv2DunBgiakYIt9nzYW7TQxUJTvEQrhwLiaia2D7m3mWxdLewW3hStDe0JhuicqwjM5yic3I0/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>想试的朋友，可以先让它处理一个范围很小的任务，例如下面这样。</p>
+<pre class="notranslate"><code class="notranslate">帮我找出最近7天与这次活动有关的邮件，整理时间、地点、需要准备的东西，以及哪些邮件需要我回复。如果需要回复，先起草给我看，不要发送。
+</code></pre>
+<h2>3. 把 Skill 装进去</h2>
+<p>除了帮我上网找东西，我还试了一个跟自己写公众号更直接相关的活，做封面。</p>
+<p>Muse 模型自带生图功能，负责生图的叫 Muse Image。</p>
+<p>我把自己的生图 Skill 丢给 Muse，再把 WorkBuddy 和 ima 那篇文章交给它，让它按文章来设计封面。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8b107047bab944b2477f8b820a3d6bee53b57abeee6346ba38500f9b137992ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447775062774e6662613450416e756864753767475a3346534e6962384370436b766754304673354e37574179673344797632415861424f303930416a6b7170773673654f53776754416255717971627736786c553164474d466d427134726d746239552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/8b107047bab944b2477f8b820a3d6bee53b57abeee6346ba38500f9b137992ab/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f39527866617870456447775062774e6662613450416e756864753767475a3346534e6962384370436b766754304673354e37574179673344797632415861424f303930416a6b7170773673654f53776754416255717971627736786c553164474d466d427134726d746239552f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGwPbwNfba4PAnuhdu7gGZ3FSNib8CpCkvgT0Fs5N7WAyg3Dyv2AXaBO090Ajkqpw6seOSwgTAbUqyqbw6xlU1dGMFmBq4rmtb9U/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>第一版出来，是一摞文件上长出一棵树，旁边放着浇水壶。暖色的桌面、窗边的光。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db93ba43fe4526540d33f2c11bc9d9ea479ac9ac1b00bd92cdeff51b597b9ee5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447786b794d6879666539675833696269613449706a53467361376c634f7964764c42677a3653703754516169625149616c76696250494c696239686268494543586b7167666e594169624837684a39306a62787766636c45796178434d6c623246786541474471452f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/db93ba43fe4526540d33f2c11bc9d9ea479ac9ac1b00bd92cdeff51b597b9ee5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447786b794d6879666539675833696269613449706a53467361376c634f7964764c42677a3653703754516169625149616c76696250494c696239686268494543586b7167666e594169624837684a39306a62787766636c45796178434d6c623246786541474471452f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGxkyMhyfe9gX3ibia4IpjSFsa7lcOydvLBgz6Sp7TQaibQIalvibPILib9hbhIECXkqgfnYAibH7hJ90jbxwfclEyaxCMlb2FxeAGDqE/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>唔，有点丑陋。</p>
+<p>我让它把WorkBuddy、ima的图标加进画面。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4adaf5684a2d2c69c810c5ec35679cafd9a6f2e6fa79983029a5b3c8c0317d6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447794c5449675a51366e36774654664a4244706676325369626d4a556567676a766d4875713137747571767541704d34376a72516b674f4a335578794b484a4c525a363458487267696237354441494744664972446a36776963466c6f6449564b344f51772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/4adaf5684a2d2c69c810c5ec35679cafd9a6f2e6fa79983029a5b3c8c0317d6f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f39527866617870456447794c5449675a51366e36774654664a4244706676325369626d4a556567676a766d4875713137747571767541704d34376a72516b674f4a335578794b484a4c525a363458487267696237354441494744664972446a36776963466c6f6449564b344f51772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGyLTIgZQ6n6wFTfJBDpfv2SibmJUeggjvmHuq17tuqvuApM47jrQkgOJ3UxyKHJLRZ64XHrgib75DAIGDfIrDj6wicFlodIVK4OQw/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>WorkBuddy不知道它去哪找的图，后面还改了一次图标。</p>
+<p>最终这张是这样。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d49a37b2e9b6625a43fdd07fdd9ee5a28ee2559bdcd27c5bb8549f5e12a6655a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477a79536962475a334a59417845536646536f355336644578735352686e50507a326962597a37554d594c5837676f71354a776b61617166304c6963366a4176334c4c62626469626351576f69623838576b59686a4c4d336678796c5750714d727745434875382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/d49a37b2e9b6625a43fdd07fdd9ee5a28ee2559bdcd27c5bb8549f5e12a6655a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f395278666178704564477a79536962475a334a59417845536646536f355336644578735352686e50507a326962597a37554d594c5837676f71354a776b61617166304c6963366a4176334c4c62626469626351576f69623838576b59686a4c4d336678796c5750714d727745434875382f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/9RxfaxpEdGzySibGZ3JYAxESfFSo5S6dExsSRhnPPz2ibYz7UMYLX7goq5Jwkaaqf0Lic6jAv3LLbbdibcQWoib88WkYhjLM3fxylWPqMrwECHu8/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>我觉得质感还是有的。图标、纸片一样的树叶、桌面的光，放在一起挺舒服。</p>
+<h2>4. 有人已经拿 Muse 试着做漫剧了</h2>
+<p>mues也有自己的生视频功能，叫 Muse Video。</p>
+<p>X上已经有网友用它做了校园剧和漫剧视频。</p>
+<p>来看看他用同一套提示词测试 Muse 和 Seedance 的校园骑行画面。</p>
+<p>Seedance这版简直就是周潇齐本齐。</p>
+<p>Muse 版。</p>
+<p>人物的表情、分镜剧本那些看起来还好。但是整体呈现效果，画面有点泛红，失真了。</p>
+<p>再看看漫剧。</p>
+<p>这样一看，对比起国内的seedance2.0还是差距有点大。</p>
+<p>Muse 的视频模型一次就生成约 10 秒，时长不可调。</p>
+<p>想做长视频，只有一段一段生成，再拼接起来。</p>
+<p>而且 muse 模型有系统性缺陷，中文配音非常的拉跨，漫剧一张口就毁了。</p>
+<h2>最后</h2>
+<p>试完 muse，我觉得未来的个人 AI 智能体还是很有潜力的。</p>
+<p>现在的智能体，比如说 Codex、WorkBuddy 调用浏览器功能，会占用我正在操作的桌面，还吃我自己的电脑配置。</p>
+<p>电脑给 AI 用了，我在旁边等，这怎么行。</p>
+<p>应该是我把任务交代完，它在自己的电脑上查资料、操作网页、保存文件。</p>
+<p><strong>需要我登录或者做决定的时候，再来找我。</strong></p>
+<p><strong>其他时间，我也有自己的事情要做。</strong></p>
+<p>而且 Muse 是运行在专属云端虚拟机上的，关闭应用后也能继续任务。谁会拒绝自己拥有一个核动力牛马呢。</p>
+<p>我还发现，Gemini Pro 里也出现了 Spark。我让它在远程浏览器打开 Google，能看到单独的浏览器窗口，以及操作前的确认。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7fa0e33f5bcad99e7da72066a222c89f562b468c887600caa4125b48313ff04a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477867766642464c61376a79775468445a4e464f6963366b69624471757a53774f546c4f6d514747665a6843327030696278643359623467425677377941473052457554477249547152345a35736779696365484130505a474474355a4934786963734e506e302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/7fa0e33f5bcad99e7da72066a222c89f562b468c887600caa4125b48313ff04a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f395278666178704564477867766642464c61376a79775468445a4e464f6963366b69624471757a53774f546c4f6d514747665a6843327030696278643359623467425677377941473052457554477249547152345a35736779696365484130505a474474355a4934786963734e506e302f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/9RxfaxpEdGxgvfBFLa7jywThDZNFOic6kibDquzSwOTlOmQGGfZhC2p0ibxd3Yb4gBVw7yAG0REuTGrITqR4Z5sgyiceHA0PZGDt5ZI4xicsNPn0/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>上周千问的云栖大会，也宣布了要加速打造 Personal Agent。</p>
+<p>我们离每个人都拥有”个人 AI 智能体“已经不远了。</p>
+<p>最后，容我许一个愿。</p>
+<p>我的个人智能体，它最好有自己的满配电脑、顶级对话和推理、生图、生视频、coding能力…</p>
+<p>好了先这么多，有点贪得无厌了。</p>
+<p>如果给你一个有自己电脑的AI，你最想让它干嘛？</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
