@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUggXku9D5TicGeCm9eLnZTnKUjWhFnicH4NqytVyUYy8U81KsyXlVpWRcNSoXxiaLICDHXBXPSq5m8ia7adU0ryiac14yXBnV8OH9cE/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+> ESP32主控，内置Qwen大模型、语音交互  
+
+极趣 Note 4 墨水屏 AI 便利贴基于乐鑫ESP32主控采用4.2英寸黑白色墨水屏，分辨率为400×300像素，机身 97mm 见方，厚 8.75mm，集成了可充电电池、麦克风、扬声器、RTC、NFC、三个用户按键和 USB Type-C 接口。">
+<meta property="og:title" content="259元，开放固件墨水屏 AI 便利贴，内置Qwen大模型，语音创建待办事项，适配Codex、WorkBuddy，显示天气、时间和日期，超长待机3个月">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUggXku9D5TicGeCm9eLnZTnKUjWhFnicH4NqytVyUYy8U81KsyXlVpWRcNSoXxiaLICDHXBXPSq5m8ia7adU0ryiac14yXBnV8OH9cE/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+> ESP32主控，内置Qwen大模型、语音交互  
+
+极趣 Note 4 墨水屏 AI 便利贴基于乐鑫ESP32主控采用4.2英寸黑白色墨水屏，分辨率为400×300像素，机身 97mm 见方，厚 8.75mm，集成了可充电电池、麦克风、扬声器、RTC、NFC、三个用户按键和 USB Type-C 接口。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/259-yuan-%EF%BC%8C-kai-fang-gu-jian-mo-shui-ping-%20AI%20-bian-li-tie-%EF%BC%8C-nei-zhi-Qwen-da-mo-xing-%EF%BC%8C-yu-yin-chuang-jian-dai-ban-shi-xiang-%EF%BC%8C-shi-pei-Codex%E3%80%81WorkBuddy%EF%BC%8C-xian-shi-tian-qi-%E3%80%81-shi-jian-he-ri-qi-%EF%BC%8C-chao-chang-dai-ji-3-ge-yue.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>259元，开放固件墨水屏 AI 便利贴，内置Qwen大模型，语音创建待办事项，适配Codex、WorkBuddy，显示天气、时间和日期，超长待机3个月</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">259元，开放固件墨水屏 AI 便利贴，内置Qwen大模型，语音创建待办事项，适配Codex、WorkBuddy，显示天气、时间和日期，超长待机3个月</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/811" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe04773637fbac4d5de7cc08d9cc767152851fc6a89c5534e1b4c24439143fb3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c556767586b753944355469634765436d39654c6e5a546e4b556a5768466e696348344e7179745679555979385538314b7379586c56705752634e536f587869614c49434448584258505371356d3869613761645530727969616331347958426e56384f483963452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/fe04773637fbac4d5de7cc08d9cc767152851fc6a89c5534e1b4c24439143fb3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c556767586b753944355469634765436d39654c6e5a546e4b556a5768466e696348344e7179745679555979385538314b7379586c56705752634e536f587869614c49434448584258505371356d3869613761645530727969616331347958426e56384f483963452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUggXku9D5TicGeCm9eLnZTnKUjWhFnicH4NqytVyUYy8U81KsyXlVpWRcNSoXxiaLICDHXBXPSq5m8ia7adU0ryiac14yXBnV8OH9cE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<blockquote>
+<p>ESP32主控，内置Qwen大模型、语音交互</p>
+</blockquote>
+<p>极趣 Note 4 墨水屏 AI 便利贴基于乐鑫ESP32主控采用4.2英寸黑白色墨水屏，分辨率为400×300像素，机身 97mm 见方，厚 8.75mm，集成了可充电电池、麦克风、扬声器、RTC、NFC、三个用户按键和 USB Type-C 接口。背面有磁性可以吸附在冰箱上或者放在桌面上。</p>
+<p>极趣 Note 4 可以用来显示本地天气、时间和日期等，右下角有一个 AI 语音按钮，按下就可以语音输入，将文字转化为待办事项或者提醒事项，无需打字。</p>
+<p>|</p>
+<p>项目</p>
+<p>|</p>
+<p>规格</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>产品</p>
+<p>|</p>
+<p>ZECTRIX NOTE4 Developer Kit / NOTE4 Devkit</p>
+<p>|<br>
+|</p>
+<p>PCB 版本</p>
+<p>|</p>
+<p>1.0</p>
+<p>|<br>
+|</p>
+<p>主控</p>
+<p>|</p>
+<p>ESP32-S3 N16R8</p>
+<p>|<br>
+|</p>
+<p>Flash / PSRAM</p>
+<p>|</p>
+<p>16 MB Flash / 8 MB PSRAM</p>
+<p>|<br>
+|</p>
+<p>无线连接</p>
+<p>|</p>
+<p>2.4 GHz Wi-Fi、Bluetooth LE 5.0</p>
+<p>|<br>
+|</p>
+<p>显示屏</p>
+<p>|</p>
+<p>4.2 英寸黑白电子墨水屏</p>
+<p>|<br>
+|</p>
+<p>分辨率</p>
+<p>|</p>
+<p>400 × 300 像素</p>
+<p>|<br>
+|</p>
+<p>显示控制器</p>
+<p>|</p>
+<p>SSD2683</p>
+<p>|<br>
+|</p>
+<p>音频</p>
+<p>|</p>
+<p>ES8311 编解码器、麦克风、扬声器</p>
+<p>|<br>
+|</p>
+<p>RTC</p>
+<p>|</p>
+<p>PCF8563</p>
+<p>|<br>
+|</p>
+<p>NFC</p>
+<p>|</p>
+<p>NT3H2111 / NT3H2211 系列接口</p>
+<p>|<br>
+|</p>
+<p>操作键</p>
+<p>|</p>
+<p>上键、下键 / 电源键、BOOT / 确认键、内凹 RESET</p>
+<p>|<br>
+|</p>
+<p>USB</p>
+<p>|</p>
+<p>USB Type-C 供电、原生 USB 数据、刷写和串口</p>
+<p>|<br>
+|</p>
+<p>电池</p>
+<p>|</p>
+<p>2,000+ mAh 可充电电池</p>
+<p>|<br>
+|</p>
+<p>尺寸</p>
+<p>|</p>
+<p>97 × 97 × 8.75 mm（含磁吸后盖）</p>
+<p>|<br>
+|</p>
+<p>外壳</p>
+<p>|</p>
+<p>ABS</p>
+<p>|</p>
+<p>极趣 Note 4 对外开放底层固件和API接口，可进行二次开发，比如个人助手、A 股行情追踪、Claude、Codex和WorkBuddy 任务状态同步等。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7bb5e115d0068f2e7ff9b25dbf368dfc3ba974f88edaa9afe762744f50997d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55674f6e38577a536f58456a3264366a6962756a415370583165346b4e584f647631586d38666d77476644776b30767949324e7831326c686b6c4b6f5a36713535676961315a75497532536d54376c544657596658707a73646a696357706e43754745354d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/7bb5e115d0068f2e7ff9b25dbf368dfc3ba974f88edaa9afe762744f50997d55/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55674f6e38577a536f58456a3264366a6962756a415370583165346b4e584f647631586d38666d77476644776b30767949324e7831326c686b6c4b6f5a36713535676961315a75497532536d54376c544657596658707a73646a696357706e43754745354d2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUgOn8WzSoXEj2d6jibujASpX1e4kNXOdv1Xm8fmwGfDwk0vyI2Nx12lhklKoZ6q55gia1ZuIu2SmT7lTFWYfXpzsdjicWpnCuGE5M/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>你可以在小程序里选择模板，推送到设备的扩展页。当前可用的方向包括日历、课表、倒数日、行情和自定义信息等；也能把手写便签或手机图片推送到屏幕。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/29e70eca76f0e76651acc96f798fa17950da4ea1c5256cec18e5a3ace1821557/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556a535950506231516b4e395675507a6252737932457a6962356a336a525a386b357a786a7a4942496f5251376e735a3269616a36376f55696267544a767968744d6a4b6152615250504532616c306e785276504844485937375441365a356e794b4839632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/29e70eca76f0e76651acc96f798fa17950da4ea1c5256cec18e5a3ace1821557/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556a535950506231516b4e395675507a6252737932457a6962356a336a525a386b357a786a7a4942496f5251376e735a3269616a36376f55696267544a767968744d6a4b6152615250504532616c306e785276504844485937375441365a356e794b4839632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUjSYPPb1QkN9VuPzbRsy2Ezib5j3jRZ8k5zxjzIBIoRQ7nsZ2iaj67oUibgTJvyhtMjKaRaRPPE2al0nxRvPHDHY77TA6Z5nyKH9c/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>AI 便利贴内置 <strong>番茄钟</strong>，可以设置专注时长、休息时长和轮数，也可以在时钟界面长按语音键，直接说“开一个 30 分钟番茄钟”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b38057dba822a5583704ab07e9157177c3b415a41818fa3e8d8f4e1174c22aa6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c5569616861457a534d414c6668767369637a4e6662514169616676386b50506665744f4946675235464368696356614e32324469614271676a673633554375504c464c534c45505252783269617934484d43776c337457326669625a3945495134637037696268696254672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/b38057dba822a5583704ab07e9157177c3b415a41818fa3e8d8f4e1174c22aa6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c5569616861457a534d414c6668767369637a4e6662514169616676386b50506665744f4946675235464368696356614e32324469614271676a673633554375504c464c534c45505252783269617934484d43776c337457326669625a3945495134637037696268696254672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUiahaEzSMALfhvsiczNfbQAiafv8kPPfetOIFgR5FChicVaN22DiaBqgjg63UCuPLFLSLEPRRx2iay4HMCwl3tW2fibZ9EIQ4cp7ibhibTg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>厨房做饭、会议前提醒、锻炼间歇，则更适合 <strong>倒计时</strong>。它支持分钟级和小时级设置，可以按键进入，也能直接用语音说出时长。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d0490c18ddc763d9d48ff7971f9a5c517d1acc76fa94b61fb64bd4e3ef213e72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55676759386b4443313671345a476869615959424345546e76563765724c566e7266685769614b493935677071344f526a6d72595363674578514843696362433168564e38784a424c50355072496b334a576a62535a7a6a4e5151596f4337696368385443772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/d0490c18ddc763d9d48ff7971f9a5c517d1acc76fa94b61fb64bd4e3ef213e72/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55676759386b4443313671345a476869615959424345546e76563765724c566e7266685769614b493935677071344f526a6d72595363674578514843696362433168564e38784a424c50355072496b334a576a62535a7a6a4e5151596f4337696368385443772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUggY8kDC16q4ZGhiaYYBCETnvV7erLVnrfhWiaKI95gpq4ORjmrYScgExQHCicbC1hVN8xJBLP5PrIk3JWjbSZzjNQQYoC7ich8TCw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>长按语音键，切到 AI 对话页面， AI 便利贴还可以成为一个 <strong>AI 聊天助手</strong>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f0cdc7301330bc469a19e0d4a417b9b8114e3cbb89c3188436f1a57cba777291/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c5567594835617a4e75494e6c6a6f6673654b494d58727337664f75636c64696369636961736858656548724b69625470456a344d306f495366624869615a614269617a6c354371336869616a763936696276454844586962327861354c6963336867786465677236556d71672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/f0cdc7301330bc469a19e0d4a417b9b8114e3cbb89c3188436f1a57cba777291/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c5567594835617a4e75494e6c6a6f6673654b494d58727337664f75636c64696369636961736858656548724b69625470456a344d306f495366624869615a614269617a6c354371336869616a763936696276454844586962327861354c6963336867786465677236556d71672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUgYH5azNuINljofseKIMXrs7fOucldiciciashXeeHrKibTpEj4M0oISfbHiaZaBiazl5Cq3hiajv96ibvEHDXib2xa5Lic3hgxdegr6Umqg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>AI 便利贴还支持 <strong>OTA 远程升级和可调整的设备设置</strong>。新功能和体验改进可以通过版本更新送到设备；同步周期、页面轮播和音量等，也可以按自己的使用习惯调整。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0a365ad3de007a49185c7c60f52c5e9a2348240b4f2c0a6a934467f9813e1366/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556a306f54484e497a73444362743869615a49345230625955677679546963536e70487633426d4c576963416731684448736e37354b72396a56636b326f6865443253554574736e433269636c7675366f6856374e756d69623275516f4737434e6750586445302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/0a365ad3de007a49185c7c60f52c5e9a2348240b4f2c0a6a934467f9813e1366/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556a306f54484e497a73444362743869615a49345230625955677679546963536e70487633426d4c576963416731684448736e37354b72396a56636b326f6865443253554574736e433269636c7675366f6856374e756d69623275516f4737434e6750586445302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUj0oTHNIzsDCbt8iaZI4R0bYUgvyTicSnpHv3BmLWicAg1hDHsn75Kr9jVck2oheD2SUEtsnC2iclvu6ohV7Numib2uQoG7CNgPXdE0/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>小程序还承担了设备添加、待办管理、模板选择和图片推送等操作。推送后，设备会在下一次同步时更新；它不是一块始终在线刷新的 LCD 屏，同步周期越短，耗电也会更高。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/de11209bd91907cde89430f618a8a40606580dfc5d73c115ae411b924cd27bc8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556865627541385268625830324546384d663659676d4738354e5a6a455835684b6f47317a496138614a68596f7934304337687647635a5547416f7464717762545a53543638334a4b66424f463266736d77446e4b3677316b3276485263424242552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/de11209bd91907cde89430f618a8a40606580dfc5d73c115ae411b924cd27bc8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c556865627541385268625830324546384d663659676d4738354e5a6a455835684b6f47317a496138614a68596f7934304337687647635a5547416f7464717762545a53543638334a4b66424f463266736d77446e4b3677316b3276485263424242552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUhebuA8RhbX02EF8Mf6YgmG85NZjEX5hKoG1zIa8aJhYoy40C7hvGcZUGAotdqwbTZST683JKfBOF2fsmwDnK6w1k2vHRcBBBU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<h2>原理图</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd198e398cecca2570b9e14a156f4e113f47c326dc963d2edd2ff7213051b911/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55673451616648574f5a434167564c6656326e664569613158764d68597931514f7750424578704f497a76367a57464568546471476763434c38655669634b5635627430377532696156614b7453646962475978776a64723743546b696169626675314f776735552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/cd198e398cecca2570b9e14a156f4e113f47c326dc963d2edd2ff7213051b911/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55673451616648574f5a434167564c6656326e664569613158764d68597931514f7750424578704f497a76367a57464568546471476763434c38655669634b5635627430377532696156614b7453646962475978776a64723743546b696169626675314f776735552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUg4QafHWOZCAgVLfV2nfEia1XvMhYy1QOwPBExpOIzv6zWFEhTdqGgcCL8eVicKV5bt07u2iaVaKtSdibGYxwjdr7CTkiaibfu1Owg5U/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<h2>网络连接</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2812eb80563def6830ca68705a175d1b476efdc971feade8548eb5030e1e1d2f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c556a6c4f6433737832343671696174446a5069616e4d71454d324d5273584d5975343177444542643450674847744f316e63696349426c42574774304b775a734e394968797058783934454d51736963377136563579576a525751377873354e6a4669617a5a492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/2812eb80563def6830ca68705a175d1b476efdc971feade8548eb5030e1e1d2f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f305645396b447869634c556a6c4f6433737832343671696174446a5069616e4d71454d324d5273584d5975343177444542643450674847744f316e63696349426c42574774304b775a734e394968797058783934454d51736963377136563579576a525751377873354e6a4669617a5a492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/0VE9kDxicLUjlOd3sx246qiatDjPianMqEM2MRsXMYu41wDEBd4PgHGtO1ncicIBlBWGt0KwZsN9IhypXx94EMQsic7q6V5yWjRWQ7xs5NjFiazZI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>当你进行语音识别、 AI 对话、天气和云端内容同步需要连接 2.4GHz 频段Wi-Fi 网络；日常待机保持断网，增加续航，墨水屏仍会保留上次同步的画面，本地时钟和定时提醒仍可继续使用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/750164a88202d99b44e460a4f6869e39a9834d9fa8df2ad01a5d2c7e39759503/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55696169616e78527054484f4a3369636c35797262546558664a353054596b334d77326a514c566963747764784c457a4b764e7a6b3556564b344d7a4d3362496f46756c527434696355717778696169617a6c454b31394c6d777a63616c6f376d6d504e7634776e772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/750164a88202d99b44e460a4f6869e39a9834d9fa8df2ad01a5d2c7e39759503/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f305645396b447869634c55696169616e78527054484f4a3369636c35797262546558664a353054596b334d77326a514c566963747764784c457a4b764e7a6b3556564b344d7a4d3362496f46756c527434696355717778696169617a6c454b31394c6d777a63616c6f376d6d504e7634776e772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/0VE9kDxicLUiaianxRpTHOJ3icl5yrbTeXfJ50TYk3Mw2jQLVictwdxLEzKvNzk5VVK4MzM3bIoFulRt4icUqwxiaiazlEK19Lmwzcalo7mmPNv4wnw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>极趣 Note 4 墨水屏开放 Demo 仓库Github：itopinion/zectrix-note4-epd-demo ，包含独立 ESP-IDF 5.4 参考工程，不依赖 NOTE4 商业固件或 LVGL。公开 components/zectrix_epd 墨水屏驱动、NOTE4 板级适配层、演示 UI、硬件自检、素材转换工具和集成文档。支持 400 × 300 的 1bpp 全刷、1bpp 局刷和 4bpp / 16 灰阶全刷，并包含音频、Wi-Fi、RTC、充电、电池、LED、按键与 NFC 自检示例。</p>
+<hr>
+<p>点个关注 <strong>🌟，精彩不迷路 ❤️</strong></p>
+<p><strong>往期推荐</strong></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454946282&amp;idx=1&amp;sn=ad676c8d5c0785c5915e5c96ba318d82&amp;scene=21#wechat_redirect" rel="nofollow">小赚3万元！全靠这套开源AIoT 企业物联网平台</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454941969&amp;idx=1&amp;sn=bd91e2bdae181e82774c394c0e709f4b&amp;scene=21#wechat_redirect" rel="nofollow">开箱即用！国产开源30+AI视觉算法IoT智能物联网云平台</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454941531&amp;idx=1&amp;sn=dce5163565601e80d153821745715745&amp;scene=21#wechat_redirect" rel="nofollow">国产开源Web 工业IoT组态软件，支持Modbus、OPC，支持拖拉拽</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454940216&amp;idx=1&amp;sn=316b42125f746e16289fe04031496b10&amp;scene=21#wechat_redirect" rel="nofollow">源码交付，7天完成国产信创部署智慧工地方案</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454945550&amp;idx=1&amp;sn=403e8d5bad8c53ff1b7514a5e1146255&amp;scene=21#wechat_redirect" rel="nofollow">5万元斩杀线！ 一网统飞无人机AI巡检平台</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454932745&amp;idx=1&amp;sn=532fc401409718148a07b35002c40b98&amp;scene=21#wechat_redirect" rel="nofollow">上班摸鱼， 树莓派DIY智能 AI 视频算法监控老板行踪</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454944463&amp;idx=1&amp;sn=879157ebcc69d371ad87aa3816db7bc7&amp;scene=21#wechat_redirect" rel="nofollow">免费开源，千知AI知识图谱平台，支持DeepSeek、Qwen</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454944340&amp;idx=1&amp;sn=0bd578639500191483b4c76cc9083052&amp;scene=21#wechat_redirect" rel="nofollow">信创部署，源码交付！县域低空经济无人机 AI 巡检平台</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454944207&amp;idx=1&amp;sn=27aba015734707013b311674825c37cc&amp;scene=21#wechat_redirect" rel="nofollow">智慧农业大爆发：AI+物联网+区块链重构“天空地”一体化监测</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454946211&amp;idx=1&amp;sn=0072cf454ac83d98adb64c5767e58901&amp;scene=21#wechat_redirect" rel="nofollow">一站式AIoT视频聚合平台，适配国标28181和国密35114协议</a></p>
+<p>☞<a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&amp;mid=2454946024&amp;idx=1&amp;sn=6b7d30937351bcce27a0d930c5727726&amp;scene=21#wechat_redirect" rel="nofollow">“空中奇兵”无人机多光谱罂粟巡查平台，识别出苗期、花期、果期</a></p>
+<p><strong>免责声明：</strong> 本公众号所发布的内容来源于互联网，我们会尊重并维护原作者的权益。由于信息来源众多，若文章内容出现版权问题，或文中使用的图片、资料、下载链接等，如涉及侵权，请及时告知，我们将尽快处理。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
