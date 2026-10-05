@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="一个 KOReader 插件 + 一个纯标准库 Python 桥，让 Kindle 常驻显示 WorkBuddy 的积分与任务进度。">
+<meta property="og:title" content="我把吃灰的 Kindle 改造成了 Workbuddy的墨水屏看板">
+<meta property="og:description" content="一个 KOReader 插件 + 一个纯标准库 Python 桥，让 Kindle 常驻显示 WorkBuddy 的积分与任务进度。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/wo-ba-chi-hui-de-%20Kindle%20-gai-zao-cheng-le-%20Workbuddy-de-mo-shui-ping-kan-ban.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>我把吃灰的 Kindle 改造成了 Workbuddy的墨水屏看板</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">我把吃灰的 Kindle 改造成了 Workbuddy的墨水屏看板</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/810" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>一个 KOReader 插件 + 一个纯标准库 Python 桥，让 Kindle 常驻显示 WorkBuddy 的积分与任务进度。附完整开源地址与部署步骤。</p>
+<hr>
+<p>家里的 Kindle 是不是吃灰很久了？</p>
+<p>我把它改成了WorkBuddy 的墨水屏常驻看板：积分还剩多少、哪些任务在跑、哪笔积分快到期，抬眼一看就知道——不点亮手机、不打开电脑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6ac0f3e4b50d943fa6a3c8b2a143b6b5aec00a638776744c26662799bd43d710/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6672696373364667584f35657339714379493135756d655275766761544e676e456235686269617369614a3569634f52435469623353627a346b6c574154594b6e6565314d48317930736a6e4769636963545a37626f56664b596b445349346b35764768696352374b4c6a5849595336424c632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/6ac0f3e4b50d943fa6a3c8b2a143b6b5aec00a638776744c26662799bd43d710/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6672696373364667584f35657339714379493135756d655275766761544e676e456235686269617369614a3569634f52435469623353627a346b6c574154594b6e6565314d48317930736a6e4769636963545a37626f56664b596b445349346b35764768696352374b4c6a5849595336424c632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/frics6FgXO5es9qCyI15umeRuvgaTNgnEb5hbiasiaJ5icORCTib3Sbz4klWATYKnee1MH1y0sjnGicicTZ7boVfKYkDSI4k5vGhicR7KLjXIYS6BLc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>整条链路只有两个角色：</p>
+<h2>电脑端桥</h2>
+<p>（wb-bridge.py）：只用 Python 标准库的 HTTP 服务，监听 0.0.0.0:8765。它聚合 WorkBuddy 的积分与任务数据，用 Pillow 渲染成一张 8 位灰度 PNG（对墨水屏友好）。</p>
+<h2>Kindle 端插件</h2>
+<p>（workbuddy_monitor.koplugin）：装在 KOReader 里，每 3 分钟从桥拉一次图，常驻显示。渲染全部在 PC 端完成，Kindle 只负责取图和显示，几乎零负担。</p>
+<h2>常驻看板</h2>
+<p>不锁屏、常显最新状态，每 3 分钟自动刷新，时间戳同步更新。</p>
+<h2>双配色</h2>
+<p>黑底白字 / 白底黑字两套，均为墨水屏安全灰度。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6dc6bb49cc1c2d143089aa6ea95eeb3e68ff6946f81fd259586d9c2631d59c83/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6672696373364667584f35646e655a7241304a69634e54625469626b69634b6963776a674b586b67366a763737756b5a3449336869627a51416961464539415969637254644c78464e576678577169625669614635594b69616962653771664d3435746777515674394933656962685366583158453874592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/6dc6bb49cc1c2d143089aa6ea95eeb3e68ff6946f81fd259586d9c2631d59c83/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6672696373364667584f35646e655a7241304a69634e54625469626b69634b6963776a674b586b67366a763737756b5a3449336869627a51416961464539415969637254644c78464e576678577169625669614635594b69616962653771664d3435746777515674394933656962685366583158453874592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/frics6FgXO5dneZrA0JicNTbTibkicKicwjgKXkg6jv77ukZ4I3hibzQAiaFE9AYicrTdLxFNWfxWqibViaF5YKiaibe7qfM45tgwQVt9I3eibhSfX1XE8tY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<h2>三个可绑手势</h2>
+<p>开看板 / 设锁屏壁纸 / 退出，在 KOReader 手势里自由绑定。</p>
+<h2>锁屏封面</h2>
+<p>看板每次刷新都会把最新一张复制进 wb_ss/ 文件夹，锁屏随之更新。</p>
+<h2>断网兜底</h2>
+<p>桥抓不到实时数据时回退静态 credits.json / tasks.json，屏上永不空白。</p>
+<h2>防休眠干扰</h2>
+<p>常驻期间暂停 Kindle 自动待机，避免"点不动"。</p>
+<h2>电脑端</h2>
+<p>python wb-bridge.py，监听 8765。Windows 下配套的开机自启（Startup + 计划任务看门狗，每 5 分钟自愈）脚本也在仓库里。</p>
+<h2>Kindle 端</h2>
+<p>USB 连接电脑，运行 python deploy_to_kindle.py，自动部署插件并逐字节校验。</p>
+<h2>配置</h2>
+<p>插件 config.txt 第一行填电脑的桥地址（如 <a href="http://192.168.1.20:8765%EF%BC%89%EF%BC%8C%E6%8F%92%E4%BB%B6%E8%8F%9C%E5%8D%95%E5%86%85%E4%B9%9F%E5%8F%AF%E5%A1%AB%E5%86%99%EF%BC%8C%E9%87%8D%E5%90%AF" rel="nofollow">http://192.168.1.20:8765），插件菜单内也可填写，重启</a> KOReader 即可。</p>
+<h2>开机自启的说明</h2>
+<p>电脑端桥不是登录前的系统级服务：用的是交互登录令牌，即用户登录后桥才会起来（≤5 分钟），之后由看门狗兜底常驻、崩溃自愈。对个人电脑来说够用；若要"开机即启（含锁屏前）"，把计划任务改成 SYSTEM 账户 + 启动触发器即可。</p>
+<h2>开源地址</h2>
+<p>完整代码已开源：</p>
+<p><a href="https://github.com/RC-APC/workbuddy%5C_monitor.koplugin">https://github.com/RC-APC/workbuddy\_monitor.koplugin</a></p>
+<p>含 README（安装/配置/手势/锁屏/常见问题），欢迎 Star 与 PR。</p>
+<hr>
+<p>如果你也有一台吃灰的 Kindle，欢迎试着把它利用起来。</p>
+<p>点击左下角阅读原文，有问题欢迎留言交流。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
