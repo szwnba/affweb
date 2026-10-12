@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+上个月，团队里一个做了4年UI自动化的同事找我吐槽。">
+<meta property="og:title" content="Agent Skills + Playwright：打造会自己写 UI 自动化脚本的智能体">
+<meta property="og:description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+上个月，团队里一个做了4年UI自动化的同事找我吐槽。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Agent%20Skills%20%2B%20Playwright%EF%BC%9A-da-zao-hui-zi-ji-xie-%20UI%20-zi-dong-hua-jiao-ben-de-zhi-neng-ti.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Agent Skills + Playwright：打造会自己写 UI 自动化脚本的智能体</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Agent Skills + Playwright：打造会自己写 UI 自动化脚本的智能体</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/815" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>关注 霍格沃兹软件测试开发 公众号，回复「<strong>资料</strong>」, 领取人工智能测试开发技术合集</p>
+</blockquote>
+<p>上个月，团队里一个做了4年UI自动化的同事找我吐槽。他维护着800多条Playwright用例，那天早上打开报告一看——237条失败了。原因很简单：开发推了一次“不影响功能”的提交，把一批按钮的<code class="notranslate">data-testid</code>统一了命名规范。</p>
+<p>他改定位器改到凌晨，第二天跟我说了一句话：“脚本写了这么多，为什么还是这么脆弱？”</p>
+<p>我说：“因为你的定位规范、等待策略、踩过的坑，全部锁死在硬编码的代码里。AI读不懂，你也改不动。”</p>
+<p>他问：“那怎么办？”</p>
+<p>我说：“把那些规范抽出来，写成Agent能读懂的东西。让Agent带着规范去写脚本，而不是从零开始猜。”</p>
+<h2>一、先搞清楚：为什么AI写UI脚本总是“翻车”？</h2>
+<p>很多人第一次用AI生成Playwright脚本，会踩同一个坑：<strong>AI在猜页面。</strong></p>
+<p>你给它一段自然语言描述——“打开登录页，输入账号密码，点击登录，验证跳转到首页”——它会自信地写出一串<code class="notranslate">page.click('button.login-btn')</code>。跑起来大概率报错，因为页面上根本没有<code class="notranslate">login-btn</code>这个类名。</p>
+<p>AI写的UI自动化，最危险的不是语法错误，是**“想当然”** 。它会编出不存在的选择器，会误判页面加载顺序，会用<code class="notranslate">waitForTimeout</code>硬等。这些错误在代码评审时看不出来，在CI上跑起来才暴露。</p>
+<p><strong>根本原因只有一个：AI没有先“看”页面，就开始“写”操作了。</strong></p>
+<h2>二、核心思路：让Agent先侦察，再执行</h2>
+<p>Anthropic官方的<code class="notranslate">webapp-testing</code> Skill里，有一个设计叫 <strong>Reconnaissance-Then-Action</strong>。翻译成人话就是：<strong>别着急点，先看看页面到底长什么样。</strong></p>
+<p>传统UI自动化是：测试工程师理解页面→找元素→设计步骤→写Playwright→机器执行。</p>
+<p>Agent+Skill的方式是：<strong>测试工程师定义目标→Agent理解页面→Agent找元素→Agent决定操作→Playwright执行→Agent判断结果。</strong></p>
+<p>人的职责从“把每一步写出来”，转向“告诉Agent我要验证什么”。这个变化，比生成几行Playwright代码重要得多。</p>
+<h2>人工智能技术学习交流群</h2>
+<p>伙伴们，对AI测试、大模型评测、质量保障感兴趣吗？我们建了一个 <strong>「人工智能测试开发交流群」</strong>，专门用来探讨相关技术、分享资料、互通有无。无论你是正在实践还是好奇探索，都欢迎扫码加入，一起抱团成长！期待与你交流！👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb2332d0d67435f3b4da035dc746d7f549926e23f2e7a55124c7531e577e583a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f7738674d67696348703665647151466e6b33396270766e776b6e73527579674d59436b4f744e6170696134505553784d4e4b665569616b414f6963676e627a4f5a6b596870504c4e5755356a5936754248785677504a6361735372564d506749597773734e54637243496a61654c592f3634303f77785f666d743d6769662666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d33"><img src="https://camo.githubusercontent.com/cb2332d0d67435f3b4da035dc746d7f549926e23f2e7a55124c7531e577e583a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f7738674d67696348703665647151466e6b33396270766e776b6e73527579674d59436b4f744e6170696134505553784d4e4b665569616b414f6963676e627a4f5a6b596870504c4e5755356a5936754248785677504a6361735372564d506749597773734e54637243496a61654c592f3634303f77785f666d743d6769662666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/w8gMgicHp6edqQFnk39bpvnwknsRuygMYCkOtNapia4PUSxMNKfUiakAOicgnbzOZkYhpPLNWU5jY6uBHxVwPJcasSrVMPgIYwssNTcrCIjaeLY/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=3" style="max-width: 100%;"></a></p>
+<h2>三、手把手：搭一个“会自己写脚本”的UI测试Skill</h2>
+<h3>第一步：搭目录结构</h3>
+<pre class="notranslate"><code class="notranslate">.claude/skills/ui-test-skill/├── SKILL.md              ← 核心指令├── references/│   ├── locator-rules.md   ← 定位器规范│   └── waiting-rules.md   ← 等待策略规范└── scripts/    └── snapshot.py        ← 页面快照工具
+</code></pre>
+<h3>第二步：写SKILL.md的头信息</h3>
+<pre class="notranslate"><code class="notranslate">---name: ui-test-skilldescription: 基于Playwright的UI自动化测试技能。当用户需要新增UI测试用例、修复定位器失效、调试页面交互时触发。关键词：UI自动化、Playwright、元素定位、定位失效、脚本报错。when_to_use: 用户需要为Web应用生成或维护Playwright UI自动化测试时使用。allowed-tools: Bash, Read, Write, Edit---
+</code></pre>
+<h3>第三步：写SKILL.md的正文——这是核心</h3>
+<p>正文最关键的设计是<strong>元素定位规范</strong>和<strong>先侦察再执行的流程</strong>。</p>
+<p>腾讯云社区一篇讲“自愈性Skill”的文章里，给了很清晰的定位优先级设计。我把这套规范直接写进了SKILL.md：</p>
+<pre class="notranslate"><code class="notranslate">## 元素定位规范（严格按优先级执行）1. `getByRole` — 首选。基于无障碍角色，UI重构不影响，匹配用户意图2. `getByLabel` — 次选。表单字段的标签，相对稳定3. `getByText` — 可见文本内容，仅用于文本本身是业务语义的场景4. `getByTestId` — 语义定位不够用时的兜底5. ❌ 禁用 XPath — 与DOM结构深度耦合，结构变更必崩6. ❌ 禁用 CSS class — 与样式系统耦合，UI重构时第一个失效原因：我们在2024年经历两次UI大版本重构，每次XPath和CSS class定位器的失效率超过60%，而语义定位器的失效率接近0。
+</code></pre>
+<p>然后是<strong>执行流程</strong>：</p>
+<pre class="notranslate"><code class="notranslate">## 执行流程### 步骤1：侦察页面（必须执行，不可跳过）在编写任何操作代码之前，先运行：python scripts/snapshot.py &lt;目标URL&gt;脚本会输出当前页面的可交互元素列表，包含每个元素的 role、name、以及推荐的定位器。### 步骤2：基于快照编写操作根据快照中实际存在的元素，选择定位策略。禁止凭经验猜测选择器。### 步骤3：执行与验证运行脚本。如果失败：- 重新 snapshot，检查元素是否存在- 如果元素存在但定位失败，切换下一优先级定位策略- 如果元素不存在，报告页面结构可能已变化### 步骤4：输出证据每次执行后，截图保存到 screenshots/ 目录，并将 Console 日志和 Network 请求写入日志文件。
+</code></pre>
+<p><strong>这个流程的核心是步骤1。</strong>  它强制Agent在写任何操作之前，先“看”一眼页面。这一步看起来多余，但它把AI从“猜页面”变成了“看页面”，失败率断崖式下降。</p>
+<h3>第四步：用references放定位和等待规范</h3>
+<p><code class="notranslate">references/locator-rules.md</code>里放详细的定位策略说明和示例。</p>
+<p><code class="notranslate">references/waiting-rules.md</code>里放等待策略规范：</p>
+<pre class="notranslate"><code class="notranslate">## 等待策略1. 优先使用 Playwright 的自动等待（actionability checks）2. 需要显式等待时，用 web-first assertions：   await expect(page.getByRole('button', { name: '提交' })).toBeVisible()3. 等待网络请求完成：page.waitForLoadState('networkidle')4. ❌ 禁用 waitForTimeout — 硬编码等待是Flaky Test的最大来源## 四、一个真实的“自愈”场景Skill写好了，Agent怎么“自己修”脚本？假设页面上有一个“提交订单”按钮，原来的定位器是`getByTestId('submit-order')`。开发改版后，`data-testid`变了，脚本报错`element not found`。**没有Skill的Agent**：重新生成一段脚本，可能换了一个同样不稳定的CSS selector，或者编一个不存在的`getByText('提交订单')`——但如果页面上按钮文案是“确认下单”，就再次失败。**有Skill的Agent**：1. 先运行`snapshot.py`，获取当前页面的可交互元素列表2. 在快照中找到“提交订单”对应的元素，发现它的`role=button`，`name=“确认下单”`3. 参照Skill里的定位优先级，`getByRole`是第一优先级4. 把定位器改为`page.getByRole('button', { name: '确认下单' })`5. 重新执行，通过**这就是“自愈”的本质——不是脚本自己会修，是Agent带着规范重新生成，而不是从零猜。**## 五、进阶：用社区现成的Skill起步如果你不想从零写，社区已经有大量现成的Playwright Skill可以直接用。微软官方的`@playwright/cli`提供了Skill安装命令：```bashplaywright-cli install --skills
+</code></pre>
+<p>这会把Playwright Skill注册到Claude Code的Skill目录，Agent下次启动就能自动发现。</p>
+<p><code class="notranslate">tektite-io/playwright-skill</code>是一个通用型的Playwright自动化Skill，支持Agent自主编写和执行Playwright脚本，从简单页面测试到复杂多步流程都能覆盖。安装方式：</p>
+<pre class="notranslate"><code class="notranslate">npx skills add lackeyjb/playwright-skill --skill playwright-skill --global --yes
+</code></pre>
+<p><code class="notranslate">wico-playwright-agent-skills</code>提供了一条命令脚手架，把<code class="notranslate">playwright-e2e</code> Skill直接注入项目，同时支持Claude Code、Cursor、GitHub Copilot。</p>
+<p><strong>关键原则：先装社区Skill跑通流程，再根据自己的业务规范定制。</strong></p>
+<h2>六、避坑指南</h2>
+<p><strong>坑一：让Agent直接写脚本，不先侦察页面。</strong>  这是最大的坑。AI会自信地编出不存在的选择器。SKILL.md里必须强制要求“先snapshot，再操作”。</p>
+<p><strong>坑二：SKILL.md写成Playwright API手册。</strong>  不要教Agent <code class="notranslate">page.click()</code>怎么用，它本来就会。你要教的是<strong>你的项目里该用哪些定位器、该避免什么、失败了怎么处理</strong>。这些是AI不知道的。</p>
+<p><strong>坑三：忽略定位规范。</strong>  如果不告诉Agent“禁用XPath”，它一定会用。把定位优先级写进Skill，是脚本稳定性的第一道防线。</p>
+<p><strong>坑四：把自愈当万能药。</strong>  自愈有一个崩溃不具备的失败模式——它可以把一个真实的回归变成一个通过的测试。如果定位器“修”到了一个语义完全不同的元素上，测试会通过，但Bug被掩盖了。自愈操作必须记录完整日志，人工定期审查。</p>
+<p><strong>坑五：执行层交给模型随便控制。</strong>  AI应该出现在拆解层、分析层和自愈逻辑中，但执行层要保持确定性。浏览器操作是高风险动作，不能每一步都由模型来控制。Agent决定“做什么”，Playwright负责“怎么做”。</p>
+<h2>最后</h2>
+<p><strong>传统UI自动化的核心是“写脚本”。Agent时代UI自动化的核心是“定义规范”。</strong></p>
+<p>你把定位优先级、等待策略、失败处理规则写进Skill，Agent每次写脚本都会参照这份规范。它不会用XPath，因为它知道XPath必崩。它会优先用<code class="notranslate">getByRole</code>，因为它知道这是最稳定的定位方式。</p>
+<p><strong>你不需要再手写第N版Playwright脚本了。你只需要把规范固化下来，让Agent照着写。</strong></p>
+<p>下次你面对一个UI频繁改版的项目，别打开编辑器了。先花30分钟写一个UI测试Skill，把定位规范和执行流程写清楚。</p>
+<p><strong>30分钟的投入，换的是未来每一次UI改版时，脚本不再集体崩溃。</strong></p>
+<h2><strong>推荐学习</strong></h2>
+<p>测试智能体评估与自我进化公开课，将系统讲解软件测试智能体技能体系、用例生成智能体技能、测试自动化智能体技能，以及智能体技能的评估方法、智能体评测工具与框架。同时，还将深入剖析反思机制与智能体技能自我进化，帮助你理解如何评估、反思并持续提升测试智能体。</p>
+<p>欢迎扫码进群，参加本次公开课，一起探索会反思、能进化的测试智能体。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e94382c83d292890c041e888f0fee3541dc6fa5a5b90775f4f9335b0976cea72/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665655741376859756573746877344e36323036313678305163325a664171554c6a31334553627a433245476d74707265496b414361396d775955363137577a74715057553779314b6d4d3838675a654362385235794e69627577667346637a316167412f3634303f77785f666d743d706e672666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/e94382c83d292890c041e888f0fee3541dc6fa5a5b90775f4f9335b0976cea72/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665655741376859756573746877344e36323036313678305163325a664171554c6a31334553627a433245476d74707265496b414361396d775955363137577a74715057553779314b6d4d3838675a654362385235794e69627577667346637a316167412f3634303f77785f666d743d706e672666726f6d3d6170706d73672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/w8gMgicHp6eeWA7hYuesthw4N620616x0Qc2ZfAqULj13ESbzC2EGmtpreIkACa9mwYU617WztqPWU7y1KmM88gZeCb8R5yNibuwfsFcz1agA/640?wx_fmt=png&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<h3>关于我们</h3>
+<p>霍格沃兹测试开发学社，隶属于 <strong>测吧（北京）科技有限公司</strong>，是一个面向软件测试爱好者的技术交流社区。</p>
+<p>学社围绕现代软件测试工程体系展开，内容涵盖软件测试入门、自动化测试、性能测试、接口测试、测试开发、全栈测试，以及<strong>人工智能测试与 AI 在测试工程中的应用实践</strong>。</p>
+<p>我们关注测试工程能力的系统化建设，包括 Python 自动化测试、Java 自动化测试、Web 与 App 自动化、持续集成与质量体系建设，同时探索 AI 驱动的测试设计、用例生成、自动化执行与质量分析方法，沉淀可复用、可落地的测试开发工程经验。</p>
+<p>在技术社区与工程实践之外，学社还参与测试工程人才培养体系建设，面向高校提供<strong>测试实训平台</strong>与实践支持，组织开展 <strong>“火焰杯” 软件测试相关技术赛事</strong>，并探索以能力为导向的人才培养模式，包括高校学员<strong>先学习、就业后付款</strong>的实践路径。</p>
+<p>同时，学社结合真实行业需求，为在职测试工程师与高潜学员提供<strong>名企大厂 1v1 私教服务</strong>，用于个性化能力提升与工程实践指导。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
