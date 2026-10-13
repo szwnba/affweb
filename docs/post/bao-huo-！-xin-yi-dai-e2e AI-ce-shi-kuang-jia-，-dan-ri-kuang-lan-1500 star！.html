@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="最近我在 GitHub 上翻到一个项目：`e2e`，挺实用的，分享给大家。">
+<meta property="og:title" content="爆火！新一代e2e AI测试框架，单日狂揽1500 star！">
+<meta property="og:description" content="最近我在 GitHub 上翻到一个项目：`e2e`，挺实用的，分享给大家。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/bao-huo-%EF%BC%81-xin-yi-dai-e2e%20AI-ce-shi-kuang-jia-%EF%BC%8C-dan-ri-kuang-lan-1500%20star%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>爆火！新一代e2e AI测试框架，单日狂揽1500 star！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">爆火！新一代e2e AI测试框架，单日狂揽1500 star！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/816" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>最近我在 GitHub 上翻到一个项目：<code class="notranslate">e2e</code>，挺实用的，分享给大家。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9040304bacbb87ca4604c8bc330663c75f8fca7629a215df86464637651d54ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651616e66773652364f386963626c34586c5833485a67696161516f746d345445696168696338576b6962635569614572696364434b77765852426f4e69616269623049453637597573484d615758354273337a69615067525862754379784f737362486f3037726f4441452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/9040304bacbb87ca4604c8bc330663c75f8fca7629a215df86464637651d54ca/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651616e66773652364f386963626c34586c5833485a67696161516f746d345445696168696338576b6962635569614572696364434b77765852426f4e69616269623049453637597573484d615758354273337a69615067525862754379784f737362486f3037726f4441452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvQanfw6R6O8icbl4XlX3HZgiaaQotm4TEiahic8WkibcUiaEricdCKwvXRBoNiabib0IE67YusHMaWX5Bs3ziaPgRXbuCyxOssbHo07roDAE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>这项目今年 7 月 22 号才建仓，到我写稿这天刚满两个半月，star 已经冲过 9000。</p>
+<p>10 月第一周它直接起飞，我去翻了 Wayback Machine 的存档快照，10 月 1 号晚上它还只有 549 个 star，10 月 4 号晚上 2942，10 月 6 号早上 5123，10 月 7 号早上 6790。掐着快照时间算，10 月 4 号到 6 号这 33 个小时里涨了 2181 个 star，折算单日 1500 往上，一路把它顶上 GitHub Trending 第一。</p>
+<p>这个项目，记住几个关键信息就行：</p>
+<ul>
+<li>
+<p>• 项目：<code class="notranslate">e2e</code>，TesterArmy 团队开源的新一代端到端测试框架，覆盖 Web 和移动端</p>
+</li>
+<li>
+<p>• 技术栈：TypeScript，Apache-2.0 协议，npm 包名就叫 <code class="notranslate">e2e</code></p>
+</li>
+<li>
+<p>• 热度：9000+ star，npm 上周下载 23.8 万</p>
+</li>
+<li>
+<p>• 迭代：不到三个月发到 0.19.0，最新版 10 月 9 号刚出</p>
+</li>
+<li>
+<p>• 地址：github.com/tester-army/e2e</p>
+</li>
+</ul>
+<p>它干的事很简单，一句话概括：<strong>你用自然语言描述一个测试目标，AI Agent 驱动应用把这个目标跑完，再用传统的定位器和断言校验结果。</strong></p>
+<p>直接看官方示例，一段代码就看明白。</p>
+<p>`// tests/checkout.e2e.ts<br>
+import { test, expect } from 'e2e';</p>
+<p>test('a member upgrades to Pro', async ({ app, agent, screen }) =&gt; {<br>
+  await app.open('/settings/billing');</p>
+<p>  await agent.act('upgrade the workspace to the Pro plan');<br>
+  await agent.assert('the invoice preview shows a prorated amount');</p>
+<p>  await expect(screen.getByRole('status')).toContainText('Pro');<br>
+});`</p>
+<p>AI Agent 自己看页面、找按钮、把整个升级流程走完。走完之后，最后一行还是传统断言，比如用<code class="notranslate">getByRole('status')</code> 验证是否含有 Pro 字样。</p>
+<p>一条测试里，AI 干 AI 的，断言干断言的。</p>
+<h2>凭什么它单日能狂揽 1500+ star</h2>
+<p>用 AI 做 e2e 测试，这两年大家多少都用过一些，但基本最后都会遇到两类问题。</p>
+<p>第一类，让 AI 生成 Playwright 脚本，生成完就归脚本管。看着省事，老问题一点没少。UI 改一个按钮文案，一堆定位器跟着失效，CI 红一片，你还是得人工去修。AI 只在写脚本那一刻出场，后面的维护成本还是全归你。</p>
+<p>第二类，测试本身就是一段自然语言，每次运行都让模型现场推理着把流程走完。灵活是真灵活，贵也是真贵。CI 每晚跑一遍回归，登录页一个字没改，模型也得重新看一遍、重新想一遍、重新点一遍，每次都是真金白银的 token。而且纯靠模型驱动的测试在 CI 里跑，稳定性没法看，今天过明天挂。</p>
+<p><code class="notranslate">e2e</code> 项目的解题思路，是让两种写法在同一条测试里各管一段。哪个步骤你写得出稳定定位器，就用传统写法；哪个步骤界面复杂、selector 难写、改动频繁，就丢一句自然语言给 <code class="notranslate">agent.act()</code>。官网有句话总结得很准，AI where it helps, code where it counts，AI 管不确定的部分，代码管必须精确的部分。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b33d8c77579aa99db824a8b071c0b9b62136b1be7e1ce8cfec674dfe7ee28122/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651426563344f383434546962665472564647614e50485343334c33793644505857766b7155546e62595832485455696157536d7453347a57396b63596f4f54504f5949706137506a61303871556837696130796f47487a4472335a5462526373715577772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/b33d8c77579aa99db824a8b071c0b9b62136b1be7e1ce8cfec674dfe7ee28122/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7651426563344f383434546962665472564647614e50485343334c33793644505857766b7155546e62595832485455696157536d7453347a57396b63596f4f54504f5949706137506a61303871556837696130796f47487a4472335a5462526373715577772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvQBec4O844TibfTrVFGaNPHSC3L3y6DPXWvkqUTnbYX2HTUiaWSmtS4zW9kcYoOTPOYIpa7Pja08qUh7ia0yoGHzDr3ZTbRcsqUww/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>Vercel CEO Guillermo Rauch、Sentry 创始人 David Cramer、Expo 官方团队都在 X 上公开夸过它（我在它官网口碑墙上翻到的，这类背书听听就行）。大佬点赞不代表适合你，但「确定性加智能体」这个混合方向，确实被一圈人验证过值得做。</p>
+<h2>最值钱的设计，让 AI 只想一次</h2>
+<p>光混合还不够，让它从一堆 AI 测试框架里杀出来的，是<strong>回放机制</strong>。</p>
+<p><code class="notranslate">agent.act()</code> 第一次执行时，AI Agent 看屏幕、推理、操作，同时把每一步动作记下来。</p>
+<p>第二次跑同一条测试，框架先检查应用有没有变，没变就直接回放上次录好的动作序列，一次模型都不调。应用改了，比如结算按钮换了位置，回放失败，才重新唤起模型再想一遍，顺便把新动作录下来，供下一次回放。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0cb9a24d262e5dbbb26c5faeeaf7088e55d692328061202dbb91247d20a16f84/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76537a464c424d663650426a394a326f4f3444586b434639467233573036746a4d6b7672444a55584e70794e53434d5948775863364e71764669633747325174546a696375543842686d68414c424a376869636d4a4f6e5477766e62794f7854416a317a492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/0cb9a24d262e5dbbb26c5faeeaf7088e55d692328061202dbb91247d20a16f84/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76537a464c424d663650426a394a326f4f3444586b434639467233573036746a4d6b7672444a55584e70794e53434d5948775863364e71764669633747325174546a696375543842686d68414c424a376869636d4a4f6e5477766e62794f7854416a317a492f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvSzFLBMf6PBj9J2oO4DXkCF9Fr3W06tjMkvrDJUXNpyNSCMYHwXc6NqvFic7G2QtTjicuT8BhmhALBJ7hicmJOnTwvnbyOxTAj1zI/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>官网 FAQ 把 CI 场景说得更具体。CI 模式自动开启，规则是单次重试加只读的 trace 缓存，agent 步骤在应用没变时回放已验证的动作，全程零模型调用。</p>
+<p>X 上有条评论被顶得很高，原话大意是，一个没改过的登录页，不该每次 CI 跑的时候都让模型重新审一遍。假设你的回归套件里有 50 条带 agent 步骤的测试，这周只有 2 条涉及的界面改过，那你只为这 2 条付模型的钱，剩下 48 条按普通脚本跑，免费。</p>
+<p>还有一条隐含规则。测试里压根没写 agent 步骤的，整个框架就退化成一个普通测试跑器，一个 token 不花。所以你可以渐进式迁移，一条测试一条测试地往里加 AI 步骤，不用一步到位。</p>
+<h2>快速上手</h2>
+<p>前面讲的都是设计，落到自己动手，从装到跑通只有两条命令。</p>
+<p>安装命令：</p>
+<p><code class="notranslate"> npx e2e init</code></p>
+<p>用 pnpm、bun 的换成</p>
+<p><code class="notranslate"> pnpm dlx e2e init    bunx e2e init</code></p>
+<p>安装时向导会问两件事，引擎选 Web 还是 Mobile，模型来源选订阅、API key，或者选 None 先不接 AI。</p>
+<p>选完它把 <code class="notranslate">e2e.config.ts</code> 配置写好</p>
+<p>`import type { E2EConfig } from 'e2e';<br>
+import { web } from '@e2e-dev/web';<br>
+import { gateway } from 'ai';</p>
+<p>export default {<br>
+  agents: { default: { model: gateway('openai/gpt-6-luna-fast') } },<br>
+  targets: [{ engine: web(), app: { url: 'http://localhost:3000' } }],<br>
+} satisfies E2EConfig;`</p>
+<p>还有一条示例测试<code class="notranslate">tests/example.e2e.ts</code>和依赖一次性写好，已有的文件不动。</p>
+<p>`import { test } from '@e2e-dev/web';<br>
+import { expect } from 'e2e';</p>
+<p>test('app opens', async ({ app, browser }) =&gt; {<br>
+  await app.open('/');<br>
+  await expect(browser.locator('body')).toBeVisible();<br>
+});`</p>
+<p>环境上有个门槛，Node 要 24.8 以上（22.22.3 以上也行），Windows 得在 WSL 里跑，测移动端还得本机装了 Xcode 的 iOS 模拟器或 Android SDK 的模拟器。</p>
+<p>运行命令，直接输入：</p>
+<p><code class="notranslate">npx e2e run</code></p>
+<p>第一次跑它会自己下载浏览器或启动模拟器，检查你的应用能不能打开，打印结果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e47d62febbd3ac4cec4186c19a4f51b6863f405027003fd1139f9a7d54b064d9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651716f6d537631576264454f6a31486f4b69626e306a7344474d4d6677434d6f764144766144744d355344765a30553941374c326a475437354268583667594b73667758747334514d476e6d63696271696138395875425369635738796a4d67426c4f46672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/e47d62febbd3ac4cec4186c19a4f51b6863f405027003fd1139f9a7d54b064d9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651716f6d537631576264454f6a31486f4b69626e306a7344474d4d6677434d6f764144766144744d355344765a30553941374c326a475437354268583667594b73667758747334514d476e6d63696271696138395875425369635738796a4d67426c4f46672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvQqomSv1WbdEOj1HoKibn0jsDGMMfwCMovADvaDtM5SDvZ0U9A7L2jGT75BhX6gYKsfwXts4QMGnmcibqia89XuBSicW8yjMgBlOFg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>这条示例测试不调模型，一行 key 都不用配就能跑通。先让框架在你机器上活起来，接模型、加 agent 步骤都是之后的事。</p>
+<p>装完看 node_modules，里面多出一串 <code class="notranslate">e2e</code> 和 <code class="notranslate">@e2e-dev/</code> 开头的包，官网文档列了张表说明各自是干嘛的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d36e65be7fa3af0437e0429cc17e9566fee2b1047ff88cae09f1f23ea888a484/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654346f48594c33506c704f55676e514655596245446b78476e50734a5977705058306144475a37735871563063424c7149666a704772516a5831754877696369637970314a6d4c62754c473375646d4369613555636f76704247307474326531597754382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/d36e65be7fa3af0437e0429cc17e9566fee2b1047ff88cae09f1f23ea888a484/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7654346f48594c33506c704f55676e514655596245446b78476e50734a5977705058306144475a37735871563063424c7149666a704772516a5831754877696369637970314a6d4c62754c473375646d4369613555636f76704247307474326531597754382f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvT4oHYL3PlpOUgnQFUYbEDkxGnPsJYwpPX0aDGZ7sXqV0cBLqIfjpGrQjX1uHwicicyp1JmLbuLG3udmCia5UcovpBG0tt2e1YwT8/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>新手记住前三个就够用。</p>
+<ul>
+<li>
+<p>• <code class="notranslate">e2e</code> 是主包，SDK、测试跑器、CLI 三合一。</p>
+</li>
+<li>
+<p>• <code class="notranslate">@e2e-dev/web</code> 是 Web 引擎包，底层 Playwright。</p>
+</li>
+<li>
+<p>• <code class="notranslate">@e2e-dev/mobile</code> 是移动端引擎包，驱动 iOS 和 Android 模拟器。</p>
+</li>
+</ul>
+<p>init 时选了哪个引擎，向导就给你装哪个。剩下几个按需再用。</p>
+<ul>
+<li>
+<p>• <code class="notranslate">@e2e-dev/github</code> 是个 reporter，把测试结果自动贴成 GitHub 的 PR 评论。</p>
+</li>
+<li>
+<p>• <code class="notranslate">@e2e-dev/kernel</code>、<code class="notranslate">@e2e-dev/eas</code>、<code class="notranslate">@e2e-dev/smol</code> 是三个云端托管件，分别提供托管浏览器、EAS 托管模拟器、预热好的 Chromium 微虚拟机，本地跑测试碰不到，等测试要搬上云端再回头查。</p>
+</li>
+<li>
+<p>• <code class="notranslate">@e2e-dev/decision</code> 是决策模型执行器，管有边界的语义动作和断言，属于进阶用法。</p>
+</li>
+</ul>
+<p>简单上手记住这些就够了，<code class="notranslate">npx e2e init</code> 进门，<code class="notranslate">npx e2e run</code> 见绿，后面所有进阶都是从这两条命令长出来的。</p>
+<h2>模型支持订阅和API两种模式</h2>
+<p>模型接入这块它做得很克制。<code class="notranslate">e2e init</code> 的时候让你选模型来源，支持四种接法：</p>
+<ul>
+<li>
+<p>• 登录你已经付费的 ChatGPT、GitHub Copilot 或 SuperGrok 订阅</p>
+</li>
+<li>
+<p>• 走 Vercel AI Gateway 或 OpenRouter 的 key</p>
+</li>
+<li>
+<p>• 直连 OpenAI、Claude、Gemini、DeepSeek 这些厂商的 API</p>
+</li>
+<li>
+<p>• 指到本地模型服务上</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/01f9f67e6bb2568747c495bbe63a4805762b9b7e15d5668eb10f16c1acb05a57/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76514f414a37795130466d69634d366f6f6a635942743634615253544a3766326b4a614e64476b34427475566d7176746546526376374e6963756b75696351366a6a4b7357656f6e4d4b6a7577465a47355674663656614d496e4453524e6d4f504b6357342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/01f9f67e6bb2568747c495bbe63a4805762b9b7e15d5668eb10f16c1acb05a57/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e76514f414a37795130466d69634d366f6f6a635942743634615253544a3766326b4a614e64476b34427475566d7176746546526376374e6963756b75696351366a6a4b7357656f6e4d4b6a7577465a47355674663656614d496e4453524e6d4f504b6357342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvQOAJ7yQ0FmicM6oojcYBt64aRSTJ7f2kJaNdGk4BtuVmqvteFRcv7NicukuicQ6jjKsWeonMKjuwFZG5Vtf6VaMInDSRNmOPKcW4/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>官方口径是 <code class="notranslate">e2e adds no markup</code>，框架本身不加价，token 花多少是模型的事。</p>
+<p>这一条对国内团队其实很关键。订阅制的 AI 工具大家手里多少有几个，测试框架能直接复用这些订阅，等于增量成本近乎为零，比专门为测试开 API 充值好接受得多。</p>
+<p>配置长这样，引擎、模型、agent 的系统提示词都收在一个 <code class="notranslate">e2e.config.ts</code> 里。</p>
+<p>`import type { E2EConfig } from 'e2e';<br>
+import { web } from '@e2e-dev/web';<br>
+import { gateway } from 'ai';</p>
+<p>export default {<br>
+  targets: [{ engine: web(), app: { url: 'http://localhost:3000' } }],<br>
+  agents: {<br>
+    default: {<br>
+      model: gateway('openai/gpt-6-luna-fast'),<br>
+      system: 'You are a QA testing agent.',<br>
+    },<br>
+  },<br>
+} satisfies E2EConfig;`</p>
+<p>agent 的系统提示词全开放，你可以把它调教成一个特别较真的 QA，也可以按自家业务约定操作边界。凭证和测试代码是分开的，secret 只放环境变量，配置里引用名字，运行时才注入，模型看不到值，也不会泄进测试报告。</p>
+<h2>Web 和 Mobile，一个 API 全包</h2>
+<p>浏览器这边，底层就是 Playwright，Chromium、Firefox、WebKit 三个内核都支持。</p>
+<p>`import { test } from '@e2e-dev/web';<br>
+import { expect } from 'e2e';</p>
+<p>test('a visitor signs up for a trial', async ({ app, agent, screen }) =&gt; {<br>
+  await app.open('/');</p>
+<p>  await agent.act('sign up for a free trial as {name} with email {email}', {<br>
+    params: { name: 'Ada Lovelace', email: '<a href="mailto:ada@example.test">ada@example.test</a>' },<br>
+  });</p>
+<p>  await agent.assert('the welcome screen greets Ada by name');<br>
+  await expect(screen.getByRole('status')).toContainText('trial');<br>
+});`</p>
+<p>移动端是 <code class="notranslate">@e2e-dev/mobile</code> 包，驱动 iOS 模拟器和 Android 模拟器。</p>
+<p>`import { test } from '@e2e-dev/mobile';<br>
+import { expect } from 'e2e';</p>
+<p>test('the agent opens General', async ({ agent, app, device }) =&gt; {<br>
+  await app.open();<br>
+  await agent.act('open {section} settings', { params: { section: 'General' } });</p>
+<p>  await agent.assert('the General settings screen is showing');<br>
+  await expect(device.locator('role=NavigationBar id=General')).toBeVisible();<br>
+});`</p>
+<p>关键在统一。同一套 <code class="notranslate">test</code>、<code class="notranslate">expect</code>、<code class="notranslate">agent.act()</code> 写法，换个引擎配置就从 Web 测试切到移动测试，断言和夹具都是同一批。</p>
+<p><code class="notranslate">npx agent-device doctor      # the toolchain, the daemon, the booted devices   npx agent-device daemon stop # after a wedge: drops every session, the next run starts the daemon   xcrun simctl shutdown &lt;udid&gt; &amp;&amp; xcrun simctl boot &lt;udid&gt;</code></p>
+<p>从别的框架迁过来也有官方指南，覆盖 Playwright、Cypress、Selenium、Detox、Maestro，思路是定位器和断言基本原样平移，最脆的那部分 selector 换成 agent 步骤。跑挂了会给你一份报告，精确到失败步骤，带截图、trace 和日志，<code class="notranslate">--headed</code> 或 <code class="notranslate">--debug</code> 重跑可以盯着看。</p>
+<h2>AI Agent 写、AI Agent 跑、人审结果</h2>
+<p>这项目有个细节值得提一下。官网首页摆了两条安装命令，给人用的是 <code class="notranslate">npx e2e init</code>，给 AI Agent 用的是 <code class="notranslate">npx skills add tester-army/e2e</code>。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed675365aa1be5d76bd77fc7e87cf642796a92c4d7eabab6fef6e1bed78fc6cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7653444232466a7a63796153446c765735696242413649765569636c66416c39616961544c52557a4b65676349654677776b4b554d3271423665546962717039696147486855764c4678504752476c4b625069614339384b4463393649366d6531654a4969614e316f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/ed675365aa1be5d76bd77fc7e87cf642796a92c4d7eabab6fef6e1bed78fc6cd/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7653444232466a7a63796153446c765735696242413649765569636c66416c39616961544c52557a4b65676349654677776b4b554d3271423665546962717039696147486855764c4678504752476c4b625069614339384b4463393649366d6531654a4969614e316f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvSDB2FjzcyaSDlvW5ibBA6IvUiclfAl9aiaTLRUzKegcIeFwwkKUM2qB6eTibqp9iaGHhUvLFxPGRGlKbPiaC98KDc96I6me1eJIiaN1o/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>它还把整套文档直接打进 npm 包，路径在 node_modules/e2e/docs，Coding Agent 装好包就能离线读，不用联网查。配合上面那条 skill 安装命令，你在 Claude Code、Codex 里让 AI Agent 写 e2e 测试，它对这个框架的理解是原厂直供的。</p>
+<p>把这几个点连起来看就明白了，这框架在设计上就奔着「AI Agent 写、AI Agent 跑、人审结果」的流程去的。测试工程师的角色从写脚本，挪到定目标、审断言、看报告。</p>
+<h2>泼点冷水</h2>
+<p>热闹归热闹，几个现实问题得摆出来。</p>
+<p>版本号 0.19.0，官方自己挂着提示，奔 1.0 的路上 minor 版本之间 API 和配置都可能变。现在就把核心回归套件押上去，要有跟着改代码的心理准备。</p>
+<p>agent 步骤第一次执行是真烧 token，界面越复杂烧得越多，有用户在 X 上提醒过要盯着消耗。回放机制能把长期成本打下来，但首次全量铺开时，账单会有一次爬坡。</p>
+<p>还有一层，TesterArmy 是家公司，商业产品是跑在 PR 上、按计划定时执行自然语言测试的平台。开源框架是地基，楼上盖什么、收不收费，看后续。框架本身 Apache-2.0，这层目前是干净的。</p>
+<h2>写在最后</h2>
+<p>我的看法，工具可用可不用，思路可以学走。</p>
+<p>一条是「让 AI 只想一次」。回放机制把模型调用从每次执行都付钱，变成只有变化才付钱，这个账任何用 AI 做测试、做自动化的团队都算得过来。就算你不用 e2e，自己给 agent 步骤加一层动作缓存和回放，收益立竿见影。</p>
+<p>另一条是「混合比纯血好用」。确定性断言保住 CI 的稳定，agent 步骤吃掉写不出 selector 的那部分界面，两边各干各的活。纯脚本和纯 agent 都算走极端，中间那块才是大多数项目真正的落点。</p>
+<p>项目地址放这，感兴趣的自己翻。</p>
+<p>GitHub：<code class="notranslate">github.com/tester-army/e2e</code><br>
+官网: <code class="notranslate">tester.army/e2e</code></p>
+<hr>
+<p>我是狂师，公众号长期分享 AI 提效实战与测试开发技术干货。</p>
+<p>最近，我创建了一个「<strong><a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247509941&amp;idx=1&amp;sn=6e45d0944df3cb50f8bf48a43a9bd2a7&amp;scene=21#wechat_redirect" rel="nofollow">AI测开进化圈</a></strong>」知识星球，聚焦 AI 测试方向，交付的是能直接用的AI提效工具包、AI 面试刷题、路线带学和全年答疑，目标是让你把手里的活干快。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d65debd0ea339c8598a94fb8d0c95b4e5f2becb20b3ba30ac89aab2859df09a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f557a73435675774f6e765241577369624445733533354942325349524c6837646b354c7833386136716f4b577447516668564b5a796e30656e35436d795a494650494a304e69637246556e495757637347776769634a6c70677259667a34696272484a5668707354567151686671512f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/d65debd0ea339c8598a94fb8d0c95b4e5f2becb20b3ba30ac89aab2859df09a3/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f557a73435675774f6e765241577369624445733533354942325349524c6837646b354c7833386136716f4b577447516668564b5a796e30656e35436d795a494650494a304e69637246556e495757637347776769634a6c70677259667a34696272484a5668707354567151686671512f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/UzsCVuwOnvRAWsibDEs535IB2SIRLh7dk5Lx38a6qoKWtGQfhVKZyn0en5CmyZIFPIJ0NicrFUnIWWcsGwgicJlpgrYfz4ibrHJVhpsTVqQhfqQ/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>想踏实学 AI 测试、不靠东拼西凑浪费时间的话，相信我，直接冲。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
