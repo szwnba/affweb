@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0)
+![](https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1)
+
+**整理编辑｜**TesterHome社区
+
+2026年8月，在深圳举办的MTSC2026第十五届中国互联网测试开发大会上，北京极智嘉科技系统部测试开发Leader汪磊磊带来了《AI Native 测试工程实践：用知识图谱与大模型重构仓储机器人调度系统(RMS)的端到端测试工作流》的深度分享。">
+<meta property="og:title" content="AI Native测试工程实践：用知识图谱与大模型重构仓储机器人调度系统的端到端测试工作流">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0)
+![](https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1)
+
+**整理编辑｜**TesterHome社区
+
+2026年8月，在深圳举办的MTSC2026第十五届中国互联网测试开发大会上，北京极智嘉科技系统部测试开发Leader汪磊磊带来了《AI Native 测试工程实践：用知识图谱与大模型重构仓储机器人调度系统(RMS)的端到端测试工作流》的深度分享。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI%20Native-ce-shi-gong-cheng-shi-jian-%EF%BC%9A-yong-zhi-shi-tu-pu-yu-da-mo-xing-zhong-gou-cang-chu-ji-qi-ren-diao-du-xi-tong-de-duan-dao-duan-ce-shi-gong-zuo-liu.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI Native测试工程实践：用知识图谱与大模型重构仓储机器人调度系统的端到端测试工作流</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI Native测试工程实践：用知识图谱与大模型重构仓储机器人调度系统的端到端测试工作流</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/817" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34282f01caee53f5a2cd340e33b733b0440d19f9578e10deabbf2dd61a1eec9d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f78415876486d696131374a726649564c786362414c464f56614e49507768384c3169615234776961416a57643966634554526961784c4335696369624f3876614366767259317831735579355a5662676f6961334b69636e7759577478412f3634303f77785f666d743d706e6723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/34282f01caee53f5a2cd340e33b733b0440d19f9578e10deabbf2dd61a1eec9d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f78415876486d696131374a726649564c786362414c464f56614e49507768384c3169615234776961416a57643966634554526961784c4335696369624f3876614366767259317831735579355a5662676f6961334b69636e7759577478412f3634303f77785f666d743d706e6723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/154c881095e79db407200276ef35de438751ff841b594695e5face29c12cb85b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5169637950684e484435765a3354786d316b3863754e664857504356675332463568657444754c753259564e685a324461455a476c736750696369634b536d35787053657663436851657866494a7667743669635568787256672f3634303f77785f666d743d706e6723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/154c881095e79db407200276ef35de438751ff841b594695e5face29c12cb85b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5169637950684e484435765a3354786d316b3863754e664857504356675332463568657444754c753259564e685a324461455a476c736750696369634b536d35787053657663436851657866494a7667743669635568787256672f3634303f77785f666d743d706e6723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>整理编辑｜</strong>TesterHome社区</p>
+<p>2026年8月，在深圳举办的MTSC2026第十五届中国互联网测试开发大会上，北京极智嘉科技系统部测试开发Leader汪磊磊带来了《AI Native 测试工程实践：用知识图谱与大模型重构仓储机器人调度系统(RMS)的端到端测试工作流》的深度分享。</p>
+<p>当前行业内多数团队的AI测试应用仍停留在“辅助生成脚本”的局部提效阶段，实际落地中普遍面临效果不达预期、用例稳定性差、端到端质量不可控等问题。北京极智嘉科技团队针对仓储机器人调度系统这一复杂业务场景，跳出“AI工具化”的思路，从AI Native的工程范式出发，搭建了以知识为核心、技能为方法、框架为支撑的完整测试体系，实现了端到端测试流程的智能化重构。</p>
+<p>极智嘉是一家全球领先的智能机器人企业，成立于2015年，总部位于北京。凭借先进的机器人和人工智能技术，极智嘉打造了高效、柔性、可靠的全品类物流解决方案，赋能智能仓储和智能制造两大场景。以下为该公司团队的实践分享：</p>
+<hr>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1caf44595af9038ad8ef48426e76e1a36c7c919900e8d2869f68c57855a51c2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716c55736f6d337653546e4859696379644e6365706d4c4a5a44616961455672573441496337464e6c7539766d6c5543744445776961466444374a6d635142445a527a4c3566534a6963566963476e38654439636c53764c56596f6a32776961464d446e4e4b546f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/1caf44595af9038ad8ef48426e76e1a36c7c919900e8d2869f68c57855a51c2c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716c55736f6d337653546e4859696379644e6365706d4c4a5a44616961455672573441496337464e6c7539766d6c5543744445776961466444374a6d635142445a527a4c3566534a6963566963476e38654439636c53764c56596f6a32776961464d446e4e4b546f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqlUsom3vSTnHYicydNcepmLJZDaiaEVrW4AIc7FNlu9vmlUCtDEwiaFdD7JmcQBDZRzL5fSJicVicGn8eD9clSvLVYoj2wiaFMDnNKTo/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<h2>一、为什么“AI写脚本”总是不好用？</h2>
+<p>很多团队都试过用AI写测试脚本，但大概率没达到预期。问题的根源不在AI不够强，而在于有没有给它搭好对应的工程约束。AI独自上阵，天然过不去三道关：</p>
+<ul>
+<li><strong>领域认知空白：机器人调度系统中，一条用例背后涉及任务如何分配与调度、机器人怎么响应与移动、容器/货格状态如何流转，全程由异步回调驱动。AI只看得见接口输入输出，对背后的运行逻辑一无所知。</strong></li>
+<li><strong>知识散落无关联：API规范、业务流程、数据库表结构三处孤立，文档各自为战、互不引用。AI搜索只能拿到碎片化片段，推不出业务全貌，上下游关系全靠人工串联。</strong></li>
+<li><strong>用例落地极脆弱：端到端用例每条包含10个以上步骤，前置要构造依赖数据与环境，执行是多步骤接口调用链，后置要验证多组件状态、清理数据还原环境，一个入参错误就会导致整条用例失败。</strong></li>
+</ul>
+<p>进一步拆解会发现，<strong>真正的瓶颈从来不是脚本代码，而是工作流</strong>。表面上看AI在单个节点都能辅助完成工作，但串联起端到端流程时就会出现信息断裂，整体质量不可控。传统测试工作流无法被AI接管，有三个深层原因：</p>
+<ol>
+<li><strong>上下文不连续：每个AI技能各自为政，缺乏共享的任务记忆与状态传递；</strong></li>
+<li><strong>知识不结构化：核心业务知识散落各处，AI难以获取完整准确的背景信息；</strong></li>
+<li><strong>框架隐式成本高：复杂测试框架存在大量隐式上下文，AI极易误用引发异常。</strong></li>
+</ol>
+<p>基于这些痛点，团队提出了AI Native的核心公式：</p>
+<blockquote>
+<p><strong>AI Native = 知识结构化 × 框架DSL化 × 流程编排化</strong></p>
+</blockquote>
+<h3>三种范式的本质差异</h3>
+<p>|</p>
+<p>核心维度</p>
+<p>|</p>
+<p>传统测试</p>
+<p>|</p>
+<p>AI辅助模式</p>
+<p>|</p>
+<p>AI Native模式</p>
+<p>|<br>
+| --- | --- | --- | --- |<br>
+|</p>
+<p>AI角色定位</p>
+<p>|</p>
+<p>不存在，纯人工执行</p>
+<p>|</p>
+<p>被动工具，需人工发起调用</p>
+<p>|</p>
+<p>主动流程参与，按阶段执行并反馈</p>
+<p>|<br>
+|</p>
+<p>核心工作单元</p>
+<p>|</p>
+<p>全流程人工，用例到报告手写</p>
+<p>|</p>
+<p>聚焦局部，一段代码/函数</p>
+<p>|</p>
+<p>聚焦整体，需求到交付完整闭环</p>
+<p>|<br>
+|</p>
+<p>上下文承载</p>
+<p>|</p>
+<p>人脑记忆，依赖个人经验</p>
+<p>|</p>
+<p>仅限当次对话，转瞬即逝无留存</p>
+<p>|</p>
+<p>跨阶段持久化，上下文贯穿全流程</p>
+<p>|<br>
+|</p>
+<p>知识获取来源</p>
+<p>|</p>
+<p>文档+经验，人脑+纸质文档</p>
+<p>|</p>
+<p>人工粘贴，碎片信息临时提供</p>
+<p>|</p>
+<p>结构化知识库，企业级图谱</p>
+<p>|<br>
+|</p>
+<p>异常失败处理</p>
+<p>|</p>
+<p>人工排查，手动定位修复</p>
+<p>|</p>
+<p>人工发现，手动修复</p>
+<p>|</p>
+<p>自动分类+修复建议，人工确认即可</p>
+<p>|</p>
+<p>核心结论非常明确：同样用大模型、同样写Prompt，最终的效果差距，在于“知识-技能-框架”的三角体系有没有搭建起来。</p>
+<h2>二、测试工程的三大支柱：缺一即塌</h2>
+<p>AI Native测试工程由三大支柱构成等腰三角形结构，缺一角就会整体塌房：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e4be9c8e2eee09b80f8347a8ab77809645652ca1771cf680983afab3cde95939/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716e6742705335475a625357463758666f38786d4c755a36553439503232393366696369634a6a7846655278714b6472496962786d313969614c734f38524459783043794d5a63376241534e666e6f4b666a587765644a5a65456962596c597542364b497a57342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/e4be9c8e2eee09b80f8347a8ab77809645652ca1771cf680983afab3cde95939/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716e6742705335475a625357463758666f38786d4c755a36553439503232393366696369634a6a7846655278714b6472496962786d313969614c734f38524459783043794d5a63376241534e666e6f4b666a587765644a5a65456962596c597542364b497a57342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqngBpS5GZbSWF7Xfo8xmLuZ6U49P2293ficicJjxFeRxqKdrIibxm19iaLsO8RDYx0CyMZc7bASNfnoKfjXwedJZeEibYlYuB6KIzW4/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<ul>
+<li><strong>Knowledge（知识）：业务领域知识，是所有推理的底层支撑；</strong></li>
+<li><strong>Skill（技能）：Agent执行能力，是落地的方法载体；</strong></li>
+<li><strong>Framework（框架）：工程体系，是输出的承载保障。</strong></li>
+</ul>
+<p>只做Prompt工程，幻觉率会非常高，AI不了解业务，给出的结果看似正确但实际没有业务价值；只有静态知识库，不会产生任何执行价值，只能供人查阅。</p>
+<p>从行业演进来看，Agent领域落地已经走过了四个阶段：</p>
+<ol>
+<li><strong>Phase 1：Prompt工程（2022-2023）：解决“怎么和AI说话”的问题；</strong></li>
+<li><strong>Phase 2：工具+RAG（2023-2024）：装上手眼，通过检索实现执行；</strong></li>
+<li><strong>Phase 3：Agent编排（2024-2025）：多Agent长链路分解，各类Agent平台涌现；</strong></li>
+<li><strong>Phase 4：领域落地（2025-至今）：核心挑战是“专业领域可信可用”。</strong></li>
+</ol>
+<p>当前的普遍瓶颈是：通用场景跑得好，一到专业领域就卡在“推理”环节。从感知到推理再到行动，推理环节必须要有领域知识做支撑。<strong>行业缺失的不是更好的RAG，而是完整的领域知识基础设施</strong>——包括知识图谱（世界模型）、约束体系（行为边界）、记忆系统（经验积累）。</p>
+<h2>三、整体架构：Pipeline + 三层支撑</h2>
+<p>极智嘉团队将整套AI Native测试体系设计为“全流程Pipeline + 三层支撑结构”，实现从需求到报告的端到端贯通。</p>
+<h3>完整Pipeline流向</h3>
+<p>整个测试流水线从需求输入到报告输出形成完整闭环： 需求收集（Jira/Confluence原始需求）→ 需求分析（输出req-spec.md）→ 用例设计（输出testcase.csv）→ 转换脚本（输出test_*.py）→ 调试执行（输出pytest_result.json）→ 报告生成（输出test_report.md）。</p>
+<h3>三层支撑架构</h3>
+<p>Pipeline背后由三层架构提供底层支撑，自下而上分别是：</p>
+<ol>
+<li><strong>中心化记忆层：沉淀团队踩坑记录、约定规范、技术决策，启动时通过session hook自动加载上下文，执行过程中通过过程Hook自动归档知识点，实现跨会话的经验积累。</strong></li>
+<li><strong>知识索引+框架DSL层：</strong></li>
+</ol>
+<ul>
+<li>
+<p>知识索引侧：通过graphify构建业务文档图谱、codegraph构建测试工程图谱，实现按层级精准检索；</p>
+</li>
+<li>
+<p>框架DSL侧：封装Biz业务操作、Selector数据选型、Callback异步等待、Teardown状态恢复等基础能力，提供统一的业务语义接口。</p>
+</li>
+</ul>
+<ol start="4">
+<li><strong>功能执行层：对应各阶段的具体测试工作，包括需求分析、用例设计、脚本生成、调试执行、报告输出等。</strong></li>
+</ol>
+<h3>人机分工：清晰的角色边界</h3>
+<p>整套体系采用“人做门禁决策、AI在约束内执行、系统提供底层支撑”的协作模式，各阶段分工明确：</p>
+<p>|</p>
+<p>阶段</p>
+<p>|</p>
+<p>人（门禁决策）</p>
+<p>|</p>
+<p>AI（约束内执行）</p>
+<p>|</p>
+<p>系统（支撑）</p>
+<p>|<br>
+| --- | --- | --- | --- |<br>
+|</p>
+<p>需求阶段</p>
+<p>|</p>
+<p>提供需求素材、确认业务规则</p>
+<p>|</p>
+<p>Volere规格分析、领域建模</p>
+<p>|</p>
+<p>graphify知识召回、mem上下文注入</p>
+<p>|<br>
+|</p>
+<p>用例阶段</p>
+<p>|</p>
+<p>评审场景覆盖度、确认约束清单</p>
+<p>|</p>
+<p>ISTQB选型、MAET×GWT展开用例</p>
+<p>|</p>
+<p>断言链推导、约束清单检索</p>
+<p>|<br>
+|</p>
+<p>脚本阶段</p>
+<p>|</p>
+<p>确认断言精度、确认修复建议</p>
+<p>|</p>
+<p>语义分解生成脚本、复用biz DSL</p>
+<p>|</p>
+<p>codegraph符号复用、测试文件落盘</p>
+<p>|<br>
+|</p>
+<p>调试阶段</p>
+<p>|</p>
+<p>判断根因真伪、处理环境异常</p>
+<p>|</p>
+<p>6类根因分类、证据链诊断</p>
+<p>|</p>
+<p>实体查询、SQL执行辅助诊断</p>
+<p>|<br>
+|</p>
+<p>报告阶段</p>
+<p>|</p>
+<p>审核报告结论、归档质量基线</p>
+<p>|</p>
+<p>生成结构化Markdown、聚合质量基线</p>
+<p>|</p>
+<p>执行测试用例、产出结果文件</p>
+<p>|</p>
+<h2>四、核心落地实践</h2>
+<h3>1. 多层知识索引：解决“测什么”的核心问题</h3>
+<p>为了让AI准确找到与测试需求相关的知识，团队设计了“按层递进、不足时升层”的多层搜索流程，共四层检索+中心化记忆，各层协同工作、互相佐证。</p>
+<ul>
+<li>
+<p><strong>L1：CodeGraph代码图谱：</strong> <strong>测试工程符号索引，覆盖已有方法、调用链、枚举值，解决“代码链路”问题。例如搜索wait_callback→match_callback→字段匹配的完整代码链路。</strong></p>
+</li>
+<li>
+<p><strong>L2：Graphify文档图谱：</strong> <strong>业务文档知识图谱，覆盖模块关联、状态字段、约束条件，解决“文档关联”问题。例如水位控制问题会牵连6个模块，通过图谱可一次性召回全部关联内容。</strong></p>
+</li>
+<li>
+<p><strong>L3：本地文档库：</strong> <strong>存放API、流程、表结构、术语表、约束规则等测试业务文档，本质是“告诉AI怎么测你的业务”。</strong></p>
+</li>
+<li>
+<p><strong>L4：外部源码：</strong> <strong>调度系统源码、产品设计库，提供最精确的实现细节。</strong></p>
+</li>
+<li>
+<p><strong>mem：中心化记忆：</strong> <strong>查询相关踩坑记录、团队约定、历史边界问题，沉淀团队经验。</strong></p>
+</li>
+</ul>
+<p>以搜索<code class="notranslate">robot_type_phase</code>字段为例，三层检索会分别返回代码链路、文档关联、记忆教训，互相印证。对比传统的grep单一搜索，多层检索可以补齐跨文档关联、语义全貌、代码链路和经验沉淀，避免只见字段不见逻辑。</p>
+<h3>2. 框架封装：封装的不是代码，是复杂度</h3>
+<p>行业中有观点认为“AI写的代码就是日抛型”，但极智嘉团队认为，AI写的代码同样需要高标准的可维护性要求。框架封装的核心理念，是封装复杂度，而不是封装代码。</p>
+<p>对比传统写法与DSL写法的差异非常明显：</p>
+<ul>
+<li><strong>传统HTTP写法（约40行）：需要手写信封body、处理认证重试、解析返回结果、轮询回调、编写teardown清场逻辑，全流程都需要人管控，AI不知道底层怎么配，只能靠猜。</strong></li>
+<li><strong>DSL写法（约4行业务陈述）：统一入口、业务语义命名、回调声明式等待、清场能力内建，AI只需要关注业务逻辑，无需关心底层实现。</strong></li>
+</ul>
+<pre class="notranslate"><code class="notranslate">
+</code></pre>
+<div class="highlight highlight-source-cs"><pre class="notranslate"><span class="pl-s1">QA</span><span class="pl-kos">.</span><span class="pl-s1">rms</span><span class="pl-kos">.</span><span class="pl-s1">query</span><span class="pl-kos">.</span><span class="pl-en">get</span><span class="pl-kos">(</span><span class="pl-s1">SHELF</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en"><span class="pl-k">where</span></span><span class="pl-kos">(</span><span class="pl-s1">shelf_lock</span><span class="pl-c1">=</span><span class="pl-s">"NORMAL"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-s1">random</span><span class="pl-kos">(</span><span class="pl-kos">)</span>
+<span class="pl-s1">resp</span> <span class="pl-c1">=</span> <span class="pl-s1">QA</span><span class="pl-kos">.</span><span class="pl-s1">rms</span><span class="pl-kos">.</span><span class="pl-s1">task</span><span class="pl-kos">.</span><span class="pl-s1">request</span><span class="pl-kos">(</span><span class="pl-s1">GO_FETCH</span><span class="pl-kos">,</span> <span class="pl-s1">shelfCode</span><span class="pl-c1">=</span>..<span class="pl-kos">.</span><span class="pl-kos">)</span>
+<span class="pl-s1">QA</span><span class="pl-kos">.</span><span class="pl-s1">callback</span><span class="pl-kos">.</span><span class="pl-en">robot</span><span class="pl-kos">(</span><span class="pl-s1">resp</span><span class="pl-kos">.</span><span class="pl-s1">task_id</span><span class="pl-kos">,</span> <span class="pl-s1">SHELF_ARRIVED</span><span class="pl-kos">)</span>
+Teardown<span class="pl-kos">.</span><span class="pl-s1">p</span><span class="pl-kos">.</span><span class="pl-s1">recover</span><span class="pl-kos">(</span><span class="pl-s1">self</span><span class="pl-kos">.</span><span class="pl-s1">_case_passed</span></pre></div>
+<p>DSL写法从根源上降低了脚本出错的概率，同时环境恢复能力内建，大幅提升了用例的稳定性和可维护性。</p>
+<h3>3. Skill体系：AI的分工化协作</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1959a89a5b88793c5ec146b320e470ee6c2e9120d62adbb5f552f0eb9a89b2a0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716e4e316e4d4e316769637065745750674b436a626962696344706261643070657271663433656644334652466b6446625369613656363042616367305a564b31443134746649596855626d30324169616269613258367171627a475672386b66366c5a47474d512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/1959a89a5b88793c5ec146b320e470ee6c2e9120d62adbb5f552f0eb9a89b2a0/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716e4e316e4d4e316769637065745750674b436a626962696344706261643070657271663433656644334652466b6446625369613656363042616367305a564b31443134746649596855626d30324169616269613258367171627a475672386b66366c5a47474d512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqnN1nMN1gicpetWPgKCjbibicDpbad0perqf43efD3FRFkdFbSia6V60Bacg0ZVK1D14tfIYhUbm02Aiabia2X6qqbzGVr8kf6lZGGMQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>AI测试体系的核心是技能（Skill）的分工，团队累计建设了几十个技能，其中核心高频技能共六个，覆盖全流程各环节：</p>
+<ul>
+<li><code class="notranslate">qa-req-analyze：需求分析，Volere规格分析、领域建模</code></li>
+<li><code class="notranslate">qa-case-design：用例生成，ISTQB选型、MAET×GWT、评审</code></li>
+<li><code class="notranslate">qa-case-implement：用例转脚本，语义分解、复用biz DSL</code></li>
+<li><code class="notranslate">qa-script-debug：结构化调试，6类根因分类、证据链诊断</code></li>
+<li><code class="notranslate">qa-report-write：测试报告，聚合三源数据、质量基线</code></li>
+<li><code class="notranslate">qa-pipeline-run：Pipeline编排，6段流水线、断点续跑</code></li>
+</ul>
+<h4>设计1：阶段门禁——可回滚的独立阶段</h4>
+<p>全流程共设置6个阶段，每个阶段输出独立文件，设置严格门禁检查：</p>
+<ol>
+<li>收集需求内容 → 2. 需求分析 → 3. 用例生成 → 4. 转换脚本 → 5. 调试 → 6. 报告</li>
+</ol>
+<p>门禁机制带来三个核心价值：</p>
+<ul>
+<li><strong>可追溯：每阶段成果可留存、可查阅，能精准定位哪个阶段出了问题；</strong></li>
+<li><strong>可回流：评审失败精准回流到对应阶段，无需重跑全流程；</strong></li>
+<li><strong>断点续跑：按产物存在性跳段执行，缺什么从哪继续，提升执行效率。</strong></li>
+</ul>
+<h4>设计2：MAET × GWT × 约束驱动</h4>
+<p>团队将主流测试方法论固化到技能中，从根源保障用例质量：</p>
+<ul>
+<li><strong>MAET主流程遍历：强制每特性完整遍历Main（主流程）、Alternative（替代流程）、Exception（异常流程）、Termination（终止流程）四条路径，保证场景覆盖完整。</strong></li>
+<li><strong>GWT行为骨架：严格遵循Given（前置条件）-When（操作动作）-Then（断言预期）结构，倒逼AI输出逻辑严密、可执行的步骤。</strong></li>
+<li><strong>约束驱动边界锁定：依据全量业务规则清单反推用例覆盖边界，告别凭灵感臆想，保证边界场景不遗漏。</strong></li>
+</ul>
+<h4>设计3：结构化调试——六类根因分类处理</h4>
+<p>调试阶段预设六类根因约束，每类对应明确的处理策略，避免无效重试：</p>
+<p>|</p>
+<p>根因类别</p>
+<p>|</p>
+<p>典型失效表现</p>
+<p>|</p>
+<p>AI处理策略</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>SCRIPT</p>
+<p>|</p>
+<p>语法/import/断言写错，如ModuleNotFoundError</p>
+<p>|</p>
+<p>修一次即止，不重跑</p>
+<p>|<br>
+|</p>
+<p>FLOW</p>
+<p>|</p>
+<p>断言失败但API/DB正常，用例流程设计有误</p>
+<p>|</p>
+<p>回流到用例设计阶段</p>
+<p>|<br>
+|</p>
+<p>CONTAINER</p>
+<p>|</p>
+<p>容器位置/状态异常，导致任务无法执行</p>
+<p>|</p>
+<p>数据清理 + 环境重置</p>
+<p>|<br>
+|</p>
+<p>ROBOT</p>
+<p>|</p>
+<p>机器人状态异常，故障/低电/无响应</p>
+<p>|</p>
+<p>查询实体状态，对应处理</p>
+<p>|<br>
+|</p>
+<p>SERVICE</p>
+<p>|</p>
+<p>API/DB状态不符规则，疑似服务bug</p>
+<p>|</p>
+<p>分类记录，触发上报</p>
+<p>|<br>
+|</p>
+<p>TIMEOUT</p>
+<p>|</p>
+<p>单条执行超2分钟，无法通过改脚本解决</p>
+<p>|</p>
+<p>立即标记跳过，不死磕</p>
+<p>|</p>
+<h4>技能迭代：类CI的自动评估闭环</h4>
+<p>技能调试的一大痛点是“不知道改哪句话会影响产出”，团队采用类似CI的自动化评估方式，让AI交叉评测代替人工手动调试，形成6阶段迭代闭环：</p>
+<ol>
+<li>
+<p>就绪检查：准备评估数据、预置数据与断言；</p>
+</li>
+<li>
+<p>快照当前SKILL：记录基线效果；</p>
+</li>
+<li>
+<p>并行派发：优化版与基线版两组并行执行；</p>
+</li>
+<li>
+<p>Grader子Agent打分：生成评分结果，聚合通过率；</p>
+</li>
+<li>
+<p>聚合基准：统计对比通过率数据；</p>
+</li>
+<li>
+<p>人工评审：评审、改写、追加历史规则。</p>
+</li>
+</ol>
+<p>以<code class="notranslate">qa-req-analyze</code>技能为例，经过4轮迭代，基线从初始71%，到加术语填写规则82%，加实体独立块+5条断言95%，最终加标注前置规则达到100%，每次变更都可追溯、可回滚，大幅节省了手动调试精力。</p>
+<h2>五、落地踩过的三个坑与解法</h2>
+<h3>坑1：知识不准——文档与实现不一致</h3>
+<p><strong>现象</strong>：GO_RETURN回库场景中，文档写明的目标参数优先级为<code class="notranslate">latticeCode &gt; destAreaId &gt; destLaneIds</code>，但系统实际实现为<code class="notranslate">latticeCode &gt; destLaneIds &gt; destAreaId</code>，区域和巷道优先级写反。AI信任文档后基于错误优先级生成用例，导致断言失败且难以定位——用例逻辑看着没问题，根源是知识源头错了。</p>
+<p><strong>根因</strong>：坑的根因不在AI，而在知识源头。AI能力越强，错误知识就会被放大得越快。</p>
+<p><strong>解法</strong>：通过调试实测结果纠正文档，强制知识源与系统实现对齐；文档中标注“待补充”的内容，调试后补全真实状态字段。核心原则是：知识可证伪、可纠错，而不是盲信文档。</p>
+<h3>坑2：Skill怎么拆、怎么写</h3>
+<p><strong>现象</strong>：初期把需求分析、覆盖计划、用例生成、评审四个目标塞进一个大Prompt，同时灌输大量业务细节。结果信息过载导致AI注意力分散、顾此失彼，失败时无法定位是哪一环出问题；而且业务一变，整个Skill就失效，完全不可复用。</p>
+<p><strong>解法</strong>：</p>
+<ul>
+<li>
+<p>拆成独立Skill：每个Skill目标单一，产物对应独立文件，失败可以精准回流到本阶段门禁；</p>
+</li>
+<li>
+<p>Skill写方法论，不写细节：沉淀需求规格分析、领域模型分析、测试方法的思考引导与输出模板，业务细节全部从知识库获取。</p>
+</li>
+</ul>
+<p>调整后，用例接受率从60%提升到85%，场景覆盖率明显提升，主流程与分支流程无遗漏。Skill的设计哲学可以总结为：<strong>写“怎么思考”，不写“思考什么”</strong>——方法论沉淀在技能，业务留在知识库，换业务线只换知识库，不换技能。</p>
+<h3>坑3：同一个操作，十种说法</h3>
+<p><strong>现象</strong>：同一个操作，每次生成的用例描述都不一样，比如“获取货位、读取货位、查询货位、找到货位”同义散用，导致无法定位对应哪个方法，也无法跨用例比对。</p>
+<p><strong>根因</strong>：大模型用自然语言描述操作，同一语义天然有多种说法。没有约束时AI自由发挥，生成多少份用例就有多少套措辞。</p>
+<p><strong>解法</strong>：建立用词规范，同一语义只允许一个标准词，禁用同义词。例如“获取/找到/读取”统一用“查询”，“检查/确认/校验”统一用“验证”。步骤动词直接对应biz方法名，可以溯源到实现代码。所有规范沉淀到专门的词汇说明文档，每个标准词对应一个可溯源的方法。</p>
+<h2>六、真实产物与效果量化</h2>
+<h3>真实落地产物</h3>
+<ul>
+<li><strong>需求规格与评审：单需求输出13项功能需求+3项非功能需求，评审累计发现56个问题，其中严重等级29个，全部在门禁阶段拦截修正。</strong></li>
+<li><strong>用例树：25条用例按5个模块分组，步骤动词可直接溯源到biz方法，每条用例标注是否可直接转自动化（Auto标记）。</strong></li>
+<li><strong>文本转脚本：11条自动化用例、3个文件，覆盖“构造货箱→下发GO_FETCH→等回调→验证park_id非空”全流程，可直接执行。</strong></li>
+</ul>
+<h3>量化效果数据</h3>
+<p>整套体系落地后，团队给出了<strong>无人工纠正前提下</strong>的实测数据：</p>
+<p>|</p>
+<p>指标</p>
+<p>|</p>
+<p>口径</p>
+<p>|</p>
+<p>实测值</p>
+<p>|</p>
+<p>备注</p>
+<p>|<br>
+| --- | --- | --- | --- |<br>
+|</p>
+<p>用例接受率</p>
+<p>|</p>
+<p>评审通过数÷用例总数</p>
+<p>|</p>
+<p>85%</p>
+<p>|</p>
+<p>主流程需求点基本无遗漏，原基线60%</p>
+<p>|<br>
+|</p>
+<p>用例设计效率</p>
+<p>|</p>
+<p>需求→用例生成+人工纠正50条用例</p>
+<p>|</p>
+<p>3小时</p>
+<p>|</p>
+<p>端到端实测</p>
+<p>|<br>
+|</p>
+<p>自动化转脚本率</p>
+<p>|</p>
+<p>转出脚本数÷标注Auto的用例数</p>
+<p>|</p>
+<p>60%</p>
+<p>|</p>
+<p>无人工干预直接转换</p>
+<p>|<br>
+|</p>
+<p>单需求成本</p>
+<p>|</p>
+<p>50条文本+20条自动化用例的token费用</p>
+<p>|</p>
+<p>$25</p>
+<p>|</p>
+<p>基于claude-sonnet-4.6，换国产模型可降50%</p>
+<p>|</p>
+<p>大版本592累计数据：覆盖<strong>189个需求</strong>，AI生成文本用例<strong>2000+条</strong>，转成自动化脚本<strong>1299条</strong>，所有自动化脚本已接入CI，每日自动运行。</p>
+<h2>七、可复制的方法论：三件事可以复用</h2>
+<p>汪磊磊最后强调，不同公司的业务千差万别，没有哪个工程能完全通用，但底层的方法论是可以复制的，总结下来就是三套方法论：</p>
+<h3>1. 需求侧方法论</h3>
+<ul>
+<li><strong>七维领域分析：从实体、关系、行为、约束、接口、枚举、术语七个维度拆解领域，参照DDD方法论；</strong></li>
+<li><strong>需求工程体系：基于Volere需求工程、ISTQB选型方法，结合MAET×GWT用例设计与标准化词汇规范；</strong></li>
+<li><strong>约束驱动场景清单：用理论引导思考，业务细节从知识库获取，避免凭经验拍脑袋。</strong></li>
+</ul>
+<h3>2. 知识侧方法论</h3>
+<ul>
+<li><strong>四层搜索链路：自动化测试调用链 → 业务文档图谱 → 本地文档库 → 外部依赖文档/源码，由近及远逐层检索；</strong></li>
+<li><strong>中心化记忆沉淀：踩坑记录、团队约定、技术决策跨会话积累，形成团队知识资产。</strong></li>
+</ul>
+<h3>3. 工程侧方法论</h3>
+<ul>
+<li><strong>标准化词汇 + 框架DSL：统一业务语义，封装底层复杂度；</strong></li>
+<li><strong>分阶段流转 + 门禁机制：文本用例标注Auto标识，按阶段转脚本，通过阶段门禁防止能力退化。</strong></li>
+</ul>
+<h2>结语：重新工程化，而非接个大模型</h2>
+<p>AI Native测试从来不是简单接入一个大模型，而是把测试这件事做<strong>AI+HARNESS化</strong>——给AI套上工程的缰绳。需求侧、知识侧、工程侧三套方法论缺一不可，缺一则AI失控。</p>
+<p>最后分享一句话作为总结：</p>
+<blockquote>
+<p><strong>你的准备程度，决定AI能给你多少。</strong></p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/42ad9b91ad6e253665aecd2dd6e71d8bcd07366fc29bde37ae51be4a95de12b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716b6962547a444a4a70337a556b435257666e54666963715057466f764d5277556d7368744d47626963355a34444a476f506d5766565378436634654930386232724774436a533836794b796c584c71385a6f4d727a70454b6a52545864777065426a6f732f3634303f77785f666d743d706e672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/42ad9b91ad6e253665aecd2dd6e71d8bcd07366fc29bde37ae51be4a95de12b9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716b6962547a444a4a70337a556b435257666e54666963715057466f764d5277556d7368744d47626963355a34444a476f506d5766565378436634654930386232724774436a533836794b796c584c71385a6f4d727a70454b6a52545864777065426a6f732f3634303f77785f666d743d706e672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/NCAoibNiaTbqkibTzDJJp3zUkCRWfnTficqPWFovMRwUmshtMGbic5Z4DJGoPmWfVSxCf4eI08b2rGtCjS86yKylXLq8ZoMrzpEKjRTXdwpeBjos/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a249862a713b961a4a42d82dd3432b92b41f554c9155b4dc88ed53aee37ad5e1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5969624946347569623544434b4f6d79556742584f424b66545951435830666a69623035514f574c31544c58446b414d6e38466c544e4e4e4f726a4a7068446c557050526e5565596e4343566e48325a5a457a4a3358496961772f3634303f77785f666d743d706e6723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/a249862a713b961a4a42d82dd3432b92b41f554c9155b4dc88ed53aee37ad5e1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5969624946347569623544434b4f6d79556742584f424b66545951435830666a69623035514f574c31544c58446b414d6e38466c544e4e4e4f726a4a7068446c557050526e5565596e4343566e48325a5a457a4a3358496961772f3634303f77785f666d743d706e6723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/YibIF4uib5DCKOmyUgBXOBKfTYQCX0fjib05QOWL1TLXDkAMn8FlTNNNOrjJphDlUpPRnUeYnCCVnH2ZZEzJ3XIiaw/640?wx_fmt=png#imgIndex=6" style="max-width: 100%;"></a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527509&amp;idx=1&amp;sn=4c6b9ba8be4cce60175942d555a16eee&amp;scene=21#wechat_redirect" rel="nofollow">告别低效工单排查：拆解Agoda落地AI智能运维的完整迭代路径</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527468&amp;idx=2&amp;sn=8b586007c46bae99e9c610868235e44c&amp;scene=21#wechat_redirect" rel="nofollow">招聘｜ 平安银行--金融科技部（深圳），招聘测试开发/系统开发，base深圳</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527458&amp;idx=1&amp;sn=299e34c684e0a8f9508fb6bf0b22941c&amp;scene=21#wechat_redirect" rel="nofollow">软件开发九大反直觉趋势：那些“标准答案”正在失效</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527453&amp;idx=1&amp;sn=65d7ecb41d59896a7eb9e49bde01ebcb&amp;scene=21#wechat_redirect" rel="nofollow">我们如何用开源AI安全Agent找到24个Android漏洞</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527433&amp;idx=1&amp;sn=4f41e90057fa180dcf236c989fc49b80&amp;scene=21#wechat_redirect" rel="nofollow">为什么Go是AI辅助软件工程的理想语言</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527402&amp;idx=1&amp;sn=4812a0658b49f4205b73ad0cae3f0673&amp;scene=21#wechat_redirect" rel="nofollow">开源工具｜把自己伪装成蓝牙鼠标，跨平台控制Android/iOS/鸿蒙--BlueHIDFlow开源方案</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527374&amp;idx=1&amp;sn=d1b783faf0699c74f2907ac38ea7cf8a&amp;scene=21#wechat_redirect" rel="nofollow">汽车软件质量迎来新国标：测试、OTA与缺陷管理进入全生命周期</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527319&amp;idx=2&amp;sn=7935a2ab7087526b23e6c9cef2b36c66&amp;scene=21#wechat_redirect" rel="nofollow">《“人工智能+软件”专项行动实施方案》印发，对从业者意味着什么？</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527327&amp;idx=1&amp;sn=4f713c98f3849644a799edd2ddfa7613&amp;scene=21#wechat_redirect" rel="nofollow">在金融支付系统中实施混沌工程：企业ECS部署的经验教训</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
