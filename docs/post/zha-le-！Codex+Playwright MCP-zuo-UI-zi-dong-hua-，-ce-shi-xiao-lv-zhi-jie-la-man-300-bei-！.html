@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="我做测试第八年了。">
+<meta property="og:title" content="炸了！Codex+Playwright MCP做UI自动化，测试效率直接拉满300倍！">
+<meta property="og:description" content="我做测试第八年了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zha-le-%EF%BC%81Codex%2BPlaywright%20MCP-zuo-UI-zi-dong-hua-%EF%BC%8C-ce-shi-xiao-lv-zhi-jie-la-man-300-bei-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>炸了！Codex+Playwright MCP做UI自动化，测试效率直接拉满300倍！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">炸了！Codex+Playwright MCP做UI自动化，测试效率直接拉满300倍！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/818" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>我做测试第八年了。</p>
+<p>前面好几年，最熟的动作不是写用例，是半夜被人从群里点名。接口同学说链路没问题，产品说刚才演示还好好的，最后镜头对准你，你昨晚不是回归过吗。</p>
+<p>坦率的讲，这种场面最气人的地方，不是技术多难，是口径对不上。有人盯 HTTP 200，有人盯有没有弹窗，有人只看自己电脑能不能点开。大家都很忙，证据却散落在聊天记录里。</p>
+<p>后来我把 Codex 接上 Playwright MCP，再把配套 Skill 焊进项目，才真正把「帮我点一下」变成「可重复验收」。不是玄学提效，是把打开页面、拿快照、点击填写、断言截图，收进同一条工具链。跑通主线冒烟之后，再回头看以前手点十几页的节奏，效率体感真的像被拉满了好几倍。你要硬说个数字，我愿意用「拉满 300 倍」来形容那种从人肉点击到自然语言驱动回归的落差。夸张吗？对天天救火的测试同学来说，一点也不夸张。</p>
+<p>这篇就把文档里那套核心能力掰开讲清楚，结构、目录、功能、用法、源码级约定，以及怎么落到你们自己的测试仓库。不成熟的经验，但我已经尽量按可执行的方式写了。</p>
+<hr>
+<p>软件测试里有个老坑，接口测通了，页面未必能用。</p>
+<p>Web 端回归最贵的往往不是再写几条用例，而是把完整页面状态反复灌进脑子或模型。电商下单、审批流、会员开通，动不动十几个页面。人肉点一遍，眼睛酸；脚本写一堆，定位一改就崩；只靠聊天让 Agent「帮我点一下」，下一轮对话一开，规范全丢。</p>
+<p>Playwright MCP 干的第一件事，是让 Codex 以程序化方式控制浏览器。打开页面、获取可交互元素快照、点击、输入、断言、截图留证。和「人在本机浏览器里点一遍」不同，它更适合可重复的端到端验收，先拿 snapshot，再按真实文案点，最后对成功页做断言并截图。</p>
+<p>配起来也不神秘。Node 18+，npx 可用，被测站点网络通。在 Codex 的 MCP 服务里填名字 <code class="notranslate">playwright</code>，命令 <code class="notranslate">npx</code>，参数 <code class="notranslate">-y @playwright/mcp@latest</code>，保存后重启。内网下不了浏览器时，再配代理或指定浏览器缓存目录。演示账号用课程同款即可，用户名 <code class="notranslate">standard_user</code>，密码 <code class="notranslate">secret_sauce</code>。</p>
+<p>三条 UI 路径别混着用。</p>
+<p>localhost 快速预览，用内置浏览器就够。已经登录的公网页做演示交互，本机 Chrome 更顺手。要可重复断言、要进 MCP 工具链、要截图留证，默认走 Playwright MCP。选型错了，你会又慢又难断言，还误以为是模型不行。</p>
+<p>回到主线，MCP 解决的是「Agent 能不能稳定操控浏览器」。但真正把效率拉满，还差两层，CLI 把状态落盘，Skill 把操作手册固化。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7f36621ace3c77ca83953b41ab99349ad70df0924d08d614e8c557c08d893d1d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a4852444b69624b38786b7370446f554f71464553486c37645a423134574961484d5a4b775873306d685141755a5a66613867754f4b69623976786a3774437656764d4f4256514c35476c4f71696375714369614e435352776a6c55696335767750735a48316a57686e6961506379626f2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/7f36621ace3c77ca83953b41ab99349ad70df0924d08d614e8c557c08d893d1d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a4852444b69624b38786b7370446f554f71464553486c37645a423134574961484d5a4b775873306d685141755a5a66613867754f4b69623976786a3774437656764d4f4256514c35476c4f71696375714369614e435352776a6c55696335767750735a48316a57686e6961506379626f2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zHRDKibK8xkspDoUOqFESHl7dZB14WIaHMZKwXs0mhQAuZZfa8guOKib9vxj7tCvVvMOBVQL5GlOqicuqCiaNCSRwjlUic5vwPsZH1jWhniaPcybo/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<hr>
+<p>刚接上 MCP 时，你会有种「卧槽也能这么玩」的兴奋。一句话让它打开演示站，确认登录框在不在，听着很香。</p>
+<p>可真实项目里，UI 自动化不是一次对话，是每天、每环境、每条冒烟路径。</p>
+<p>如果每次都把完整可访问性树和二十多个工具 Schema 全量灌进上下文，长流程很容易顶满。官方基准里，标准多步骤 UI 会话可以超过八万 Token。Token 烧完了，后面的断言、截图、失败定位全被挤掉。测试团队要的是可重复、可回放、可进 CI 的回归能力，不是热闹的「帮我点一下」。</p>
+<p>所以课程里把组件分得很清楚。</p>
+<p><strong>Playwright</strong> 是底层执行引擎，负责页面操作、元素定位、断言这些硬能力。</p>
+<p><strong>Playwright MCP</strong> 是 AI 的标准化工具接口，把能力封装成 <code class="notranslate">browser_navigate</code>、<code class="notranslate">browser_click</code>、<code class="notranslate">browser_snapshot</code>、<code class="notranslate">browser_type</code> 等二十多个可调用工具，适合短期探索和调试。</p>
+<p><strong>Playwright CLI</strong> 是执行助手，命令行驱动，快照落 YAML，截图落 PNG，Trace 落独立文件，Agent 按需读取。同等多步骤会话，可比全量灌入上下文省下好几倍 Token。</p>
+<p><strong>Skill</strong> 是操作手册。Markdown 技能文件，指导 Agent 学 CLI 命令与最佳实践，匹配触发场景，规定输出格式。</p>
+<p>短探索、要同时看控制台和网络时，留着 MCP。长流程回归、要入库的 UI 用例，默认走 CLI 加 Skill。同一条用例今天走这套、明天走那套，证据格式会对不上。怎么说呢，工具没有绝对的好和坏，只有默认路径清不清楚。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a5573c8f4949d337962ca34e9875e8c3be3ceff5e5b7e687106ee8ae1adc7b72/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a4852444b69624b38786b73754a31715a7a42687167776c5361594a645568676f42696230706b7a58676b4b745954687045755a766c73536267526f706a3744423548366e346f75384d3747574e4d543168423763794c377a76626963423544564445306370566861565169636961632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/a5573c8f4949d337962ca34e9875e8c3be3ceff5e5b7e687106ee8ae1adc7b72/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a4852444b69624b38786b73754a31715a7a42687167776c5361594a645568676f42696230706b7a58676b4b745954687045755a766c73536267526f706a3744423548366e346f75384d3747574e4d543168423763794c377a76626963423544564445306370566861565169636961632f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zHRDKibK8xksuJ1qZzBhqgwlSaYJdUhgoBib0pkzXgkKtYThpEuZvlsSbgRopj7DB5H6n4ou8M7GWNMT1hB7cyL7zvbicB5DVDE0cpVhaVQiciac/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<hr>
+<p>装 Skill 很短。先保证本机有 CLI，再装配套手册。</p>
+<pre class="notranslate"><code class="notranslate">
+</code></pre>
+<p>第一块是 <code class="notranslate">description</code>。写清楚「用 playwright CLI 做 UI 测试、浏览器探索、录制脚本」这类触发词，Agent 才能在一堆 Skill 里选对你。写糊了，最常见症状是另起一套工具，或者手写一堆不稳定选择器。</p>
+<p>第二块是命令手册。至少覆盖打开页面、快照、点击、填写、截图、关闭，以及 Ref 从快照读、不要把整棵 DOM 贴回对话。</p>
+<p>第三块是交付约定。探索结束后要输出什么，是规格文件还是 PO 模式脚本，页面层和用例层怎么拆，先自验证再保存。没有交付约定，探索再漂亮也只是表演。</p>
+<p>核心片段可以长这样，重点是触发、步骤、硬规则，别写成散文。</p>
+<pre class="notranslate"><code class="notranslate">
+</code></pre>
+<p>能力上对应四件事。用自然语言接下测试任务。按手册编排 <code class="notranslate">playwright-cli</code>。按需读取磁盘快照，而不是把整页状态灌进模型。把探索过程整理成可回归脚本。对测试人来说，这四件事合在一起才叫提效。少敲命令只是爽感，沉淀成资产才是回报。</p>
+<p>再补一句边界。Skill 管的是「这类 UI 测试怎么做」，触发场景、步骤、输出格式。团队级语言规范、安全红线，别塞进每个 Skill，那是 <code class="notranslate">AGENTS.md</code> 的事。Skill 越干净，越容易在不同项目间复用。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bb0b3a2ec053627e6e5d85e9710f640548d741fe05bcb47d2f16db24bf96e8de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7677664d36426f6963416c6e42487a3743557831574235345549364e6370635376523668314f4a795a4f706158466166486d786542557353393433696279367369627469624d427454556c715269625364555433624d4e774e384661506961746b35303343396f2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/bb0b3a2ec053627e6e5d85e9710f640548d741fe05bcb47d2f16db24bf96e8de/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7677664d36426f6963416c6e42487a3743557831574235345549364e6370635376523668314f4a795a4f706158466166486d786542557353393433696279367369627469624d427454556c715269625364555433624d4e774e384661506961746b35303343396f2f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zHRDKibK8xkvwfM6BoicAlnBHz7CUx1WB54UI6NcpcSvR6h1OJyZOpaXFafHmxeBUsS943iby6sibtibMBtTUlqRibSdUT3bMNwN8FaPiatk503C9o/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<hr>
+<p>链路其实很短，建议团队直接贴进 README。</p>
+<p>你用自然语言丢任务，带上站点、账号、验收点。Agent 扫描已安装 Skill 的 <code class="notranslate">description</code>，匹配 <code class="notranslate">playwright-cli</code>。接着读取 <code class="notranslate">SKILL.md</code>，学会常用语法。再通过 Shell 执行命令，按需读磁盘上的快照 YAML。探索完成后，整理成可入库脚本，而不是只留聊天记录。</p>
+<p>常用命令闭环长这样。</p>
+<pre class="notranslate"><code class="notranslate">
+</code></pre>
+<p><code class="notranslate">snapshot</code> 之后，页面上的可交互元素会带着 Ref，比如 <code class="notranslate">e8</code>、<code class="notranslate">e21</code>。后面直接 <code class="notranslate">playwright-cli click e8</code>。这是结构解析，不是拿截图瞎猜。一次快照可以反复复用，比纯视觉方案稳得多。快照字段通常包含角色、名称、状态，足够支撑结构化定位。</p>
+<p>调试用有头，能看见真实点击路径。夜间回归默认无头，进 CI 不弹窗。YAML、PNG、Trace 当失败证据，缺陷评审时拿得出东西，不用靠「当时好像是点了这个」。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2418a22056e139fa9384a600d95bc4342c480f4a570fa757d951314ef29e942b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7466435765444b34687364576c49554461545679506155746963636e62396e4c6c367563534f63564779596748696265484e314d416b386b696249385552547137354356526b6e32567668776a425663724c6138666435386768524f79524f66725961452f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/2418a22056e139fa9384a600d95bc4342c480f4a570fa757d951314ef29e942b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7466435765444b34687364576c49554461545679506155746963636e62396e4c6c367563534f63564779596748696265484e314d416b386b696249385552547137354356526b6e32567668776a425663724c6138666435386768524f79524f66725961452f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zHRDKibK8xktfCWeDK4hsdWlIUDaTVyPaUticcnb9nLl6ucSOcVGyYgHibeHN1MAk8kibI8URTq75CVRkn2VvhwjBVcrLa8fd58ghROyROfrYaE/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<hr>
+<p>下面这段 prompt，可以直接丢给 Codex。关键约束已经写死，有头模式、PO 分层、先验证再保存。把演示站换成你们自己的测试环境也行，骨架不变。</p>
+<pre class="notranslate"><code class="notranslate">页面层负责定位和操作，改 UI 时只改这一层。
+</code></pre>
+<pre class="notranslate"><code class="notranslate">
+</code></pre>
+<p>用例层只描述业务路径，不掺定位细节。登录、加购两件、进购物车、完成结算、断言成功。UI 一改只动页面层，业务路径一变只动用例层。很多人觉得 AI 生成脚本不能直接用，往往不是模型不行，是你没要求它按 PO 分层交作业。</p>
+<p>成功标志也很明确。每步有汇报，购物车与下单成功页有断言，最终页有截图。这就是可纳入回归的 UI 自动化，而不只是「帮我点一下」。</p>
+<p>和 Chrome 插件对照时，可以要求同一条演示链路两边都跑一遍，对比步骤和断言是否一致。对照的目的不是秀两种工具，是确认 MCP 主线真的可重复，不是靠人工记忆续命。</p>
+<hr>
+<p>Skill 对测试同学的好处，不只是少敲命令。</p>
+<p><strong>回归更稳。</strong>  长流程状态落盘，按需读 YAML，比把完整可访问性树反复灌进模型更扛跑。十几个页面的审批流，如果每步都把整页状态灌回去，上下文很快顶满，后面的断言和失败定位全被挤掉。</p>
+<p><strong>资产可复用。</strong>  探索过程变成页面层、用例层、快照、截图。缺陷评审时拿得出证据，不是靠口头复述。新人丢同一段 prompt，就能复现接近的路径。自动化能力往往集中在少数测开身上，Skill 等于把隐性经验外显化。</p>
+<p><strong>和现有项目更好咬合。</strong>  你不必推倒重来。先在仓库建 Skill 目录，再约定页面层与用例层，把演示站这套当成模板，替换成你们自己的登录页、列表页、结算页即可。原来的 Pytest、报告、流水线都可以继续用。Skill 负责探索与生成，CI 负责无头回归。</p>
+<p>落到日常，我建议按这个节奏嵌进去。</p>
+<p>本周先接 Playwright MCP，跑通「打开页面、确认登录框」这条最小链路，确认工具链活着。下周装 CLI 和 Skill，把最稳的一条冒烟路径改成自然语言探索、PO 分层、自验证入库。第三周把失败截图和快照接到评审流程。再往后，才考虑把 Excel 用例到报告编排做成更大的 Skill。</p>
+<p>如果你负责的是偏业务的功能测试，更实际的用法是，你把验收点和业务路径说清楚，测开把目录和 PO 模板建好。两边对齐一次，后面每个人都能用同一套 prompt 起跑。测开同学则可以把隐性步骤写成可扫描文件，团队不会只靠聊天记录续命。</p>
+<p>职业价值其实很直白。会写脚本的人很多，能把「Agent + 浏览器 + 手册 + 仓库规范」焊成质量门禁的人不多。接口层、页面层、数据层以后还要继续接，页面层先跑通，至少你不会再被「接口 200，页面全挂」反复点名。</p>
+<p>常见坑提前避一下。Skill 装了但没进扫描目录，任务完全不走 CLI。MCP 配了但没重启，列表里像没装。Ref 过期还硬点，该重新 snapshot。探索完不要求入库，聊天一关资产归零。有头窗口被带进夜间回归，CI 直接卡死。排错顺序也固定，先查网络与站点是否可开，再查 Node 与 npx，最后查 MCP 与 Skill 是否加载。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fdc06c90d9bc8de94785db5c65a4754bd0f66c7076279bac79367c6fb2cc1a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7347753438774a696269615a596352476961794e4f6672683253784c4b7973644d4d4269633463584d4d6b6b4c4e5a426236627633457149414e6b46714677434d426962494d69634d554e79616363496e514b6f744e5a4e3477495473427a6d4938534e6e6c772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/fdc06c90d9bc8de94785db5c65a4754bd0f66c7076279bac79367c6fb2cc1a01/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a4852444b69624b38786b7347753438774a696269615a596352476961794e4f6672683253784c4b7973644d4d4269633463584d4d6b6b4c4e5a426236627633457149414e6b46714677434d426962494d69634d554e79616363496e514b6f744e5a4e3477495473427a6d4938534e6e6c772f3634303f77785f666d743d6a7065672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zHRDKibK8xksGu48wJibiaZYcRGiayNOfrh2SxLKysdMMBic4cXMMkkLNZBb6bv3EqIANkFqFwCMBibIMicMUNyaccInQKotNZN4wITsBzmI8SNnlw/640?wx_fmt=jpeg&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<hr>
+<p>写到这里，其实就三句话。</p>
+<p>第一句，Playwright MCP 只是点火器。真正把效率拉满的，是 MCP 能控浏览器，CLI 能把状态落盘，Skill 能把手册焊进仓库。少一层，你都会在半夜回归里重新踩坑。</p>
+<p>第二句，别再把聊天记录当资产。探索完就要求 PO 分层、自验证、入库。页面层、用例层、截图、快照，这四样进了仓库，才叫质量门禁，不叫热闹演示。</p>
+<p>第三句，今晚真的能动手。确认 Node，接上 MCP，装好 Skill，跑通登录加购结算，强制输出可回归脚本。五步走完，你就不再只是「会点页面的人」。</p>
+<p>我做测试这些年，最怕的不是学不会新工具，是明明知道页面层会翻车，却还只能靠肉身当监控。这套链路不完美，我也还在摸索。但至少从接上那天起，我少被「接口全绿，页面全挂」点名了一次又一次。</p>
+<p>如果你也在同样的坑里，把这篇当作业说明书就行。能跑通一条冒烟路径，就已经值回票价。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1729111919b73b1821fc4aea1758f67bc27131f841504f7d454d0734bcd2bbc9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a4852444b69624b38786b75555869627661354a34756c6a6e356b7653496573504876356e59644867426f6b667866397469614233706d645874675a42424c73787a74696153486c334f666e76696241447779364e685038617336465869616c726962616565735030594c4d696174765a31452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/1729111919b73b1821fc4aea1758f67bc27131f841504f7d454d0734bcd2bbc9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a4852444b69624b38786b75555869627661354a34756c6a6e356b7653496573504876356e59644867426f6b667866397469614233706d645874675a42424c73787a74696153486c334f666e76696241447779364e685038617336465869616c726962616565735030594c4d696174765a31452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zHRDKibK8xkuUXibva5J4uljn5kvSIesPHv5nYdHgBokfxf9tiaB3pmdXtgZBBLsxztiaSHl3OfnvibADwy6NhP8as6FXialribaeesP0YLMiatvZ1E/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>谢谢你看我的文章，我们，下次再见。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
