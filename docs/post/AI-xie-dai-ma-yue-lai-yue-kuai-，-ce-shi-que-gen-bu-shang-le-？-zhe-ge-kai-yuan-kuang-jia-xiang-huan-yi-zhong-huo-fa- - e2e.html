@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/bibsWpXx0MPnfICSaQTV051ibXGJOCghTsEPVBPo9DohrSzaUeSfL3br5OPewqc5GVkibG2ZlUuSHSB176KviasK9xUewKQhuF6667ibicibyUZKcc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+事情是这样的。">
+<meta property="og:title" content="AI写代码越来越快，测试却跟不上了？这个开源框架想换一种活法 | e2e">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/bibsWpXx0MPnfICSaQTV051ibXGJOCghTsEPVBPo9DohrSzaUeSfL3br5OPewqc5GVkibG2ZlUuSHSB176KviasK9xUewKQhuF6667ibicibyUZKcc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+事情是这样的。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/AI-xie-dai-ma-yue-lai-yue-kuai-%EF%BC%8C-ce-shi-que-gen-bu-shang-le-%EF%BC%9F-zhe-ge-kai-yuan-kuang-jia-xiang-huan-yi-zhong-huo-fa-%20-%20e2e.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>AI写代码越来越快，测试却跟不上了？这个开源框架想换一种活法 | e2e</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">AI写代码越来越快，测试却跟不上了？这个开源框架想换一种活法 | e2e</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/823" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/85c23c53fc8c758473d9400301e0f914404c04166b1d836b2cb698b8f6a3dd0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6269627357705878304d506e6649435361515456303531696258474a4f436768547345505642506f39446f6872537a61556553664c336272354f50657771633547566b696247325a6c5575534853423137364b766961734b39785565774b516875463636363769626963696279555a4b63632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/85c23c53fc8c758473d9400301e0f914404c04166b1d836b2cb698b8f6a3dd0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6269627357705878304d506e6649435361515456303531696258474a4f436768547345505642506f39446f6872537a61556553664c336272354f50657771633547566b696247325a6c5575534853423137364b766961734b39785565774b516875463636363769626963696279555a4b63632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/bibsWpXx0MPnfICSaQTV051ibXGJOCghTsEPVBPo9DohrSzaUeSfL3br5OPewqc5GVkibG2ZlUuSHSB176KviasK9xUewKQhuF6667ibicibyUZKcc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>事情是这样的。</p>
+<p>最近有个事儿让我挺感慨。一个做电商的朋友跟我吐槽，说他们团队上了AI编程工具之后，代码产出速度翻了三倍，但上线事故也翻了一倍。</p>
+<p>我说你这不对啊，代码写得快不是好事吗？</p>
+<p>他说问题是，代码写得快了，测试跟不上了。</p>
+<p>这句话一下子戳到了我的痛点。</p>
+<p>你想想看，现在用Cursor、Claude Code写代码，一个下午能撸完一个功能模块。但你要给这个模块写端到端测试呢？还是得一个一个选择器去定位，一个一个断言去写。UI稍微改一下，测试全红。</p>
+<p>AI帮我们把油门踩到底了，但刹车系统还是十年前的。</p>
+<hr>
+<h2>一、端到端测试的老毛病，所有人都在忍</h2>
+<p>坦率的讲，做过E2E测试的人都知道那个循环有多折磨人。</p>
+<p>写测试的时候，你要告诉程序「点这个按钮」「填这个输入框」「检查这个文本」。听起来很简单对吧？但问题是，这些操作全靠选择器来定位。什么css选择器、xpath、data-testid，你得精确地告诉程序「去点哪个元素」。</p>
+<p>然后呢？产品说我们要改版。</p>
+<p>设计师把按钮换了位置，前端把class名重写了，或者干脆把整个页面结构重构了一遍。你的测试选择器全部失效，红成一片。</p>
+<p>我有时候觉得，写E2E测试最痛苦的不是「写」，而是「改」。改选择器这个活，枯燥、无聊、毫无技术含量，但你又不得不做。它就像你家水龙头漏水，你明知道该修，但每次都是先拿盆接水，等实在忍不了了才动手。</p>
+<p>很多人干脆就不写了。或者说，写个核心流程意思意思，剩下的全靠手动回归。</p>
+<p>这就是现状。</p>
+<hr>
+<h2>二、纯AI驱动？听起来美好，但有个致命问题</h2>
+<p>有人说，那让AI来点不就行了？你告诉AI「帮我升级到Pro套餐」，它自己去找按钮，自己去点。</p>
+<p>确实，现在有不少工具在做这件事。用大模型驱动浏览器，自然语言描述目标，agent自己规划路径去完成。</p>
+<p>听起来完美。</p>
+<p>但你要是把这个方案放到CI里跑，三个问题立刻浮出水面。</p>
+<p><strong>每次都得花钱调模型。</strong>  同一条流程，昨天跑过，今天还得再跑一遍。你的测试每天跑十次，每次都要调API，token费用蹭蹭往上涨。</p>
+<p><strong>结果不确定。</strong>  模型这次点了「升级」按钮，下次可能点了旁边的「了解更多」。回归测试最怕这种漂移，你连「这条测试到底是通过了还是碰巧通过了」都分不清。</p>
+<p><strong>判断不硬。</strong>  如果「成功了吗」也交给模型来判断，等于让被判者自己批改卷子。模型说「我觉得成功了」，你敢信吗？</p>
+<p>所以对要上CI的团队来说，纯LLM驱动的测试，通常就是个demo级别的东西。演示的时候惊艳四座，真正放到日常流程里跑，成本和稳定性都撑不住。</p>
+<p>这就是那个矛盾所在，自然语言的灵活性很诱人，但可重复、可审计的确定性不能丢。</p>
+<p>怎么把这俩东西缝到一起？</p>
+<hr>
+<h2>三、e2e的解法，让AI做它擅长的，让程序做它擅长的</h2>
+<p>最近在GitHub上看到一个开源项目，叫e2e，TesterArmy团队做的。Apache-2.0协议，100% TypeScript。看了它的设计思路之后，我觉得这帮人想明白了一件事。</p>
+<p><strong>不是所有步骤都需要AI，也不是所有步骤都适合写死选择器。</strong></p>
+<p>你在一个测试里，有些操作是确定性的。比如「检查页面上显示Pro」，这个用一个精确定位器加上断言就行了，不需要AI。</p>
+<p>但有些操作是模糊的。比如「升级到Pro套餐」，这个过程可能要点好几个按钮、填表单、选方案，而且UI经常改。这种操作用自然语言描述目标，让agent自己去完成，反而更合适。</p>
+<p>e2e的做法是把这两种方式放在同一个测试里。你可以用<code class="notranslate">agent.act('升级到Pro套餐')</code>来描述目标，用<code class="notranslate">expect(screen.getByRole('status')).toContainText('Pro')</code>来精确检查结果。</p>
+<pre class="notranslate"><code class="notranslate">test('a member upgrades to Pro', async ({ app, agent, screen }) =&gt; {  await app.open('/settings/billing');  await agent.act('upgrade the workspace to the Pro plan');  await expect(screen.getByRole('status')).toContainText('Pro');  await agent.assert('the invoice preview shows the Pro price');});
+</code></pre>
+<p>输入是自然语言，动作是agent自己规划的，结果是硬断言钉死的。</p>
+<p>这个设计我觉得挺聪明的。它没有试图用AI解决一切，也没有固守传统选择器不放。而是让两者各司其职。</p>
+<hr>
+<h2>四、真正让我觉得「卧槽」的，是它的缓存机制</h2>
+<p>如果只是把agent和assertion放在一起，那也就是个语法糖。真正让我觉得这帮人想透了的，是它的缓存设计。</p>
+<p><strong>一次通过，永久回放。</strong></p>
+<p>当一个<code class="notranslate">agent.act</code>步骤通过了，并且后续的检查也确认了结果，e2e会把这个agent走过的路径录制下来，存进缓存。下次再跑这条测试的时候，它直接重放这些动作，不调用任何模型。</p>
+<p>不花一分钱，不等一秒钟。</p>
+<p>但关键来了，这个回放不是机械重演。</p>
+<p><strong>录制的价值不在于「记下来」，而在于「被验证过」。</strong></p>
+<p>每条录制都带一组锚点，这一步让哪些节点出现了，哪些消失了，留下的控件处于什么状态。回放的时候，只有当「该出现的出现了，该消失的消失了，回放期间确实发生了变化」，才算通过。</p>
+<p>如果应用改了，终点状态对不上呢？它不会硬猜，而是直接把控制权交还给实时agent，让它重新找路径。</p>
+<p><strong>失败即降级，绝不错答。</strong></p>
+<p>这个思路我喜欢。它宁可多花一次模型调用，也不悄悄点错。在测试领域，误报比漏报更可怕。一条测试告诉你「通过了」但实际上没测到该测的东西，这种假安全感比没有测试还糟糕。</p>
+<p>而且缓存键设计得极其细致，项目、测试、目标、平台、引擎版本、策略版本、指令摘要、参数摘要、调用序号、agent名称，全都是键的一部分。一条过期的录制只可能是「未命中」，不可能变成「错答」。</p>
+<p>你想想这结果会怎样呢？</p>
+<p><strong>你的token花费，跟UI变化频率挂钩，而不是跟测试运行频率挂钩。</strong></p>
+<p>UI不变，测试跑一百次都是零成本。UI变了，只有受影响的步骤才会重新调用模型。</p>
+<p>这才是AI测试该有的样子。</p>
+<hr>
+<h2>五、不只是Web，一套代码跑三端</h2>
+<p>e2e还有一个我觉得很值得关注的点，它不只是Web测试框架。</p>
+<p>浏览器通过Playwright驱动，iOS模拟器和Android模拟器通过agent-device驱动。同一套测试代码、同一套定位器、同一套断言，三个平台通用。</p>
+<pre class="notranslate"><code class="notranslate">export default {targets: [    {      name: "web",      engine: web(),      app: { url: "http://127.0.0.1:3000" },    },    {      name: "ios",      engine: mobile({ platform: "ios" }),      app: { bundleId: "com.example.app" },    },  ],agents: {    default: { model: gateway("openai/gpt-6-luna-fast") },  },} satisfies E2EConfig;
+</code></pre>
+<p>对于同时有Web和移动端产品的团队来说，你不需要维护三套测试了。一套搞定。</p>
+<p>而且它不绑定任何特定的AI服务商。OpenAI、OpenRouter、本地模型、ChatGPT订阅、GitHub Copilot订阅、SuperGrok订阅，你已有的东西都能用。它在token价格上不加一分钱。</p>
+<p>这很重要。因为很多AI测试工具的商业模式就是卖你模型调用，价格还不便宜。e2e走的是纯开源路线，模型你自己带，它只负责框架。</p>
+<hr>
+<h2>六、给编码AI也开了一扇门</h2>
+<p>e2e还做了一件我觉得非常有远见的事，它提供了MCP server。</p>
+<p>Claude Code、Cursor、Codex这些编码AI可以直接连接到你的应用，看到真实的UI，然后帮你写测试。</p>
+<p>你不需要手动去抄选择器了。编码AI自己去应用里探索，找到真实的控件名称，然后生成带有精确locator的测试代码。</p>
+<p>用他们的话说，写功能的那个AI，同时也是写测试的那个AI。</p>
+<p>这个闭环如果跑通了，开发流程就变成了，AI写代码 → AI写测试 → CI自动回归 → AI修bug。人只需要做审核和决策。</p>
+<p>当然，现在还没到那个程度。但方向是对的。</p>
+<hr>
+<h2>七、说说我觉得不够好的地方</h2>
+<p>坦率的讲，没有完美的工具。e2e也有它的局限。</p>
+<p>首先，它是pre-1.0状态。API还可能变。如果你现在就把它放到核心业务的CI里，要做好后续跟着改的心理准备。</p>
+<p>其次，agent步骤的成本问题。虽然有缓存，但首次运行和UI变化后的重跑，模型调用是实打实的花钱。对于测试用例特别多的大型项目，这个成本需要评估。</p>
+<p>第三，纯agent步骤的可审计性还是不如传统选择器。虽然它设计了锚点验证机制，但在某些合规要求严格的行业，「AI自己找路径」这个事情本身可能就是个审计障碍。</p>
+<p>最后，目前只支持Web和移动端。桌面应用还不支持。</p>
+<p>但这些是迭代的问题，不是方向的问题。</p>
+<hr>
+<h2>八、回到那个根本问题</h2>
+<p>你有没有想过，为什么测试一直是开发流程里最容易被牺牲的环节？</p>
+<p>赶进度的时候，第一个砍的就是测试时间。上线前发现没测全，临时加人手动回归。出了事故之后，老板问「为什么没测到」，开发说「用例没覆盖」，QA说「需求没说清楚」。</p>
+<p>这不是任何一个人的问题，是整个范式的问题。</p>
+<p>传统E2E测试的成本结构就是这样的，写的时候费劲，维护的时候更费劲，跑的时候还可能因为环境问题飘红。三重打击之下，大家自然不愿意写。</p>
+<p>e2e做的事情，说到底是在改变这个成本结构。</p>
+<p>它把「写测试」的成本降下来了，用自然语言描述目标比手写选择器省事得多。它把「维护测试」的成本降下来了，agent能自动适应UI变化。它把「跑测试」的成本降下来了，通过缓存机制把重复运行变成零开销。</p>
+<p>当这三个成本都降下来的时候，写E2E测试就不再是一件需要「专门腾出时间」的事情了。它变成了开发流程里自然而然的一环。</p>
+<p>就像你不会觉得「写代码之前打开编辑器」是一件需要额外花时间的事。它就是工作的一部分。</p>
+<hr>
+<h2>我自己的感受</h2>
+<p>说实话，我看到这个项目的时候是有点兴奋的。</p>
+<p>不是因为它用了AI这个时髦的词，而是因为它没有被AI冲昏头脑。</p>
+<p>它没有说「AI可以做一切」，它说的是「AI做AI擅长的，确定性做确定性擅长的」。这种清醒，在当下的AI工具浪潮里其实挺稀缺的。</p>
+<p>我们见过太多「AI驱动」的工具，演示的时候惊艳，真正用起来要么太贵、要么不稳定、要么结果不可审计。它们的问题不是技术不行，是没想清楚AI在系统里到底该扮演什么角色。</p>
+<p>e2e的答案是，AI是一个有弹性的执行者，而不是一个黑箱决策者。你告诉它目标，它去执行。但结果好不好，得由确定性的检查来判断。执行路径可以变，但验收标准不能模糊。</p>
+<p>这个思路我觉得不只是适用于测试。很多AI工具的设计都可以借鉴这个哲学。</p>
+<hr>
+<p>当然，我说的这些都只是我看了代码和文档之后的判断。我自己还没在生产环境里跑过e2e。可能有些想法还不成熟，等我实际用一段时间之后再来更新。</p>
+<p>如果你的团队正在被E2E测试折磨，或者你正在评估AI测试方案，可以去看看这个项目。GitHub上搜<code class="notranslate">tester-army/e2e</code>，<code class="notranslate">npx e2e init</code>就能跑起来。</p>
+<p>试试看，也许会有不一样的体验。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b307338147d08dad0e2bb0022d25704c92dc400797c00604d87e4a2b7bcab713/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6269627357705878304d506c5a48557344754634504b356d567a7555716166434f4e6e7046696330545265344a655331574c4c52434867326961696164383075466e5a776962664d30515033756451396f555a617562497a746653484d5149763748447a78526d726d397876524c4d6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/b307338147d08dad0e2bb0022d25704c92dc400797c00604d87e4a2b7bcab713/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6269627357705878304d506c5a48557344754634504b356d567a7555716166434f4e6e7046696330545265344a655331574c4c52434867326961696164383075466e5a776962664d30515033756451396f555a617562497a746653484d5149763748447a78526d726d397876524c4d6b2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/bibsWpXx0MPlZHUsDuF4PK5mVzuUqafCONnpFic0TRe4JeS1WLLRCHg2iaiad80uFnZwibfM0QP3udQ9oUZaubIztfSHMQIv7HDzxRmrm9xvRLMk/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～</p>
+<p>谢谢你看我的文章，我们，下次再见。</p>
+<blockquote>
+<p>/ 作者：mojianpo<br>
+/ 投稿或爆料，请联系邮箱：<a href="mailto:406223802@qq.com">406223802@qq.com</a></p>
+</blockquote></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
