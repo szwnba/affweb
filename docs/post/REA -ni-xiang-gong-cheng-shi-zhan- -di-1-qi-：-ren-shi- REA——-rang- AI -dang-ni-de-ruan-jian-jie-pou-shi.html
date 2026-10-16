@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 适合人群：会写代码、但从没做过逆向工程的开发者
+
+> 阅读时间：约 8 分钟
+
+> 系列进度：第 1 期 / 共 6 期
+
+* * *
+
+本期导读
+----
+
+你有没有想过，别人软件里那个很顺手的功能，到底是怎么写出来的？这一期我们不着急装软件，先把三件事聊明白：逆向工程到底在干什么、REA 是个什么东西、它能帮你分析哪些目标。">
+<meta property="og:title" content="REA 逆向工程实战 第1期：认识 REA——让 AI 当你的软件解剖师">
+<meta property="og:description" content="> 适合人群：会写代码、但从没做过逆向工程的开发者
+
+> 阅读时间：约 8 分钟
+
+> 系列进度：第 1 期 / 共 6 期
+
+* * *
+
+本期导读
+----
+
+你有没有想过，别人软件里那个很顺手的功能，到底是怎么写出来的？这一期我们不着急装软件，先把三件事聊明白：逆向工程到底在干什么、REA 是个什么东西、它能帮你分析哪些目标。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-1-qi-%EF%BC%9A-ren-shi-%20REA%E2%80%94%E2%80%94-rang-%20AI%20-dang-ni-de-ruan-jian-jie-pou-shi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>REA 逆向工程实战 第1期：认识 REA——让 AI 当你的软件解剖师</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">REA 逆向工程实战 第1期：认识 REA——让 AI 当你的软件解剖师</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/820" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>适合人群：会写代码、但从没做过逆向工程的开发者</p>
+</blockquote>
+<blockquote>
+<p>阅读时间：约 8 分钟</p>
+</blockquote>
+<blockquote>
+<p>系列进度：第 1 期 / 共 6 期</p>
+</blockquote>
+<hr>
+<h2>本期导读</h2>
+<p>你有没有想过，别人软件里那个很顺手的功能，到底是怎么写出来的？这一期我们不着急装软件，先把三件事聊明白：逆向工程到底在干什么、REA 是个什么东西、它能帮你分析哪些目标。读完这一期，你会知道这套教程要带你走到哪里，以及哪些事它做不到。</p>
+<hr>
+<h2>一、先讲一个你可能遇到过的场景</h2>
+<p>你在用一个笔记软件，发现它的「全局搜索」特别快，快到有点反常。你很好奇它到底用了什么办法，想搬到自己的项目里。</p>
+<p>于是你打开安装目录，找到那个主程序文件，双击——要么提示无法打开，要么弹出一堆看不懂的乱码。</p>
+<p><strong>其实这是因为</strong>，软件写好之后要经过一道叫「编译」的工序（把人写的代码翻译成机器能执行的语言），翻译完之后，人就基本读不懂了。你拿到手的是一份"成品菜"，而不是"菜谱"。</p>
+<p><strong>这一期教你</strong>认识一个叫 REA 的工具，它能让 AI 助手替你把这份"成品菜"重新拆解开，而且每一步都会告诉你：我是从哪里看出来的。</p>
+<hr>
+<h2>二、逆向工程到底在干什么</h2>
+<h3>2.1 一句话说清楚</h3>
+<blockquote>
+<p>📌 **术语卡**</p>
+</blockquote>
+<blockquote>
+<p>**逆向工程（Reverse Engineering）** = 拿到一个已经做好的东西，反推出它是怎么做的。</p>
+</blockquote>
+<blockquote>
+<p>**打个比方**：就像你买了一个闹钟，把它拆开，看齿轮怎么咬合、弹簧怎么发力，然后画出一张图纸——这就是逆向工程。</p>
+</blockquote>
+<p>注意，逆向工程<strong>不是破解</strong>，也不是<strong>盗版</strong>。它在软件行业里有大量正经用途：搞明白一个老系统为什么这么设计、让两个软件能互相配合、研究某个功能的实现思路给自己做参考、或者分析自己公司的软件有没有安全漏洞。</p>
+<h3>2.2 逆向的三条思路</h3>
+<p>传统逆向主要有三条路子，理解它们，你就懂 REA 的价值在哪了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c4357bb215af4f87a54b258b0a89241b90449baaf5231b262761bf8af9b00ce5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758447a46446e687536635a7466554e794c554564696254497a7279747a766869624f5a6836377a5a385964676e3362364f747158394233676d6d59464133716a784b5770564c4862566376713250784e75543475793270436b3732575774595476346c632f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/c4357bb215af4f87a54b258b0a89241b90449baaf5231b262761bf8af9b00ce5/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758447a46446e687536635a7466554e794c554564696254497a7279747a766869624f5a6836377a5a385964676e3362364f747158394233676d6d59464133716a784b5770564c4862566376713250784e75543475793270436b3732575774595476346c632f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/eiaziaRIXLGXDzFDnhu6cZtfUNyLUEdibTIzrytzvhibOZh67zZ8Ydgn3b6OtqX9B3gmmYFA3qjxKWpVLHbVcvq2PxNuT4uy2pCk72WWtYTv4lc/640?from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：这张图把逆向拆成三条路。最上面那条「静态分析」最安全——文件摆在那儿慢慢看，软件不会真的跑起来。中间那条「动态分析」最有说服力——让程序真跑一遍，看它到底做了什么。最下面那条「对比推理」最像侦探工作——拿两个版本一对比，改动的地方往往就是你要找的答案。实际干活时，这三条路经常要来回切换。</p>
+<h3>2.3 传统逆向为什么劝退新手</h3>
+<p>坦白讲，传统逆向学习曲线非常陡，主要有三个拦路虎：</p>
+<p>| 拦路虎 | 具体表现 | 新手的真实感受 |</p>
+<p>|--------|---------|--------------|</p>
+<p>| 工具太多太碎 | 看二进制用 IDA，调试用 x64dbg，抓包用 Wireshark，改包用 Frida | 光装环境就劝退一半人 |</p>
+<p>| 要懂汇编 | 屏幕上全是 <code class="notranslate">mov eax, ebx</code> 这种指令 | 像在看天书，不知道从哪下手 |</p>
+<p>| 结论靠猜 | 看懂一段代码，不知道它在整个软件里处于什么位置 | 花三天搞明白一个函数，结果发现不是要找的那个 |</p>
+<hr>
+<h2>三、REA 是什么</h2>
+<h3>3.1 先理解一个前提：MCP 是什么</h3>
+<p>REA 不是一个独立的软件界面，而是一个<strong>MCP 服务</strong>。要理解它，先得知道 MCP 是什么。</p>
+<blockquote>
+<p>📌 **术语卡**</p>
+</blockquote>
+<blockquote>
+<p>**MCP（Model Context Protocol，模型上下文协议）** = 一套统一的"接口标准"，让 AI 助手能调用外部工具。</p>
+</blockquote>
+<blockquote>
+<p>**打个比方**：就像 USB-C 接口。以前每个设备都要各自的线，现在一根线插什么都能用。MCP 就是 AI 助手的"USB-C"——只要工具按这个标准做好，AI 就能直接用，不用为每个工具单独开发一遍。</p>
+</blockquote>
+<h3>3.2 REA 的核心定位</h3>
+<p><strong>REA</strong>（Reverse Engineer Anything）是一个把所有逆向工具打包起来的 MCP 服务。它自己不写反汇编引擎，而是把 Hopper、Ghidra、Frida、apktool 这些成熟工具统一包装好，通过同一个接口交给 AI 助手调用。</p>
+<p>它对外的承诺是一句话：<strong>用一个 MCP 服务，逆向二进制文件、应用程序和运行时行为。</strong></p>
+<h3>3.3 它在整个链条里的位置</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fdf69bc22587e3ef7aec4d0983d16b29c2e253b725f737d27c6c807962f7a5c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758446f783036597546773236424c46484a746c3644524b55534c6473335131506454573269617a65376d69636c7752317853435a4f4b534a4b744d534f5357435770375463486d4338565564535a6c5a684c4649564c79373533646a744c6c4a53696365672f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/fdf69bc22587e3ef7aec4d0983d16b29c2e253b725f737d27c6c807962f7a5c1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758446f783036597546773236424c46484a746c3644524b55534c6473335131506454573269617a65376d69636c7752317853435a4f4b534a4b744d534f5357435770375463486d4338565564535a6c5a684c4649564c79373533646a744c6c4a53696365672f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXDox06YuFw26BLFHJtl6DRKUSLds3Q1PdTW2iaze7miclwR1xSCZOKSJKtMSOSWCWp7TcHmC8VUdSZlZhLFIVLy753djtLlJSiceg/640?from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：请注意看箭头的方向。你在最上面用中文提一个问题，AI 助手把它翻译成工具调用，REA 去调用真正的分析引擎，引擎去检查目标软件，最后结果要<strong>带着证据</strong>原路返回给你。这里最关键的一环是最右边那条虚线回来的箭头——REA 返回的不是一句"我觉得是这样"，而是"我在第几行、哪个文件里看到了什么"。这一点后面第 4 期我们会专门展开。</p>
+<p>另外注意整张图都在「你的电脑」这个框里：<strong>分析过程是在你本机跑的，目标文件不会被传到任何服务器</strong>。</p>
+<h3>3.4 三个关键特点</h3>
+<p>| 特点 | 具体含义 | 为什么重要 |</p>
+<p>|------|---------|-----------|</p>
+<p>| 统一入口 | 所有能力通过一个 MCP 服务提供 | 不用在十几个工具之间来回切 |</p>
+<p>| 证据优先 | 每个结论都附带出处和限制说明 | 你能自己判断结论可不可信 |</p>
+<p>| 本机分析 | 目标文件不上传 | 处理公司内部的敏感程序时，这点很关键 |</p>
+<hr>
+<h2>四、它到底能分析哪些东西</h2>
+<p>这是很多人最关心的问题。REA 的能力覆盖面相当广，我们按"从文件到运行时"分成四个层次来看。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/47f4dbfe169dda7d12afc5fd39170acc627f1ccc86c4a6ca697da719d23f550b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758444f7a5564477872484f564c786d79714c416b486a363356704e623270504c557551364448394269633863785a544266755832364a596150357a69626f4573524f6961696249674477534a58756f57536d5469626a446963356c50666530416349346f675a4e512f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/47f4dbfe169dda7d12afc5fd39170acc627f1ccc86c4a6ca697da719d23f550b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758444f7a5564477872484f564c786d79714c416b486a363356704e623270504c557551364448394269633863785a544266755832364a596150357a69626f4573524f6961696249674477534a58756f57536d5469626a446963356c50666530416349346f675a4e512f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/eiaziaRIXLGXDOzUdGxrHOVLxmyqLAkHj63VpNb2pPLUuQ6DH9Bic8cxZTBfuX26JYaP5ziboEsROiaibIgDwSJXuoWSmTibjDic5lPfe0AcI4ogZNQ/640?from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：这四层是递进关系，但不是每次都要走完。第一层最省事——文件摆在那儿就能看，不需要装任何逆向引擎，这也是我们第 3 期的入门切入点。越往下走，信息越"活"，但需要的环境也越复杂。记住一个原则：<strong>能用上面一层解决的问题，就别往下走</strong>。</p>
+<p>下面这张表是官方文档里"能分析什么"的精简版，挑了最常用的几类：</p>
+<p>| 目标类型 | REA 能告诉你什么 | 额外需要装什么 |</p>
+<p>|---------|----------------|--------------|</p>
+<p>| JavaScript / Electron 应用 | 有哪些模块、谁引用了谁、主进程和渲染进程怎么通信 | <strong>无</strong>（只要 Node.js） |</p>
+<p>| .NET 程序集 | 元数据、中间指令、声明了哪些原生依赖 | <strong>无</strong>（静态检查） |</p>
+<p>| 原生二进制 | 伪代码、汇编、字符串、调用关系 | Hopper / Ghidra / IDA 三选一 |</p>
+<p>| Android APK | 应用声明了什么权限、反编译后的方法 | 无界面 JADX + 完整 JDK |</p>
+<p>| 网站 | 页面结构、脚本、网络请求、截图 | Chrome 系浏览器 |</p>
+<p>| 网络抓包文件 | 请求和响应明细、载荷内容 | HAR 文件，或 Linux 上的 mitmdump |</p>
+<p>| 进程行为 | 程序输出了什么、动了哪些文件 | 支持原生 PTY 的 Linux / macOS |</p>
+<blockquote>
+<p>💡 **小提示**：如果你只想先体验一下 REA 能干什么，**从 JavaScript 应用入手**。这是唯一一类不需要你额外安装任何逆向引擎的目标，下一期装完就能立刻玩起来。</p>
+</blockquote>
+<hr>
+<h2>五、和传统方式比，到底省了什么</h2>
+<p>说了这么多，可能有同学会问：我自己用 IDA 不是也能看吗？区别在哪？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f3264d74efd777baafb34dcfb4b6c2d9078a5c4052ee260461c818865078e2e8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475843334f6e644273774c316c35314779386539324564716e6d7a4a485032753758383371617966566c71645677656e5472506a616e5a776673316d53537939754d66324c4b79464143667174495357487430483531544c77456a5a68474a5a3665732f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/f3264d74efd777baafb34dcfb4b6c2d9078a5c4052ee260461c818865078e2e8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475843334f6e644273774c316c35314779386539324564716e6d7a4a485032753758383371617966566c71645677656e5472506a616e5a776673316d53537939754d66324c4b79464143667174495357487430483531544c77456a5a68474a5a3665732f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXC3OndBswL1l51Gy8e92EdqnmzJHP2u7X83qayfVlqdVwenTrPjanZwfs1mSSy9uMf2LKyFACfqtISWHt0H51TLwEjZhGJZ6es/640?from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：横轴是"有多少活交给了 AI"，纵轴是"结论靠不靠谱"。右上角是理想区域——<strong>让 AI 干体力活，但每个结论都要能追溯到证据</strong>，这正是 REA 的设计目标。右下角那两个"一键出报告"的位置要警惕：看着省事，但结论没有出处，你没法判断它是不是在编。</p>
+<p>更直观一点，看这张对比表：</p>
+<p>| 环节 | 传统手工逆向 | 用 REA |</p>
+<p>|------|------------|--------|</p>
+<p>| 定位目标代码 | 靠经验搜索字符串、翻符号表 | 用中文描述功能，让 AI 去追 |</p>
+<p>| 跨工具切换 | 自己在不同软件间导数据 | 同一个对话里连续调用 |</p>
+<p>| 结论可信度 | 自己看明白了才算数 | 每步都带证据和"不确定的部分" |</p>
+<p>| 上手门槛 | 要懂汇编、懂文件格式 | 会描述问题就行 |</p>
+<p>| 复现与分享 | 靠截图和笔记 | 结果可导出，证据可复查 |</p>
+<blockquote>
+<p><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> **常见误区**：很多人以为用了这类工具，AI 就能"自动破解软件"。不是这样。REA 给你的是**检查能力**和**证据**，真正把结论串起来、判断哪个函数是关键，仍然需要你的判断力（或者 AI 的推理，但你要盯着证据看）。把它理解成"一个不会累、记性好、但偶尔会想当然的实习生"比较合适。</p>
+</blockquote>
+<hr>
+<h2>六、谁适合学这套教程</h2>
+<p>先说适合的人：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b86abd5c57c380ca49bc7cb73a185a074a88eaae7faf5cd8145b62fb318fc59c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758444f4e4d517a4771366a6c67696330316447554d767766737443393746436d67546d5648414764344762443264667a69614834685562665a4253643339574642724d35794c3149416963787a344b7730457965754764655a4148675876596f584978634d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/b86abd5c57c380ca49bc7cb73a185a074a88eaae7faf5cd8145b62fb318fc59c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758444f4e4d517a4771366a6c67696330316447554d767766737443393746436d67546d5648414764344762443264667a69614834685562665a4253643339574642724d35794c3149416963787a344b7730457965754764655a4148675876596f584978634d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXDONMQzGq6jlgic01dGUMvwfstC97FCmgTmVHAGd4GbD2dfziaH4hUbfZBSd39WFBrM5yL1IAicxz4Kw0EyeuGdeZAHgXvYoXIxcM/640?from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：三类人最受益。第一类是"看到好东西想学会"的开发者——这是 REA 宣传语里最强调的场景。第二类做安全合规的同学，REA 的"证据"设计对你尤其有用，因为结论要能拿去汇报。第三类是接手了老系统的倒霉同事，源码没了只剩一个能跑的程序，这时候逆向几乎是唯一出路。</p>
+<p>再说<strong>暂时不适合</strong>的人，这里我得说实话：</p>
+<ul>
+<li>
+<p><strong>完全没写过代码的人</strong></p>
+<p>：这套教程假设你能看懂基本的编程概念（函数、调用、模块）。如果你分不清"函数"和"文件"，建议先补一点编程基础，不然第 5 期讲伪代码会很吃力。</p>
+</li>
+<li>
+<p><strong>只想找破解方法的人</strong></p>
+<p>：请直接关掉。REA 官方文档写得很明确，它用于合法的研究、教育、互操作性、软件保存，以及分析<strong>你拥有或获准检查的软件</strong>。</p>
+</li>
+</ul>
+<hr>
+<h2>七、一条不能碰的红线</h2>
+<p>这一节我放在第 1 期，因为它比任何技术细节都重要。</p>
+<p>REA 的官方免责声明里写得很清楚：这个项目用于<strong>合法的研究、教育、互操作性、软件保存，以及分析你拥有或获准检查的软件</strong>。</p>
+<p>翻译成人话，就是三条：</p>
+<p>1. <strong>只分析你有权利分析的东西</strong>——你自己写的程序、公司授权你检查的软件、明确允许逆向的开源项目。</p>
+<p>2. <strong>商业工具要自己买授权</strong>——REA 本身是 MIT 协议的免费开源软件，但它调用的 Hopper、IDA Pro、JEB 这些商业工具，授权得你自己合法取得。REA 不提供、也不提供任何绕过授权的方法。</p>
+<p>3. <strong>运行时分析有实际影响</strong>——让程序真跑起来、插桩、抓包，这些操作会以你的用户权限产生真实副作用。执行前先看清楚它要做什么。</p>
+<blockquote>
+<p><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> **注意**：本教程所有示例都基于"分析你自己的程序或获授权的目标"。任何把这套方法用在未授权目标上的行为，既违反 REA 的使用立场，也大概率违反你所在地的法律。这不是免责套话，是这套工具能长期存在的前提。</p>
+</blockquote>
+<hr>
+<h2>📝 本期小结</h2>
+<p>记住这三句就够了：</p>
+<p>1. <strong>逆向工程 = 把成品拆开反推做法</strong>，不等于破解。</p>
+<p>2. <strong>REA 是一个 MCP 服务</strong>，它把一堆逆向工具打包成统一接口，让 AI 助手能调用；分析在你本机跑，不上云。</p>
+<p>3. <strong>REA 最大的特点不是"自动"，而是"带证据"</strong>——每个结论都能追溯到具体位置，包括它不确定的部分。</p>
+<p>速查表：</p>
+<p>| 你想知道 | 看这里 |</p>
+<p>|---------|-------|</p>
+<p>| 我能分析什么 | 文件 / 应用 / 运行时 / 网络四层，见第四节 |</p>
+<p>| 需要装什么 | JavaScript 分析零额外依赖；原生分析要 Hopper/Ghidra/IDA |</p>
+<p>| 和手工逆向的区别 | AI 干活 + 证据可追溯，见第五节 |</p>
+<p>| 合法边界是什么 | 只分析你拥有或获准检查的软件，见第七节 |</p>
+<hr>
+<h2>✍️ 动手练一练</h2>
+<p>这一期不动手装软件，先做一件更容易被忽略的事：</p>
+<p><strong>找一个小目标，确认你有权分析它。</strong></p>
+<p>具体做法：在你自己的项目里，挑一个你写过、但已经编译打包过的程序（比如一个 Electron 小工具、一个 .NET 小工具，或者任意一个你能拿到源码对照的程序）。</p>
+<p>在纸上写三行：</p>
+<pre class="notranslate"><code class="notranslate"> 目标程序：&lt;名字&gt; 我有权分析它的原因：&lt;自己写的 / 公司授权 / 开源协议允许&gt; 我最想搞明白的一个功能：&lt;一句话&gt; 
+</code></pre>
+<p><strong>为什么先做这个</strong>：后面几期所有的操作都会用到这个目标。而且先确认权利，能帮你养成一个受用很久的习惯——拿到工具的第一反应是"我能用它做什么"，而不是"它能突破什么"。</p>
+<blockquote>
+<p>参考答案方向：如果你手上暂时没有合适的小工具，第 3 期我们会用一个公开的 Electron 示例应用来练手，不影响跟进度。</p>
+</blockquote>
+<hr>
+<h2>👉 下期预告</h2>
+<p>第 2 期我们正式动手：<strong>10 分钟把 REA 装好，接进你的 AI 助手。</strong></p>
+<p>会讲到：你的 Node.js 版本够不够（这里有个很容易踩的版本坑）、<code class="notranslate">npx rea-agents setup</code> 这条命令到底改了你电脑上的哪些文件、装完之后怎么确认真的装好了、以及如果终端模式更合你口味，该怎么用命令行直接跑。</p>
+<p>装完之后，第 3 期我们就能跑通第一个完整的调查了。</p>
+<hr>
+<p>*关注公众号，回复「REA」获取完整教程资料*</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
