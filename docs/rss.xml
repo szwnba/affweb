@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Fri, 16 Oct 2026 18:37:35 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>REA + Reverse-skill + PentAGI复刻任何软件</title><link>https://126.plus/post/REA%20%2B%20Reverse-skill%20%2B%20PentAGI-fu-ke-ren-he-ruan-jian.html</link><description>![](https://mmbiz.qpic.cn/sz_mmbiz_png/JdznImgLVOkRXL7bLB2FTlLGibYwqOFUmhia1XgnNJkFHxTTvTpHDT5Yd37IWUoy4p9qDhxFHB4WolicAsjUh0m6Gdhs9UCIEMqMqwhu4WoSg4/640?wx_fmt=png&amp;watermark=1#imgIndex=0)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Fri, 16 Oct 2026 19:36:33 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>REA + Reverse-skill + PentAGI复刻任何软件</title><link>https://126.plus/post/REA%20%2B%20Reverse-skill%20%2B%20PentAGI-fu-ke-ren-he-ruan-jian.html</link><description>![](https://mmbiz.qpic.cn/sz_mmbiz_png/JdznImgLVOkRXL7bLB2FTlLGibYwqOFUmhia1XgnNJkFHxTTvTpHDT5Yd37IWUoy4p9qDhxFHB4WolicAsjUh0m6Gdhs9UCIEMqMqwhu4WoSg4/640?wx_fmt=png&amp;watermark=1#imgIndex=0)
 
 最近 REA 在 X 刷屏了。</description><guid isPermaLink="true">https://126.plus/post/REA%20%2B%20Reverse-skill%20%2B%20PentAGI-fu-ke-ren-he-ruan-jian.html</guid><pubDate>Fri, 16 Oct 2026 18:36:57 +0000</pubDate></item><item><title>AI写代码越来越快，测试却跟不上了？这个开源框架想换一种活法 | e2e</title><link>https://126.plus/post/AI-xie-dai-ma-yue-lai-yue-kuai-%EF%BC%8C-ce-shi-que-gen-bu-shang-le-%EF%BC%9F-zhe-ge-kai-yuan-kuang-jia-xiang-huan-yi-zhong-huo-fa-%20-%20e2e.html</link><description>![](https://mmbiz.qpic.cn/mmbiz_png/bibsWpXx0MPnfICSaQTV051ibXGJOCghTsEPVBPo9DohrSzaUeSfL3br5OPewqc5GVkibG2ZlUuSHSB176KviasK9xUewKQhuF6667ibicibyUZKcc/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0)
 
@@ -7,7 +7,18 @@
 
 ### 导读
 
-Playwright 官方同时提供 MCP 和 CLI + Skills 两种浏览器自动化方案。</description><guid isPermaLink="true">https://126.plus/post/Playwright%20MCP%20vs%20CLI%20%2B%20Skills%EF%BC%9AAI%20-liu-lan-qi-zi-dong-hua-ce-shi-jia-gou-yu-zhi-xing-xiao-lv-dui-bi.html</guid><pubDate>Fri, 16 Oct 2026 12:34:24 +0000</pubDate></item><item><title>REA 逆向工程实战 第1期：认识 REA——让 AI 当你的软件解剖师</title><link>https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-1-qi-%EF%BC%9A-ren-shi-%20REA%E2%80%94%E2%80%94-rang-%20AI%20-dang-ni-de-ruan-jian-jie-pou-shi.html</link><description>&gt; 适合人群：会写代码、但从没做过逆向工程的开发者
+Playwright 官方同时提供 MCP 和 CLI + Skills 两种浏览器自动化方案。</description><guid isPermaLink="true">https://126.plus/post/Playwright%20MCP%20vs%20CLI%20%2B%20Skills%EF%BC%9AAI%20-liu-lan-qi-zi-dong-hua-ce-shi-jia-gou-yu-zhi-xing-xiao-lv-dui-bi.html</guid><pubDate>Fri, 16 Oct 2026 12:34:24 +0000</pubDate></item><item><title>REA 逆向工程实战 第2期：10 分钟装好——把 REA 接进你的 AI 助手</title><link>https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-2-qi-%EF%BC%9A10%20-fen-zhong-zhuang-hao-%E2%80%94%E2%80%94-ba-%20REA%20-jie-jin-ni-de-%20AI%20-zhu-shou.html</link><description>&gt; 适合人群：看完了第 1 期，准备动手的开发者
+
+&gt; 阅读时间：约 8 分钟
+
+&gt; 往期回顾：\[第1期：认识 REA——让 AI 当你的'软件解剖师'\](01-第1期-认识REA.md)
+
+* * *
+
+本期导读
+----
+
+装开发工具最让人没底的，不是步骤难，而是不知道它偷偷改了你电脑上哪些文件。</description><guid isPermaLink="true">https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-2-qi-%EF%BC%9A10%20-fen-zhong-zhuang-hao-%E2%80%94%E2%80%94-ba-%20REA%20-jie-jin-ni-de-%20AI%20-zhu-shou.html</guid><pubDate>Fri, 16 Oct 2026 10:10:50 +0000</pubDate></item><item><title>REA 逆向工程实战 第1期：认识 REA——让 AI 当你的软件解剖师</title><link>https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-1-qi-%EF%BC%9A-ren-shi-%20REA%E2%80%94%E2%80%94-rang-%20AI%20-dang-ni-de-ruan-jian-jie-pou-shi.html</link><description>&gt; 适合人群：会写代码、但从没做过逆向工程的开发者
 
 &gt; 阅读时间：约 8 分钟
 

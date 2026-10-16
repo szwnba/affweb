@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 适合人群：看完了第 1 期，准备动手的开发者
+
+> 阅读时间：约 8 分钟
+
+> 往期回顾：\[第1期：认识 REA——让 AI 当你的'软件解剖师'\](01-第1期-认识REA.md)
+
+* * *
+
+本期导读
+----
+
+装开发工具最让人没底的，不是步骤难，而是不知道它偷偷改了你电脑上哪些文件。">
+<meta property="og:title" content="REA 逆向工程实战 第2期：10 分钟装好——把 REA 接进你的 AI 助手">
+<meta property="og:description" content="> 适合人群：看完了第 1 期，准备动手的开发者
+
+> 阅读时间：约 8 分钟
+
+> 往期回顾：\[第1期：认识 REA——让 AI 当你的'软件解剖师'\](01-第1期-认识REA.md)
+
+* * *
+
+本期导读
+----
+
+装开发工具最让人没底的，不是步骤难，而是不知道它偷偷改了你电脑上哪些文件。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/REA%20-ni-xiang-gong-cheng-shi-zhan-%20-di-2-qi-%EF%BC%9A10%20-fen-zhong-zhuang-hao-%E2%80%94%E2%80%94-ba-%20REA%20-jie-jin-ni-de-%20AI%20-zhu-shou.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>REA 逆向工程实战 第2期：10 分钟装好——把 REA 接进你的 AI 助手</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">REA 逆向工程实战 第2期：10 分钟装好——把 REA 接进你的 AI 助手</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/821" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>适合人群：看完了第 1 期，准备动手的开发者</p>
+</blockquote>
+<blockquote>
+<p>阅读时间：约 8 分钟</p>
+</blockquote>
+<blockquote>
+<p>往期回顾：[第1期：认识 REA——让 AI 当你的"软件解剖师"](01-第1期-认识REA.md)</p>
+</blockquote>
+<hr>
+<h2>本期导读</h2>
+<p>装开发工具最让人没底的，不是步骤难，而是不知道它偷偷改了你电脑上哪些文件。这一期我们把安装过程拆成看得见的五步，每一步都说清楚"它要动什么、你该看到什么"。另外会重点讲两个真实存在的坑：一个是 Node.js 版本要求卡得很具体，另一个是装完之后怎么确认真的生效了——很多人卡在这一步，以为是没装上。</p>
+<hr>
+<h2>一、为什么建议你先看完再动手</h2>
+<p>先说一个真实情况：<code class="notranslate">npx rea-agents setup</code> 这条命令会<strong>修改你的 AI 助手配置文件</strong>，而且支持好几种助手。</p>
+<p>它有备份机制，不是危险的。但你可能不想在没搞清楚之前就让它改文件——尤其是你已经在用 Claude Code 或 Cursor 做正经项目的时候。</p>
+<p>所以这一期的顺序是：<strong>先看清楚它会动什么 → 再执行 → 最后验证</strong>。整个过程大约 10 分钟。</p>
+<hr>
+<h2>二、装之前：先确认三件事</h2>
+<h3>2.1 第一件事：你的 Node.js 版本够不够</h3>
+<p>这是最容易踩的坑，而且报错信息往往不直接告诉你原因。REA 官方要求是：</p>
+<p>| 可以用的版本 | 具体小版本要求 |</p>
+<p>|-------------|--------------|</p>
+<p>| Node.js 22.x | <strong>必须 ≥ 22.19</strong> |</p>
+<p>| Node.js 24.x | <strong>必须 ≥ 24.11</strong> |</p>
+<p>| Node.js 26 及以上 | 无额外限制 |</p>
+<blockquote>
+<p><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> **注意**：注意看第一列和第二列的差别。你装了 Node.js 22 不代表就能用——如果小版本是 22.18，刚好差一点，是会失败的。这类"大版本对、小版本不对"的情况最浪费时间，因为你会反复怀疑是不是别的地方出问题了。</p>
+</blockquote>
+<p>检查一下你现在的版本，打开终端（Windows 用 PowerShell 或 Git Bash，macOS 用终端）输入：</p>
+<pre class="notranslate"><code class="notranslate"> node -v 
+</code></pre>
+<p>看到的结果如果是 <code class="notranslate">v22.19.0</code>、<code class="notranslate">v24.11.0</code> 这种，就没问题。如果是 <code class="notranslate">v22.18.0</code> 或者 <code class="notranslate">v20.x</code>，先去 Node.js 官网升级。</p>
+<p>顺手也确认一下 npm 在不在（它是 Node.js 自带的包管理工具，负责下载安装 REA）：</p>
+<pre class="notranslate"><code class="notranslate"> npm -v 
+</code></pre>
+<h3>2.2 第二件事：你打算用哪个 AI 助手</h3>
+<p>REA 的安装程序支持主流的命令行 AI 助手，包括 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等。</p>
+<blockquote>
+<p>📌 **术语卡**</p>
+</blockquote>
+<blockquote>
+<p>**命令行 AI 助手** = 在终端里跑的编程助手，能读你的代码、执行你的命令。</p>
+</blockquote>
+<blockquote>
+<p>**打个比方**：就像你旁边坐了个实习生，你说"帮我看看这个函数"，他就真的去翻你的代码文件，而不是只在聊天框里凭空回答。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3cdfb86e6acf490501cb298fec3e3e787b6add4f22734ec864ae21665c36c37c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475844386f6b7733326c38515a4e67655979514e505a625941675754517a5a41394f62454a4461696145546961624434455032376a567a4a6d323845444a7353677737396269614d6869637946504a696141654a7169635434756e38316a794e726c566569636650726f2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/3cdfb86e6acf490501cb298fec3e3e787b6add4f22734ec864ae21665c36c37c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475844386f6b7733326c38515a4e67655979514e505a625941675754517a5a41394f62454a4461696145546961624434455032376a567a4a6d323845444a7353677737396269614d6869637946504a696141654a7169635434756e38316a794e726c566569636650726f2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXD8okw32l8QZNgeYyQNPZbYAgWTQzZA9ObEJDaiaETiabD4EP27jVzJm28EDJsSgw79biaMhicyFPJiaAeJqicT4un81jyNrlVeicfPro/640?from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：这张图列的是官方支持的几种命令行助手。看最下面那张卡——<strong>只要你用的助手支持本地 MCP 服务，就算不在这个列表里，也能通过手动注册的方式用上 REA</strong>。所以不用担心自己用的工具太冷门。</p>
+<p>如果你还没用过上面任何一个，那这一期后面的 MCP 部分可以先跳过，直接看第五节「终端模式」——那部分不依赖任何 AI 助手，装完就能用。</p>
+<h3>2.3 第三件事：想清楚要不要让它自动装 Hopper</h3>
+<p>安装过程中，程序可能会问你要不要<strong>自动安装 Hopper</strong>（一个商业的反汇编软件，用来看原生二进制文件）。</p>
+<p>这里给你一个明确建议：<strong>第一次先选不装。</strong></p>
+<p>原因很简单——第 3 期我们做的第一个实验是分析 JavaScript 应用，<strong>完全不需要 Hopper</strong>。等你确实要分析原生二进制了（第 5 期），再回来装也不迟。少装一个东西，就少一个出错的可能。</p>
+<hr>
+<h2>三、正式安装：五步走</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/af61fa394209ae54d1e7898fe708943b242c0bc4213b57487e89cd7b738a0cfd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475842725237507a63696341677364357472734b795136514c47434737724b4f64554f58684a7930763869635432765a4e4e774769625664794d70745678545969614c434f69637175474b595273595948687556395531793743366348343445444b70326e4f31382f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/af61fa394209ae54d1e7898fe708943b242c0bc4213b57487e89cd7b738a0cfd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c475842725237507a63696341677364357472734b795136514c47434737724b4f64554f58684a7930763869635432765a4e4e774769625664794d70745678545969614c434f69637175474b595273595948687556395531793743366348343445444b70326e4f31382f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXBrR7PzcicAgsd5trsKyQ6QLGCG7rKOdUOXhJy0v8icT2vZNNwGibVdyMptVxTYiaLCOicquGKYRsYYHhuV9U1y7C6cH44EDKp2nO18/640?from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：这张图里有三个判断点（菱形框），我建议你重点看中间那个「同意备份配置」——这一步是你最后一次说"不"的机会，点否就完全不会动你的文件。最后一个菱形「让它列一下有哪些工具」是验证环节，很多人跳过这步，结果用了半天才发现压根没连上。</p>
+<h3>第 1 步：运行安装命令</h3>
+<p>打开终端，输入：</p>
+<pre class="notranslate"><code class="notranslate"> npx rea-agents setup 
+</code></pre>
+<blockquote>
+<p>📌 **术语卡**</p>
+</blockquote>
+<blockquote>
+<p>**npx** = Node.js 自带的一个命令，用来「临时下载并运行」一个包，不用先手动安装。</p>
+</blockquote>
+<blockquote>
+<p>**打个比方**：就像你想试吃一种零食，不用先买一大袋回家，直接在超市拿一小包尝一口。</p>
+</blockquote>
+<p>第一次运行会花一点时间下载，耐心等它出现选择界面。</p>
+<h3>第 2 步：选择你的 AI 助手</h3>
+<p>界面上会列出它检测到的助手。用方向键选择你要用的那个，回车确认。</p>
+<p>如果你装了好几个，选你<strong>日常主要用</strong>的那个。后面想加别的，重新跑一次这条命令就行。</p>
+<h3>第 3 步：检查它打算改什么，然后批准</h3>
+<p>这一步是 REA 做得比较讲究的地方——它会先把计划中的变更列给你看，包括：要往哪个配置文件里加 MCP 服务、要备份哪些已有配置、要安装哪些工作流指引。</p>
+<p><strong>看清楚再回车。</strong>  如果列出的文件路径不是你预期的（比如它改的 Cursor 配置不是你当前用的那个），这里就停下来排查。</p>
+<p>确认没问题后批准，它会自动完成三件事：备份已有配置、注册 REA 的 MCP 服务、安装匹配的工作流指引。</p>
+<h3>第 4 步：重启你的 AI 助手</h3>
+<p>这一步<strong>必须做</strong>，而且很多人会忘。MCP 服务是在助手启动时加载的，不重启的话，助手根本不知道 REA 已经装上了。</p>
+<p>关掉，重新打开。</p>
+<h3>第 5 步：验证</h3>
+<p>重启之后，在 AI 助手里随便问一句：</p>
+<pre class="notranslate"><code class="notranslate"> 你现在有哪些可用的工具？ 
+</code></pre>
+<p>或者更直接一点：</p>
+<pre class="notranslate"><code class="notranslate"> 你能用 REA 做什么？ 
+</code></pre>
+<p>如果助手的回答里出现了 REA 相关的工具名（比如带 <code class="notranslate">analyze</code>、<code class="notranslate">inspect</code> 这类前缀的工具），说明装好了。</p>
+<hr>
+<h2>四、装完没生效？按顺序排查</h2>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/973aeba474009f89d72b173d4d666d0f4367e527a3839a9c870189c3553722b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758414d554975347862646b45733652314e5167376f774c6467386e6b5a787659736e62394d33306551776961444c6a5a544f59486963543849683869636b76474d54396d6c7a46446a413748674a563969625467365557575267755741586c78373749367a412f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/973aeba474009f89d72b173d4d666d0f4367e527a3839a9c870189c3553722b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758414d554975347862646b45733652314e5167376f774c6467386e6b5a787659736e62394d33306551776961444c6a5a544f59486963543849683869636b76474d54396d6c7a46446a413748674a563969625467365557575267755741586c78373749367a412f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/eiaziaRIXLGXAMUIu4xbdkEs6R1NQg7owLdg8nkZxvYsnb9M30eQwiaDLjZTOYHicT8Ih8ickvGMT9mlzFDjA7HgJV9ibTg6UWWRguWAXlx77I6zA/640?from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：这张图的排查顺序是有讲究的——先看最简单的原因（没重启），再看配置有没有写进去，最后才怀疑版本。我见过太多人一上来就重装，结果问题只是没重启。按这个顺序来，八成的情况在前两步就能解决。</p>
+<blockquote>
+<p>💡 **小提示**：REA 更新非常快，官方在常见问题里明确说「遇到错误时先更新」。所以排查到最后一步时，与其反复试，不如先跑一次更新命令，很可能问题在新版本里已经修掉了。</p>
+</blockquote>
+<hr>
+<h2>五、不想接 AI 助手？用终端模式</h2>
+<p>如果你暂时没有命令行 AI 助手，或者就想先自己试试，REA 提供完整的命令行（CLI）用法。</p>
+<p><strong>临时用一次</strong>（不用安装）：</p>
+<pre class="notranslate"><code class="notranslate"> npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --json 
+</code></pre>
+<p>把路径换成你要分析的应用目录。注意两点：路径要写<strong>绝对路径</strong>（从盘符或根目录开始的完整路径），Windows 上建议给路径加引号，比如 <code class="notranslate">"D:/apps/example"</code>。</p>
+<p><strong>经常用的话</strong>，装成全局命令更方便：</p>
+<pre class="notranslate"><code class="notranslate"> npm install --global rea-agents rea --help 
+</code></pre>
+<p>装完之后，<code class="notranslate">rea --help</code> 会列出所有可用命令。以后就可以直接用 <code class="notranslate">rea</code> 开头了，不用每次都 <code class="notranslate">npx</code>。</p>
+<h3>两种模式怎么选</h3>
+<p>| 场景 | 推荐模式 | 原因 |</p>
+<p>|------|---------|------|</p>
+<p>| 想让 AI 帮你串起整个调查 | MCP（接助手） | 它能连续追问、自动决定下一步 |</p>
+<p>| 只要一次性拿到结果 | CLI（终端） | 干净利落，输出 JSON 好处理 |</p>
+<p>| 排查"到底装好没" | CLI（终端） | 不依赖助手，能快速确认 |</p>
+<p>| 要写进自动化脚本 | CLI（终端） | 有明确退出状态码 |</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33ff2654c1200fd72552091ab12e26cb9c3d1eb5bd1db546af2675fcb068735d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758443049756737364c326534555769633374466771584e7879524d504b6e72336e6d685a436b366f6d716d6961664a674f696141476f696163506f537063444c496b7430504132506e743574395a624b75344c7754304a337351747164696347456f4c335543302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/33ff2654c1200fd72552091ab12e26cb9c3d1eb5bd1db546af2675fcb068735d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f6569617a69615249584c4758443049756737364c326534555769633374466771584e7879524d504b6e72336e6d685a436b366f6d716d6961664a674f696141476f696163506f537063444c496b7430504132506e743574395a624b75344c7754304a337351747164696347456f4c335543302f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/eiaziaRIXLGXD0Iug76L2e4UWic3tFgqXNxyRMPKnr3nmhZCk6omqmiafJgOiaAGoiacPoSpcDLIkt0PA2Pnt5t9ZbKu4LwT0J3sQtqdicGEoL3UC0/640?from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p><strong>图下解读</strong>：左边那张卡是"接进 AI 助手"的好处——它能连续追问、自己决定下一步查什么，适合你还不知道答案在哪儿的探索阶段。右边是终端模式——干净利落，输出能直接喂给脚本。我的建议是<strong>两个都留着</strong>：平时用 MCP 模式做调查，需要确认"到底装好没"或者要批量处理时，切回终端模式。</p>
+<hr>
+<h2>六、更新与卸载</h2>
+<p>REA 迭代很快，建议保持最新。</p>
+<p><strong>全局安装的 CLI</strong>：</p>
+<pre class="notranslate"><code class="notranslate"> rea update 
+</code></pre>
+<p><strong>用 npx 装的助手配置</strong>：</p>
+<pre class="notranslate"><code class="notranslate"> npx rea-agents@latest setup 
+</code></pre>
+<blockquote>
+<p><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> **注意**：更新完助手配置之后，**记得再重启一次 AI 助手**——和第 4 步是一个道理。</p>
+</blockquote>
+<p>卸载方法、以及手动注册 MCP 的完整说明，在官方的《安装与设置》文档里，这里不展开，因为大多数人暂时用不上。</p>
+<hr>
+<h2>📝 本期小结</h2>
+<p>1. <strong>装之前先查 Node.js 版本</strong>，要求卡到小版本（22.x 需 ≥22.19，24.x 需 ≥24.11），这是最高频的坑。</p>
+<p>2. <strong>安装就是一条命令</strong>：<code class="notranslate">npx rea-agents setup</code>，五步走完——运行、选助手、批准变更、重启、验证。</p>
+<p>3. <strong>装完必须验证</strong>：问助手"你有哪些工具"，看不到 REA 的工具就说明没连上，回头按第四节的流程图排查。</p>
+<p>速查表：</p>
+<p>| 你要做什么 | 命令 / 动作 |</p>
+<p>|-----------|------------|</p>
+<p>| 检查环境 | <code class="notranslate">node -v</code> 看小版本是否达标 |</p>
+<p>| 安装到 AI 助手 | <code class="notranslate">npx rea-agents setup</code> |</p>
+<p>| 临时用一次 | <code class="notranslate">npx -y rea-agents@latest analyze-javascript-application &lt;路径&gt; --json</code> |</p>
+<p>| 装成全局命令 | <code class="notranslate">npm install --global rea-agents</code> |</p>
+<p>| 更新 | <code class="notranslate">rea update</code> 或 <code class="notranslate">npx rea-agents@latest setup</code> |</p>
+<p>| 装完必做 | 重启 AI 助手 |</p>
+<hr>
+<h2>✍️ 动手练一练</h2>
+<p>这一期的练习只有一个动作，但非常重要：</p>
+<p><strong>把 <code class="notranslate">npx rea-agents setup</code> 跑起来，并且走完「批准」那一步之前就停下来。</strong></p>
+<p>具体做法：</p>
+<p>1. 打开终端，运行 <code class="notranslate">npx rea-agents setup</code></p>
+<p>2. 一路走到「计划变更」那个界面</p>
+<p>3. <strong>截图保存它列出的变更内容</strong>（尤其注意：它要写入哪个配置文件、要备份哪些文件）</p>
+<p>4. 确认没问题后再批准，走完剩下的步骤</p>
+<p><strong>为什么这么做</strong>：这张截图是你以后排查问题的第一手资料。等你哪天换了电脑、或者助手突然连不上了，你会想知道"当初它到底往哪儿写了什么"。</p>
+<blockquote>
+<p>参考答案方向：正常情况下，变更清单里应该能看到 MCP 服务的注册信息、一个备份动作、以及工作流指引的安装位置。如果你看到它要动的文件完全在你的项目目录之外（比如动了某个你不认识的配置），停下来先搞清楚。</p>
+</blockquote>
+<hr>
+<h2>👉 下期预告</h2>
+<p>第 3 期我们跑通<strong>第一个完整的调查</strong>：用一句中文，让 AI 帮你把一个 Electron 应用的内部结构摸清楚。</p>
+<p>会讲到：为什么从 JavaScript 应用入手是最聪明的起点（零额外依赖）、<code class="notranslate">analyze-javascript-application</code> 返回的那堆 JSON 里每一项到底是什么意思、以及——同样一个问题，怎么问能得到好结果，怎么问会得到一堆废话。</p>
+<p>这一期是整套教程里最有"成就感"的一期，建议动手跟着做。</p>
+<hr>
+<p>*关注公众号，回复「REA」获取完整教程资料*</p>
+<hr>
+<p>📌 本期知识卡片</p>
+<p>一图看懂本期核心，建议收藏</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b728c2a4e2785ccbfc9ffccbbeeec5236fa57d0290bdffd4b1623df80127897d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758434767595958376b49507244536f6c33386a58464d67746a356f6461737958564c716963375174336d56755458526a7a4869614657305377434b6f534c696374513353654e6a5744584e796f515877306e64456d72366a53765469626961575a6b6e6b4f544d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/b728c2a4e2785ccbfc9ffccbbeeec5236fa57d0290bdffd4b1623df80127897d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f6569617a69615249584c4758434767595958376b49507244536f6c33386a58464d67746a356f6461737958564c716963375174336d56755458526a7a4869614657305377434b6f534c696374513353654e6a5744584e796f515877306e64456d72366a53765469626961575a6b6e6b4f544d2f3634303f66726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/eiaziaRIXLGXCGgYYX7kIPrDSol38jXFMgtj5odasyXVLqic7Qt3mVuTXRjzHiaFW0SwCKoSLictQ3SeNjWDXNyoQXw0ndEmr6jSvTibiaWZknkOTM/640?from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
