@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+### 导读
+
+Playwright 官方同时提供 MCP 和 CLI + Skills 两种浏览器自动化方案。">
+<meta property="og:title" content="Playwright MCP vs CLI + Skills：AI 浏览器自动化测试架构与执行效率对比">
+<meta property="og:description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+### 导读
+
+Playwright 官方同时提供 MCP 和 CLI + Skills 两种浏览器自动化方案。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/Playwright%20MCP%20vs%20CLI%20%2B%20Skills%EF%BC%9AAI%20-liu-lan-qi-zi-dong-hua-ce-shi-jia-gou-yu-zhi-xing-xiao-lv-dui-bi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>Playwright MCP vs CLI + Skills：AI 浏览器自动化测试架构与执行效率对比</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">Playwright MCP vs CLI + Skills：AI 浏览器自动化测试架构与执行效率对比</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/822" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>关注 霍格沃兹软件测试开发 公众号，回复「<strong>资料</strong>」, 领取人工智能测试开发技术合集</p>
+</blockquote>
+<h3>导读</h3>
+<p>Playwright 官方同时提供 MCP 和 CLI + Skills 两种浏览器自动化方案。两者都能让 AI Agent 操作页面、生成测试代码、检查运行结果，但在工具调用、上下文管理和工程集成上存在差异。本文结合官方技术实现与公开评测数据，分析两种方案的架构设计、Token 开销和执行效率，并给出面向测试开发团队的性能评测方法与选型建议。</p>
+<h2>一、Playwright MCP 和 CLI + Skills，为什么值得放在一起比较？</h2>
+<p>最近用 Claude Code、Codex 做 Web 自动化测试的同学，应该对 Playwright MCP 不陌生。</p>
+<p>给 Agent 配好 MCP Server，再告诉它：</p>
+<p>“打开测试环境，完成登录，新增一条记录，检查列表是否更新。”</p>
+<p>接下来，Agent 就可以调用浏览器工具，查看页面元素、填写表单、点击按钮，再根据执行结果决定下一步操作。</p>
+<p>这种方式在页面探索、测试用例生成、失败诊断等场景中已经比较常见。</p>
+<p>但 Playwright 官方现在又提供了 <code class="notranslate">playwright-cli</code>，还专门配套了 Agent Skills。</p>
+<p>更有意思的是，微软在两个项目的官方 README 中，都提到了 MCP 与 CLI + Skills 的适用场景：对于需要同时处理代码仓库和浏览器操作的编程 Agent，官方更推荐优先考虑 CLI + Skills；对于探索式自动化、测试自修复以及需要持续分析页面状态的 Agent，MCP 仍然有使用价值。</p>
+<p>这就涉及一个实际的工程问题：</p>
+<p>如果团队已经用 Playwright MCP 搭建了 AI 自动化测试流程，是否有必要迁移到 CLI + Skills？</p>
+<p>网上有一种很流行的说法：CLI 比 MCP 省 Token，执行速度也更快。</p>
+<p>但这个结论需要结合版本来看。</p>
+<p>2026 年 7 月，Checkly 发布过一组对比测试，发现较新版本的 Playwright MCP 与 CLI + Skills 在 Token 上下文占用方面，差距已经不像早期那么明显。</p>
+<p>所以这次我们不急着判断谁更好用，先把架构和执行过程拆开看看。</p>
+<h2>二、架构对比：MCP 与 CLI + Skills 的调用链有什么区别？</h2>
+<p>两种方案都使用 Playwright 的浏览器自动化能力。</p>
+<p>区别主要出现在 Agent 和浏览器之间的工具接口，以及操作结果如何传递给模型。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a2e5e6a57ff4e41a0b9033dc4af486c1ef69d058c7aa21bb447687d67d91d4a6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665666e6a42714c756962506c6f3136756838427439544474414c5267426a3378676f79564e5632796d584d514349476c62647a4b69614453614c4d68653968457a5a384d5576344d696130386a636375456e5837336961456e65656e6c7747374556675650732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/a2e5e6a57ff4e41a0b9033dc4af486c1ef69d058c7aa21bb447687d67d91d4a6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665666e6a42714c756962506c6f3136756838427439544474414c5267426a3378676f79564e5632796d584d514349476c62647a4b69614453614c4d68653968457a5a384d5576344d696130386a636375456e5837336961456e65656e6c7747374556675650732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/w8gMgicHp6efnjBqLuibPlo16uh8Bt9TDtALRgBj3xgoyVNV2ymXMQCIGlbdzKiaDSaLMhe9hEzZ8MUv4Mia08jccuEnX73iaEneenlwG7EVgVPs/640?wx_fmt=png&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>图 1：Playwright MCP 与 CLI + Skills 双路径架构</p>
+<h3>1. Playwright MCP：Agent 调用结构化浏览器工具</h3>
+<p>MCP 使用标准工具协议暴露浏览器操作能力。</p>
+<p>例如让 Agent 打开 TodoMVC 页面，新增一条待办事项。</p>
+<p>Agent 可能依次调用：</p>
+<p><code class="notranslate">browser_navigate          ↓   browser_snapshot          ↓   browser_type          ↓   browser_snapshot   </code></p>
+<p>每个工具都定义了自己的参数结构。</p>
+<p><code class="notranslate">browser_navigate</code> 负责页面跳转，<code class="notranslate">browser_snapshot</code> 获取页面语义信息，<code class="notranslate">browser_type</code> 负责输入文本。</p>
+<p>Agent 根据工具结果继续推理，再发起下一次调用。</p>
+<p>这套结构比较适合独立的浏览器操作 Agent，尤其是需要连续分析页面、动态选择操作目标的场景。</p>
+<p>但对 Agent 而言，每一次工具调用都有潜在开销，包括工具定义、模型决策、工具执行和返回结果的上下文处理。</p>
+<h3>2. CLI + Skills：Agent 通过命令行完成操作</h3>
+<p>Playwright CLI 则把浏览器操作封装成命令。</p>
+<p>例如：</p>
+<p><code class="notranslate">playwright-cli open https://demo.playwright.dev/todomvc/   playwright-cli snapshot   playwright-cli find "What needs to be done?"   </code></p>
+<p>这里的 Skill 是一份供 Agent 阅读的操作说明，告诉它有哪些命令、适合什么场景，以及如何调试和生成测试代码。</p>
+<p>Skill 本身不执行浏览器操作。</p>
+<p>执行命令的是 Playwright CLI。</p>
+<p>CLI 会把页面快照保存为文件，再返回快照路径等信息。Agent 需要查看具体元素时，可以按需读取文件或使用 <code class="notranslate">find</code> 查询。</p>
+<p>对于编程 Agent，这种交互方式比较自然。</p>
+<p>它原本就在使用终端读取文件、修改代码、运行测试，现在只需要增加一组浏览器命令。</p>
+<p>不过也有一个细节容易被忽略：</p>
+<p>Playwright CLI 并没有重新实现一套完全独立的浏览器自动化引擎。</p>
+<p>较新版本的 CLI 和 MCP 复用了相当一部分底层能力。Checkly 在对比中也观察到，CLI 命令在内部会调用相应的 Playwright 浏览器工具，两者返回的结果已经十分接近。</p>
+<p>因此，浏览器本身的执行性能不应该因为换了工具入口，就被预期产生数量级的提升。</p>
+<p>真正有必要测试的是 Agent 完成整个任务需要多少轮交互、消耗多少上下文，以及最终是否正确完成测试。</p>
+<h2>Playwright mcp技术学习交流群</h2>
+<p>伙伴们，对AI测试、大模型评测、质量保障感兴趣吗？我们建了一个 <strong>「Playwright mcp技术学习交流群」</strong>，专门用来探讨相关技术、分享资料、互通有无。无论你是正在实践还是好奇探索，都欢迎扫码加入，一起抱团成长！期待与你交流！👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/91ef0d5e747b32488af24f0fdbc75cfc7846399d21f5086964678181708518ff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5339494e715437446139326f4d636139556779666468724b326356553576566f6961796a5073657665746870586a774834616e6a707563323679586d7359443375424d43764c386961424c544f42784e4a756e57746e41772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d30"><img src="https://camo.githubusercontent.com/91ef0d5e747b32488af24f0fdbc75cfc7846399d21f5086964678181708518ff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5339494e715437446139326f4d636139556779666468724b326356553576566f6961796a5073657665746870586a774834616e6a707563323679586d7359443375424d43764c386961424c544f42784e4a756e57746e41772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/S9INqT7Da92oMca9UgyfdhrK2cVU5vVoiayjPsevethpXjwH4anjpuc26yXmsYD3uBMCvL8iaBLTOBxNJunWtnAw/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=0" style="max-width: 100%;"></a></p>
+<h2>三、Token 消耗：CLI 为什么曾经明显领先 MCP？</h2>
+<p>要理解两种方案的性能差异，先要弄明白 Token 消耗在哪里。</p>
+<p>以一个包含大量表单、表格和弹窗的后台管理页面为例。</p>
+<p>Agent 执行测试时，一般需要经过以下过程：</p>
+<ol>
+<li>
+<p>理解测试任务。</p>
+</li>
+<li>
+<p>获取页面结构。</p>
+</li>
+<li>
+<p>确定目标元素。</p>
+</li>
+<li>
+<p>执行浏览器操作。</p>
+</li>
+<li>
+<p>读取页面变化。</p>
+</li>
+<li>
+<p>判断操作结果。</p>
+</li>
+</ol>
+<p>其中，第 2 步和第 5 步可能产生大量页面上下文。</p>
+<h3>1. 早期 MCP 的两个开销</h3>
+<p>2025 年的一些 MCP 实现存在两类明显的上下文开销。</p>
+<p>一类是工具定义。</p>
+<p>Agent 连接 MCP Server 时，可能需要将大量工具 Schema 加载到模型上下文中。</p>
+<p>另一类是页面快照。</p>
+<p>过去，一次点击或输入操作可能会返回完整的页面语义树。操作越多，模型上下文中积累的页面内容就越多。</p>
+<p>在 Checkly 的文章中，作者提到早期 Playwright MCP 的 48 个工具定义大约占用 5.9K Token。</p>
+<p>对于需要同时读取代码仓库、测试文件、错误日志的 Agent，这种额外开销确实值得关注。</p>
+<p>CLI + Skills 的优势便由此体现出来：Agent 可以按需读取 Skill 文档，通过简洁的命令执行操作，再读取必要的结果。</p>
+<h3>2. 2026 年，两种方案的差距缩小了</h3>
+<p>这里有一个技术变化。</p>
+<p>较新的 Agent 客户端已经支持按需加载 MCP 工具定义，不必一次性将所有工具说明放进上下文。</p>
+<p>Playwright MCP 也支持将页面快照保存成文件，让 Agent 根据需要读取，避免反复把整棵页面语义树塞进模型上下文。</p>
+<p>也就是说，过去 CLI 通过文件管理页面状态的优势，如今 MCP 也可以部分获得。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ef2be7144db0ff219748e60a17194d75db63c2de623e9ea44ee6d1bc1c6e3ba/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665644469614976716b7768556364544d474167395a4d6a30644d6d31666568485a7a333053527669627850736963314b6869627864586962626b35654f73414d62574c384632767963654b6c69635878646f7674315463787a4930794d7a5a5247763169636c6254772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/2ef2be7144db0ff219748e60a17194d75db63c2de623e9ea44ee6d1bc1c6e3ba/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d67696348703665644469614976716b7768556364544d474167395a4d6a30644d6d31666568485a7a333053527669627850736963314b6869627864586962626b35654f73414d62574c384632767963654b6c69635878646f7674315463787a4930794d7a5a5247763169636c6254772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/w8gMgicHp6edDiaIvqkwhUcdTMGAg9ZMj0dMm1fehHZz30SRvibxPsic1KhibxdXibbk5eOsAMbWL8F2vyceKlicXxdovt1TcxzI0yMzZRGv1iclbTw/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>图 2：MCP 与 CLI + Skills 的页面上下文传递</p>
+<p>从这张图可以看出，当前两种方案都支持按需获取页面信息。</p>
+<p>但最终的 Token 开销仍然取决于 Agent 是否合理使用这些能力。</p>
+<p>例如，有的 Agent 每执行一次点击就读取完整页面快照；有的 Agent 只在页面状态变化后查询目标区域。</p>
+<p>即使使用同一套浏览器工具，两种调用习惯也可能产生明显不同的开销。</p>
+<h3>3. 公开评测数据能说明什么？</h3>
+<p>Checkly 在 2026 年 7 月 30 日发布了一项小规模对比。</p>
+<p>评测使用 Claude Code，要求 Agent 在演示购物网站中搜索商品、添加购物车，再验证购物车金额。</p>
+<p>MCP 和 CLI + Skills 分别执行了三次。</p>
+<p>|</p>
+<p>评测方案</p>
+<p>|</p>
+<p>任务结束时的上下文规模</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>Playwright MCP</p>
+<p>|</p>
+<p>约 48K～50K Token</p>
+<p>|<br>
+|</p>
+<p>CLI + Skills</p>
+<p>|</p>
+<p>约 45K～48K Token</p>
+<p>|</p>
+<p>数据来源：Checkly 的 [MCP 与 CLI Token 效率评测]</p>
+<p>这组结果中，CLI 的上下文占用略低，但没有出现早期部分评测宣称的数倍差距。</p>
+<p>需要注意两点。</p>
+<p>第一，这里统计的是任务结束时的上下文规模，不能直接当作整个任务的 API 计费 Token。</p>
+<p>第二，每组只有三次运行，样本量不足以得出稳定的性能排名，也没有充分反映复杂页面、工具失败重试等情况。</p>
+<p>所以，对于准备落地的团队，这些公开数据适合作为参考，不适合直接写进内部性能验收标准。</p>
+<h2>四、实战对比：让 MCP 和 CLI 执行同一条测试用例</h2>
+<p>为了让评测过程可重复，最好选一个公开、稳定、无需登录的测试应用。</p>
+<p>这里使用 Playwright 官方 TodoMVC：</p>
+<p><a href="https://demo.playwright.dev/todomvc/" rel="nofollow">https://demo.playwright.dev/todomvc/</a></p>
+<p>测试任务包含三步：</p>
+<p>新增待办事项、标记为完成、检查完成状态。</p>
+<h3>1. 先定义统一的验收条件</h3>
+<p>无论 Agent 使用哪一种浏览器工具，最终必须满足相同的业务断言。</p>
+<p>我们可以用一条独立的 Playwright Test 代码作为验收基准：</p>
+<p>`import { test, expect } from '@playwright/test';</p>
+<p>test('新增并完成待办事项', async ({ page }) =&gt; {<br>
+  await page.goto('<a href="https://demo.playwright.dev/todomvc/" rel="nofollow">https://demo.playwright.dev/todomvc/</a>');</p>
+<p>  const title = '学习 AI 自动化测试';</p>
+<p>  const input = page.getByPlaceholder(<br>
+'What needs to be done?'<br>
+  );</p>
+<p>  await input.fill(title);<br>
+  await input.press('Enter');</p>
+<p>  const todo = page.locator('.todo-list li')<br>
+    .filter({ hasText: title });</p>
+<p>  await expect(todo).toHaveCount(1);</p>
+<p>  await todo.locator('input.toggle').check();</p>
+<p>  await expect(todo).toHaveClass(/completed/);<br>
+});<br>
+`</p>
+<p>这条测试定义了明确的通过条件：</p>
+<ul>
+<li>
+<p>新增的待办事项必须存在。</p>
+</li>
+<li>
+<p>页面中只能有一条匹配记录。</p>
+</li>
+<li>
+<p>点击完成复选框后，事项必须进入已完成状态。</p>
+</li>
+</ul>
+<p>让两个 Agent 分别执行同样的任务，再用这套验收标准检查结果。</p>
+<h3>2. MCP 方案：结构化工具调用</h3>
+<p>在支持 MCP 的 Agent 客户端中配置 Playwright：</p>
+<p><code class="notranslate">{   "mcpServers": {   "playwright": {   "command": "npx",   "args": ["-y", "@playwright/mcp@latest"]       }     }   }   </code></p>
+<p>Agent 可以使用 <code class="notranslate">browser_navigate</code> 打开页面，通过 <code class="notranslate">browser_snapshot</code> 获取目标元素，再执行输入、点击和状态验证。</p>
+<p>如果需要进一步定位问题，可以通过 <code class="notranslate">browser_find</code> 获取候选目标，并使用 <code class="notranslate">browser_generate_locator</code> 生成定位器。</p>
+<h3>3. CLI + Skills 方案：命令行操作</h3>
+<p>安装 CLI：</p>
+<p><code class="notranslate">npm install -g @playwright/cli@latest   </code></p>
+<p>安装对应 Skills：</p>
+<p><code class="notranslate">playwright-cli install --skills   </code></p>
+<p>执行页面操作：</p>
+<p>`# 打开演示页面<br>
+playwright-cli open <a href="https://demo.playwright.dev/todomvc/" rel="nofollow">https://demo.playwright.dev/todomvc/</a></p>
+<h1>查看页面结构</h1>
+<p>playwright-cli snapshot --depth=4</p>
+<h1>新增待办事项</h1>
+<p>playwright-cli fill \<br>
+"getByPlaceholder('What needs to be done?')" \<br>
+"学习 AI 自动化测试" \<br>
+  --submit</p>
+<h1>查找新增内容</h1>
+<p>playwright-cli find "学习 AI 自动化测试"<br>
+`</p>
+<p>随后，Agent 可以读取当前页面快照，找到对应的复选框，再使用 <code class="notranslate">playwright-cli check</code> 完成勾选。</p>
+<p>例如：</p>
+<p><code class="notranslate">playwright-cli check e21   </code></p>
+<p><code class="notranslate">e21</code> 是示意引用，实际执行时必须使用当前快照返回的元素引用，不能直接照搬。</p>
+<p>CLI 的另外一项实用能力是：浏览器操作会输出对应的 Playwright TypeScript 代码，方便 Agent 组装成正式测试用例。官方 Skills 中还提供了测试规划、代码生成及失败修复的操作流程。</p>
+<p>如果只是临时验证页面功能，两种方案都能完成。</p>
+<p>但如果目标是把测试过程保存为项目中的 <code class="notranslate">.spec.ts</code> 文件，交给 CI 持续执行，CLI + Skills 与编程 Agent 的工作流配合会比较顺畅。</p>
+<h2>五、性能评测怎么做，才能避免跑出一组没有意义的数据？</h2>
+<p>这里建议把评测分成三个层次。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfad5fac8094c638480e803e0b9a827026b64a94a3803978da35319427be919c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d6769634870366565516963375a424461744538424d6a6a79756a424d48596b686f6c41666d616a6f30633736413067636961446962713077734845774b5878746a336c5976564f4b324471576b645856386869624b6961726235504e6f7079425069616449696235586d385a4e6c772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/bfad5fac8094c638480e803e0b9a827026b64a94a3803978da35319427be919c/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7738674d6769634870366565516963375a424461744538424d6a6a79756a424d48596b686f6c41666d616a6f30633736413067636961446962713077734845774b5878746a336c5976564f4b324471576b645856386869624b6961726235504e6f7079425069616449696235586d385a4e6c772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/w8gMgicHp6eeQic7ZBDatE8BMjjyujBMHYkholAfmajo0c76A0gciaDibq0wsHEwKXxtj3lYvVOK2DqWkdXV8hibKiarb5PNopyBPiadIib5Xm8ZNlw/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>图 3：AI 浏览器自动化测试性能评测体系</p>
+<h3>第一层：执行性能</h3>
+<p>需要测量从 Agent 接收到任务，到提交最终测试结果的整个过程。</p>
+<p>这里涉及模型推理、工具调用、浏览器执行和失败重试。</p>
+<p>端到端耗时 ≈ 模型处理时间 + 工具调用开销 + 浏览器执行时间 + 重试时间</p>
+<p>如果只统计浏览器点击耗时，很可能看不出 Agent 工具链之间的差异。</p>
+<p>还需要注意冷启动和热启动。</p>
+<p>首次启动浏览器会包含额外初始化开销，而持续使用同一个浏览器会话时，这部分成本可能被摊薄。</p>
+<p>两种方案必须在一致的浏览器模式下比较。Playwright CLI 默认以无头模式启动；MCP 的默认启动方式可能不同，因此需要显式统一配置。</p>
+<h3>第二层：Token 和工具调用开销</h3>
+<p>建议使用模型提供商或 Agent 客户端的实际 Usage 数据。</p>
+<p>不要简单用页面快照文本长度推算整个任务的 Token 成本。</p>
+<p>需要分别记录：</p>
+<ul>
+<li>
+<p>模型输入与输出 Token。</p>
+</li>
+<li>
+<p>缓存命中及缓存读取情况。</p>
+</li>
+<li>
+<p>浏览器工具调用次数。</p>
+</li>
+<li>
+<p>因失败而重新执行的次数。</p>
+</li>
+</ul>
+<p>还有一项指标很实用：每个成功任务的平均成本。</p>
+<p>如果方案 A 每次消耗更少，但经常失败重试；方案 B 每次开销略高，却能稳定完成，那么从整体任务成本来看，B 也可能更划算。</p>
+<h3>第三层：任务正确性与恢复能力</h3>
+<p>这一层是测试开发团队最需要关注的。</p>
+<p>Agent 能够点击按钮，并不意味着它完成了测试。</p>
+<p>如果没有正确验证业务状态，只能算执行了页面操作。</p>
+<p>建议重点检查三个方面：</p>
+<p>|</p>
+<p>质量指标</p>
+<p>|</p>
+<p>判断依据</p>
+<p>|<br>
+| --- | --- |<br>
+|</p>
+<p>任务完成率</p>
+<p>|</p>
+<p>是否满足全部验收条件</p>
+<p>|<br>
+|</p>
+<p>断言正确性</p>
+<p>|</p>
+<p>有没有遗漏、删除或错误修改断言</p>
+<p>|<br>
+|</p>
+<p>失败恢复率</p>
+<p>|</p>
+<p>定位失败、页面超时后能否正确恢复</p>
+<p>|</p>
+<p>对于更复杂的企业后台，可以人为注入定位器失效、接口响应延迟等故障，观察 Agent 如何判断和恢复。</p>
+<p>如果涉及真实业务缺陷，还应检查 Agent 有没有为了让测试通过而改变原始预期。</p>
+<h3>实际评测结果怎么记录？</h3>
+<p>每组建议运行至少 30 次，分别计算中位数、P95 和成功率。</p>
+<p>|</p>
+<p>指标</p>
+<p>|</p>
+<p>MCP</p>
+<p>|</p>
+<p>CLI + Skills</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>任务完成率</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|<br>
+|</p>
+<p>端到端耗时 P50</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|<br>
+|</p>
+<p>端到端耗时 P95</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|<br>
+|</p>
+<p>平均计费 Token</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|<br>
+|</p>
+<p>平均工具调用次数</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|<br>
+|</p>
+<p>有效修复成功率</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>待测</p>
+<p>|</p>
+<p>评测时保持模型版本、任务提示词、测试数据、浏览器版本和运行环境一致，并为每次任务使用独立的初始状态。</p>
+<p>本文没有执行这组受控实验，因此不填入未经验证的性能数值。</p>
+<h2>六、从测试工程实践看，两种方案应该如何选型？</h2>
+<p>对于已经在使用 Playwright Test 的团队，工具选型可以直接围绕任务类型来判断。</p>
+<p>|</p>
+<p>使用场景</p>
+<p>|</p>
+<p>优先考虑</p>
+<p>|</p>
+<p>原因</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>需求驱动的自动化脚本生成</p>
+<p>|</p>
+<p>CLI + Skills</p>
+<p>|</p>
+<p>方便衔接代码仓库、编辑与回归</p>
+<p>|<br>
+|</p>
+<p>探索式 Web 自动化测试</p>
+<p>|</p>
+<p>MCP</p>
+<p>|</p>
+<p>结构化调用便于持续观察页面</p>
+<p>|<br>
+|</p>
+<p>测试失败诊断与自动修复</p>
+<p>|</p>
+<p>两者均可</p>
+<p>|</p>
+<p>重点看日志、Trace 和代码操作能力</p>
+<p>|<br>
+|</p>
+<p>长时间自主交互任务</p>
+<p>|</p>
+<p>MCP</p>
+<p>|</p>
+<p>适合独立浏览器 Agent 工作流</p>
+<p>|<br>
+|</p>
+<p>大规模固定回归测试</p>
+<p>|</p>
+<p>Playwright Test</p>
+<p>|</p>
+<p>直接执行稳定脚本更可控</p>
+<p>|</p>
+<p>还有一个实际情况值得说一下。</p>
+<p>如果团队已经使用 Claude Code 或 Codex 维护 Playwright 自动化测试项目，CLI + Skills 可以直接融入原有开发流程。</p>
+<p>比如 Agent 发现定位器失效，便可以查看页面、生成新的 Locator、修改测试文件，再执行：</p>
+<p><code class="notranslate">npx playwright test tests/todo.spec.ts   </code></p>
+<p>这条工作流比较顺畅。</p>
+<p>另一方面，如果团队正在建设独立的 AI 测试 Agent 平台，浏览器操作只是其中一组可调用工具，并且还有用例生成、测试数据、缺陷管理等多个服务，那么 MCP 的标准化工具接口会更方便统一管理。</p>
+<h3>是否需要同时保留两套方案？</h3>
+<p>不一定。</p>
+<p>如果团队中不同 Agent 承担不同任务，可以按职责分配工具。</p>
+<p>例如：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b0dac25f02d317c8978c92260436c6e116702d9318eccdb9197940c010e4c9f5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7738674d67696348703665647a77664c5473746f38696358344f6859425a38306444716d344537446158477869613847703165784e33584d71445065397256594269616962494454756a585a736f4c42715257746b727a52497667696234473959307a5873746673674d6a556569624173772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/b0dac25f02d317c8978c92260436c6e116702d9318eccdb9197940c010e4c9f5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7738674d67696348703665647a77664c5473746f38696358344f6859425a38306444716d344537446158477869613847703165784e33584d71445065397256594269616962494454756a585a736f4c42715257746b727a52497667696234473959307a5873746673674d6a556569624173772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/w8gMgicHp6edzwfLTsto8icX4OhYBZ80dDqm4E7DaXGxia8Gp1exN3XMqDPe9rVYBiaibIDTujXZsoLBqRWtkrzRIvgib4G9Y0zXstfsgMjUeibAsw/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>图 4：面向测试开发团队的 AI 自动化测试工程架构</p>
+<p>这套架构中，Agent 承担测试生成、调试与维护工作，正式回归仍然交给 Playwright Test。</p>
+<p>原因也很实际。</p>
+<p>几百条稳定用例每天都要执行，没有必要每次都让大模型重新观察页面、决定点哪个按钮。</p>
+<p>编写好的测试脚本可以直接由 Playwright Test 执行，保留可重复性和可追踪性。</p>
+<p>Agent 更适合参与需求变化、页面结构调整、测试失败等需要分析和判断的环节。</p>
+<p>在正式项目里，还需要对 Agent 的代码修改权限、测试环境访问、敏感数据读取和自动提交行为进行控制。</p>
+<h2>七、最后聊聊：CLI + Skills 会替代 Playwright MCP 吗？</h2>
+<p>至少从目前的官方定位和技术实现来看，两种方案仍然有各自适合的工作流。</p>
+<p>CLI + Skills 的使用体验更贴近编程 Agent：读取 Skill、执行命令、修改项目文件、运行测试，一套工具链可以完成大部分测试开发工作。</p>
+<p>Playwright MCP 则提供标准化的浏览器工具接口，更适合独立 Agent、持续页面探索和交互式诊断。</p>
+<p>至于执行效率，不能只看一条“CLI 节省多少 Token”的数据。</p>
+<p>同一个 Agent，面对一个只有三个输入框的页面，和一个包含复杂表格、动态弹窗的管理后台，页面理解成本完全不同。</p>
+<p>模型版本、工具调用策略和浏览器启动方式也会改变测试结果。</p>
+<p>如果你的团队已经使用 Playwright MCP，不妨先选取一批具有代表性的业务用例，加入 CLI + Skills 做一次对照实验。</p>
+<p>先观察测试成功率和失败恢复情况，再对比执行时间与 Token 成本。</p>
+<p>对于测试开发工程师，最终要交付的是能够反复执行、定位问题、长期维护的自动化测试，而不是一次看起来很顺利的浏览器操作过程。</p>
+<p>选择哪种工具，应该服务于这个目标。</p>
+<h2>推荐学习</h2>
+<p>自动化智能体与测试用例生成课程，限时免费，机会难得。扫码报名，参与直播，希望您在这场课程中收获满满，开启智能自动化测试的新篇章！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/825384436510f7062be0a610373cec42fc2047cd563435a1c3096ac23140f58b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31"><img src="https://camo.githubusercontent.com/825384436510f7062be0a610373cec42fc2047cd563435a1c3096ac23140f58b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ervTCibwaujE8ibFXPvIe8iaXkI4K0xqJIbQPuiaOER8h5ltp8Y17DabeWhxQfUOadVLgr3aY3n3ll1ybwicGI9C1nw/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=1" style="max-width: 100%;"></a></p>
+<h3>关于我们</h3>
+<p>霍格沃兹测试开发学社，隶属于 <strong>测吧（北京）科技有限公司</strong>，是一个面向软件测试爱好者的技术交流社区。</p>
+<p>学社围绕现代软件测试工程体系展开，内容涵盖软件测试入门、自动化测试、性能测试、接口测试、测试开发、全栈测试，以及<strong>人工智能测试与 AI 在测试工程中的应用实践</strong>。</p>
+<p>我们关注测试工程能力的系统化建设，包括 Python 自动化测试、Java 自动化测试、Web 与 App 自动化、持续集成与质量体系建设，同时探索 AI 驱动的测试设计、用例生成、自动化执行与质量分析方法，沉淀可复用、可落地的测试开发工程经验。</p>
+<p>在技术社区与工程实践之外，学社还参与测试工程人才培养体系建设，面向高校提供<strong>测试实训平台</strong>与实践支持，组织开展 <strong>“火焰杯” 软件测试相关技术赛事</strong>，并探索以能力为导向的人才培养模式，包括高校学员<strong>先学习、就业后付款</strong>的实践路径。</p>
+<p>同时，学社结合真实行业需求，为在职测试工程师与高潜学员提供<strong>名企大厂 1v1 私教服务</strong>，用于个性化能力提升与工程实践指导。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
