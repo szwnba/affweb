@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+我在3个迭代里，把27条E2E脚本的编写时间从28小时压到了90分钟
+
+上个月产品扔过来一个需求：新上线的B端商户后台，要补全核心流程的E2E自动化回归集，一共27条用例，要求两周内交付完。">
+<meta property="og:title" content="用Playwright MCP + GitHub Copilot实现自动化脚本自动生成">
+<meta property="og:description" content="> 关注 霍格沃兹软件测试开发 公众号，回复「**资料**」, 领取人工智能测试开发技术合集
+
+我在3个迭代里，把27条E2E脚本的编写时间从28小时压到了90分钟
+
+上个月产品扔过来一个需求：新上线的B端商户后台，要补全核心流程的E2E自动化回归集，一共27条用例，要求两周内交付完。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-Playwright%20MCP%20%2B%20GitHub%20Copilot-shi-xian-zi-dong-hua-jiao-ben-zi-dong-sheng-cheng.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用Playwright MCP + GitHub Copilot实现自动化脚本自动生成</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用Playwright MCP + GitHub Copilot实现自动化脚本自动生成</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/825" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>关注 霍格沃兹软件测试开发 公众号，回复「<strong>资料</strong>」, 领取人工智能测试开发技术合集</p>
+</blockquote>
+<p>我在3个迭代里，把27条E2E脚本的编写时间从28小时压到了90分钟</p>
+<p>上个月产品扔过来一个需求：新上线的B端商户后台，要补全核心流程的E2E自动化回归集，一共27条用例，要求两周内交付完。</p>
+<p>搁以前我得先开F12扒元素，挨个写选择器，填等待，补断言，光手写加调试至少要三个整天。这次我直接把Playwright MCP和GitHub Copilot串起来跑，三个迭代下来，整套27条脚本全部落地，总耗时90分钟，平均每条脚本不到3分半。</p>
+<p>这篇我不聊环境配置的基础步骤，直接给你三个我在项目里真跑通的实战案例，从“第一次生成就翻车”到“零修改直接进CI”，每一步都是我踩完坑之后磨出来的落地流程。</p>
+<h2>Playwright mcp技术学习交流群</h2>
+<p>伙伴们，对AI测试、大模型评测、质量保障感兴趣吗？我们建了一个 <strong>「Playwright mcp技术学习交流群」</strong>，专门用来探讨相关技术、分享资料、互通有无。无论你是正在实践还是好奇探索，都欢迎扫码加入，一起抱团成长！期待与你交流！👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/91ef0d5e747b32488af24f0fdbc75cfc7846399d21f5086964678181708518ff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5339494e715437446139326f4d636139556779666468724b326356553576566f6961796a5073657665746870586a774834616e6a707563323679586d7359443375424d43764c386961424c544f42784e4a756e57746e41772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d30"><img src="https://camo.githubusercontent.com/91ef0d5e747b32488af24f0fdbc75cfc7846399d21f5086964678181708518ff/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5339494e715437446139326f4d636139556779666468724b326356553576566f6961796a5073657665746870586a774834616e6a707563323679586d7359443375424d43764c386961424c544f42784e4a756e57746e41772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/S9INqT7Da92oMca9UgyfdhrK2cVU5vVoiayjPsevethpXjwH4anjpuc26yXmsYD3uBMCvL8iaBLTOBxNJunWtnAw/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=0" style="max-width: 100%;"></a></p>
+<h2>案例一：商户登录+短信验证码流程，从生成到可运行只用了7分钟</h2>
+<p>这个场景是整个后台的入口，以前手写的时候最头疼。短信验证码是动态的，前端元素还做了动态渲染，之前写的老脚本三天两头因为“获取验证码按钮未找到”挂掉。</p>
+<p>这次我完全没碰选择器，全程只做了三件事。</p>
+<p>第一步，我先手动打开浏览器，走完一遍登录流程，拿到了已经登录态的浏览器上下文，然后启动Playwright MCP，把当前页面的远程调试端口9222直接挂载到Copilot里。没有重新开无头浏览器，也没有让AI自己去走一遍登录，直接把真实可交互的页面状态喂给了它。</p>
+<p>第二步，我在Copilot里只输入了一段非常具体的指令： “基于当前打开的商户登录页，生成一条Playwright测试脚本。覆盖三个场景：正常输入正确手机号和验证码登录成功；手机号格式非法时提示文案正确；验证码错误三次后账号锁定15分钟。不要硬编码验证码，调用我本地的短信Mock接口获取动态码，所有定位器优先用getByRole和getByLabel，不要用任何带动态class的CSS选择器。”</p>
+<p>第三步，我等它生成完，扫了一眼代码，发现它自动做了三个我以前手写时经常忘的细节：</p>
+<ul>
+<li>
+<p>点击“获取验证码”之后自动加了toast提示的等待，等“验证码已发送”文案出现才往下走</p>
+</li>
+<li>
+<p>验证码错误三次之后，自动刷新页面，重新尝试登录，断言锁定提示文案</p>
+</li>
+<li>
+<p>每条场景结束之后自动调用后台的解锁接口清理测试数据，不会影响下一条用例执行</p>
+</li>
+</ul>
+<p>整个脚本从生成到第一次跑通，我只改了Mock接口的地址，全程7分钟。最绝的是上周前端把登录页的按钮样式全改了，class名换了一遍，这条脚本跑起来一点事都没有。</p>
+<p>我后来翻了它生成的定位器，根本没有用任何<code class="notranslate">.btn-login</code>这种样式类，全是<code class="notranslate">page.getByRole('button', { name: '获取验证码' })</code>，完全免疫前端样式改动。</p>
+<p>这个案例里的实战踩坑点</p>
+<ul>
+<li>
+<p>一开始我让它自己去生成获取验证码的逻辑，它直接写了个20秒的硬等待，跑起来极不稳定。后来我在指令里明确要求“等待toast提示出现再往下走”，它自动就把硬等待替换成了文本断言等待。</p>
+</li>
+<li>
+<p>第一次生成锁定场景时，它忘了最后解锁账号，导致后面所有依赖登录的脚本全部卡在锁定状态。我在指令里加了“场景结束后清理数据”，第二次生成就自动补上了解锁接口调用。</p>
+</li>
+</ul>
+<h2>案例二：商户订单全流程，12条关联脚本，零手工敲代码</h2>
+<p>这个是整个后台最复杂的流程：商户创建商品→提交订单→修改订单状态→导出订单报表。以前手写这一套关联脚本，光处理页面跳转和状态同步就要花四五个小时，中间稍微有一步状态不对，整条链路就全断了。</p>
+<p>这次我没有一次性让它生成整条大流程，而是拆成了四个独立的小任务，用MCP的页面状态接力的方式跑。</p>
+<h3>第一步：生成“创建商品”脚本</h3>
+<p>我停在商品创建页，给Copilot指令：“生成创建商品的脚本，覆盖正常创建、商品价格为负数、商品名称超长三个场景。创建成功后自动记录新商品的ID到全局环境变量里。” 生成完直接跑通，商品ID自动存在了环境变量里，不用我手动去复制粘贴。</p>
+<h3>第二步：生成“提交订单”脚本</h3>
+<p>MCP带着刚才的浏览器上下文跳转到订单提交页，我直接告诉Copilot：“用刚才生成的商品ID，生成提交订单的脚本。覆盖正常提交、库存不足时拦截、重复提交幂等性三个场景。订单提交成功后把订单号存到环境变量。” 它自动从环境变量里读到了商品ID，直接拼进了订单提交的接口参数里，完全不用我在脚本里硬编码。</p>
+<h3>第三步：生成“修改订单状态”脚本</h3>
+<p>带着前面的订单号上下文，跳转到订单详情页，生成修改订单状态的脚本，覆盖待发货→已发货→已完成的完整状态流转，同时校验非法状态跃迁时系统的拦截提示。</p>
+<h3>第四步：生成“导出订单报表”脚本</h3>
+<p>最后停在订单列表页，生成导出脚本，断言导出的Excel文件里包含刚才创建的那条订单记录，文件行数和订单列表数量完全一致。</p>
+<p>四个步骤跑下来，12条关联脚本全部生成完毕，全程我没有敲一行代码，只在最后检查了一遍环境变量的传递逻辑。整套脚本第一次完整跑通，耗时不到25分钟。</p>
+<p>最惊喜的是它自动给每条脚本都加了独立的测试数据隔离，每个场景跑完之后自动把创建的商品和订单标记为已删除，不会在后台留下一堆垃圾测试数据。</p>
+<p>这个案例里的实战踩坑点</p>
+<ul>
+<li>
+<p>一开始我图省事，让它一次性生成整条12步的大流程脚本，结果它中间跳了“选择商品规格”这一步，整条链路直接在提交订单时失败。后来拆成四个独立脚本接力，每一步都基于上一步的真实页面状态生成，再也没出现过跳步的问题。</p>
+</li>
+<li>
+<p>第一次生成导出脚本时，它只断言了“导出按钮点击成功”，根本没校验导出文件的内容。我在指令里补了“下载文件后读取Excel内容校验订单号”，第二次生成直接自动调用了pandas库做文件断言，连依赖导入都给我写好了。</p>
+</li>
+</ul>
+<h2>案例三：30分钟修复15条老脚本，全量适配前端大改版</h2>
+<p>上周前端做了一次全站组件升级，几乎所有页面的class名全部换掉了，之前手工写的15条老E2E脚本集体挂掉，CI pipeline直接红了一大片。</p>
+<p>搁以前我得花至少半天时间，挨个打开F12，重新扒元素，替换所有失效的选择器，一条一条重新调试。这次我用Playwright MCP的自愈能力，30分钟就把15条脚本全部修完，全部重新跑绿。</p>
+<p>我没有逐条去改老脚本，而是做了三件事：</p>
+<ol>
+<li>
+<p>把所有失效的老脚本全部集中到一个目录里，启动MCP打开升级后的新页面，把新页面的可访问性树全部喂给Copilot。</p>
+</li>
+<li>
+<p>给它一条批量指令：“遍历当前目录下所有test_*.py文件，把所有失效的CSS选择器全部替换成基于getByRole和getByLabel的稳定定位器，保留原有所有断言和业务逻辑不变。”</p>
+</li>
+<li>
+<p>生成完之后批量执行一遍，失败的脚本自动触发自愈流程，从备选定位器里重新尝试，全部跑完之后输出修复报告。</p>
+</li>
+</ol>
+<p>最后15条脚本里，13条直接零修改修复完成，剩下2条因为页面结构改动太大，Copilot自动生成了新的步骤替换逻辑，我只微调了两个断言文本就全部跑通。前后总耗时30分钟，比我预估的时间快了十倍都不止。</p>
+<p>修复完我翻了一遍生成的报告，它一共替换了47个老的CSS选择器，其中有21个是我以前写的带动态hash的垃圾定位器，这次全部换成了稳定的角色定位器。等于顺便给整套自动化脚本做了一次全面的质量升级。</p>
+<p>这个案例里的实战踩坑点</p>
+<ul>
+<li>
+<p>一开始我直接让它批量修改，它把几个本来就正常的定位器也给换掉了，反而引入了新问题。后来我在指令里加了“只替换当前页面里找不到的失效定位器，正常工作的定位器保持不变”，就再也没出现过乱改的情况。</p>
+</li>
+<li>
+<p>有两个页面是懒加载的，元素滚动到视口之外就找不到了，它生成的新定位器第一次执行失败。我在指令里补了“定位元素前先自动滚动到元素位置”，第二次生成就自动给所有操作前加上了scroll_into_view_if_needed()。</p>
+</li>
+</ul>
+<h2>最后：我总结的三条实战铁律</h2>
+<p>跑了这么多真实场景下来，我发现很多人用Playwright MCP生成脚本效果差，根本不是工具不好用，是指令写得太懒了。</p>
+<ol>
+<li>
+<p>永远不要说“帮我写一个登录脚本”，要说清楚“覆盖哪几个异常场景、用什么方式处理动态验证码、用哪类定位器、失败后怎么清理数据”。你给的约束越具体，生成出来的脚本越不用改。‌</p>
+</li>
+<li>
+<p>长流程永远拆成短片段接力，不要试图一次性生成几十步的大脚本。基于真实页面状态一步步往下生成，稳定性比大段脑补出来的代码高10倍。‌</p>
+</li>
+<li>
+<p>生成完别直接丢进CI，花30秒扫一眼断言。只要断言不是“页面200”，是真正落到业务数据和提示文案上的，这套脚本的长期稳定性就不会差。‌</p>
+</li>
+</ol>
+<p>我现在写E2E自动化的方式已经完全变了。我不再是天天扒F12改选择器的脚本搬运工，我只需要定义清楚测试规则、场景边界和断言标准，剩下所有枯燥的代码生成工作，全交给Playwright MCP和Copilot去完成。</p>
+<p>以前你花3小时写脚本，现在你花3分钟定义规则，产出的脚本质量反而比你手写的更高。这才是自动化脚本自动生成真正该有的样子。</p>
+<h2>推荐学习</h2>
+<p>自动化智能体与测试用例生成课程，限时免费，机会难得。扫码报名，参与直播，希望您在这场课程中收获满满，开启智能自动化测试的新篇章！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/825384436510f7062be0a610373cec42fc2047cd563435a1c3096ac23140f58b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31"><img src="https://camo.githubusercontent.com/825384436510f7062be0a610373cec42fc2047cd563435a1c3096ac23140f58b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ervTCibwaujE8ibFXPvIe8iaXkI4K0xqJIbQPuiaOER8h5ltp8Y17DabeWhxQfUOadVLgr3aY3n3ll1ybwicGI9C1nw/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=1" style="max-width: 100%;"></a></p>
+<h3>关于我们</h3>
+<p>霍格沃兹测试开发学社，隶属于 <strong>测吧（北京）科技有限公司</strong>，是一个面向软件测试爱好者的技术交流社区。</p>
+<p>学社围绕现代软件测试工程体系展开，内容涵盖软件测试入门、自动化测试、性能测试、接口测试、测试开发、全栈测试，以及<strong>人工智能测试与 AI 在测试工程中的应用实践</strong>。</p>
+<p>我们关注测试工程能力的系统化建设，包括 Python 自动化测试、Java 自动化测试、Web 与 App 自动化、持续集成与质量体系建设，同时探索 AI 驱动的测试设计、用例生成、自动化执行与质量分析方法，沉淀可复用、可落地的测试开发工程经验。</p>
+<p>在技术社区与工程实践之外，学社还参与测试工程人才培养体系建设，面向高校提供<strong>测试实训平台</strong>与实践支持，组织开展 <strong>“火焰杯” 软件测试相关技术赛事</strong>，并探索以能力为导向的人才培养模式，包括高校学员<strong>先学习、就业后付款</strong>的实践路径。</p>
+<p>同时，学社结合真实行业需求，为在职测试工程师与高潜学员提供<strong>名企大厂 1v1 私教服务</strong>，用于个性化能力提升与工程实践指导。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
