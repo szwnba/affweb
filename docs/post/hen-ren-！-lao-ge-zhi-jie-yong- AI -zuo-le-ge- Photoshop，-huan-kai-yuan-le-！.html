@@ -109,7 +109,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <p>此外，它还给 AI 留了个口子。软件里每个菜单、工具和对话框，背后其实都对应着一条命令，加起来有 500 多条。</p>
 <p>Claude Code 这类 Agent 可以通过 MCP 接进来调用这些命令，跟我们在界面上点来点去，走的是同一套。</p>
 <p>举个例子，手上有一整个文件夹的旅行照片想统一调色，把调色步骤写进一个配置文件，跑一条命令就能批量处理完：</p>
-<div class="highlight highlight-source-css"><pre class="notranslate"><span class="pl-ent">photocraft-cli</span> <span class="pl-ent">batch --actions grade</span>.<span class="pl-c1">json --in </span>.<span class="pl-c1">/</span>raw <span class="pl-c1">-</span><span class="pl-c1">-</span>out .<span class="pl-c1">/</span>graded</pre></div>
+<div class="highlight highlight-source-css"><pre class="notranslate"><span class="pl-ent">photocraft-cli</span> <span class="pl-ent">batch --actions grade</span><span class="pl-kos">.</span><span class="pl-c1">json --in </span><span class="pl-kos">.</span><span class="pl-c1">/</span>raw <span class="pl-c1">-</span><span class="pl-c1">-</span>out <span class="pl-kos">.</span><span class="pl-c1">/</span>graded</pre></div>
 <p>上手的话，安装包在官网和 GitHub Releases 都能下，macOS、Windows、Linux 都有，作者连 FreeBSD 都照顾到了。</p>
 <p>不想装软件的，还有一个能在浏览器里跑的网页版，也可以用 Docker 自己部署一份。</p>
 <p>开发者想从源码跑起来，装好 Rust 环境后，执行下面几行命令就可以：</p>

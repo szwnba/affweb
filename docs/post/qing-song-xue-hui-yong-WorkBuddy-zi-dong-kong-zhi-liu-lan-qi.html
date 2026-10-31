@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="没记错的话，WorkBuddy算是在5.8.2版本的时候，上线了浏览器自动化的功能，之前还是通过安装Broswer Skill来实现控制浏览器对网页进行一些操作的。">
+<meta property="og:title" content="轻松学会用WorkBuddy自动控制浏览器">
+<meta property="og:description" content="没记错的话，WorkBuddy算是在5.8.2版本的时候，上线了浏览器自动化的功能，之前还是通过安装Broswer Skill来实现控制浏览器对网页进行一些操作的。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/qing-song-xue-hui-yong-WorkBuddy-zi-dong-kong-zhi-liu-lan-qi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>轻松学会用WorkBuddy自动控制浏览器</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">轻松学会用WorkBuddy自动控制浏览器</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/831" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>没记错的话，WorkBuddy算是在5.8.2版本的时候，上线了浏览器自动化的功能，之前还是通过安装Broswer Skill来实现控制浏览器对网页进行一些操作的。</p>
+<p>有意思的是，Broswer Skill也是腾讯的一个团队在做，官方推出来的Skill，现在估计是整合到WorkBuddy一起了。当然，其它第三方做的Broswer Use相关的Skill也是很多的。</p>
+<p>有关Broswer Use跟Computer Use的详细原理介绍，老马之前也写过一篇文章，不了解的小伙伴可以回看：<a href="https://mp.weixin.qq.com/s?__biz=MjM5ODAxOTA2Mg==&amp;mid=2649977207&amp;idx=1&amp;sn=6e22cb37031cd3f39805ed3f441e2df8&amp;scene=21#wechat_redirect" rel="nofollow">一文带你搞懂WorkBuddy的自动化操作</a>，这里就不再啰嗦了。</p>
+<p>但对于WorkBuddy新版推出的浏览器自动化功能，有些小伙伴还在问具体怎么使用，还是搞不懂里面的逻辑。所以今天就补充多一篇文章教程来说明一下，以后大家遇到此类问题举一反三即可，都是差不多的操作逻辑。</p>
+<p>本文脉络</p>
+<p>01</p>
+<p>底层CodeBuddy与Computer Use</p>
+<p>02</p>
+<p>打开浏览器自动化开关</p>
+<p>03</p>
+<p>安装Chrome扩展程序</p>
+<p>04</p>
+<p>实测：B站视频点赞任务</p>
+<p>01 · CHAPTER ONE</p>
+<h3>底层是CodeBuddy，Computer Use还没放出</h3>
+<p>首先WorkBuddy的底层是CodeBuddy，它本来是带有Computer Use能力的，也就是自动控制操作电脑的能力，只是不知道为啥到现在WorkBuddy还不把这个能力放出来，人家Codex都玩得不知道多6了。</p>
+<p>估计是考虑到不同模型的能力差异问题，GPT系列模型在这方面配合Codex确实是有如神助的，咱们就不纠结了，再等等，接下来进入Broswer Use的使用教程。</p>
+<p>02 · CHAPTER TWO</p>
+<h3>打开浏览器自动化开关</h3>
+<p>现在WorkBuddy的最新版本已经是5.8.3了(目前是5.9.2，这篇稿子压了个把星期才想起来发，但没有影响），你可以更新后，在左下角的账号头像位置点开，进入设置页面：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e03a7d9ccd22898a74d0cfa759693a4348de369d0f706d2ae8d2ab9cd57592a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d745148435445666d646f334d75556962635074466154326234596448537432656e50487546724a6e644b6962765341624e4e30367a63566962586a49736830557959736d395a68664b7962666349786642376b576c545650536d6577443663356961366f36634643506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/6e03a7d9ccd22898a74d0cfa759693a4348de369d0f706d2ae8d2ab9cd57592a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d745148435445666d646f334d75556962635074466154326234596448537432656e50487546724a6e644b6962765341624e4e30367a63566962586a49736830557959736d395a68664b7962666349786642376b576c545650536d6577443663356961366f36634643506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTEfmdo3MuUibcPtFaT2b4YdHSt2enPHuFrJndKibvSAbNN06zcVibXjIsh0UyYsm9ZhfKybfcIxfB7kWlTVPSmewD6c5ia6o6cFCPk/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>这里多一嘴，经常有小伙伴会问，WorkBuddy的签到活动是不是结束了，怎么没看到Buddy加油站。这个有时候是版本更新后，网络加载问题没显示出来。只要你安装的是WorkBuddy国内版，重启一下就行了。</p>
+<p>像Buddy加油站签到领鸡蛋的活动是按期进行的，这么重要的运营引流活动，真要下线了，WorkBuddy不会悄无声息地下线的，起码会出一个正式的公告通知，所以大家也不要老是太过于担心鸡蛋没得领了。</p>
+<p>打开设置页面后，在左侧的菜单中找到智能体，就可以看到让WorkBuddy控制浏览器的功能开关了。打开它就行，然后上面的经济模式也是可以打开的，后续能够帮我们节省token的消耗：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d9f3b326fe45a14c625d4424155960f987aaa22e7c5ea3abae0ee27998769147/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544669624659544543594b4b61696259424d68696231436351784c6465357331526269614f436d377041535078484c385a717944597a33574a4c4e675456496e39696355346477586e7a61483974725a4935616146704375616d706b71376962316a3772746a67412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/d9f3b326fe45a14c625d4424155960f987aaa22e7c5ea3abae0ee27998769147/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544669624659544543594b4b61696259424d68696231436351784c6465357331526269614f436d377041535078484c385a717944597a33574a4c4e675456496e39696355346477586e7a61483974725a4935616146704375616d706b71376962316a3772746a67412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTFibFYTECYKKaibYBMhib1CcQxLde5s1RbiaOCm7pASPxHL8ZqyDYz3WJLNgTVIn9icU4dwXnzaH9trZI5aaFpCuampkq7ib1j7rtjgA/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>打开了浏览器自动化控制的开关，可以看到还需要我们去安装对应的浏览器插件。这里提供了Chrome扩展程序、Edge扩展程序、QQ浏览器扩展程序三种。一般来说，Chrome扩展程序的兼容性高一些，适合各种浏览器。</p>
+<p>03 · CHAPTER THREE</p>
+<h3>安装Chrome扩展程序</h3>
+<p>老马个人也建议你首先安装Chrome扩展程序，电脑上没安装谷歌浏览器无所谓，像什么360安全浏览器、QQ浏览器、搜狗浏览器等都是可以用的，换句话讲都是一样的谷歌浏览器内核，当然也顺带了IE内核。</p>
+<p>但是还是那个但是，你点击前往安装Chrome扩展程序时，发现打开的是谷歌的扩展程序商店，在国内没有神秘力量是打不开的。而其它两个浏览器的扩展程序，则需要你电脑上已经安装过该浏览器，国内是可以下载的。</p>
+<p>因此老马把Chrome扩展程序安装文件放在了服务器上，你可以直接使用电脑的浏览器访问下面的下载地址，把扩展程序文件下载到电脑本地桌面即可：</p>
+<p><a href="http://www.majiabin.com/AI/WorkBuddy%5C_extension.crx" rel="nofollow">www.majiabin.com/AI/WorkBuddy\_extension.crx</a></p>
+<p>当然，5.9.2的版本官方又更新了一个手动安装的方式。它是把扩展程序的安装包解压之后放在了本地，你需要在下面的操作中选择加载未打包的扩展程序。如果你搞不懂，那就按老马下面介绍的方式去操作。</p>
+<p>把crx扩展程序文件下载完，接下来老马以谷歌浏览器为例进行演示，上面提到的其它浏览器操作其实也差不多的。在浏览器右上角找到拼图的小图标，打开管理扩展程序。或者点击三个小点，打开扩展程序都行：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6753c618fe12b3513503b4b5edb16b1a144d526356b5478762866839f1d1ff81/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d74514843544845696374425a337a36613538316e49444258665261386f4a5a6361576d586b42734562413630496961667169625655796962705248556d69624e69624f57426e626f6e796551667753354d3651775933735a44526f41646237757666413169616c50303742366b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/6753c618fe12b3513503b4b5edb16b1a144d526356b5478762866839f1d1ff81/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d74514843544845696374425a337a36613538316e49444258665261386f4a5a6361576d586b42734562413630496961667169625655796962705248556d69624e69624f57426e626f6e796551667753354d3651775933735a44526f41646237757666413169616c50303742366b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/iaC8bMtQHCTHEictBZ3z6a581nIDBXfRa8oJZcaWmXkBsEbA60IiafqibVUyibpRHUmibNibOWBnbonyeQfwS5M6QwY3sZDRoAdb7uvfA1ialP07B6k/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>进入拓展程序页面，记得在页面右上角把开发者模式的开关打开。然后再把刚才下载好的crx扩展程序文件选择上，拖动到页面上进行安装即可：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7ec341603fa8d686f9ed2fb73bfddaeccefda7d9fc91cd4a0001e5b5dee12179/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544533516c456e6e347431744464436a4c777877486e576645506146393275396f4c6b67453878756b51344376664a46477743504659334c6c5a774a614f617842773835587a77656c4a6d5476434e6849454b625069617a346169624a556179464763382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/7ec341603fa8d686f9ed2fb73bfddaeccefda7d9fc91cd4a0001e5b5dee12179/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544533516c456e6e347431744464436a4c777877486e576645506146393275396f4c6b67453878756b51344376664a46477743504659334c6c5a774a614f617842773835587a77656c4a6d5476434e6849454b625069617a346169624a556179464763382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTE3QlEnn4t1tDdCjLwxwHnWfEPaF92u9oLkgE8xukQ4CvfJFGwCPFY3LlZwJaOaxBw85XzwelJmTvCNhIEKbPiaz4aibJUayFGc8/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>拖动进去后，会询问你是否添加WorkBuddy的扩展程序，点击添加扩展程序就可以了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/967b0e1037bf173b28999c83cbfb1200a20bc0deeed6454bd183a3b81b1ce03d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d7451484354464d4a474e766b41503834585a4b633248484a497231696272397262596c525057646c774d496a4f314761487563524e6637714d487669624b547053446d544c696265325069626e47527071476842384a376f6a376347584c4d70456f37687856524157382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/967b0e1037bf173b28999c83cbfb1200a20bc0deeed6454bd183a3b81b1ce03d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d7451484354464d4a474e766b41503834585a4b633248484a497231696272397262596c525057646c774d496a4f314761487563524e6637714d487669624b547053446d544c696265325069626e47527071476842384a376f6a376347584c4d70456f37687856524157382f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/iaC8bMtQHCTFMJGNvkAP84XZKc2HHJIr1ibr9rbYlRPWdlwMIjO1GaHucRNf7qMHvibKTpSDmTLibe2PibnGRpqGhB8J7oj7cGXLMpEo7hxVRAW8/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>WorkBuddy的浏览器控制扩展程序安装成功之后，在谷歌浏览器的右上角就会显示对应的小图标，点开图标就能看到已经连接上了我们的WorkBuddy电脑客户端了：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ec5a73385088f2b7bf0377a7753d40e89a342f89f866884142c4cf99d9b1deb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d7451484354465370445863596b68703244505438374f396138635969626962646c43373550584a733737483463386e4669613362644c62764e396963524e344c42637065564c467534356c463863716961473756546d6b4a454134586a52473254334d4d627337584f6d452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/1ec5a73385088f2b7bf0377a7753d40e89a342f89f866884142c4cf99d9b1deb/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d7451484354465370445863596b68703244505438374f396138635969626962646c43373550584a733737483463386e4669613362644c62764e396963524e344c42637065564c467534356c463863716961473756546d6b4a454134586a52473254334d4d627337584f6d452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTFSpDXcYkhp2DPT87O9a8cYibibdlC75PXJs77H4c8nFia3bdLbvN9icRN4LBcpeVLFu45lF8cqiaG7VTmkJEA4XjRG2T3MMbs7XOmE/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>与此同时，你回到WorkBuddy电脑客户端，进入设置里面的智能体，查看一下刚才我们前往安装扩展程序的地方，也会显示Chrome扩展程序是已安装的状态：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b951dfb00443c66bcd91e2ff6409c84101bd575bce996a096bc6a0e5f07c6525/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d745148435446566a4b7633306f484565784369616a67786d6b4f4642464e4747535045703272456453653978586f65317046496b4e48386f6e556673763439534b6c75586a366c746e516962506e337769623769614544444e5a4d435366684745496962614138704a6f342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/b951dfb00443c66bcd91e2ff6409c84101bd575bce996a096bc6a0e5f07c6525/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d745148435446566a4b7633306f484565784369616a67786d6b4f4642464e4747535045703272456453653978586f65317046496b4e48386f6e556673763439534b6c75586a366c746e516962506e337769623769614544444e5a4d435366684745496962614138704a6f342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/iaC8bMtQHCTFVjKv30oHEexCiajgxmkOFBFNGGSPEp2rEdSe9xXoe1pFIkNH8onUfsv49SKluXj6ltnQibPn3wib7iaEDDNZMCSfhGEIibaA8pJo4/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>04 · CHAPTER FOUR</p>
+<h3>实测：控制浏览器给B站视频点赞</h3>
+<p>接下来使用也非常简单，在WorkBuddy电脑客户端新建个任务，输入一段提示词，比如老马这里输入的是使用WorkBuddy控制谷歌浏览器，打开B站搜索马佳彬，给个人主页的前三个视频作品点个赞：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56b5739a37c0a62ce70dad7012609015b69f3067e6136e6b0e1ed4e7cb72be87/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d745148435445497474507249366e31573471506963753548783933797643653146527562564f6a70654661313430367069636f7a7669627868344f58346e313374516d69616b4f75344574704c6d544f45435571396c33446c656b63556c4e474c4b514f744f735a76632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/56b5739a37c0a62ce70dad7012609015b69f3067e6136e6b0e1ed4e7cb72be87/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f69614338624d745148435445497474507249366e31573471506963753548783933797643653146527562564f6a70654661313430367069636f7a7669627868344f58346e313374516d69616b4f75344574704c6d544f45435571396c33446c656b63556c4e474c4b514f744f735a76632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/iaC8bMtQHCTEIttPrI6n1W4qPicu5Hx93yvCe1FRubVOjpeFa1406picozvibxh4OX4n13tQmiakOu4EtpLmTOECUq9l3DlekcUlNGLKQOtOsZvc/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>通过模型的思考过程得知调用的是workbuddy-browser-use技能，WorkBuddy会结合刚才安装的Chrome扩展程序，在谷歌浏览器新开一个单独的标签，实现自动控制浏览器打开B站，给视频作品点赞的操作：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e0e0124167c79683a267ac05f707f3c4e3d7307884de109911fbfeeb06d1ba5c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d745148435447554c423739386677673046757574736d4769635744653674616b49387061594d453268666437426f515976447a66496961416e734576467378326735433734355672564158634a696359386e73457133366d4575433658644576467447696130797265342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/e0e0124167c79683a267ac05f707f3c4e3d7307884de109911fbfeeb06d1ba5c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d745148435447554c423739386677673046757574736d4769635744653674616b49387061594d453268666437426f515976447a66496961416e734576467378326735433734355672564158634a696359386e73457133366d4575433658644576467447696130797265342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTGULB798fwg0FuutsmGicWDe6takI8paYME2hfd7BoQYvDzfIiaAnsEvFsx2g5C745VrVAXcJicY8nsEq36mEuC6XdEvFtGia0yre4/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>整个操作耗时6分钟多一点，消耗了19.84个WorkBuddy积分就完成了，完成后也会给到一份详细清单，总体来说这个简单的小任务也没啥难度：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/492cfc49f71d034716c70aa6b142d850d86a49503279d5deec4f98f9156a079f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544571686f684b68594965745a6f6e683046437661476e624a4737545a4a394449747663337948344b56583172566447587769624b6678456331386157624169623475544932635469635370764547594339706963365634427279524a7668313736415564732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/492cfc49f71d034716c70aa6b142d850d86a49503279d5deec4f98f9156a079f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f69614338624d74514843544571686f684b68594965745a6f6e683046437661476e624a4737545a4a394449747663337948344b56583172566447587769624b6678456331386157624169623475544932635469635370764547594339706963365634427279524a7668313736415564732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/iaC8bMtQHCTEqhohKhYIetZonh0FCvaGnbJG7TZJ9DItvc3yH4KVX1rVdGXwibKfxEc18aWbAib4uTI2cTicSpvEGYC9pic6V4BryRJvh176AUds/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>如果是复杂程度比较高的，比如让WorkBuddy把一份表格，自动帮你录入到你已经登录的网页版OA系统里面。这里面除了会去获取OA系统的网页UI元素，还有可能需要去截图分析，任务所耗费的时间和积分肯定是多一些的。</p>
+<p><strong>其次就是目前的浏览器自动化操作，它的执行速度和准确度，按国内的Agent跟模型来说，肯定是不如Codex那么强的。遇到一些卡点问题，你得调试，自行截图或者告诉Agent操作路径，跑通了就可以固定成Skill的。</strong></p>
+<p>∞ · POSTSCRIPT</p>
+<h3>写在最后</h3>
+<p>好了，以上就是今天的分享。欢迎<strong>关注、点赞、转发一键三连</strong>。有任何问题和需求，请在评论区留言，回见！</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
