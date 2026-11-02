@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="> 🏷️ #Agent #AI测试 #测试开发 #工具注册 #Agent助手 #工作流
+
+* * *
+
+前面六篇，我们一直在用「通用 Agent 干零活」：拆需求补用例、按约束造数据、写自动化脚本、判读失败日志、做探索式测试。">
+<meta property="og:title" content="用 Agent 做测试 ⑦：搭一个自己的测试 Agent 助手——工具注册 + 记忆 + 流程">
+<meta property="og:description" content="> 🏷️ #Agent #AI测试 #测试开发 #工具注册 #Agent助手 #工作流
+
+* * *
+
+前面六篇，我们一直在用「通用 Agent 干零活」：拆需求补用例、按约束造数据、写自动化脚本、判读失败日志、做探索式测试。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-%20Agent%20-zuo-ce-shi-%20%E2%91%A6%EF%BC%9A-da-yi-ge-zi-ji-de-ce-shi-%20Agent%20-zhu-shou-%E2%80%94%E2%80%94-gong-ju-zhu-ce-%20%2B%20-ji-yi-%20%2B%20-liu-cheng.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用 Agent 做测试 ⑦：搭一个自己的测试 Agent 助手——工具注册 + 记忆 + 流程</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用 Agent 做测试 ⑦：搭一个自己的测试 Agent 助手——工具注册 + 记忆 + 流程</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/834" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><blockquote>
+<p>🏷️ #Agent #AI测试 #测试开发 #工具注册 #Agent助手 #工作流</p>
+</blockquote>
+<hr>
+<p>前面六篇，我们一直在用「通用 Agent 干零活」：拆需求补用例、按约束造数据、写自动化脚本、判读失败日志、做探索式测试。每一篇都是一块独立的拼图，但零活始终是零活——用完一次就散，下次还得重新把上下文喂一遍。</p>
+<p>这一篇，我们把散落的拼图<strong>拼成一个「自己的测试 Agent 助手」</strong>。它是主线收尾前的整合篇：把前面学到的能力固化进一个 Agent，让它记住我们项目的上下文，接到我们的测试工具，跑通一条「用例 → 数据 → 脚本 → 判读」的流水线。</p>
+<p>这一篇讲清六件事：</p>
+<ol>
+<li>
+<p><strong>定位</strong>：它到底该会哪几件事（先给一张能力清单，别一上来就写代码）</p>
+</li>
+<li>
+<p><strong>工具注册</strong>：给它接工具——跑脚本、查库、调接口、看日志（最小实现）</p>
+</li>
+<li>
+<p><strong>记忆</strong>：把项目结构、环境、历史 bug、常用断言沉淀成它能用的记忆</p>
+</li>
+<li>
+<p><strong>流程</strong>：把「用例 → 数据 → 脚本 → 判读」串成一条流水线</p>
+</li>
+<li>
+<p><strong>常见坑</strong>：工具权限、幻觉调用、上下文越用越长</p>
+</li>
+<li>
+<p><strong>最小可跑脚本</strong>：一个带 3 个工具的测试 Agent 骨架，注册即跑</p>
+</li>
+</ol>
+<hr>
+<h2>一、定位：不是再造一个测试平台，是把能力「固化」进一个 Agent</h2>
+<p>先泼一盆冷水，把这件事的边界说清楚：<strong>我们要搭的，不是一个测试平台，也不是一个能自动点按钮、自动起服务、自动改代码的「全自动测试机器人」。</strong></p>
+<p>平台要做的事——用例管理、执行调度、报告报表、权限审批——那些是重工程，有专门的团队和工具在干，Agent 替代不了，也不该替代。我们搭的，是一个<strong>跑在我们自己电脑上、或跑在 CI 旁边的小助手</strong>，它只干一件事：<strong>把前面六篇里那些「每次都要重新喂上下文、重新组织 prompt」的零活，固化成一个随叫随到的搭档。</strong></p>
+<p>所以在写第一行代码之前，先问清楚一件事：<strong>它到底要会哪几件事？</strong> 不会的，我们就不给它配工具；会的，才值得配。下面这张能力清单，是动手前必须画的边界：</p>
+<p>|</p>
+<p>能力</p>
+<p>|</p>
+<p>它该做什么</p>
+<p>|</p>
+<p>它不该做什么</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>生成用例</p>
+<p>|</p>
+<p>从 PRD/需求拆出用例草稿</p>
+<p>|</p>
+<p>替我们拍板「这条算不算 bug」</p>
+<p>|<br>
+|</p>
+<p>造数据</p>
+<p>|</p>
+<p>生成格式数据、写走接口的造数脚本</p>
+<p>|</p>
+<p>绕过后台直接写库、直接「变」出合法实体</p>
+<p>|<br>
+|</p>
+<p>跑脚本</p>
+<p>|</p>
+<p>触发 pytest/Playwright、回收结果</p>
+<p>|</p>
+<p>自己改业务代码、自己提交</p>
+<p>|<br>
+|</p>
+<p>查库/查日志</p>
+<p>|</p>
+<p>只读查询、拉日志辅助判读</p>
+<p>|</p>
+<p>改数据、删数据、发消息</p>
+<p>|<br>
+|</p>
+<p>判读</p>
+<p>|</p>
+<p>聚类失败、给出初步根因线索</p>
+<p>|</p>
+<p>下最终结论、标记 bug</p>
+<p>|</p>
+<p>这张表里「不该做什么」那一列，就是后面「工具权限」那一节的伏笔。<strong>一个合格的测试 Agent，它的危险之处从来不在「能力不够」，而在「能力越界」。</strong>  先把边界画清楚，下面配工具才不会失控。</p>
+<p>定位的一句话：<strong>它不是替代我们的新员工，是我们把「重复劳动」外包出去的那只手，而且这只手要能约束得住。</strong></p>
+<hr>
+<h2>二、工具注册：给它接上跑脚本、查库、调接口、看日志</h2>
+<p>Agent 光会「想」没用，得能「动手」。动手靠的就是<strong>工具</strong>。这一节，我们把一个测试 Agent 最需要的四类工具，用最小实现接起来。这里直接沿用「从零造 Agent」系列里 ToolRegistry 的思路——<strong>注册、描述、执行，三层分离。</strong></p>
+<h3>2.1 先立工具的标准：一个工具函数 + 一段「面向使用者」的描述</h3>
+<p>一个工具，最少得有三样东西：<strong>函数（干活的）、描述（告诉模型什么时候用）、参数 schema（告诉模型怎么传参）。</strong>  我们先定一个统一格式：</p>
+<p>`classTool:<br>
+def__init__(self, name, description, parameters, func):<br>
+self.name = name<br>
+self.description = description<br>
+self.parameters = parameters   # JSON Schema，定义入参<br>
+self.func = func               # 真正干活的 Python 函数</p>
+<p>defto_schema(self):<br>
+"""转成 OpenAI Function Calling 格式"""<br>
+return {<br>
+"type": "function",<br>
+"function": {<br>
+"name": self.name,<br>
+"description": self.description,<br>
+"parameters": self.parameters,<br>
+            }<br>
+        }<br>
+`</p>
+<p>这里最关键的是 <code class="notranslate">description</code>。它<strong>不是写给开发者看的注释，是写给模型看的「使用说明书」</strong>，必须包含三要素：<strong>什么时候用、干什么、返回什么。</strong>  而且——功能相近的工具，必须在描述里写「负面描述」（不用于 XX），否则模型分不清。</p>
+<p>对比一下好坏：</p>
+<p>|</p>
+<p>❌ 差描述</p>
+<p>|</p>
+<p>✅ 好描述</p>
+<p>|<br>
+| --- | --- |<br>
+| <code class="notranslate">查询数据库</code> | <code class="notranslate">在测试库执行只读 SQL，返回查询结果。用于查环境配置、验证造数、查历史 bug。只读，不用于修改数据。</code> |<br>
+| <code class="notranslate">看日志</code> | <code class="notranslate">按关键字拉取最近服务日志。用于分析失败用例、定位报错。不用于查询数据库。</code> |</p>
+<p>看第二列最后那句「不用于 XX」——这就是防「幻觉调用」的第一道闸（第五节会展开）。</p>
+<h3>2.2 四类工具的模拟实现</h3>
+<p>真实项目里，这四类工具背后接的是 <code class="notranslate">subprocess</code>、数据库驱动、HTTP 客户端、日志平台 SDK。但为了先把骨架跑通，我们用<strong>模拟实现</strong>把「接口形态」定下来——后面换成真实实现，签名不用改。</p>
+<p>`defrun_test_script(script_name: str) -&gt; dict:<br>
+"""执行 pytest 脚本，返回通过/失败用例数。用于跑自动化用例、跑回归。"""</p>
+<h1>真实项目：subprocess.run(["pytest", script_name]) 解析结果</h1>
+<p>return {"script": script_name, "passed": 6, "failed": 2}</p>
+<p>defquery_database(sql: str) -&gt; dict:<br>
+"""在测试库执行只读 SELECT，返回前几行。用于查配置、验证造数、查历史 bug。"""</p>
+<h1>真实项目：连测试库执行，这里只演示形态</h1>
+<p>return {"sql": sql, "rows": [{"id": 1, "status": "on_sale"}], "row_count": 1}</p>
+<p>deffetch_logs(keyword: str, lines: int = 20) -&gt; dict:<br>
+"""按关键字拉最近服务日志。用于分析失败用例、定位报错。"""</p>
+<h1>真实项目：接日志平台 API</h1>
+<p>return {"keyword": keyword, "logs": ["ERROR order.price assert failed"], "count": 1}</p>
+<p>defcall_api(endpoint: str, method: str = "GET", body: dict = None) -&gt; dict:<br>
+"""调一个后台接口。用于造数、触发状态流转。带副作用的接口需先确认。"""</p>
+<h1>真实项目：requests 调接口</h1>
+<p>return {"endpoint": endpoint, "status": 200, "body": {"ok": True}}<br>
+`</p>
+<p>注意 <code class="notranslate">call_api</code> 描述里那句「带副作用的接口需先确认」——这是给「权限」留的钩子。有些工具的副作用是安全的（查库），有些是危险的（调接口可能改数据），<strong>危险的要让 Agent 先停下来问我们。</strong></p>
+<h3>2.3 注册表：一个字典就能起步，但要把「执行」和「描述」分开</h3>
+<p>注册表最朴素的实现，一个字典就够：</p>
+<p>`classToolRegistry:<br>
+def__init__(self):<br>
+self._tools = {}</p>
+<p>defregister(self, tool: Tool):<br>
+self._tools[tool.name] = tool</p>
+<p>defschemas(self):<br>
+"""把所有工具的 schema 发给模型"""<br>
+return [t.to_schema() for t inself._tools.values()]</p>
+<p>defcall(self, name: str, args: dict):<br>
+"""模型选中工具后，真正执行"""<br>
+returnself._tools[name].func(**args)</p>
+<p>registry = ToolRegistry()<br>
+registry.register(Tool("run_test_script", "...", {...}, run_test_script))<br>
+registry.register(Tool("query_database",  "...", {...}, query_database))<br>
+registry.register(Tool("fetch_logs",      "...", {...}, fetch_logs))<br>
+registry.register(Tool("call_api",        "...", {...}, call_api))<br>
+`</p>
+<p>看到这个结构，就能理解「注册、描述、执行」三层分离的好处了：<strong>加一个新工具 = 写一个函数 + 注册一行，Agent 的核心循环一行都不用改。</strong>  这是工具能「越用越多」而不乱套的前提。</p>
+<h3>2.4 一个容易被跳过的细节：工具描述决定「选得准不准」</h3>
+<p>工具一多，模型「选错工具」的概率就上来。尤其是 <code class="notranslate">query_database</code> 和 <code class="notranslate">fetch_logs</code> 这种都跟「查」沾边的。<strong>判断标准就一条：把两个工具的 description 并排放，我们自己能不能一眼看出差别？</strong> 看不出，模型更看不出。</p>
+<p>所以相近工具的描述，一定要互相对照着写：</p>
+<ul>
+<li>
+<p><code class="notranslate">query_database</code>：用于查「数据」（库里存了什么）</p>
+</li>
+<li>
+<p><code class="notranslate">fetch_logs</code>：用于查「过程」（跑的时候发生了什么）</p>
+</li>
+</ul>
+<p>一个查「静态的存量」，一个查「动态的过程」。写清楚这对「静态/动态」的对照，模型选错的概率能降一大截。</p>
+<hr>
+<h2>三、记忆：把测试上下文沉淀成 Agent 能用的大脑</h2>
+<p>工具让 Agent 能「动手」，但光有手没脑子还是不行。这个「脑子」，就是<strong>记忆</strong>——它得知道我们的项目长什么样，否则每次都要我们把上下文从头喂一遍。</p>
+<h3>3.1 先想清楚：一个测试 Agent 该「记住」什么</h3>
+<p>不是所有信息都值得记。一个测试 Agent 该沉淀进记忆的，是<strong>跨会话稳定、且每次测试都用得上的</strong>那几类：</p>
+<p>|</p>
+<p>记忆类型</p>
+<p>|</p>
+<p>记什么</p>
+<p>|</p>
+<p>例子</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>项目结构</p>
+<p>|</p>
+<p>代码目录、测试目录、启动方式</p>
+<p>| <code class="notranslate">pytest 在 tests/ 目录，跑法：pytest -m smoke</code> |<br>
+|</p>
+<p>环境信息</p>
+<p>|</p>
+<p>测试库、日志平台、接口地址、鉴权</p>
+<p>| <code class="notranslate">测试库 test_order，日志在 log-platform</code> |<br>
+|</p>
+<p>历史 bug</p>
+<p>|</p>
+<p>以前踩过的坑、根因</p>
+<p>| <code class="notranslate">order.price 曾出现负数，是优惠券叠加计算错误</code> |<br>
+|</p>
+<p>常用断言</p>
+<p>|</p>
+<p>各模块「怎么算过」的约定</p>
+<p>| <code class="notranslate">下单接口 200 且 order.status == "created"</code> |</p>
+<p><strong>这些信息，只有我们自己写得出来，Agent 写不出。</strong>  但一旦写进去，它每次干活就不用我们重复交代。这跟第 3 篇「喂字段清单给 Agent 造数」是同一个道理——<strong>把「懂系统」这件只有我们懂的事，固化下来。</strong></p>
+<h3>3.2 最简单的做法：一个「记忆文件」注入 system prompt</h3>
+<p>不用一上来就上向量数据库。<strong>起步阶段，一个 markdown 记忆文件 + 注入 system prompt，就够用了。</strong>  这是「记忆注入」的最小实现：</p>
+<p>`# memory.md（手工维护，随项目演进）<br>
+TEST_MEMORY = """【项目】电商订单系统<br>
+【目录】用例在 tests/，pytest 入口：pytest -m smoke<br>
+【环境】测试库 test_order（只读账号）；日志平台 log-platform；接口 base=api.test.com<br>
+【历史 bug】<br>
+  - order.price 曾出现负数，根因是优惠券叠加计算错误（case: TC-231）<br>
+  - 短信验证码在并发下会重复下发，已加幂等<br>
+【常用断言】<br>
+  - 下单：HTTP 200 且 order.status == "created"<br>
+  - 支付回调：必须幂等，重复回调返回同一结果<br>
+"""</p>
+<p>SYSTEM_PROMPT = f"""你是测试 Agent 助手。用下面的测试上下文和工具，帮我们完成测试任务。<br>
+遇到需要跑脚本、查库、看日志时，调用对应工具，不要凭空编造结果。</p>
+<h2>测试上下文（记忆）</h2>
+<p>{TEST_MEMORY}<br>
+"""<br>
+`</p>
+<p><strong>这一步的价值，用一次就体会得到</strong>：以前每次让 Agent 写用例，都要重新交代「我们是电商订单系统、下单接口返回 200 才算过」；现在这些默认就带着，Agent 的产出不再「飘」。</p>
+<h3>3.3 进阶：记忆要「分层 + 可更新」</h3>
+<p>起步用文件，但有两个现实问题绕不开：</p>
+<ol>
+<li>
+<p><strong>历史 bug 会越记越多</strong>，全塞进 system prompt 会挤占 token。解决办法是<strong>分层</strong>——「高稳频」的（项目结构、环境、断言）放常驻记忆，每次都注入；「低频」的（历史 bug）做成<strong>按需检索</strong>：任务里提到「下单」时，才把下单相关的 bug 捞出来附上。</p>
+</li>
+<li>
+<p><strong>记忆会过期</strong>。环境换了、bug 修了，记忆不更新，Agent 会照着旧信息干活、越帮越忙。所以记忆文件要当成<strong>代码一样维护</strong>——改环境、修 bug，顺手更新记忆，最好放进 git 一起管。</p>
+</li>
+</ol>
+<p>进阶方向（向量库、语义检索、记忆衰减）在「从零造 Agent」第 5 篇有完整实现，这里不展开。<strong>测试 Agent 的起步，一个 markdown + 注入，已经能解决 80% 的「重复交代」问题。</strong></p>
+<hr>
+<h2>四、流程：把「用例 → 数据 → 脚本 → 判读」串成流水线</h2>
+<p>工具和记忆都就位了，接下来是把前面六篇的零活<strong>串起来</strong>。单看每一步都不新鲜，新鲜的是「串成一条流水线后，Agent 能自己接力」。</p>
+<h3>4.1 先看清这条流水线长什么样</h3>
+<p><code class="notranslate">输入需求      │      ▼   ① 生成用例（第 2 篇：拆需求 + 补边界）      │      ▼   ② 造数据（第 3 篇：格式数据 + 合法实体）      │      ▼   ③ 写/跑脚本（第 4 篇：pytest 跑通验证）      │      ▼   ④ 判读结果（第 5 篇：聚类失败 + 根因线索）      │      ▼   输出结论草稿（我们来拍板）   </code></p>
+<p><strong>关键不在「每一步」，在「接力」。</strong>  第 3 步跑的脚本，吃的是第 2 步造的数据；第 4 步判读的，是第 3 步的失败日志。前面六篇我们是一步一步手动喂的，这一篇让 Agent 自己把上一棒的输出，接到下一棒的输入上。</p>
+<h3>4.2 流程编排的骨架：一个状态机 + 工作记忆</h3>
+<p>流水线的骨架，核心是一个**「当前走到哪一步 + 每步产出存到哪」**的状态机。别被「状态机」这个词吓到，本质就是维护一个字典，每步读上一步、写本步：</p>
+<p>`defrun_pipeline(requirement: str):<br>
+    ctx = {"requirement": requirement}   # 流水线的工作记忆</p>
+<h1>① 生成用例</h1>
+<p>    ctx["cases"] = chat(f"根据需求生成用例（正常/边界/异常/安全四类）：\n{requirement}")</p>
+<h1>② 造数据（吃用例里的字段约束）</h1>
+<p>    ctx["data"] = chat(f"根据下面用例涉及的字段，造测试数据：\n{ctx['cases']}")</p>
+<h1>③ 写脚本（吃用例 + 数据）</h1>
+<p>    ctx["script"] = chat(<br>
+f"根据下面用例和数据，写 pytest 脚本：\n用例：{ctx['cases']}\n数据：{ctx['data']}"<br>
+    )</p>
+<h1>④ 判读（吃脚本运行结果）</h1>
+<p>    ctx["verdict"] = chat(<br>
+f"下面脚本的执行结果，判断失败原因（bug/环境/脚本错）：\n{ctx['script']}"<br>
+    )</p>
+<p>return ctx<br>
+`</p>
+<p>看 <code class="notranslate">ctx</code> 这个字典——它就是这条流水线的<strong>工作记忆</strong>。每一步都从 <code class="notranslate">ctx</code> 里读上一步的产出、把自己的产出写回去。<strong>这就是「接力」的最小实现。</strong></p>
+<h3>4.3 进阶：不是死板地一条道走到底，要能「看情况」</h3>
+<p>真实的测试流水线不是直线，是<strong>有分叉的</strong>：</p>
+<ul>
+<li>
+<p>造数据时，如果缺依赖实体（造商品要先有类目），要<strong>回退去补依赖</strong></p>
+</li>
+<li>
+<p>跑脚本时，如果失败是「数据问题」而不是「代码问题」，要<strong>回退去重造数据</strong>，而不是硬着头皮往下判读</p>
+</li>
+<li>
+<p>判读时，如果根因线索指向「历史 bug」，要<strong>去记忆里捞</strong>那条 bug 对比</p>
+</li>
+</ul>
+<p>所以进阶的编排，不是写死 <code class="notranslate">①→②→③→④</code> 的顺序，而是给 Agent 一个**「下一步该干啥」的判断权**，让它自己决定是前进、回退、还是调工具。落到实现，就是把上面写死的四行 <code class="notranslate">chat</code>，换成前面第 2 节的<strong>工具循环</strong>：让模型在「调 <code class="notranslate">run_test_script</code>、调 <code class="notranslate">query_database</code>、还是直接给结论」之间自己选。</p>
+<p><strong>起步先用写死的顺序，跑通了再放开让 Agent 自己决定</strong>——这跟「先求稳、再求活」的工程直觉是一致的。</p>
+<hr>
+<h2>五、常见坑：工具权限、幻觉调用、上下文越用越长</h2>
+<p>搭起来只是第一步。真实跑起来，有三个坑几乎一定会踩。提前知道，能省掉大量排查。</p>
+<h3>坑 1：工具权限——副作用工具必须「人确认」</h3>
+<p>这是最要命的一个。<strong>Agent 不会分辨「查库」和「改库」的区别，给它什么工具它都敢用。</strong>  如果图省事，把一个「能执行任意 SQL」「能删数据」「能发消息」的工具直接注册进去，它可能在一个「帮你看看数据对不对」的任务里，顺手把数据删了。</p>
+<p><strong>解决：给工具分级，副作用高的强制「先问人」。</strong></p>
+<p>|</p>
+<p>等级</p>
+<p>|</p>
+<p>例子</p>
+<p>|</p>
+<p>处理</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>只读安全</p>
+<p>|</p>
+<p>查库（SELECT）、拉日志</p>
+<p>|</p>
+<p>直接执行</p>
+<p>|<br>
+|</p>
+<p>低风险副作用</p>
+<p>|</p>
+<p>跑 pytest（只读不改业务数据）</p>
+<p>|</p>
+<p>直接执行，结果回收</p>
+<p>|<br>
+|</p>
+<p>高风险副作用</p>
+<p>|</p>
+<p>调接口造数、改数据、发消息</p>
+<p>| <strong>执行前必须停下来，让我们确认</strong> |</p>
+<p>落到实现，就是给「高风险」工具加一道「确认闸」：模型选中这类工具时，不让它直接执行，而是把「它想调什么、参数是什么」打印出来，等我们敲个 <code class="notranslate">y</code> 才真正动手：</p>
+<p><code class="notranslate">defcall_safely(tool_name: str, args: dict):   if tool_name in HIGH_RISK_TOOLS:            # 需要确认的工具名单   print(f"⚠️ 工具要执行有副作用的操作，请确认：{tool_name}({args})")   ifinput("确认执行？(y/n): ").strip().lower() != "y":   return {"aborted": True, "reason": "用户取消"}   return registry.call(tool_name, args)   </code></p>
+<p><strong>记住一条红线：改数据、删数据、发消息这类副作用操作，Agent 只能「提议」，动手的必须是「我们」。</strong>  这是第 1 篇那句口诀「出事的兜底」在工具层面的落地。</p>
+<h3>坑 2：幻觉调用——Agent 会编造不存在的工具</h3>
+<p>这是模型的老毛病，搬到工具场景同样犯：<strong>它会一本正经地调一个我们根本没注册的工具，或者给工具传一个工具根本不接受的参数。</strong></p>
+<p><code class="notranslate">模型输出：调用 run_test_script(script_name="test_order.py", env="prod")                       ↑ 工具根本没有 env 这个参数   </code></p>
+<p><strong>解决分两层：</strong></p>
+<ol>
+<li>
+<p><strong>拦在调用前</strong>：模型选中的工具名，先去注册表里查，查不到就明确回一句「工具不存在，可用工具是这些」，让它重选（而不是静默吞掉）。</p>
+</li>
+<li>
+<p><strong>参数用 JSON Schema 硬校验</strong>：模型的 tool_calls 参数是 JSON，先 <code class="notranslate">json.loads</code> 解析，解析失败或缺必填参数，就回退让它重试。<strong>永远不要让一个没校验过的参数进到真正的函数里。</strong></p>
+</li>
+</ol>
+<p>这两个动作，在前面第 2.3 节的 <code class="notranslate">registry.call</code> 里就要做——<strong>把「幻觉调用」挡在真正执行之前，而不是执行之后才发现报错。</strong></p>
+<h3>坑 3：上下文越用越长——流水线跑到后半截就「失忆」</h3>
+<p>流水线第 ① 步生成的用例，到第 ④ 步判读时，中间已经塞进去「用例 + 数据 + 脚本 + 运行日志」一大坨。<strong>对话一长，早期的关键信息被 token 窗口挤出去，Agent 变成「金鱼脑」——判读时忘了用例到底要求测什么。</strong></p>
+<p><strong>解决：摘要 + 裁剪。</strong>  每一棒的产出，不要原文全塞给下一棒，而是<strong>先压缩成「结论 + 关键点」再传递</strong>：</p>
+<p><code class="notranslate">defpass_on(raw_output: str) -&gt; str:   """把上一步的产出压缩成下一步能用的「交接摘要」"""       summary = chat(   f"把下面这段内容压缩成 3 条以内、只保留对下一步有用的要点：\n{raw_output}"       )   return summary   </code></p>
+<p>具体到流水线里：第 ① 步生成的几十条用例，传给第 ② 步时只传「涉及哪些字段、有哪些边界」；第 ③ 步的运行日志，传给第 ④ 步时只传「失败了几条、每条的一句话报错」。<strong>「交接摘要」是流水线跑长任务的命门——不压缩，多跑两棒就乱套。</strong></p>
+<hr>
+<h2>六、最小可跑脚本：一个带 3 个工具的测试 Agent 骨架</h2>
+<p>下面这个脚本，把前面三件事（工具注册、记忆注入、跑流程）合成一个能直接跑的骨架：<strong>注册 3 个工具 → 注入测试记忆 → 跑一条「生成用例并执行」的流程。</strong>  跑完你会对「一个测试 Agent 助手」长什么样，有个完整印象。</p>
+<p>`# pip install openai<br>
+import json<br>
+from openai import OpenAI</p>
+<p>client = OpenAI(<br>
+    api_key="你的 API KEY",<br>
+    base_url="<a href="https://api.deepseek.com" rel="nofollow">https://api.deepseek.com</a>",   # 换成你用的 OpenAI 兼容地址<br>
+)<br>
+MODEL = "deepseek-chat"# 换成你实际用的模型名</p>
+<h1>========== 一、工具注册表 ==========</h1>
+<p>classToolRegistry:<br>
+def__init__(self):<br>
+self._tools = {}</p>
+<p>defregister(self, name, description, parameters, func):<br>
+self._tools[name] = {<br>
+"schema": {<br>
+"type": "function",<br>
+"function": {"name": name, "description": description, "parameters": parameters},<br>
+            },<br>
+"func": func,<br>
+        }</p>
+<p>defschemas(self):<br>
+return [t["schema"] for t inself._tools.values()]</p>
+<p>defcall(self, name, args):<br>
+if name notinself._tools:                        # 防幻觉调用：查不到就拦下<br>
+return {"error": f"工具 {name} 不存在"}<br>
+returnself._tools[name]<a href="**args">"func"</a></p>
+<p>registry = ToolRegistry()</p>
+<h1>========== 二、三个测试工具（模拟实现） ==========</h1>
+<p>defrun_test_script(script_name: str) -&gt; dict:<br>
+"""执行 pytest 测试脚本，返回通过/失败用例数。用于跑自动化用例、跑回归。"""</p>
+<h1>真实项目：subprocess.run(["pytest", script_name]) 解析结果</h1>
+<p>return {"script": script_name, "passed": 6, "failed": 2}</p>
+<p>defquery_database(sql: str) -&gt; dict:<br>
+"""在测试库执行只读 SQL，返回前几行。用于查环境配置、验证造数、查历史 bug。只读，不用于修改数据。"""</p>
+<h1>真实项目：连测试库执行 SELECT</h1>
+<p>return {"sql": sql, "rows": [{"id": 1, "status": "on_sale"}], "row_count": 1}</p>
+<p>deffetch_logs(keyword: str, lines: int = 20) -&gt; dict:<br>
+"""按关键字拉最近服务日志。用于分析失败用例、定位报错。不用于查询数据库。"""</p>
+<h1>真实项目：接日志平台 API</h1>
+<p>return {"keyword": keyword, "logs": ["ERROR order.price assert failed: got -1"], "count": 1}</p>
+<p>registry.register(<br>
+"run_test_script",<br>
+"执行 pytest 测试脚本并返回通过/失败用例数。当需要跑自动化用例、跑回归时使用。",<br>
+    {"type": "object", "properties": {"script_name": {"type": "string", "description": "脚本文件名，如 test_order.py"}}, "required": ["script_name"]},<br>
+    run_test_script,<br>
+)<br>
+registry.register(<br>
+"query_database",<br>
+"在测试库执行只读 SQL，返回查询结果。用于查环境配置、验证造数、查历史 bug。只读，不用于修改数据。",<br>
+    {"type": "object", "properties": {"sql": {"type": "string", "description": "只读 SELECT 语句"}}, "required": ["sql"]},<br>
+    query_database,<br>
+)<br>
+registry.register(<br>
+"fetch_logs",<br>
+"按关键字拉取最近服务日志。用于分析失败用例、定位报错。不用于查询数据库。",<br>
+    {"type": "object", "properties": {"keyword": {"type": "string", "description": "日志关键字"}, "lines": {"type": "integer", "description": "拉取行数，默认 20"}}, "required": ["keyword"]},<br>
+    fetch_logs,<br>
+)</p>
+<h1>========== 三、测试记忆（注入 system prompt） ==========</h1>
+<p>TEST_MEMORY = """【项目】电商订单系统<br>
+【环境】测试库 test_order，日志平台 log-platform，pytest 在 tests/ 目录<br>
+【历史 bug】order.price 曾出现负数，根因是优惠券叠加计算错误<br>
+【常用断言】下单接口返回 200 且 order.status == "created"<br>
+"""</p>
+<p>SYSTEM_PROMPT = f"""你是测试 Agent 助手。用下面的测试上下文和工具，帮我们完成测试任务。<br>
+遇到需要跑脚本、查库、看日志时，调用对应工具，不要凭空编造结果。</p>
+<h2>测试上下文（记忆）</h2>
+<p>{TEST_MEMORY}<br>
+"""</p>
+<h1>========== 四、工具循环 + 流程 ==========</h1>
+<p>defchat_with_tools(messages):<br>
+    resp = client.chat.completions.create(<br>
+        model=MODEL,<br>
+        messages=messages,<br>
+        tools=registry.schemas(),<br>
+    )<br>
+return resp.choices[0].message</p>
+<p>defrun_flow(task: str):<br>
+    messages = [<br>
+        {"role": "system", "content": SYSTEM_PROMPT},<br>
+        {"role": "user", "content": task},<br>
+    ]<br>
+for _ inrange(5):                       # 最多 5 轮工具调用，防死循环<br>
+        msg = chat_with_tools(messages)<br>
+ifnot msg.tool_calls:               # 没有工具调用了，说明模型给出结论<br>
+return msg.content<br>
+        messages.append(msg)                 # 把模型的工具调用请求记进对话<br>
+for tc in msg.tool_calls:<br>
+            args = json.loads(tc.function.arguments)      # 参数 JSON 校验<br>
+            result = registry.call(tc.function.name, args)  # 真正执行<br>
+            messages.append({<br>
+"role": "tool",<br>
+"tool_call_id": tc.id,<br>
+"content": json.dumps(result, ensure_ascii=False),<br>
+            })<br>
+return"（达到最大工具轮次，未完成）"</p>
+<p>if <strong>name</strong> == "<strong>main</strong>":<br>
+    task = (<br>
+"对『下单』功能：先生成 3 条核心用例，"<br>
+"然后跑一遍 test_order.py，"<br>
+"再查一下数据库里有没有历史 bug 记录，"<br>
+"最后给出结论草稿。"<br>
+    )<br>
+print(run_flow(task))<br>
+`</p>
+<p><strong>跑完注意看两处：</strong></p>
+<ol>
+<li>
+<p><strong>它是不是真的调了工具，而不是凭空编。</strong>  模型应该在「跑脚本」时调 <code class="notranslate">run_test_script</code>、在「查历史 bug」时调 <code class="notranslate">query_database</code>。如果它没调就下结论，说明 tool 描述或 system prompt 没写清「遇到 XX 要调工具」。</p>
+</li>
+<li>
+<p><strong>工具返回的结果有没有被正确「接力」到结论里。</strong>  比如 <code class="notranslate">fetch_logs</code> 返回的 <code class="notranslate">order.price 负数</code>，应该出现在最终判读里——这是「工具 → 结论」这条链路通不通的直接证据。</p>
+</li>
+</ol>
+<p><strong>别指望一次就顺。</strong>  真实工作里，这个骨架要反复调：工具描述写得不够准、记忆漏了关键约束、流程顺序不对……但骨架立起来了，后面全是「加工具、改记忆、调流程」的小迭代。<strong>这正是「结对」——Agent 负责动手跑，我们负责看它跑得对不对、把它越调越顺手。</strong></p>
+<hr>
+<h2>七、一句话总结</h2>
+<p><strong>搭一个测试 Agent 助手，本质是「把前面的零活固化」：先画一张能力清单划清边界（它不是平台、不是全自动机器人），再用「工具函数 + 面向使用者的描述 + 注册表」给它接上跑脚本、查库、调接口、看日志的手；把项目结构、环境、历史 bug、常用断言沉淀成记忆注入 system prompt，让它不再每次从零交代；用「用例 → 数据 → 脚本 → 判读」的状态机把零活串成流水线、让上一棒产出接力到下一棒。三个坑提前防住：副作用工具必须人确认、幻觉调用在真正执行前拦下、长流水线靠「交接摘要」压缩上下文。</strong></p>
+<hr>
+<p><em>下一篇预告：《收口》——什么时候千万别用 Agent 测，用例/数据/脚本质量打分，一张工程清单。</em></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
