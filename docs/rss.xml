@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Wed, 04 Nov 2026 00:50:01 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。</title><link>https://126.plus/post/kai-yuan-wo-zhe-zhe-teng-le-1-nian-de-%E3%80%8CAgent-zi-dong-hua-xi-tong-%E3%80%8D%EF%BC%8C-yuan-suo-you-ren-du-neng-gan-shou-Agent-de-mei-li-%E3%80%82.html</link><description>周一发了一篇我的Agent自动化系统：[折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。</description><guid isPermaLink="true">https://126.plus/post/kai-yuan-wo-zhe-zhe-teng-le-1-nian-de-%E3%80%8CAgent-zi-dong-hua-xi-tong-%E3%80%8D%EF%BC%8C-yuan-suo-you-ren-du-neng-gan-shou-Agent-de-mei-li-%E3%80%82.html</guid><pubDate>Wed, 04 Nov 2026 00:49:21 +0000</pubDate></item><item><title>用 Agent 做测试 ⑦：搭一个自己的测试 Agent 助手——工具注册 + 记忆 + 流程</title><link>https://126.plus/post/yong-%20Agent%20-zuo-ce-shi-%20%E2%91%A6%EF%BC%9A-da-yi-ge-zi-ji-de-ce-shi-%20Agent%20-zhu-shou-%E2%80%94%E2%80%94-gong-ju-zhu-ce-%20%2B%20-ji-yi-%20%2B%20-liu-cheng.html</link><description>&gt; 🏷️ #Agent #AI测试 #测试开发 #工具注册 #Agent助手 #工作流
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Johnson的备忘录</title><link>https://126.plus</link><description>这是我的备忘录空间,收集有关AI、IT、自媒体相关领域的内容</description><copyright>Johnson的备忘录</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png</url><title>avatar</title><link>https://126.plus</link></image><lastBuildDate>Wed, 04 Nov 2026 15:05:17 +0000</lastBuildDate><managingEditor>Johnson的备忘录</managingEditor><ttl>60</ttl><webMaster>Johnson的备忘录</webMaster><item><title>个人开发者，也能开虚拟支付，在小程序收款了</title><link>https://126.plus/post/ge-ren-kai-fa-zhe-%EF%BC%8C-ye-neng-kai-xu-ni-zhi-fu-%EF%BC%8C-zai-xiao-cheng-xu-shou-kuan-le.html</link><description>刚刚微信小程序带来了一波极大的更新**个人开发者可以小程序里卖解锁功能、付费功能这类虚拟商品，然后走虚拟支付，直接收款**
+
+要点如下：
+
+*   个人主体，服务类目含「工具」，已完成认证和备案，审核一般 5 分钟内
+    
+*   手续费的话，Android `1%`（腾讯技术服务费），iOS `12%`（Apple 佣金）
+    
+*   账期：Android T+3，iOS 约 45–60 天
+    
+*   限额：每月 `10 万元`，所有终端合计
+    
+
+### **快速接入**
+
+ 阅读接入指引，并完成个人主体小程序的虚拟支付接入：https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/virtual-payment/person 最后按文末「部署前检查清单」逐项验收。</description><guid isPermaLink="true">https://126.plus/post/ge-ren-kai-fa-zhe-%EF%BC%8C-ye-neng-kai-xu-ni-zhi-fu-%EF%BC%8C-zai-xiao-cheng-xu-shou-kuan-le.html</guid><pubDate>Wed, 04 Nov 2026 15:04:47 +0000</pubDate></item><item><title>开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。</title><link>https://126.plus/post/kai-yuan-wo-zhe-zhe-teng-le-1-nian-de-%E3%80%8CAgent-zi-dong-hua-xi-tong-%E3%80%8D%EF%BC%8C-yuan-suo-you-ren-du-neng-gan-shou-Agent-de-mei-li-%E3%80%82.html</link><description>周一发了一篇我的Agent自动化系统：[折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统。</description><guid isPermaLink="true">https://126.plus/post/kai-yuan-wo-zhe-zhe-teng-le-1-nian-de-%E3%80%8CAgent-zi-dong-hua-xi-tong-%E3%80%8D%EF%BC%8C-yuan-suo-you-ren-du-neng-gan-shou-Agent-de-mei-li-%E3%80%82.html</guid><pubDate>Wed, 04 Nov 2026 00:49:21 +0000</pubDate></item><item><title>用 Agent 做测试 ⑦：搭一个自己的测试 Agent 助手——工具注册 + 记忆 + 流程</title><link>https://126.plus/post/yong-%20Agent%20-zuo-ce-shi-%20%E2%91%A6%EF%BC%9A-da-yi-ge-zi-ji-de-ce-shi-%20Agent%20-zhu-shou-%E2%80%94%E2%80%94-gong-ju-zhu-ce-%20%2B%20-ji-yi-%20%2B%20-liu-cheng.html</link><description>&gt; 🏷️ #Agent #AI测试 #测试开发 #工具注册 #Agent助手 #工作流
 
 * * *
 
