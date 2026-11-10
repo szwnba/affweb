@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRwGDvKa80roPlj742ichFrCLqtDLGnM7NztHMTH42UkhIP3iaXqk4I6RouO5nbiav5rdDg8JlQib93oeNeuPQ2GR81TZ1jWZHzKDs/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+最近半年 AI 圈最出圈的一类能力，是让 AI 自动操作软件，代表有两个：
+
+*   • 一个是 `browser use`，AI 自己操控浏览器，开网页、点按钮、填表单；
+    
+*   • 另一个是 `computer use`，直接操控整台电脑上的应用。">
+<meta property="og:title" content="WorkBuddy操作浏览器Browser Use，的确很香！">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRwGDvKa80roPlj742ichFrCLqtDLGnM7NztHMTH42UkhIP3iaXqk4I6RouO5nbiav5rdDg8JlQib93oeNeuPQ2GR81TZ1jWZHzKDs/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0)
+
+最近半年 AI 圈最出圈的一类能力，是让 AI 自动操作软件，代表有两个：
+
+*   • 一个是 `browser use`，AI 自己操控浏览器，开网页、点按钮、填表单；
+    
+*   • 另一个是 `computer use`，直接操控整台电脑上的应用。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/WorkBuddy-cao-zuo-liu-lan-qi-Browser%20Use%EF%BC%8C-de-que-hen-xiang-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>WorkBuddy操作浏览器Browser Use，的确很香！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">WorkBuddy操作浏览器Browser Use，的确很香！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/839" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e24ac725e3216f3be1ba4a892d6f4d8c53573bfbf5a112b3c3e93c82c16dc3a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652774744764b613830726f506c6a3734326963684672434c7174444c476e4d374e7a74484d54483432556b68495033696158716b344936526f754f356e626961763572644467384a6c51696239336f654e657550513247523831545a316a575a487a4b44732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/e24ac725e3216f3be1ba4a892d6f4d8c53573bfbf5a112b3c3e93c82c16dc3a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652774744764b613830726f506c6a3734326963684672434c7174444c476e4d374e7a74484d54483432556b68495033696158716b344936526f754f356e626961763572644467384a6c51696239336f654e657550513247523831545a316a575a487a4b44732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRwGDvKa80roPlj742ichFrCLqtDLGnM7NztHMTH42UkhIP3iaXqk4I6RouO5nbiav5rdDg8JlQib93oeNeuPQ2GR81TZ1jWZHzKDs/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>最近半年 AI 圈最出圈的一类能力，是让 AI 自动操作软件，代表有两个：</p>
+<ul>
+<li>
+<p>• 一个是 <code class="notranslate">browser use</code>，AI 自己操控浏览器，开网页、点按钮、填表单；</p>
+</li>
+<li>
+<p>• 另一个是 <code class="notranslate">computer use</code>，直接操控整台电脑上的应用。</p>
+</li>
+</ul>
+<p>这两个能力都不是凭空冒出来的，computer use 最早是 Anthropic 在 2024 年 10 月随 Claude 3.5 Sonnet 发布的，browser use 这个叫法则是被一个同名开源项目带火的，2025 年它已经是最流行的开源浏览器自动化框架之一。</p>
+<p>普通用户大规模用上它们，是今年 4 月的事。OpenAI 的 Codex 桌面应用把 computer use 和内置浏览器一起打包了进去，一句话就能让 AI 替你点页面、跑操作，国外开发者玩出了各种花样。但国内真上手体验过的人不多，海外订阅加网络门槛，把大部分人挡在外面了。</p>
+<p>最近国内腾讯的 WorkBuddy 也推出了 <code class="notranslate">browser use</code> 的能力，不用海外账号，不用折腾网络，装个客户端就能用。</p>
+<p>没用过 WorkBuddy 的同学，先看下面一分钟介绍，用熟的同学直接跳到功能部分。</p>
+<h2>WorkBuddy 是个啥？</h2>
+<p>没接触过的同学先花半分钟认识一下。</p>
+<p>WorkBuddy 是腾讯出的 AI 办公工作台，腾讯云 CodeBuddy 团队做的，你用大白话给它派活，它自己拆任务、自己执行，写文档、做表格、写代码这类活都能派。微信、QQ、企业微信的账号都能直接登录，电脑、手机、微信小程序三端都有。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33742f94fd8cab5807a451281e8ccaa54b0227cd4fc89b632bcd2ffc50c7a4af/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765252546f7133797831524e52566a316a45364d785271464769624d4b58396455504b68696365334744676e3569626962414b59676f645465686d67354753637669634b70424731346f686430386654705437314c7063455a7877426338583655706962717750452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/33742f94fd8cab5807a451281e8ccaa54b0227cd4fc89b632bcd2ffc50c7a4af/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765252546f7133797831524e52566a316a45364d785271464769624d4b58396455504b68696365334744676e3569626962414b59676f645465686d67354753637669634b70424731346f686430386654705437314c7063455a7877426338583655706962717750452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRRToq3yx1RNRVj1jE6MxRqFGibMKX9dUPKhice3GDgn5ibibAKYgodTehmg5GScvicKpBG14ohd08fTpT71LpcEZxwBc8X6UpibqwPE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>这半年它的热度涨得很猛。7 月月访问量突破 2000 万，在同类产品里遥遥领先、排在国内 AI 办公桌面端第一。</p>
+<p>腾讯也明显在往它身上压资源，10 月刚和企业微信完成双向打通，消息、文档、会议、网盘这些企微能力它都能调。据说<strong>WorkBuddy已经成为了腾讯旗下继QQ、微信的第三大战略级产品</strong>。</p>
+<p>这次的浏览器操控，就是它这波快速迭代里的一步。已经用熟的同学，直接往下看。</p>
+<hr>
+<h2>WorkBuddy 更新有点猛啊</h2>
+<p>WorkBuddy 最近上了一个新功能，能让 AI 直接操控你的浏览器，这类能力现在通行的叫法是 <code class="notranslate">browser use</code>。装个浏览器扩展，它就能<strong>在你已经登录的浏览器里</strong>打开网页、点按钮、滚动翻页。</p>
+<p>它干活是在一个独立的标签页组里，有自己单独的光标，不抢你手上的鼠标，也不占你正在看的窗口。它跑它的，你切去回消息、看文档都行。配合手机端，还能<strong>随时给电脑派活</strong>，不用一直守在屏幕前。</p>
+<p>看到这个功能，我第一反应这不就是<strong>浏览器自动化</strong>么。让机器替人操作浏览器这件事玩法上，已经层出不穷了，早期全靠写脚本，从 Selenium 到 Playwright。突然有个东西说不用写脚本了，一句话它自己就会点，值得试一次。</p>
+<h2>跟传统写脚本比，差别在哪</h2>
+<p>让浏览器替人干活，测试这行的老路子是写脚本。元素定位、显式等待、断言、报告，一层层搭起来。最头疼的两件事，一是登录态，二是前端一改版，定位器成片失效。</p>
+<p><code class="notranslate">browser use</code> 把这两件事都绕开了。它操作的就是你手上这个已经登录好的浏览器，登录态的问题天然不存在。它找元素也不靠定位器，AI 自己看页面，自己认出哪个是搜索框、哪个是下一页按钮。页面改版了，按钮挪了位置换了样式，它照样能找到。</p>
+<p>代价也有，而且不小。它跑一趟要几分钟，每次走的路径还可能不一样，这两条决定了它暂时顶替不了回归脚本。这个后面细说，先把功能装上，跑起来看看。</p>
+<h2>先把它装上</h2>
+<p>入口在客户端的设置里。把 WorkBuddy 更新到最新版，打开设置，找到智能体那一栏，里面就有浏览器扩展的安装入口。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcea97444f91cf8cb2190182cf778fa6ccfec519a956ac794de75994b3a64dd6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e765273756d424b3650714a3754634965583767363032484c78327056484663614845696135466d6963624443745550646d6e6133616e6b444e5862526c76384b75784e6b64614d726e48614c75666c6d5771395761794d6963367157724b4e6e396c616963552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/fcea97444f91cf8cb2190182cf778fa6ccfec519a956ac794de75994b3a64dd6/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e765273756d424b3650714a3754634965583767363032484c78327056484663614845696135466d6963624443745550646d6e6133616e6b444e5862526c76384b75784e6b64614d726e48614c75666c6d5771395761794d6963367157724b4e6e396c616963552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvRsumBK6PqJ7TcIeX7g602HLx2pVHFcaHEia5FmicbDCtUPdmna3ankDNXbRlv8KuxNkdaMrnHaLuflmWq9WayMic6qWrKNn9laicU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>我用的 Chrome，选 Chrome 扩展，点前往安装，会直接跳到 Chrome 应用商店，点添加到 Chrome 就行。扩展也支持 Edge 和 QQ 浏览器，用哪个装哪个。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f740a5fb89025e1f34f69ea6aba001f88fdfa858d7b6181e1f74fe3c1a11485c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651585a69626564526137713137366469613043556962464b6d6e434969634b4a58374b6e745a587166774e586c6b74786f343165384e41377938636257364b4f426a4942545969616452554461373071696169626d386963483963414f6b77487530437a51433431552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/f740a5fb89025e1f34f69ea6aba001f88fdfa858d7b6181e1f74fe3c1a11485c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7651585a69626564526137713137366469613043556962464b6d6e434969634b4a58374b6e745a587166774e586c6b74786f343165384e41377938636257364b4f426a4942545969616452554461373071696169626d386963483963414f6b77487530437a51433431552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvQXZibedRa7q176dia0CUibFKmnCIicKJX7KntZXqfwNXlktxo41e8NA7y8cbW6KOBjIBTYiadRUDa70qiaibm8icH9cAOkwHu0CzQC41U/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>装完先别急着关设置页，还要把「允许 WorkBuddy 控制浏览器」这个开关打开。扩展和开关都弄好，它才能真正动你的浏览器，少一个都不行。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d30061dea28c417dc0eed7f10b1b5507e41fe9e472fc5e3ef92e73361f1ed809/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7652626e62594e3569614675426171634458746249654f4375445a4b4579653069636a476e5234616857726b6337686963627a336368506a73616963476b666e34457344776e654a4c71585068434e47386f54614e61456b624c646e4f54386834614e646c732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/d30061dea28c417dc0eed7f10b1b5507e41fe9e472fc5e3ef92e73361f1ed809/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e7652626e62594e3569614675426171634458746249654f4375445a4b4579653069636a476e5234616857726b6337686963627a336368506a73616963476b666e34457344776e654a4c71585068434e47386f54614e61456b624c646e4f54386834614e646c732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvRbnbYN5iaFuBaqcDXtbIeOCuDZKEye0icjGnR4ahWrkc7hicbz3chPjsaicGkfn4EsDwneJLqXPhCNG8oTaNaEkbLdnOT8h4aNdls/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<h2>第一个任务，去我的网站上霍霍一下</h2>
+<p>装好就能用。打开 WorkBuddy 的对话框，选 <code class="notranslate">/workbuddy-browser-use</code> 这个技能，然后把需求用大白话发过去。<br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07bc3e4df3a1ce7a012f382cca9e55b8210eb7f54dd8b988d72ae836e9818e31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652674850444c4177494b6b5763666962733269637469637538714c637156516e3843734f70476e76327a336569626d696242374e6963627165586c6c4c57636247496369614770456d536b6f585531793779796c55756c766d72416835317a6761667256723334512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/07bc3e4df3a1ce7a012f382cca9e55b8210eb7f54dd8b988d72ae836e9818e31/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e7652674850444c4177494b6b5763666962733269637469637538714c637156516e3843734f70476e76327a336569626d696242374e6963627165586c6c4c57636247496369614770456d536b6f585531793779796c55756c766d72416835317a6761667256723334512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvRgHPDLAwIKkWcfibs2icticu8qLcqVQn8CsOpGnv2z3eibmibB7NicbqeXllLWcbGIciaGpEmSkoXU1y7yylUulvmrAh51zgafrVr34Q/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>我给它派的活是，打开我的测试网站，找到面试题库栏目，把最受欢迎的 10 道题挑出来，每道整理一份回答要点。</p>
+<p>接到任务后它先自己打开站点，找到「面试题库」栏目，再逐个进分类页面收集题目。有个细节我盯着看了一会儿，列表页默认只显示前几题，它读完后自己把页面往下滚，把后面的题接着读完，这一步没人教它。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fc2fb5fff3eea6ce5f9c48b46c80d7ad6ffe4626b4885cf092fb0fb38c1c8d28/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765167755a6d6676706963506d32304c413951467171595847414a7459696253586736304b6767574468696352446a473365507032696337556831664879573875684b6f4b4748445473696349443834474e4178646763756d6c387063456e7543776832736962452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/fc2fb5fff3eea6ce5f9c48b46c80d7ad6ffe4626b4885cf092fb0fb38c1c8d28/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765167755a6d6676706963506d32304c413951467171595847414a7459696253586736304b6767574468696352446a473365507032696337556831664879573875684b6f4b4748445473696349443834474e4178646763756d6c387063456e7543776832736962452f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvQguZmfvpicPm20LA9QFqqYXGAJtYibSXg60KggWDhicRDjG3ePp2ic7Uh1fHyW8uhKoKGHDTsicID84GNAxdgcuml8pcEnuCwh2sibE/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>全部跑完，它交回一份清单，10 道题，每道带一份回答要点，格式也归置得整整齐齐。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3dcb403b2b8bc6f321eac0ce62337295574b05484eaf01694cfe92f710b78c0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765147467147574c6842674832596f63566f5a386b4d5678567949644975366961613876716962353431504a30556b48596c7839446132364e595a544f72456d6d6b52476e4a6f4c36736c413663476e69636b30526a754b745a4e656364305769634b7474512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/3dcb403b2b8bc6f321eac0ce62337295574b05484eaf01694cfe92f710b78c0d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f557a73435675774f6e765147467147574c6842674832596f63566f5a386b4d5678567949644975366961613876716962353431504a30556b48596c7839446132364e595a544f72456d6d6b52476e4a6f4c36736c413663476e69636b30526a754b745a4e656364305769634b7474512f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UzsCVuwOnvQGFqGWLhBgH2YocVoZ8kMVxVyIdIu6iaa8vqib541PJ0UkHYlx9Da26NYZTOrEmmkRGnJoL6slA6cGnick0RjuKtZNecd0WicKttQ/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>整个过程我没给它一行代码，没给一个元素定位，就一句话。找入口、遍历分类、滚动翻页、汇总排版，全是它自己捣鼓的。这就是 <code class="notranslate">browser use</code> 跟写脚本最直观的差别，你描述清楚要什么，过程它自己看着办。</p>
+<h2>中间一个插曲，它悄悄换了统计口径</h2>
+<p>正常来说，「最受欢迎」该按浏览量排。它最后给的清单里，挑选依据写的是按题目在当前招聘中的出现频率。我一开始以为它理解偏了，点开网站一看，浏览量数字是空的，统计又挂了。</p>
+<p>我的网站每道题都有浏览量，计数用的是免费第三方前端库，这库有个已知 bug，时好时坏。WorkBuddy 去读的时候恰好赶上坏的那阵，一条数据都没抓到，于是它判定这个网站没有浏览量指标。其实有，只是那一刻是坏的。</p>
+<p>判定完它没停下来问我，自己换了个口径，按招聘出现频率把 10 道题挑完了。挑出来的结果看着挺像样，依据已经换过了，而且它不主动讲。</p>
+<p>这件事值得记两点。</p>
+<p>降级能力是真好。数据读不到，它自己找了个说得通的口径把活干完，一点没耽误事。但验收 AI 的产出，光看结果不够，<strong>得连依据一起验</strong>。它按什么标准挑的、数据从哪读的，验收时多问一嘴，不然口径换了你还不知道。这条对往后拿 AI 干测试的活普遍适用。</p>
+<p>另一个算意外收获。要不是它这次去读浏览量，我都不知道统计又挂了。等于顺手做了一次线上巡检，白捡一条 bug 线索。</p>
+<h2>第二个任务，多步任务一起派发</h2>
+<p>收面试题那单跑完，我又试了个更贴近日常的。还是这个学习网站，一次把三步活连着派下去，话术原样贴在下面。</p>
+<p><code class="notranslate">帮我在当前谷歌浏览器打开的AI测试开发学习路线网站上：   1、第一步，点击测试八股文菜单，帮我总结一下这个菜单下有什么值得学习的内容。   2、第二步，再点击面试题库菜单，帮我计算总共有多少道面试题。   3、第三点，点击资源导航菜单，告诉我当前收录了多少款工具。</code></p>
+<p>这次有个和上回不一样的地方。上回是它自己打开网址，并且在workbuddy内置的浏览器中的打开的，而这回我在话术里写的是「当前谷歌浏览器打开的网站」，它就直接接管了我手上已经开着的那个标签页。浏览器顶部先弹出一条「WorkBuddy 已开始调试此浏览器」的提示，确认之后它才开始动。</p>
+<p>三步活它自己排顺序，先点测试八股文总结内容，再进面试题库翻分类数题，最后去资源导航清点工具。每走到一步，对话里就同步一步，加载技能、点击元素这些动作全有记录，跑到第二步时已经处理了快两分钟。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4eb341f879e8cd40e62f12a167f3a2dc61558082db71e7c07b9de91412023f1d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e765438707671423058626869614b6233306963746f4962366e3578367251787978446a3234696369626534446d5a616f6c6846386c31346f4b55516c676875526c644b764f62416a743970676d6b51554a396961556d347248354759515644305768364f5775412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/4eb341f879e8cd40e62f12a167f3a2dc61558082db71e7c07b9de91412023f1d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f557a73435675774f6e765438707671423058626869614b6233306963746f4962366e3578367251787978446a3234696369626534446d5a616f6c6846386c31346f4b55516c676875526c644b764f62416a743970676d6b51554a396961556d347248354759515644305768364f5775412f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UzsCVuwOnvT8pvqB0XbhiaKb30ictoIb6n5x6rQxyxDj24icibe4DmZaolhF8l14oKUQlghuRldKvObAjt9pgmkQUJ9iaUm4rH5GYQVD0Wh6OWuA/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<h2>还有哪些活，能交给它</h2>
+<p>两轮实测跑下来，大概心里有底了。我又顺着「人在浏览器里点的活」这个标准，把几类常见的工作跑了一下，分几类列在下面，给大家当个引子，供参考。</p>
+<p><strong>测试类</strong></p>
+<ul>
+<li>
+<p>• 发版后的快速冒烟。话术大概是「打开测试环境的订单系统，把登录、创建订单、退款各跑一遍，哪一步页面打不开、报错、按钮点不动，截图记下来」，跑完给你一份带截图的走查清单，白屏、404、按钮失效最先暴露。这种活写脚本太重，人肉点一遍又烦，总算有地方安放了。</p>
+</li>
+<li>
+<p>• 线上巡检。核心页面列成清单，每周固定让它挨个打开，看标题、看按钮、看报错，浏览量那个插曲已经证明这条路能跑，周一通勤路上手机派出去，到公司结果已经好了。</p>
+</li>
+</ul>
+<p><strong>开发类</strong></p>
+<ul>
+<li>
+<p>• 提测前自测。写完一个功能，让它替你把页面流程点一遍，该截的图截好，别把低级问题漏到测试同学手里。</p>
+</li>
+<li>
+<p>• 依赖升级盘点。要升的库，让它去 GitHub 的 Releases 页把近期更新日志翻一遍，breaking changes 单独挑出来列成清单，看完再决定这版升不升。</p>
+</li>
+</ul>
+<p><strong>产品类</strong></p>
+<ul>
+<li>
+<p>• 体验走查。让它扮演第一次来的用户，从首页找入口、跟着核心功能走一遍，看不懂、找不到、走不通的地方全记下来，等于换双新眼睛。</p>
+</li>
+<li>
+<p>• 反馈归类。应用商店的评论、社区的帖子，让它翻一遍按问题归类汇总，比一条条肉眼看快得多。</p>
+</li>
+<li>
+<p>• 竞品调研。把竞品官网的功能逐个点开，整理成清单加截图，省你半天。</p>
+</li>
+</ul>
+<p><strong>办公类</strong></p>
+<ul>
+<li>
+<p>• OA 流程。报销、请假、审批，把单子信息给它，让它照着流程一步步填。</p>
+</li>
+<li>
+<p>• 周报月报。要的数字让它去后台系统里捞，捞完直接填进模板。</p>
+</li>
+<li>
+<p>• 招聘对比表。让它翻招聘网站，把目标岗位的 JD 整理成一张对比表，要求、薪资、技能词一目了然。</p>
+</li>
+</ul>
+<p><strong>重复录入类</strong></p>
+<ul>
+<li>• 测试造数据、运营批量上架、行政搬表格，凡是「从一个页面抄到另一个页面」的活，都可以想一句话试试。涉及提交的操作它会先把要提交的内容列出来跟你确认。</li>
+</ul>
+<h2>几条边界，用之前记下</h2>
+<p>验证码和滑块它过不去，碰到了会停下来等你接手。页面加载慢、网站临时改版，也可能让它失败，重试或者换个时间再跑。</p>
+<p>更要紧的是这两条。它每次跑的路径可能不一样，同一个任务这次从导航进，下次从搜索进，做探索无所谓，做回归就是硬伤，回归要的就是每次一模一样。它也没有断言这个概念，检查结果靠它自己汇报加你抽查，关键路径的严格校验，还是得脚本说了算。</p>
+<p>再加上它跑一趟要几分钟，高频回归根本等不起。所以我的用法是分工，一次性的、低频的、要人眼看的活交给它，稳定高频的回归留给 <code class="notranslate">Playwright</code>。</p>
+<hr>
+<p>这个功能不额外收钱，装个扩展就能试。</p>
+<p>我的建议是别从大活开始。先把手头最烦的那件小事丢给它，发版后的冒烟、拖了很久没做的巡检、竞品文档整理，随便挑一件，站在旁边看它把页面一个个点开，你会很快摸清它的脾气，哪些活放心交，哪些活交了也得盯着。</p>
+<p>看完你大概也能感觉到，值钱的从来是你派活的那句话。让它查什么、按什么标准算过、依据从哪来，这几样想清楚了，一句话派出去就能放心。想不清楚，它跑得再勤，也只是把你的含糊需求用浏览器重演一遍。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b3f479bcafe66019ba2ccc7638030af59249eae3aa5d4513efec29fca4118a65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f4c6a696234536f377975576a524e5848615a484566724d4e43634469616e33734770305a42334f6961766a6a42737775504e733176784b61384b676963564346624d554a6a36396866314b546869636a43515a594d73354e696343672f3634303f77785f666d743d67696626777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31"><img src="https://camo.githubusercontent.com/b3f479bcafe66019ba2ccc7638030af59249eae3aa5d4513efec29fca4118a65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f4c6a696234536f377975576a524e5848615a484566724d4e43634469616e33734770305a42334f6961766a6a42737775504e733176784b61384b676963564346624d554a6a36396866314b546869636a43515a594d73354e696343672f3634303f77785f666d743d67696626777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/Ljib4So7yuWjRNXHaZHEfrMNCcDian3sGp0ZB3OiavjjBswuPNs1vxKa8KgicVCFbMUJj69hf1KThicjCQZYMs5NicCg/640?wx_fmt=gif&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>我是 狂师，<strong>专注分享 AI 提效与软件测试开发技术实战干货</strong>。</p>
+<p>如果这篇文章对你有帮助，不妨<strong>点个赞</strong>、<strong>转发、收藏三连支持！</strong> ❤️想第一时间收到推送，记得加个星标 ⭐</p>
+<p>往期推荐</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247509152&amp;idx=1&amp;sn=c4dd7c8cb5832998405d02b2c6979419&amp;scene=21#wechat_redirect" rel="nofollow">2026最新A学习路线全景图：从零基础到A全栈测试与开发实战</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247508622&amp;idx=1&amp;sn=5228a345caf072daffeadbe359ab3c91&amp;scene=21#wechat_redirect" rel="nofollow">2026年做了一个大胆的决定：我要收徒弟了！</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247505395&amp;idx=1&amp;sn=468bb6360f530d11e5b370bb729367da&amp;scene=21#wechat_redirect" rel="nofollow">最新AI+全栈测试开发技能实战指南（第6期）</a></p>
+<p>📢 最新通知：<a href="https://mp.weixin.qq.com/s?__biz=MzA4NDUyNzA0Ng==&amp;mid=2247507262&amp;idx=1&amp;sn=a03e29abf84cf5075d29de5604645d87&amp;scene=21#wechat_redirect" rel="nofollow">「狂师・AI 进化社」</a>，企业级AI智能测试平台实战项目已经上线！🔥 2026年必学的AI实战落地项目，助力搞定年度 KPI，目前报名还有优惠，有需要的同学，欢迎一起实践交流。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
