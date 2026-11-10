@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="ZCode 插件市场现已上线 Godot 和 Blender 官方插件。">
+<meta property="og:title" content="ZCode×Godot×Blender：4小时爆改3D独立游戏">
+<meta property="og:description" content="ZCode 插件市场现已上线 Godot 和 Blender 官方插件。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/ZCode%C3%97Godot%C3%97Blender%EF%BC%9A4-xiao-shi-bao-gai-3D-du-li-you-xi.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>ZCode×Godot×Blender：4小时爆改3D独立游戏</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">ZCode×Godot×Blender：4小时爆改3D独立游戏</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/840" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>ZCode 插件市场现已上线 Godot 和 Blender 官方插件。通过 ZCode 对话框输入指令，就能直接调用本机 Blender 批量生成 3D 模型，再让 Godot 搭建场景、编写脚本并自动测试。</p>
+<p>近期，B 站独立游戏开发者 @夜神不说话 用这套插件完成了一次完整实测。他全程使用 GLM-5.3-Flash，消耗约 3 亿 Tokens，仅使用端内活动赠送的免费额度即完成开发。在不到 4 小时内，他将一款 2D 旧项目重制为 3D 可玩游戏《逃离千禧年》。新版本包含 100 件 3D 低模元件、类似《逃离塔科夫》的网格背包、三个场景组成的循环玩法，以及 PS1/CRT 复古滤镜。</p>
+<p>下面我们按照实际开发过程，将这套「ZCode + Godot + Blender」工作流拆解为以下 5 个步骤，供大家参考。</p>
+<h2>准备工作：开启Godot与Blender插件</h2>
+<p>更新至最新版 ZCode，打开左侧「插件市场」，在底部的「游戏/3D」分类中，找到 Blender、Godot、Tripo 3D、Hyper3D Rodin，以及 Unity、Unreal Engine 等插件。</p>
+<p>开启插件后，ZCode 会自动配置本机 CLI 和相关技能，如 godot:setup、godot:cli、blender:cli，之后在输入框中使用 /godot、/blender 命令，或直接指定插件。</p>
+<p>此次实测采用 Godot 和 Blender 的组合。Godot（GDScript）体积较小，支持 Headless CLI 命令行导入和语法检查；Blender 则负责低多边形（Low Poly）建模。两者配合，即便是轻量免费的 GLM-5.3-Flash，也能完成从资产制作到游戏组装的开发任务。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f199d4c62c6aade2707ef9ae05b5a78a95269cd1c9d0cde0c55da43c5b31b983/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d735543616545465063706961717463655331593154535538397268675656355947454469634f4a3375517069636868414e3762663875514571644e5958696330396a49654a45646b734d336e69623966524834524a53566962656c6b36597559746459734c554b596571623369633730592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30"><img src="https://camo.githubusercontent.com/f199d4c62c6aade2707ef9ae05b5a78a95269cd1c9d0cde0c55da43c5b31b983/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d735543616545465063706961717463655331593154535538397268675656355947454469634f4a3375517069636868414e3762663875514571644e5958696330396a49654a45646b734d336e69623966524834524a53566962656c6b36597559746459734c554b596571623369633730592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/MsUCaeEFPcpiaqtceS1Y1TSU89rhgVV5YGEDicOJ3uQpichhAN7bf8uQEqdNYXic09jIeJEdksM3nib9fRH4RJSVibelk6YuYtdYsLUKYeqb3ic70Y/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=0" style="max-width: 100%;"></a></p>
+<h2>资产盘点与骨架搭建：28分钟跑通可玩闭环</h2>
+<h3>1.将旧工程迁移至Godot</h3>
+<p>这次开发的目标，是将此前使用 RPG Maker 制作的 2D Demo《逃离千禧年》重制为 3D 游戏。新版本计划融合《深空当铺》的摆摊循环和《逃离塔科夫》的网格搜刮玩法，整体采用怪核风格。</p>
+<p>首先，将旧项目的 GitHub 仓库交给 ZCode，让它评估哪些素材和机制可以迁移到新工程中。</p>
+<blockquote>
+<p>提示词：你好，我们现在要来做游戏。这个链接（<a href="https://github.com/Yesenmidnight/2000sEscape.git%EF%BC%89%E6%98%AF%E6%88%91%E4%BB%AC%E4%BB%8A%E5%B9%B4">https://github.com/Yesenmidnight/2000sEscape.git）是我们今年</a> 2 月份用 RPGMAKER 做的《逃离千禧年》，包含类似《逃离塔科夫》的背包系统、视觉滤镜系统、人物行走及美术素材。</p>
+<p>当前任务：（1）先把项目 clone 到本地；（2）不继续用 RPGMAKER 开发，也不直接在旧项目上改，请分析并梳理里面可复用的素材和核心机制，准备迁移到新的 Godot 工程里。</p>
+</blockquote>
+<p>收到指令后，ZCode 在后台启动了 3 个 Explore 子智能体，并行扫描旧工程的不同模块。约 8 分钟后，ZCode 输出了完整的评估报告，梳理出三类可以复用的内容：</p>
+<ul>
+<li>约 3300 行网格背包与容器算法，可以迁移为 GDScript。</li>
+<li>100 个千禧年怀旧物品配置，包括辣条、AD钙奶、游戏卡带等。</li>
+<li>CRT 滤镜相关公式。</li>
+</ul>
+<p>ZCode 还会主动提醒部分默认图块受到 RPG Maker 引擎授权限制，不能直接带入 Godot。</p>
+<p>开发者可以先审阅报告，确定保留哪些系统，再进入新工程的开发。</p>
+<h3>2.明确新玩法规格，20 分钟搭出三场景骨架</h3>
+<p>在确认保留范围后，向 ZCode 一次性给出新版本的场景循环、探索视角与本机 Godot 路径：</p>
+<blockquote>
+<p>提示词：把最核心的三个系统（1. 塔科夫式网格背包；2. 场景容器搜刮；3. CRT/VHS 噪点暗角滤镜）直接迁移到 Godot 版，其余功能按以下新设计重做：</p>
+<p>（1）场景与循环：包含「家」「横版街道」「报亭」三个场景。每天从家出发去报亭摆摊，晚上收摊回家睡觉推进天数；</p>
+<p>（2）横版街景探索：支持自选上下班路线，按固定节点推进（如探索 5 次到达）。每到一个节点可搜刮容器转移到背包，并概率触发随机事件；</p>
+<p>（3）室内第一人称环视（家与报亭）：类似《恶魔轮盘赌》，角色固定站位不移动，左右挪动鼠标转动视角观察 3D 房间四周并点击互动；</p>
+<p>（4）本地环境：D 盘根目录已安装 Godot 4.7，使用 GDScript 开发。</p>
+</blockquote>
+<p>约 20 分钟后，ZCode 搭建出了三个场景组成的游戏骨架，并打通了「家 → 街道选路搜刮 → 报亭 → 回家存档」的完整流程。</p>
+<p>此时按下 F5，就可以进入游戏试玩。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93631b531b9c0c6e55ff0f1aea3e9b6909f10445971394d3840fcb0c61b84ab8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d7355436165454650636f69615469614672565768495062456330774634614c4233746d424a4b783038696138753164696149636e564f4f397469614175484a486961334a5169613769616470764e4f6961667846535336486c366f536963474969636962646963414350364d384673434c6243796743732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/93631b531b9c0c6e55ff0f1aea3e9b6909f10445971394d3840fcb0c61b84ab8/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d7355436165454650636f69615469614672565768495062456330774634614c4233746d424a4b783038696138753164696149636e564f4f397469614175484a486961334a5169613769616470764e4f6961667846535336486c366f536963474969636962646963414350364d384673434c6243796743732f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/MsUCaeEFPcoiaTiaFrVWhIPbEc0wF4aLB3tmBJKx08ia8u1diaIcnVOO9tiaAuHJHia3JQia7iadpvNOiafxFSS6Hl6oSicGIicibdicACP6M8FsCLbCygCs/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<h2>自动跑测与手感打磨：CLI自检+Computer Use真机点按</h2>
+<p>每次修改功能后，ZCode 都会进行两层验证，省去人工反复调试的时间。</p>
+<p>第一层：Godot Headless CLI 自检。</p>
+<p>后台执行 --headless --import 导入资产，检查 Shader 语法和 GDScript 类型推断等问题，并根据报错进行修复。</p>
+<p>第二层：Computer Use 实际操作测试。</p>
+<p>调用内置的「电脑控制」能力，自动调整窗口位置，通过真实鼠标点击操作游戏并截屏，完成「出门上班 → 选路线 → 探索触发事件 → 弹出双栏搜刮界面」四个步骤的回归测试。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b6d74f816c1265b8708c9eb28b06b9bd4960bb8f880a6e392e37bddda4f80268/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d7355436165454650636f4a6961776c5055586f494b5a50534a553954466462794c5632616848424a386130516d62637869624a6568774b584159394f43675067767a415976426b7a6856393561314a6962494b734a5351715646366c37696159797148443573696159435248746962592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32"><img src="https://camo.githubusercontent.com/b6d74f816c1265b8708c9eb28b06b9bd4960bb8f880a6e392e37bddda4f80268/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d7355436165454650636f4a6961776c5055586f494b5a50534a553954466462794c5632616848424a386130516d62637869624a6568774b584159394f43675067767a415976426b7a6856393561314a6962494b734a5351715646366c37696159797148443573696159435248746962592f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/MsUCaeEFPcoJiawlPUXoIKZPSJU9TFdbyLV2ahHBJ8a0QmbcxibJehwKXAY9OCgPgvzAYvBkzhV95a1JibIKsJSQqVF6l7iaYyqHD5siaYCRHtibY/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>当我们在试玩阶段发现体验细节问题时，可以直接描述现象并附上截图，让 ZCode 修改。</p>
+<p>例如，发现物品拖动和旋转时的中心点存在问题，给出这样的指令：</p>
+<blockquote>
+<p>提示词：不管我按住物品的任何位置拖，它的图片中心点都应该钉在鼠标指针下面。这样按 R 旋转时才能继续围绕中心点旋转，避免视觉跳切。</p>
+</blockquote>
+<p>经过两轮调整，红绿网格放置预览、跨容器搜刮和物品中心点旋转等功能都完成了修复，整个过程不到 8 分钟。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/72e5375449068b6e16046a0079efe466bbb587eb979d0e4586c5f1ddbf7de972/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650636f6153466f4c33767355366b665438434c7139696348506d464b734e774369626f67546130524e744b4a616962347438554e6a477845434a57315744696261464548576961436359747353486a586f45363157627262396e696237776963727572374938646a37632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33"><img src="https://camo.githubusercontent.com/72e5375449068b6e16046a0079efe466bbb587eb979d0e4586c5f1ddbf7de972/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650636f6153466f4c33767355366b665438434c7139696348506d464b734e774369626f67546130524e744b4a616962347438554e6a477845434a57315744696261464548576961436359747353486a586f45363157627262396e696237776963727572374938646a37632f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/MsUCaeEFPcoaSFoL3vsU6kfT8CLq9icHPmFKsNwCibogTa0RNtKJaib4t8UNjGxECJW1WDibaFEHWiaCcYtsSHjXoE61Wbrb9nib7wicrur7I8dj7c/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=3" style="max-width: 100%;"></a></p>
+<h2>3D资产量产：Blender连建100件低模，截图直修穿模</h2>
+<p>2D 游戏骨架跑通后，开发进入 3D 资产制作阶段。</p>
+<p>这一步主要由 ZCode 调度本机 Blender 完成，包括约 70 件怀旧商品、10 余类家具和容器，以及家与报亭的墙面硬装，合计 100 个 3D 元件。</p>
+<h3>1.先做样板，再分批生成</h3>
+<p>为使后续资产能够顺利导入 Godot，先让 ZCode 制定统一的建模和导出规范：按 items/、containers/、rooms/ 统一命名、原点与尺寸导出 .glb，以便按 ID 直接关联 Items.json。</p>
+<p>先制作 3 个样板模型，验证 Godot 导入流程，再分 5 批批量制作其余资产。</p>
+<blockquote>
+<p>提示词：先全部用本机 Blender 把所有建模建完并摆进来。请尽量不要只用简单的圆柱体、长方体敷衍建模，先参考每件怀旧物品真实的外观特征，再做成风格统一的低模，单个物品控制在 128 个面左右。打开允许运行 Python 脚本与自动覆盖保存，分批推进。</p>
+</blockquote>
+<h3>2.右侧实时检视 + 原生多模态「看图修模」</h3>
+<p>ZCode 执行 Blender 建模脚本时，可以通过右侧预览面板或 Blender 视口查看模型变化，及时检查墙面、柜台和道具的制作效果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fc15e6a9308bad1f015e962f238eff489147cdc27400bd50838427abcfe2178/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d73554361654546506372494d4a6e3632433852593430556963505a416963385945624d3253445644425a79507a75773437537a7978696151546963386d4c62393972666c6b6a4338383479413331596c69634f69613141376447476e41495449486c314669626d5430453150794e4a79772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34"><img src="https://camo.githubusercontent.com/9fc15e6a9308bad1f015e962f238eff489147cdc27400bd50838427abcfe2178/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d73554361654546506372494d4a6e3632433852593430556963505a416963385945624d3253445644425a79507a75773437537a7978696151546963386d4c62393972666c6b6a4338383479413331596c69634f69613141376447476e41495449486c314669626d5430453150794e4a79772f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/MsUCaeEFPcrIMJn62C8RY40UicPZAic8YEbM2SDVDBZyPzuw47SzyxiaQTic8mLb99rflkjC884yA31YlicOia1A7dGGnAITIHl1FibmT0E1PyNJyw/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>如果遇到磁带陷入地面、或者杂物悬空等问题，可以直接截图交给 ZCode，说一句“这两个建模有问题”：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43875c71e84971f1fba2d66e5e57afcf2c6e1cc0f18369434136621ae093b807/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650636f306847696171325755384c6249486d674f6369623547786963734e474552574f4465364d347576483070317631705743416468654a536d39357542576c487676525352647357696273534171684e7868536b4a746d6961536b67563877634957716c47726f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35"><img src="https://camo.githubusercontent.com/43875c71e84971f1fba2d66e5e57afcf2c6e1cc0f18369434136621ae093b807/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650636f306847696171325755384c6249486d674f6369623547786963734e474552574f4465364d347576483070317631705743416468654a536d39357542576c487676525352647357696273534171684e7868536b4a746d6961536b67563877634957716c47726f2f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/MsUCaeEFPco0hGiaq2WU8LbIHmgOcib5GxicsNGERWODe6M4uvH0p1v1pWCAdheJSm95uBWlHvvRSRdsWibsSAqhNxhSkJtmiaSkgV8wcIWqlGro/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>GLM-5.3-Flash 根据截图识别出“杂物堆的布料/卷报/酒瓶全飘在半空，纸箱两侧开盖像翅膀一样和箱体脱节”，随即重修落地。最终，5 批共 100 个低模元件全部完成，耗时不到 100 分钟，平均每件模型的制作时间不到 1 分钟。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9aef2fd2d9090286fd113bf68c7d9d78fa51e600547aebc0540dfd2f686f73f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650637178354e6f696253446e3965546856774a6962637a6961696338483269634846734456373437505056666e45584b454173646f3933416e5a673569617236797569614663437a52334266466454536c33434e6269626e5435557757686962375771464d4e495a525252672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36"><img src="https://camo.githubusercontent.com/9aef2fd2d9090286fd113bf68c7d9d78fa51e600547aebc0540dfd2f686f73f1/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d7355436165454650637178354e6f696253446e3965546856774a6962637a6961696338483269634846734456373437505056666e45584b454173646f3933416e5a673569617236797569614663437a52334266466454536c33434e6269626e5435557757686962375771464d4e495a525252672f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/MsUCaeEFPcqx5NoibSDn9eThVwJibcziaic8H2icHFsDV747PPVfnEXKEAsdo93AnZg5iar6yuiaFcCzR3BfFdTSl3CNbibnT5UwWhib7WqFMNIZRRRg/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=6" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5b02cc4c524e646569dd9dc461334f509bab415fbd7ab563fe344598b567c14b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d73554361654546506370376c595079516765333870736a4469637561666a314f5951326c6f4a6d7956346c74393447566c6375756678514534677769623552595271794e6e766a643045534e5731344c6e6e68485a623544557967527661546a6f767969626f7a6963646c7045302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37"><img src="https://camo.githubusercontent.com/5b02cc4c524e646569dd9dc461334f509bab415fbd7ab563fe344598b567c14b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4d73554361654546506370376c595079516765333870736a4469637561666a314f5951326c6f4a6d7956346c74393447566c6375756678514534677769623552595271794e6e766a643045534e5731344c6e6e68485a623544557967527661546a6f767969626f7a6963646c7045302f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/MsUCaeEFPcp7lYPyQge38psjDicuafj1OYQ2loJmyV4lt94GVlcuufxQE4gwib5RYRqyNnvjd0ESNW14LnnhHZb5DUygRvaTjovyibozicdlpE0/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=7" style="max-width: 100%;"></a></p>
+<h2>组装：合入Godot，加上PS1+CRT怪核滤镜</h2>
+<p>100 个 .glb 模型准备就绪后，让 ZCode 将它们导入 Godot，完成场景组装和视觉风格化。</p>
+<blockquote>
+<p>提示词：好的，非常棒，那么 <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/godot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/godot">@godot</a> 开始组装吧！将家和报亭替换为 3D 场景并接入第一人称鼠标环视，加上 PS1 复古材质与低清 CRT 滤镜效果。</p>
+</blockquote>
+<p>ZCode 连续执行了 43 分钟，完成了整套 3D 场景组装与视觉风格化。主要工作包括：</p>
+<ul>
+<li>
+<p>场景全面 3D 化：保留原有 HUD 与网格背包逻辑，将「家」与「报亭」替换为 .glb 3D 空间、灯光与第一人称鼠标环视相机。</p>
+</li>
+<li>
+<p>PS1 + CRT 怪核管线：编写 PS1 空间着色器（顶点吸附、颜色抖动、仿射贴图），开启 scaling_3d/scale=0.4 低分辨率 3D 渲染（UI 保持高清），再叠加老电视 CRT 扫描线滤镜，千禧年怪核味瞬间拉满。</p>
+</li>
+<li>
+<p>跨工具自动排坑：自动修复了「Control 根节点下 Node3D 不渲染」「Blender -Y 轴到 glTF +Z 轴朝向反转」等 4 个跨软件深坑，并跑完自动截图序列完成验收。</p>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bd60b48240a9b9f4ee2de2c6e8d99d30e437b47d3c52b5a998446f449d2fec24/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d735543616545465063706d6e76376c5a313737464c783950746f31723256303666696173305777627a57545864514449654d4e4938387a414277653065664d54474d664846696232443579633264486d797a3131663269625155617161706d7742514a4a3531395769636f6f6c342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38"><img src="https://camo.githubusercontent.com/bd60b48240a9b9f4ee2de2c6e8d99d30e437b47d3c52b5a998446f449d2fec24/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d735543616545465063706d6e76376c5a313737464c783950746f31723256303666696173305777627a57545864514449654d4e4938387a414277653065664d54474d664846696232443579633264486d797a3131663269625155617161706d7742514a4a3531395769636f6f6c342f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/MsUCaeEFPcpmnv7lZ177FLx9Pto1r2V06fias0WwbzWTXdQDIeMNI88zABwe0efMTGMfHFib2D5yc2dHmyz11f2ibQUaqapmwBQJJ519Wicool4/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=8" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2d34a5eb227ac4c86187f5a4deced4c103eaf83eeabdf76f57b51b08ec2b540/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d735543616545465063706a506672765731744643696162647931726b4550663064673766667739756962794541346963394334394c70685576355633797738493769633650753238356763394a545948624a44626b594d47496b68306442546c30656e526e4b6562726667736c552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39"><img src="https://camo.githubusercontent.com/e2d34a5eb227ac4c86187f5a4deced4c103eaf83eeabdf76f57b51b08ec2b540/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4d735543616545465063706a506672765731744643696162647931726b4550663064673766667739756962794541346963394334394c70685576355633797738493769633650753238356763394a545948624a44626b594d47496b68306442546c30656e526e4b6562726667736c552f3634303f77785f666d743d706e672666726f6d3d6170706d73672677617465726d61726b3d3123696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/MsUCaeEFPcpjPfrvW1tFCiabdy1rkEPf0dg7ffw9uibyEA4ic9C49LphUv5V3yw8I7ic6Pu285gc9JTYHbJDbkYMGIkh0dBTl0enRnKebrfgslU/640?wx_fmt=png&amp;from=appmsg&amp;watermark=1#imgIndex=9" style="max-width: 100%;"></a></p>
+<h2>结语</h2>
+<p>从迁移旧项目、搭建三场景玩法循环，到调整网格背包的操作手感，再到调用 Blender 制作 100 件 3D 低模并组装进 Godot，整个开发过程不到 4 小时。全程使用 GLM-5.3-Flash，总消耗约 3 亿 Tokens，使用 ZCode 端内活动赠送的免费额度即可完成。按照开发者的实测情况，传统单人开发模式下，完成同等工作量往往需要一周以上。</p>
+<p>这次实测展示了一种新的游戏开发方式：开发者可以用自然语言描述玩法和修改需求，再由 AI Agent 调度 Godot、Blender 等工具，完成资产制作、程序开发和自动测试。</p>
+<p>下载最新版 ZCode，在左侧「插件市场 → 游戏/3D」安装并开启 Godot、Blender 等插件，输入 /godot、/blender 就能动手开启你的第一款 3D 游戏项目。</p>
+<p>实战案例原作者：B 站 @夜神不说话</p>
+<p>原视频：<a href="https://www.bilibili.com/video/BV1baWx6SEGv" rel="nofollow">https://www.bilibili.com/video/BV1baWx6SEGv</a></p>
+<p>下载体验</p>
+<p><a href="https://zcode.z.ai/cn" rel="nofollow">https://zcode.z.ai/cn</a></p>
+<p>开源仓库</p>
+<p><a href="https://github.com/zai-org/ZCode">https://github.com/zai-org/ZCode</a></p>
+<p>插件仓库</p>
+<p>zcode-pluginshttps://github.com/zai-org/zcode-plugins</p>
+<p>——  关注我们，获取最新动态  ——</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
