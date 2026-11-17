@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="最近国内外的短剧越来越火了，想入局的人很多
+
+我有个朋友啊
+
+真的是朋友🌚
+
+花了大半年筹备一个 AI短剧产品，但因为没有设计师，界面 UI 交互各方面都很 low
+
+而且几乎做的都是表单式的，功能非常受限，只能在固定几个场景来做效果
+
+结果上周，他用 DeepSeek Harness 配合 REA、Craft Anything，反手就把刚上线的「某短剧工作室」给复刻了。">
+<meta property="og:title" content="用 DeepSeek Harness + REA 复刻一切 AI 产品！！">
+<meta property="og:description" content="最近国内外的短剧越来越火了，想入局的人很多
+
+我有个朋友啊
+
+真的是朋友🌚
+
+花了大半年筹备一个 AI短剧产品，但因为没有设计师，界面 UI 交互各方面都很 low
+
+而且几乎做的都是表单式的，功能非常受限，只能在固定几个场景来做效果
+
+结果上周，他用 DeepSeek Harness 配合 REA、Craft Anything，反手就把刚上线的「某短剧工作室」给复刻了。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-%20DeepSeek%20Harness%20%2B%20REA%20-fu-ke-yi-qie-%20AI%20-chan-pin-%EF%BC%81%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用 DeepSeek Harness + REA 复刻一切 AI 产品！！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用 DeepSeek Harness + REA 复刻一切 AI 产品！！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/844" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>最近国内外的短剧越来越火了，想入局的人很多</p>
+<p>我有个朋友啊</p>
+<p>真的是朋友🌚</p>
+<p>花了大半年筹备一个 AI短剧产品，但因为没有设计师，界面 UI 交互各方面都很 low</p>
+<p>而且几乎做的都是表单式的，功能非常受限，只能在固定几个场景来做效果</p>
+<p>结果上周，他用 DeepSeek Harness 配合 REA、Craft Anything，反手就把刚上线的「某短剧工作室」给复刻了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6f285bd8dab1eec8af1d2320b98d4763996a1e985192d8fd839de70a774b593/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c696172516963346d55537579334977325551307039556b30546c7a39743743665244716d376b667a6963654c75774d68514535313169616961764f36696158734b506d5235376475545632614c7373336961776367426f325877506d54717577573044394b38566b3378592f3634303f66726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/c6f285bd8dab1eec8af1d2320b98d4763996a1e985192d8fd839de70a774b593/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c696172516963346d55537579334977325551307039556b30546c7a39743743665244716d376b667a6963654c75774d68514535313169616961764f36696158734b506d5235376475545632614c7373336961776367426f325877506d54717577573044394b38566b3378592f3634303f66726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/UQ9fsOliarQic4mUSuy3Iw2UQ0p9Uk0Tlz9t7CfRDqm7kfziceLuwMhQE511iaiavO6iaXsKPmR57duTV2aLss3iawcgBo2XwPmTquwW0D9K8Vk3xY/640?from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>本地复刻版首页</p>
+<p>一下子高大上起来。不止是前端交互，甚至后端功能、Skill 定义等各种功能都整得一模一样。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed83bb982f60d6261f5bef3f70fd8021ce8fb5e7ad2a1ebcdbe4daf008defb3a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c6961725169627a64706c7064766d7861686555736a39363675334c566133394b677531636f367a6e6961583952465078323353416f6963366a6f525a524535397269626737344e3735715a4f7357667a447645546d30516b774136746963724552714852666e3564304d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/ed83bb982f60d6261f5bef3f70fd8021ce8fb5e7ad2a1ebcdbe4daf008defb3a/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c6961725169627a64706c7064766d7861686555736a39363675334c566133394b677531636f367a6e6961583952465078323353416f6963366a6f525a524535397269626737344e3735715a4f7357667a447645546d30516b774136746963724552714852666e3564304d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQibzdplpdvmxaheUsj966u3LVa39Kgu1co6zniaX9RFPx23SAoic6joRZRE59ribg74N75qZOsWfzDvETm0QkwA6ticrERqHRfn5d0M/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>复刻版分镜工作台</p>
+<p>他甚至把短剧剧本大模型都给蒸馏了（后面会说怎么弄的）</p>
+<p>再加上 Gemini、Claude等海外御三家的模型能力，实测直接跑出的 完整短剧，效果很好。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fd62c693da6022ecc2fb95e5882d17dc4926637a67511bd4172ef5c7633511d2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c6961725139537a6370707757783637733174796665754c47574577484d6c5845356d6535476159424d4d3575733632654a667369636c4d3331543343756e3076593737397a666b3231647a52344e4d69634f4a7779555246656963444278594d76644f6f706c46382f3634303f66726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/fd62c693da6022ecc2fb95e5882d17dc4926637a67511bd4172ef5c7633511d2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c6961725139537a6370707757783637733174796665754c47574577484d6c5845356d6535476159424d4d3575733632654a667369636c4d3331543343756e3076593737397a666b3231647a52344e4d69634f4a7779555246656963444278594d76644f6f706c46382f3634303f66726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UQ9fsOliarQ9SzcppwWx67s1tyfeuLGWEwHMlXE5me5GaYBMM5us62eJfsiclM31T3Cun0vY779zfk21dzR4NMicOJwyURFeicDBxYMvdOoplF8/640?from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>而且前后也才花了 2 天时间。</p>
+<p>DSH 在工作的时间长达 10 个小时，跑了 48 个会话、累计 29.36 亿 Token（99% 命中缓存），用的 DeepSeek v4 flash max， 成本才 100 块钱出头，谁敢想啊？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/98f39fd18f52267e6d2340c772e70a8ca24fc5823f231f0b4d0f62a4d2fc272e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c696172516962716961316c6961634245457179496377484d39514a3243487a50395874525a675a476a43674a4b4772637671426239784737754c6262536555393144626666364c69634a70526d3649724569625474755950445533566c7831545a445243306e6876316f2f3634303f66726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/98f39fd18f52267e6d2340c772e70a8ca24fc5823f231f0b4d0f62a4d2fc272e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c696172516962716961316c6961634245457179496377484d39514a3243487a50395874525a675a476a43674a4b4772637671426239784737754c6262536555393144626666364c69634a70526d3649724569625474755950445533566c7831545a445243306e6876316f2f3634303f66726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UQ9fsOliarQibqia1liacBEEqyIcwHM9QJ2CHzP9XtRZgZGjCgJKGrcvqBb9xG7uLbbSeU91Dbff6LicJpRm6IrEibTtuYPDU3Vlx1TZDRC0nhv1o/640?from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>老实说，以后大家想创业、想做什么产品，真的不要自己花心思去空想了。因为创业本身就是先各种抄作业，那就直接把它抄到位就好了。</p>
+<p>所以这篇文章，就是给大家看下这个朋友是怎么抄到位的。</p>
+<p>先说清楚</p>
+<p>不过，这里没有「一键复刻」，实际上人还是要守着，不断去看效果，给意见来修改。</p>
+<p>我之前跑过几个案例，全都是这样：</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5NDI4MTY3NA==&amp;mid=2257496452&amp;idx=1&amp;sn=72923e764b46e579877ef52343deb095&amp;scene=21#wechat_redirect" rel="nofollow">不愧是谷歌，出的这个MCP能一键复刻网站、改AI写的屎山代码...</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5NDI4MTY3NA==&amp;mid=2257498510&amp;idx=1&amp;sn=b0a077af20adbc10bbd4fa179851a376&amp;scene=21#wechat_redirect" rel="nofollow">GLM-5「全栈长任务」实测：3小时复刻TikTok视频生成SaaS</a></p>
+<p>只是说用这套逻辑，能更深度复刻，也更省事了。</p>
+<p>废话少说，直接上教程。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8ded216945bec06ce136a040d9c01d221456056dac3144d39c0f9d00d6cb8fe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55513966734f6c6961725138626c4c6574615153674664555a454b5478534e614d517549515a7a643276716c434367544b4459587733484f4b4537584c37465a59396769626f50696371776a48325969636f4a69635936517664736b69634f3868433651504e4a6b55373038335a3647632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/a8ded216945bec06ce136a040d9c01d221456056dac3144d39c0f9d00d6cb8fe/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55513966734f6c6961725138626c4c6574615153674664555a454b5478534e614d517549515a7a643276716c434367544b4459587733484f4b4537584c37465a59396769626f50696371776a48325969636f4a69635936517664736b69634f3868433651504e4a6b55373038335a3647632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UQ9fsOliarQ8blLetaQSgFdUZEKTxSNaMQuIQZzd2vqlCCgTKDYXw3HOKE7XL7FZY9giboPicqwjH2YicoJicY6QvdskicO8hC6QPNJkU7083Z6Gc/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>01</p>
+<p>复刻三步走：前端外观、后端接口、模型蒸馏</p>
+<p>这也是顺序，先复刻前端外观，这部分很好抄；然后是逆向后端功能；最后是把背后的模型和 Skill 定义蒸馏出来。</p>
+<p>工具上用到的是 DeepSeek Harness、REA、Craft Anything</p>
+<p>先简单介绍一下它们。</p>
+<p>1. DeepSeek Harness（简称 DSH）</p>
+<p>DeepSeek 官方开源的桌面级 Agent 工具，主打「一切皆插件」。</p>
+<p>用下来还挺爽的，DSH 基于自研的 Cordis 内核，把所有底层能力都做成了可插拔的插件，甚至支持 Agent 在运行过程中自己给自己开发、安装和卸载插件。</p>
+<p>甚至还能把 Claude Code、Codex 直接挂进来当子智能体一起干活。</p>
+<p>再配上自家的 DeepSeek V4 Pro / V4.1 Flash 模型，极高的上下文缓存命中率直接把长程开发成本打到了白菜价。</p>
+<p>安装也很简单，直接去官网下载桌面端，或者在终端跑一行 <code class="notranslate">npx @deepseek-ai/dsh web</code> 就能启动本地网页端。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/772d691e1970f5d0e80a82765a3906ecbb788a06a0455a0e426e522b4c613d62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c69617251396130775a645861444750696144756b6b684f7461524d46437064494d77336764496f4f6a7964356a524451774a74594f6a6d435a6b7a42684641646845796a684332414c30376a34696230656e6963786f62495450776e42356a4b454b7565626b57672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/772d691e1970f5d0e80a82765a3906ecbb788a06a0455a0e426e522b4c613d62/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c69617251396130775a645861444750696144756b6b684f7461524d46437064494d77336764496f4f6a7964356a524451774a74594f6a6d435a6b7a42684641646845796a684332414c30376a34696230656e6963786f62495450776e42356a4b454b7565626b57672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQ9a0wZdXaDGPiaDukkhOtaRMFCpdIMw3gdIoOjyd5jRDQwJtYOjmCZkzBhFAdhEyjhC2AL07j4ib0enicxobITPwnB5jKEKuebkWg/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>DSH 子智能体并发面板</p>
+<p>2. REA（Reverse Engineer Anything）</p>
+<p>GitHub 上 45.8 万 Star 的逆向工具箱，这段时间非常火。。。</p>
+<p>它支持逆向本地软件，但逻辑上拿来复刻网站也没问题。连上浏览器后，它能直接把前端代码、页面结构和网络请求全扒下来，专门负责摸清原站的前后端逻辑，非常刑</p>
+<p>听说通过 Claude、Codex 用它的话，会被封号，所以我才用的 DSH</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1a5d399e96f18669e18f044c9119cb0e311c1eb42704c85806298f19c1e6225/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c69617251394c7469615a52514a617a777549303132377445667179756e36727537724b5a45465076456d5a50436155386e69627042365164764250636c5275376247715453325a76465270485451765977345639364e6a6b315468556e3232434e6c59463133512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/f1a5d399e96f18669e18f044c9119cb0e311c1eb42704c85806298f19c1e6225/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c69617251394c7469615a52514a617a777549303132377445667179756e36727537724b5a45465076456d5a50436155386e69627042365164764250636c5275376247715453325a76465270485451765977345639364e6a6b315468556e3232434e6c59463133512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQ9LtiaZRQJazwuI0127tEfqyun6ru7rKZEFPvEmZPCaU8nibpB6QdvBPclRu7bGqTS2ZvFRpHTQvYw4V96Njk1ThUn22CNlYF13Q/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>REA 开源仓库</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f479743b8195d4b6d00b758b49f933a27ca126776e67cd0954019641fac25088/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c696172516962493162346475636556524a7a77575a763533794734516c39356a7451364661786a6963646a6e5763634a72737773565a5a6963687068636d3369634c356e354874414859484d533846467469624b6a5a4768494e767a785447705869627532574d4262516b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/f479743b8195d4b6d00b758b49f933a27ca126776e67cd0954019641fac25088/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c696172516962493162346475636556524a7a77575a763533794734516c39356a7451364661786a6963646a6e5763634a72737773565a5a6963687068636d3369634c356e354874414859484d533846467469624b6a5a4768494e767a785447705869627532574d4262516b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQibI1b4duceVRJzwWZv53yG4Ql95jtQ6FaxjicdjnWccJrswsVZZichphcm3icL5n5HtAHYHMS8FFtibKjZGhINvzxTGpXibu2WMBbQk/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>DSH 里接入的 REA 工具</p>
+<p>安装接入很简单（要求 Node.js 22.19 以上）：</p>
+<p>开源地址：<code class="notranslate">https://github.com/morluto/rea</code></p>
+<p>如果你平时用的是 Claude Code、Codex 或 Cursor，直接在终端跑一行交互式向导就能自动扫描并配好：</p>
+<p>●●●</p>
+<p>bash</p>
+<p><code class="notranslate">npx rea-agents setup</code></p>
+<p>如果要接进 DeepSeek Harness，只需跑一行命令装好逆向 Skill：</p>
+<p>●●●</p>
+<p>bash</p>
+<p><code class="notranslate">npx -y rea-agents setup --skill --yes</code></p>
+<p>再在 <code class="notranslate">~/.dsh/cordis.patch.yml</code> 里把 <code class="notranslate">rea-agents</code> 挂进 <code class="notranslate">@deepseek-ai/dsh-mcp-client</code>，重启 DSH 就能直接调用它的 200 多个逆向工具。</p>
+<p>3. Craft Anything</p>
+<p>号称是 REA 的升级版。</p>
+<p>区别是，REA 只管调查不管写代码，而 Craft Anything 自带「调查 → 构建 → 验收」流水线。</p>
+<p>开启 Deep 模式后，它会一边读网页结构，一边调用本地的 DSH 写代码，最后自动把本地页面和原站截图叠在一起比对像素差异，哪里不像改哪里。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/be87ab4d4ea89aa5b729fd9027ea22cc4f6a01eea80de8ea3d77e460cb5667db/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c6961725169624d714d6e4a5169634f6b537a31416963354667566f554d586a4a50504f53584c68554c414731396b3470645237583446767970324d5749625a4a327a69616e4141427545427373456c334f37674d567543623539364630684c783769635a6d7a376657672f3634303f66726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/be87ab4d4ea89aa5b729fd9027ea22cc4f6a01eea80de8ea3d77e460cb5667db/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c6961725169624d714d6e4a5169634f6b537a31416963354667566f554d586a4a50504f53584c68554c414731396b3470645237583446767970324d5749625a4a327a69616e4141427545427373456c334f37674d567543623539364630684c783769635a6d7a376657672f3634303f66726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UQ9fsOliarQibMqMnJQicOkSz1Aic5FgVoUMXjJPPOSXLhULAG19k4pdR7X4Fvyp2MWIbZJ2zianAABuEBssEl3O7gMVuCb596F0hLx7icZmz7fWg/640?from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>Craft Anything 桌面端</p>
+<p>安装方式：去 GitHub 仓库的 Releases 页面下载对应系统的安装包（macOS 装 <code class="notranslate">.dmg</code>，Windows 装 <code class="notranslate">.msi</code>）。</p>
+<p>装好后打开软件，在「设置 → AI → 构建助手」里选好本机的 Coding Agent（支持 DeepSeek Harness、Claude Code 等）</p>
+<p>需要深度还原代码时把顶部开关从默认的「净室（Clean room）」切到「深度（Deep）」模式，再把内置的 <code class="notranslate">craft-anything-cli mcp</code> 挂进 Agent 配置即可联动。</p>
+<p>所以它们大概是这么跑的：</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/822ac41c9400facd9d470e1b0074b59788f3ebf94ebc00232ce22657f40a2d1f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c69617251696252317448715669626773706c364e45324978784b57595568484d563168687650744c4b4d424939635a337977574c664145746962674c563071494b36554f58786f334c7a6b48504b554a67696355335162434d724d655764674854696130796b4547684d2f3634303f66726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/822ac41c9400facd9d470e1b0074b59788f3ebf94ebc00232ce22657f40a2d1f/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c69617251696252317448715669626773706c364e45324978784b57595568484d563168687650744c4b4d424939635a337977574c664145746962674c563071494b36554f58786f334c7a6b48504b554a67696355335162434d724d655764674854696130796b4547684d2f3634303f66726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UQ9fsOliarQibR1tHqVibgspl6NE2IxxKWYUhHMV1hhvPtLKMBI9cZ3ywWLfAEtibgLV0qIK6UOXxo3LzkHPKUJgicU3QbCMrMeWdgHTia0ykEGhM/640?from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>三层复刻 × 三个工具的分工</p>
+<p>02</p>
+<p>实战：全栈复刻短剧工作室</p>
+<p>这里最核心的是「写剧本 → 剧本医生 → 生成视频」的流程。</p>
+<p>第一步：先抄前端外观，把死板表单改成富文本工作台</p>
+<p>先用带调试端口的 Chrome 登录某梦会员，打开「剧本创作」页面，让 Craft Anything 抓取原站布局并驱动 DSH 生成前端代码。</p>
+<p>首版界面出来后，我朋友逐项检查了一下，重点让 AI 修了三处交互细节：</p>
+<p>① 输入框行内标签</p>
+<p>选中的技能、画风和 <code class="notranslate">#时间循环</code> 选题都是嵌在文字行内的标签，删标签不能误删正文。</p>
+<p>② 132 种画风封面</p>
+<p>原站风格菜单是懒加载的，一路滚到底才抓齐</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90fcb90cb7ec0a59fed7af0f687aac88d6e87c9249b4637909f48b77331bb05f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c6961725169623379797474667869613857764c696363464f637a443669634b6c726233384f696170776e476152766678426155675269636b4976634a503431706c555a326f69614236524f655241784e7a7a487165515734554c415a756c5a65347a52684d32373672734b632f3634303f66726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/90fcb90cb7ec0a59fed7af0f687aac88d6e87c9249b4637909f48b77331bb05f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c6961725169623379797474667869613857764c696363464f637a443669634b6c726233384f696170776e476152766678426155675269636b4976634a503431706c555a326f69614236524f655241784e7a7a487165515734554c415a756c5a65347a52684d32373672734b632f3634303f66726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/UQ9fsOliarQib3yyttfxia8WvLiccFOczD6icKlrb38OiapwnGaRvfxBaUgRickIvcJP41plUZ2oiaB6ROeRAxNzzHqeQW4ULAZulZe4zRhM276rsKc/640?from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>132 种画风封面全部还原</p>
+<p>③ 16 项官方技能面板</p>
+<p>把点开「技能」按钮弹出的 16 项官方技能（剧本医生、玄幻仙侠、都市男频、摄影增强、引用优化、表演优化、分镜打分等）连同搜索、分类和详情卡片一比一还原出来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25cb928894f119605381edad21f3e0a3280574ff9c55cf2dfe1a34ea0036bcaf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55513966734f6c69617251696373577430346c6f6741376b62737643314a5748424f72796961504f326d6f454f417966636473437744534a5535474c496962486a57677663554f48345133714441676961436b376364746b76416961673456756d394d764662593632636d57486c7149512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/25cb928894f119605381edad21f3e0a3280574ff9c55cf2dfe1a34ea0036bcaf/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f55513966734f6c69617251696373577430346c6f6741376b62737643314a5748424f72796961504f326d6f454f417966636473437744534a5535474c496962486a57677663554f48345133714441676961436b376364746b76416961673456756d394d764662593632636d57486c7149512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/UQ9fsOliarQicsWt04logA7kbsvC1JWHBOryiaPO2moEOAyfcdsCwDSJU5GLIibHjWgvcUOH4Q3qDAgiaCk7cdtkvAiag4Vum9MvFbY62cmWHlqIQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>16 项官方技能面板</p>
+<p>第二步：用 REA 逆向后端接口，把全套业务流程跑通</p>
+<p>前端界面其实是最简单的，真正麻烦的是后端。此时就要用 REA 分析原站的前端代码和网络请求，把后端的运行逻辑反推出来：</p>
+<p>1三视图剧本工作台：摸清原站怎么在「故事设定」「分集大纲」「剧本正文」三个视图之间切换和保存状态。</p>
+<p>2对话与生成接口：抓出发送消息、流式回复，以及画幅、清晰度、视频模型等参数是怎么传给后端的。</p>
+<p>3三级分镜结构：原站不是拿整集剧本盲抽视频，而是拆成「分集 → 15 秒片段 → 内部单镜头」三级结构，每个镜头单独绑定角色和场景参考图。</p>
+<p>摸清这 26 个接口后，DSH 直接在本地用 Node.js 加 SQLite 数据库搭了一套完整后端。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fd0eaca50a8afd85802bb28275b26487216109d0781d853e98dde62e600cb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c696172516963696133727877446454734d6e52505976737457396c3862326c4c6962574f43566e31486b656c31494770365248614f6b7948754e347033416156596f624b4f6369615535676c323436795a39344f4a426c73685453766a6e7a3475724f35734d786d4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/9fd0eaca50a8afd85802bb28275b26487216109d0781d853e98dde62e600cb7b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c696172516963696133727877446454734d6e52505976737457396c3862326c4c6962574f43566e31486b656c31494770365248614f6b7948754e347033416156596f624b4f6369615535676c323436795a39344f4a426c73685453766a6e7a3475724f35734d786d4d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQicia3rxwDdTsMnRPYvstW9l8b2lLibWOCVn1Hkel1IGp6RHaOkyHuN4p3AaVYobKOciaU5gl246yZ94OJBlshTSvjnz4urO5sMxmM/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>创作方向单选问卷卡</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b523915e40ca0695f64a89701d19bcf46916e3b912fce83b6829b9f7c76076f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c6961725169626175617666595643484c4a70484d6533743168796962783538624d7338636a696171324e50745447596558594f67783954686c5735314c3750353364364c306961743978794f7432664f38506b7568413856734a59536b39366669636b315232376369616f2f3634303f66726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/b523915e40ca0695f64a89701d19bcf46916e3b912fce83b6829b9f7c76076f8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c6961725169626175617666595643484c4a70484d6533743168796962783538624d7338636a696171324e50745447596558594f67783954686c5735314c3750353364364c306961743978794f7432664f38506b7568413856734a59536b39366669636b315232376369616f2f3634303f66726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/UQ9fsOliarQibauavfYVCHLJpHMe3t1hyibx58bMs8cjiaq2NPtTGYeXYOgx9ThlW51L7P53d6L0iat9xyOt2fO8PkuhA8VsJYSk96fick1R27ciao/640?from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>故事设定 / 分集大纲 / 剧本正文三视图</p>
+<p>检查了一下本地跑起来的体验，还是挺顺畅的：</p>
+<p>输入一句话想法后，先弹出「创作方向单选问卷卡」；确认方向后依次生成故事设定、大纲与正文；接着拆解角色与场景图，进分镜工作台生成多段视频，最后自动合成导出 30 秒整集短剧。</p>
+<p>第三步：逆向JS接口，把短剧大模型和 Skill 蒸馏出来</p>
+<p>终于到了核心竞争力了：某梦自研的短剧模型和 16 个官方 Skill，到底是怎么写出爆款节奏、怎么给剧本打分的？某梦</p>
+<p>这一步靠的是接口抓包 + 模型蒸馏。通过分析网络请求里的 JSON 数据，把 16 个官方技能的触发标识、输入变量和返回格式全部摸清，再把原站在「剧本创作、剧本医生诊断、按诊断修订、角色设计、分镜规划、摄影增强」等 12 个核心环节的能力蒸馏成提示词模板，做成一套本地管理后台。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c31f197b7e6277837a868fda3587723f76e0127a11a19679ecab1de75358d643/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c696172513943776464427a4859436d4c6e587a7a7554587a6e55674e377a38356e6862486342696339396436464e4f576d51653056394c59647330696274303869614556386e6c5a566c5239345776306c444d497a577a49317365416f5231706c61634f3867784d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/c31f197b7e6277837a868fda3587723f76e0127a11a19679ecab1de75358d643/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f55513966734f6c696172513943776464427a4859436d4c6e587a7a7554587a6e55674e377a38356e6862486342696339396436464e4f576d51653056394c59647330696274303869614556386e6c5a566c5239345776306c444d497a577a49317365416f5231706c61634f3867784d2f3634303f66726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/UQ9fsOliarQ9CwddBzHYCmLnXzzuTXznUgN7z85nhbHcBic99d6FNOWmQe0V9LYds0ibt08iaEV8nlZVlR94Wv0lDMIzWzI1seAoR1placO8gxM/640?from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>剧本医生诊断报告</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/23b28af6ac084b01576a9d183adb64c012dce6263853dfb8917eced4370fbd0b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c6961725139303251676f46443842785a61797671737978627a76766e4933546e72507544523642576130665069613372594a566962786c395a6b4857676a4c667773646f6a686f36306e4676464c4e714169626537795033515441336569614169624a66634367696242302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/23b28af6ac084b01576a9d183adb64c012dce6263853dfb8917eced4370fbd0b/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f55513966734f6c6961725139303251676f46443842785a61797671737978627a76766e4933546e72507544523642576130665069613372594a566962786c395a6b4857676a4c667773646f6a686f36306e4676464c4e714169626537795033515441336569614169624a66634367696242302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/UQ9fsOliarQ902QgoFD8BxZayvqsyxbzvvnI3TnrPuDR6BWa0fPia3rYJVibxl9ZkHWgjLfwsdojho60nFvFLNqAibe7yP3QTA3eiaAibJfcCgibB0/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>后台：12 类提示词模板与模型路由</p>
+<p>在本地后台里，每个功能调用的模型（Gemini、Claude、Grok 等）和提示词模板都能随时修改，体验非常丝滑。</p>
+<p>03</p>
+<p>但现实没那么理想</p>
+<p>实话</p>
+<p>实操了才知道以上是网传的逻辑，不适合绝大多数小白，因为光是 dsh 的配置就搞死人，更不用说 dsh 经常做破环性升级，导致插件用不了。</p>
+<p>我把朋友吊起来打了三天三夜才跟我说，实际上，最终还是用的 Codex 作为司令官去指挥 deepseek Harness 干活，还能修修bug</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7231023954d1bdc506fbefc1b3434875a5c7c0831cf9478c4f064c7cc779837c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c696172513844384178304f465573675138463832555350314749777367493433446c7a47696276345549317844334935784d5147744d65616961414a4963686650474f665256463376536b564c6e35625537696370506b457130326a785551595044783774454d452f3634303f66726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/7231023954d1bdc506fbefc1b3434875a5c7c0831cf9478c4f064c7cc779837c/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f55513966734f6c696172513844384178304f465573675138463832555350314749777367493433446c7a47696276345549317844334935784d5147744d65616961414a4963686650474f665256463376536b564c6e35625537696370506b457130326a785551595044783774454d452f3634303f66726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/UQ9fsOliarQ8D8Ax0OFUsgQ8F82USP1GIwsgI43DlzGibv4UI1xD3I5xMQGtMeaiaAJIchfPGOfRVF3vSkVLn5bU7icpPkEq02jxUQYPDx7tEME/640?from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>甚至蒸馏剧本大模型这件事实际上是claude做的，它设计了多个问题直接把1000+元的6000积分用完了，调试出来了背后的效果</p>
+<p>还逆向找到了json接口看到了一些背后的提示词，太刑了，不建议这么做</p>
+<p>但如果你感兴趣的话，可以留言</p>
+<p>我再接着吊打朋友，让他吐出来蒸馏模型的实操方法论</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
