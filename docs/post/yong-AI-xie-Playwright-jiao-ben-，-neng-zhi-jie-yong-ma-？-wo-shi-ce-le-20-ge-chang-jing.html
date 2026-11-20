@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="上个月跟团队里一个测试同学聊天，他说他现在写Playwright脚本，第一步一定是先让AI生成一版，然后“改改就能用”。">
+<meta property="og:title" content="用AI写Playwright脚本，能直接用吗？我实测了20个场景">
+<meta property="og:description" content="上个月跟团队里一个测试同学聊天，他说他现在写Playwright脚本，第一步一定是先让AI生成一版，然后“改改就能用”。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/yong-AI-xie-Playwright-jiao-ben-%EF%BC%8C-neng-zhi-jie-yong-ma-%EF%BC%9F-wo-shi-ce-le-20-ge-chang-jing.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>用AI写Playwright脚本，能直接用吗？我实测了20个场景</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">用AI写Playwright脚本，能直接用吗？我实测了20个场景</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/846" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>上个月跟团队里一个测试同学聊天，他说他现在写Playwright脚本，第一步一定是先让AI生成一版，然后“改改就能用”。</p>
+<p>我问他：“你所谓的‘改改’，一般要改多少？”</p>
+<p>他想了想：“看情况。有的改两三行，有的基本重写。”</p>
+<p>我说：“那你这不叫‘生成’，叫‘生成草稿’。”</p>
+<p>他问我：“那到底有多少能直接用？”</p>
+<p>这个问题把我问住了。我平时给AI的Prompt都写得比较规范，生成的脚本质量一直不错，但我确实没有系统统计过“开箱即用率”。于是我决定做一个实验：设计20个典型场景，每个场景只给AI“一段自然语言描述+页面地址”，不让它读代码、不给示例、不做任何修正，看它生成的脚本能不能直接跑通。</p>
+<p>先说结论：<strong>20个场景，直接跑通6个，跑通但有瑕疵9个，跑不通5个。开箱即用率30%，可用率75%。</strong></p>
+<p>这个数字比“改改就能用”听起来低，但比“AI写的不能用”高得多。更有价值的是，我记录了每个场景“为什么不能直接用”，这些失败模式是可以提前规避的。</p>
+<h2>人工智能技术学习交流群</h2>
+<p>伙伴们，对AI测试、大模型评测、质量保障感兴趣吗？我们建了一个 <strong>「人工智能测试开发交流群」</strong>，专门用来探讨相关技术、分享资料、互通有无。无论你是正在实践还是好奇探索，都欢迎扫码加入，一起抱团成长！期待与你交流！👇</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5c8ed8aceb96d0c28ffdb6512b71f1612734d243a9c0eb49a214b1d8d3d70ef2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f7738674d67696348703665647151466e6b33396270766e776b6e73527579674d59436b4f744e6170696134505553784d4e4b665569616b414f6963676e627a4f5a6b596870504c4e5755356a5936754248785677504a6361735372564d506749597773734e54637243496a61654c592f3634303f77785f666d743d6769662666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d33"><img src="https://camo.githubusercontent.com/5c8ed8aceb96d0c28ffdb6512b71f1612734d243a9c0eb49a214b1d8d3d70ef2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6769662f7738674d67696348703665647151466e6b33396270766e776b6e73527579674d59436b4f744e6170696134505553784d4e4b665569616b414f6963676e627a4f5a6b596870504c4e5755356a5936754248785677504a6361735372564d506749597773734e54637243496a61654c592f3634303f77785f666d743d6769662666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_gif/w8gMgicHp6edqQFnk39bpvnwknsRuygMYCkOtNapia4PUSxMNKfUiakAOicgnbzOZkYhpPLNWU5jY6uBHxVwPJcasSrVMPgIYwssNTcrCIjaeLY/640?wx_fmt=gif&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=3" style="max-width: 100%;"></a></p>
+<h2>一、实验设计：20个场景，覆盖四类复杂度</h2>
+<p><strong>场景来源</strong>：一个公开的电商演示站，之前没接触过，所有场景都是我根据页面功能临时设计的。</p>
+<p><strong>AI输入</strong>：每个场景只给一段自然语言描述，包含页面地址、操作步骤、预期结果。不给页面截图、不给DOM结构、不给框架示例。</p>
+<p><strong>评估标准</strong>：</p>
+<ul>
+<li>
+<p><strong>直接可用</strong>：脚本原样运行，通过。</p>
+</li>
+<li>
+<p><strong>跑通但有瑕疵</strong>：脚本运行通过，但存在定位器不稳定、断言太弱、缺少等待等问题，需要人工优化。</p>
+</li>
+<li>
+<p><strong>跑不通</strong>：脚本运行报错，或断言失败，需要修改定位器、补充依赖、调整逻辑。</p>
+</li>
+</ul>
+<p><strong>实验工具</strong>：Playwright 1.58，Python同步API，headless模式。</p>
+<h2>二、结果总览：6/9/5</h2>
+<p>|</p>
+<p>场景</p>
+<p>|</p>
+<p>结果</p>
+<p>|</p>
+<p>主要问题</p>
+<p>|<br>
+| --- | --- | --- |<br>
+|</p>
+<p>1. 登录页元素存在性检查</p>
+<p>|</p>
+<p>直接可用</p>
+<p>|</p>
+<p>—</p>
+<p>|<br>
+|</p>
+<p>2. 正常登录流程</p>
+<p>|</p>
+<p>直接可用</p>
+<p>|</p>
+<p>—</p>
+<p>|<br>
+|</p>
+<p>3. 错误密码登录</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>断言停在页面文案，没验token未生成</p>
+<p>|<br>
+|</p>
+<p>4. 空表单提交</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>未等校验提示出现就断言</p>
+<p>|<br>
+|</p>
+<p>5. 导航栏链接跳转</p>
+<p>|</p>
+<p>直接可用</p>
+<p>|</p>
+<p>—</p>
+<p>|<br>
+|</p>
+<p>6. 搜索框输入并提交</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>未等搜索结果加载完成</p>
+<p>|<br>
+|</p>
+<p>7. 搜索结果数量验证</p>
+<p>|</p>
+<p>跑不通</p>
+<p>|</p>
+<p>选择器猜错，实际无该class</p>
+<p>|<br>
+|</p>
+<p>8. 商品详情页加购</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>加购按钮定位用了css class</p>
+<p>|<br>
+|</p>
+<p>9. 购物车数量验证</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>断言只验了页面显示，未验接口</p>
+<p>|<br>
+|</p>
+<p>10. 购物车删除商品</p>
+<p>|</p>
+<p>跑不通</p>
+<p>|</p>
+<p>删除按钮用了hover后出现的伪元素</p>
+<p>|<br>
+|</p>
+<p>11. 多步表单填写</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>部分步骤未加等待，CI上时绿时红</p>
+<p>|<br>
+|</p>
+<p>12. 文件上传</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>上传路径硬编码为本机路径</p>
+<p>|<br>
+|</p>
+<p>13. 下拉框选择</p>
+<p>|</p>
+<p>直接可用</p>
+<p>|</p>
+<p>—</p>
+<p>|<br>
+|</p>
+<p>14. 复选框批量勾选</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>循环中未重新定位，元素引用过期</p>
+<p>|<br>
+|</p>
+<p>15. 弹窗关闭</p>
+<p>|</p>
+<p>跑不通</p>
+<p>|</p>
+<p>弹窗iframe未切换上下文</p>
+<p>|<br>
+|</p>
+<p>16. 动态加载列表滚动</p>
+<p>|</p>
+<p>跑不通</p>
+<p>|</p>
+<p>无限滚动触发逻辑靠sleep</p>
+<p>|<br>
+|</p>
+<p>17. 网络请求拦截断言</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>断言了状态码，未验响应体字段</p>
+<p>|<br>
+|</p>
+<p>18. 多标签页切换</p>
+<p>|</p>
+<p>跑不通</p>
+<p>|</p>
+<p>未处理新tab的上下文切换</p>
+<p>|<br>
+|</p>
+<p>19. 视觉截图比对</p>
+<p>|</p>
+<p>跑通有瑕疵</p>
+<p>|</p>
+<p>没配baseline，每次都生成新的</p>
+<p>|<br>
+|</p>
+<p>20. 跨浏览器配置</p>
+<p>|</p>
+<p>直接可用</p>
+<p>|</p>
+<p>—</p>
+<p>|</p>
+<h2>三、直接可用的6个：为什么它们能成</h2>
+<p>6个直接可用的场景，有共同特征：<strong>元素定位简单、交互逻辑线性、断言对象明确。</strong></p>
+<p>比如“登录页元素存在性检查”——检查页面上有邮箱输入框、密码输入框、登录按钮。这三个元素都有明确的可访问名称，AI生成的<code class="notranslate">getByRole('textbox', { name: '邮箱' })</code>和<code class="notranslate">getByRole('button', { name: '登录' })</code>直接命中。</p>
+<p>比如“正常登录流程”——打开页面、填账号密码、点登录、验证跳转。这是AI训练数据里最常见的场景，它生成的<code class="notranslate">getByRole</code> + <code class="notranslate">waitForURL</code> + <code class="notranslate">toBeVisible</code>组合，正好是这个页面的正确写法。</p>
+<p>比如“下拉框选择”——<code class="notranslate">selectOption</code>方法简单直接，AI生成的<code class="notranslate">page.getByRole('combobox').selectOption('option-value')</code>一次就跑通了。</p>
+<p><strong>规律</strong>：<strong>输入描述里包含“元素的可访问名称”和“明确的预期结果”时，AI生成的脚本直接可用率最高。</strong>  因为它的定位器有锚点，断言有目标。</p>
+<h2>四、跑通但有瑕疵的9个：问题集中在三处</h2>
+<p>这9个场景能跑通，但审脚本的时候能看出明显短板。问题集中在三个地方。</p>
+<h3>问题一：断言太弱，只验了“表面”</h3>
+<p>场景3（错误密码登录），AI生成的断言是：</p>
+<pre class="notranslate"><code class="notranslate">assert page.get_by_text("密码错误").is_visible()
+</code></pre>
+<p>脚本能跑通，页面确实显示了“密码错误”。但它没验：token有没有生成、用户有没有保持未登录状态、有没有触发风控计数。</p>
+<p><strong>这是AI生成脚本最普遍的问题。</strong>  它只断言“页面上出现了什么”，不断言“系统状态变成了什么”。9个有瑕疵的场景里，5个是这个毛病。</p>
+<p><strong>怎么改</strong>：在Prompt里把断言分层写死——“必须包含协议层、数据层、业务层三层断言，禁止只断言页面文案”。</p>
+<h3>问题二：等待策略靠猜</h3>
+<p>场景6（搜索框输入并提交），AI生成的是：</p>
+<pre class="notranslate"><code class="notranslate">page.get_by_role("textbox").fill("手机")page.getByRole("button", { name: "搜索" }).click()page.wait_for_timeout(2000)assert page.get_by_text("搜索结果").is_visible()
+</code></pre>
+<p>它能跑通，但<code class="notranslate">wait_for_timeout(2000)</code>是一个定时炸弹。网络快的时候浪费两秒，网络慢的时候两秒不够，CI上时绿时红。</p>
+<p><strong>AI不知道你的系统“加载完成”的信号是什么</strong>，它只能用最保守的方式——等固定时间。</p>
+<p><strong>怎么改</strong>：在Prompt里明确要求“禁止使用<code class="notranslate">wait_for_timeout</code>，等待必须用web-first断言或<code class="notranslate">waitForResponse</code>”。</p>
+<h3>问题三：定位器绑定实现细节</h3>
+<p>场景8（加购按钮），AI生成的是：</p>
+<pre class="notranslate"><code class="notranslate">page.locator(".btn-add-to-cart").click()
+</code></pre>
+<p>它能跑通——当前页面上确实有这个class。但这个class是构建时生成的，下次前端改版就可能变。AI没见过这个页面，它不知道哪些class是稳定的、哪些是哈希的，它只是从训练数据里选了最常见的写法。</p>
+<p><strong>怎么改</strong>：在Prompt里指定定位优先级——“优先使用<code class="notranslate">getByRole</code>和<code class="notranslate">getByText</code>，禁止使用CSS class和XPath”。</p>
+<h2>五、跑不通的5个：问题集中在“AI不知道页面长什么样”</h2>
+<p>5个跑不通的场景，原因各不相同，但根子是同一个：<strong>AI在“猜页面”。</strong></p>
+<p><strong>场景7（搜索结果数量验证）</strong> ：AI生成的选择器<code class="notranslate">.search-result-item</code>在页面上不存在。真实页面的结果项是<code class="notranslate">article</code>标签，没有class。AI猜了一个“合理但不存在”的选择器。</p>
+<p><strong>场景10（购物车删除商品）</strong> ：删除按钮是hover之后才出现的伪元素。AI不知道这个交互细节，它生成的是直接点击一个不存在的按钮。</p>
+<p><strong>场景15（弹窗关闭）</strong> ：弹窗内容在一个iframe里。AI没有切换iframe上下文，直接在主页面找关闭按钮，找不到。</p>
+<p><strong>场景16（动态加载列表滚动）</strong> ：无限滚动需要监听滚动事件、判断是否加载完成。AI用了一个固定的循环加sleep，逻辑完全不对。</p>
+<p><strong>场景18（多标签页切换）</strong> ：点击链接打开了新tab，AI没有处理<code class="notranslate">context.pages</code>的切换，还在旧页面上操作。</p>
+<p><strong>这5个场景的共同点</strong>：它们都需要“AI先看一眼页面，再决定怎么写”。而我的实验设计是“只给描述，不给页面”，所以AI只能猜。<strong>猜错了，就全错。</strong></p>
+<h2>六、一个关键发现：80%的失败，可以用“先快照”消除</h2>
+<p>实验做到第15个场景的时候，我换了个做法：在给AI描述之前，先用Playwright MCP的<code class="notranslate">browser_snapshot</code>获取页面的可访问性快照，把快照一起喂给AI。</p>
+<blockquote>
+<p>“以下是页面的可访问性快照，请基于快照中实际存在的元素，生成购物车删除商品的Playwright脚本。”</p>
+</blockquote>
+<p>AI拿到快照后，生成的脚本是这样的：</p>
+<pre class="notranslate"><code class="notranslate">page.get_by_role("button", { name: "删除" }).click()page.get_by_role("dialog").get_by_role("button", { name: "确认" }).click()
+</code></pre>
+<p>它从快照里看到了“删除”按钮的准确名称，也看到了删除后弹出的确认对话框。<strong>一次跑通。</strong></p>
+<p>我用这个方法重新跑了之前失败的5个场景，<strong>4个一次跑通，1个（无限滚动）仍然需要人工补充逻辑</strong>——因为快照只展示“当前状态”，展示不了“滚动后加载”这个动态过程。</p>
+<p><strong>规律</strong>：<strong>80%的“跑不通”，不是AI能力问题，是“AI没看到页面”的问题。</strong>  先快照，再生成，开箱即用率从30%提到了65%。</p>
+<h2>七、怎么让AI生成的脚本“更敢用”：四条规定写进Prompt</h2>
+<p>基于这20个场景的实测，我总结出四条必须写进Prompt的规定。加上这四条之后，重新测了之前的20个场景，直接可用率从30%提到了55%，可用率（含瑕疵）从75%提到了90%。</p>
+<p><strong>第一条：定位器优先级。</strong></p>
+<blockquote>
+<p>“定位器优先级：getByRole &gt; getByLabel &gt; getByText &gt; getByTestId &gt; 最后才考虑CSS。禁止使用XPath和动态class。”</p>
+</blockquote>
+<p><strong>第二条：断言分层。</strong></p>
+<blockquote>
+<p>“每条用例的断言必须覆盖：协议层（状态码）、数据层（业务code、关键字段）、业务层（状态流转、金额计算）。禁止只断言页面文案或元素可见。”</p>
+</blockquote>
+<p><strong>第三条：等待策略。</strong></p>
+<blockquote>
+<p>“禁止使用waitForTimeout。等待必须用web-first断言（toBeVisible、toHaveText）或waitForResponse。”</p>
+</blockquote>
+<p><strong>第四条：依赖和清理。</strong></p>
+<blockquote>
+<p>“如果测试需要前置数据，用fixture或setup步骤生成，不要在测试方法里硬编码。测试结束后清理产生的数据。”</p>
+</blockquote>
+<h2>八、最终结论：AI写的Playwright脚本，到底能不能直接用？</h2>
+<p><strong>能直接用，但只限于“简单、线性、元素明确”的场景。</strong>  6/20，30%。</p>
+<p><strong>稍微改改能用，覆盖大部分场景。</strong>  9/20，45%。</p>
+<p><strong>不能直接用，需要重写或补充关键逻辑的，集中在三类</strong>：定位器猜错、iframe/多tab上下文没处理、动态交互逻辑缺失。5/20，25%。</p>
+<p><strong>但如果你在给AI描述之前，先给它一份页面快照，再在Prompt里加上那四条规定，开箱即用率能提到65%以上。</strong></p>
+<p>AI不是不会写Playwright脚本。它写的<code class="notranslate">getByRole</code>、<code class="notranslate">waitForURL</code>、<code class="notranslate">toBeVisible</code>，语法完全正确。<strong>它的问题是“看不见你的页面”，以及“不知道你的验收标准”。</strong></p>
+<p>你把页面给它看，把标准给它写清楚，它写出来的脚本，大部分你改两行就能用。</p>
+<p><strong>下次你让AI写脚本之前，先问自己一句：我给它看页面了吗？我告诉它什么算对了吗？</strong></p>
+<p>两个都给了，它写的就不是“草稿”，是“初稿”。<strong>初稿和草稿的区别，就是改两行和改两小时的区别。</strong></p>
+<h2>推荐学习</h2>
+<p>自动化智能体与测试用例生成课程，限时免费，机会难得。扫码报名，参与直播，希望您在这场课程中收获满满，开启智能自动化测试的新篇章！</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6b72f6e8f20f6ebc1a97da44136334f54c7171b0d47867da3d3b439a496db67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31"><img src="https://camo.githubusercontent.com/a6b72f6e8f20f6ebc1a97da44136334f54c7171b0d47867da3d3b439a496db67/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f657276544369627761756a45386962465850764965386961586b49344b3078714a496251507569614f45523868356c747038593137446162655768785166554f6164564c6772336159336e336c6c31796277696347493943316e772f3634303f77785f666d743d706e672666726f6d3d6170706d736726777866726f6d3d352677785f6c617a793d312674703d7765627023696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/ervTCibwaujE8ibFXPvIe8iaXkI4K0xqJIbQPuiaOER8h5ltp8Y17DabeWhxQfUOadVLgr3aY3n3ll1ybwicGI9C1nw/640?wx_fmt=png&amp;from=appmsg&amp;wxfrom=5&amp;wx_lazy=1&amp;tp=webp#imgIndex=1" style="max-width: 100%;"></a></p>
+<h3>关于我们</h3>
+<p>霍格沃兹测试开发学社，隶属于 <strong>测吧（北京）科技有限公司</strong>，是一个面向软件测试爱好者的技术交流社区。</p>
+<p>学社围绕现代软件测试工程体系展开，内容涵盖软件测试入门、自动化测试、性能测试、接口测试、测试开发、全栈测试，以及<strong>人工智能测试与 AI 在测试工程中的应用实践</strong>。</p>
+<p>我们关注测试工程能力的系统化建设，包括 Python 自动化测试、Java 自动化测试、Web 与 App 自动化、持续集成与质量体系建设，同时探索 AI 驱动的测试设计、用例生成、自动化执行与质量分析方法，沉淀可复用、可落地的测试开发工程经验。</p>
+<p>在技术社区与工程实践之外，学社还参与测试工程人才培养体系建设，面向高校提供<strong>测试实训平台</strong>与实践支持，组织开展 <strong>“火焰杯” 软件测试相关技术赛事</strong>，并探索以能力为导向的人才培养模式，包括高校学员<strong>先学习、就业后付款</strong>的实践路径。</p>
+<p>同时，学社结合真实行业需求，为在职测试工程师与高潜学员提供<strong>名企大厂 1v1 私教服务</strong>，用于个性化能力提升与工程实践指导。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
