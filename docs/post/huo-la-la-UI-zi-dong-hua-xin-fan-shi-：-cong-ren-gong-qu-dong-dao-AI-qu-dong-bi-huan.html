@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0)
+![](https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1)
+
+**整理编辑｜**TesterHome社区
+
+对所有移动端测试团队而言，UI自动化都是一道绕不开的坎——写脚本慢、维护更累，迭代越快，死循环就越明显。">
+<meta property="og:title" content="货拉拉UI自动化新范式：从人工驱动到AI驱动闭环">
+<meta property="og:description" content="![](https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0)
+![](https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1)
+
+**整理编辑｜**TesterHome社区
+
+对所有移动端测试团队而言，UI自动化都是一道绕不开的坎——写脚本慢、维护更累，迭代越快，死循环就越明显。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/huo-la-la-UI-zi-dong-hua-xin-fan-shi-%EF%BC%9A-cong-ren-gong-qu-dong-dao-AI-qu-dong-bi-huan.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>货拉拉UI自动化新范式：从人工驱动到AI驱动闭环</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">货拉拉UI自动化新范式：从人工驱动到AI驱动闭环</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/850" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5f9843137f2bcbe3e2315995416c8778685e5cc0bb5a4f675daa52c1efdc4af2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f78415876486d696131374a726649564c786362414c464f56614e49507768384c3169615234776961416a57643966634554526961784c4335696369624f3876614366767259317831735579355a5662676f6961334b69636e7759577478412f3634303f77785f666d743d706e6723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/5f9843137f2bcbe3e2315995416c8778685e5cc0bb5a4f675daa52c1efdc4af2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f78415876486d696131374a726649564c786362414c464f56614e49507768384c3169615234776961416a57643966634554526961784c4335696369624f3876614366767259317831735579355a5662676f6961334b69636e7759577478412f3634303f77785f666d743d706e6723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/xAXvHmia17JrfIVLxcbALFOVaNIPwh8L1iaR4wiaAjWd9fcETRiaxLC5icibO8vaCfvrY1x1sUy5ZVbgoia3KicnwYWtxA/640?wx_fmt=png#imgIndex=0" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76c2fd3afdc2b588df34bff085a60648944a497d17a017dbb4a81109569fb8aa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5169637950684e484435765a3354786d316b3863754e664857504356675332463568657444754c753259564e685a324461455a476c736750696369634b536d35787053657663436851657866494a7667743669635568787256672f3634303f77785f666d743d706e6723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/76c2fd3afdc2b588df34bff085a60648944a497d17a017dbb4a81109569fb8aa/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5169637950684e484435765a3354786d316b3863754e664857504356675332463568657444754c753259564e685a324461455a476c736750696369634b536d35787053657663436851657866494a7667743669635568787256672f3634303f77785f666d743d706e6723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/QicyPhNHD5vZ3Txm1k8cuNfHWPCVgS2F5hetDuLu2YVNhZ2DaEZGlsgPicicKSm5xpSevcChQexfIJvgt6icUhxrVg/640?wx_fmt=png#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><strong>整理编辑｜</strong>TesterHome社区</p>
+<p>对所有移动端测试团队而言，UI自动化都是一道绕不开的坎——写脚本慢、维护更累，迭代越快，死循环就越明显。货拉拉团队在单周迭代的快节奏下，面对着18000+存量脚本的维护压力，最终走出了一条从AI脚本自愈到AI脚本生成的落地路径，完成了从人工驱动到AI驱动闭环的范式升级。</p>
+<p>2026年8月在深圳举办的MTSC2026第十五届中国互联网测试开发大会上，货拉拉资深测试工程师胡嘉椿分享了题为《货拉拉UI自动化新范式：从人工驱动到AI驱动闭环》的落地实践，从背景与挑战、AI脚本自愈、AI脚本生成、实践效果、未来展望五个维度，完整介绍货拉拉团队的探索与落地成果。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/59b213045966cd668b65459047030ae015dce069565126959b7daa16db60e98e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716c6855394f5a4244395879496c64306b47426269616b4a37504a596961766c324d48624e7a654559356b727776433071435852496f366349314f6a7a54434669634f7264326e723330696346344c7343363532696235746377666e314c4e54764d5667696231592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/59b213045966cd668b65459047030ae015dce069565126959b7daa16db60e98e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716c6855394f5a4244395879496c64306b47426269616b4a37504a596961766c324d48624e7a654559356b727776433071435852496f366349314f6a7a54434669634f7264326e723330696346344c7343363532696235746377666e314c4e54764d5667696231592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/NCAoibNiaTbqlhU9OZBD9XyIld0kGBbiakJ7PJYiavl2MHbNzeEY5krwvC0qCXRIo6cI1OjzTCFicOrd2nr30icF4LsC652ib5tcwfn1LNTvMVgib1Y/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>以下为具体的的分享：</p>
+<hr>
+<h2>一、背景&amp;挑战</h2>
+<h3>1.1 传统UI自动化的困境：从“写”脚本到“修”脚本的死循环</h3>
+<p>UI自动化的价值不言而喻，但在实际落地中，绝大多数团队都深陷“生产难、维护更难”的恶性循环，测试人力像沙漏一样被持续消耗。</p>
+<p>在<strong>生产端</strong>，人工编写脚本的门槛始终存在：不仅要求测试同学掌握代码能力与框架用法，产出效率也很难提上来；更现实的问题是，不同同学编写的脚本质量参差不齐，定位策略、断言逻辑差异很大，再加上漫长的调试周期，最终导致新业务上线时，脚本产出往往要按“人天”计算，根本跟不上业务迭代速度，自动化覆盖率长期卡在瓶颈期，想规模化铺开非常困难。</p>
+<p>比生产更痛苦的是<strong>维护端</strong>。以货拉拉为例，团队采用单周迭代模式，几乎每周都会有UI层面的微调——小到按钮文案修改、控件ID重构，大到页面布局调整，每一次变更都会直接导致一批脚本失效。当前货拉拉存量脚本已达18000+，每周约有10%的脚本需要维护修复；按单条脚本平均30分钟的排查修复耗时估算，仅每周的存量脚本维护就需要约112人天的投入，相当于两个全职测试工程师整月的工作量，都填不满维护的窟窿。</p>
+<p>一边是新脚本生产不完，一边是旧脚本修不过来，团队长期陷入“边生产、边抢修”的死循环。如果不从根上改变维护模式，投入再多人力也只是往沙漏里填沙子。</p>
+<h3>1.2 存量脚本：以人为驱动的维护模式</h3>
+<p>我们复盘了大量自动化失败报告，发现脚本失效的原因高度集中，主要分为四类：突如其来的弹窗打断执行流程、文案变更导致定位失效、元素ID或结构重构导致定位失败、网络或加载超时导致元素未就绪。</p>
+<p>而传统人工维护的流程，天然带着滞后性：脚本往往是在夜间CI执行时跑挂，第二天上班后，测试同学才能拉取失败报告、装对应版本的安装包、手动复现失败场景、翻DOM树定位新元素，再经过反复调试修改，最终把更新后的脚本同步到系统。 整个过程繁琐、重复且滞后，一个看似简单的文案改动，往往就要耗掉大半天的时间，人力都消耗在了低价值的重复劳动里。</p>
+<h3>1.3 增量脚本：以人为驱动的生产模式</h3>
+<p>生产端的人力消耗同样居高不下。我们统计了行业内三种主流脚本生产模式的全流程耗时，发现无论哪种模式，都跳不开高额的人工成本：</p>
+<ul>
+<li>
+<p>手写UI代码模式：从编写到调试全流程人工完成，生成耗时 1<del>2 小时，调试耗时 1</del>2 小时，对人员能力要求最高；</p>
+</li>
+<li>
+<p>封装UI模式：基于封装好的公共组件编写，能降低一部分重复工作量，生成耗时 30 分钟～1 小时，调试耗时 30 分钟～1 小时；</p>
+</li>
+<li>
+<p>UI录制模式：通过录制工具生成脚本，生成耗时压缩到 1~5 分钟，但生成的脚本非常脆弱，需要大量人工二次打磨，调试耗时依然需要 30 分钟～1 小时。</p>
+</li>
+</ul>
+<p>不难看出，哪怕是效率最高的录制模式，也只是把“写”的时间省了，“调”的功夫一点没少。产出一条成熟、稳定、可用于回归的脚本，始终需要投入大量人力。</p>
+<p>正是在这样的痛点下，我们开始探索AI与UI自动化的结合。而我们选择的切入点非常务实：先解决最痛的存量维护问题，把人力从抢修脚本里解放出来，再逐步解决增量生产问题。</p>
+<h2>二、AI脚本自愈</h2>
+<h3>建设目标：解决存量脚本的稳定性问题，减少对人工维护的依赖，让脚本在执行遇到异常时，能够自主诊断、自主修复、自主迭代。</h3>
+<h3>2.1 AI自愈框架</h3>
+<p>我们没有选择直接把问题扔给大模型“盲猜”，而是搭建了一套分层的工程化自愈体系，从底层数据到上层决策形成完整闭环，既发挥大模型的理解能力，又把边界牢牢控制在业务规则内。整个体系分为三个核心层面：</p>
+<p><strong>1.能力层</strong></p>
+<p><strong>直接面向测试失败场景，提供四大核心能力：弹窗智能处理、文本自愈、元素自愈、智能等待，精准覆盖我们前面总结的四类高频失败原因，解决执行过程中的具体问题。</strong></p>
+<p><strong>2.数据层</strong></p>
+<p>为大模型提供准确、干净的输入依据，同时承接修复结果的沉淀：</p>
+<ul>
+<li>
+<p>构建多模态数据基线：整合APP信息、用例步骤、设备截图、OCR识别结果、DOM结构数据、控件画像，形成完整的上下文输入</p>
+</li>
+<li>
+<p>用例库管理：通过脚本映射、自愈标记实现用例的智能更新，确保每一次有效修复都能沉淀到脚本资产里，而不是修完就丢</p>
+</li>
+<li>
+<p>效果评估：对自愈后的用例持续追踪执行效果，验证修复是否长期有效，形成反馈闭环</p>
+</li>
+</ul>
+<p><strong>3.UI自愈Agent层面</strong></p>
+<p>这是自愈体系的“大脑”，分为三部分：</p>
+<ul>
+<li>
+<p>知识库：沉淀业务场景知识、历史问题经验、弹窗特征库与规则模板，给大模型划定认知边界，避免泛化失控</p>
+</li>
+<li>
+<p>智能诊断引擎：包含弹窗分析、页面感知等专项引擎，负责具体问题的识别</p>
+</li>
+<li>
+<p>智能决策体：统筹所有诊断信号，输出最终的行动决策，是真正的“发号施令”的角色</p>
+</li>
+</ul>
+<p>底层基建支持Android、iOS、HarmonyOS多平台驱动，依托云真机、PaddleOCR等能力提供基础支撑。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/503d5336fc51c2b8cb569c8f0e0fdb38d50dd1386c2792cccfc12f50d480629d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716d34773764646d4b576267614533567438674d5476496d6335464b7a7979627578706f6961646c766c4f684f6f566c4e673971514a4466496d5565716a336465704f48473443665a644141643763597572596961576372464b386433336e42467a52412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/503d5336fc51c2b8cb569c8f0e0fdb38d50dd1386c2792cccfc12f50d480629d/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716d34773764646d4b576267614533567438674d5476496d6335464b7a7979627578706f6961646c766c4f684f6f566c4e673971514a4466496d5565716a336465704f48473443665a644141643763597572596961576372464b386433336e42467a52412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqm4w7ddmKWbgaE3Vt8gMTvImc5FKzyybuxpoiadlvlOhOoVlNg9qQJDfImUeqj3depOHG4CfZdAAd7cYurYiaWcrFK8d33nBFzRA/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<h3>2.2 五步诊断法</h3>
+<p>自愈引擎遵循“先硬后软、先环境后业务”的排查逻辑，从外到内逐层排除，通过五步完成精准的问题定位与决策输出：</p>
+<ol>
+<li><strong>设备健康检测：先排查最底层的物理环境，检测设备远程连接状态、网络连通性、磁盘与内存占用情况，排除设备本身的故障；</strong></li>
+<li><strong>自动化框架状态检测：检查Appium服务端口是否正常、驱动进程是否存活、客户端与服务端的会话是否有效，排除执行框架层面的异常；</strong></li>
+<li><strong>页面弹窗分析：通过视觉语言大模型（VLM）融合弹窗知识库，识别当前页面是否存在弹窗、属于哪类弹窗，并给出对应的处理意见；</strong></li>
+<li><strong>页面同步分析：通过VLM分析当前页面的加载状态与内容完整性，判断页面是否仍处于加载过程，解决超时等待类问题；</strong></li>
+<li><strong>页面感知分析：大模型融合控件画像与历史基线做多模态数据比对，感知页面是否发生了文本或元素层面的变更，定位具体失效的控件。</strong></li>
+</ol>
+<p>最终输出具备原子执行能力的指令，比如具体的点击坐标、替换后的定位器信息等。我们设置了严格的置信度门槛，只有当大模型推理置信度大于0.8时，才会执行修复动作——核心原则是“宁可不修，也不误修”，因为自动化测试中，假成功带来的漏测风险，远比脚本跑挂更严重。</p>
+<h3>2.3 服务调度</h3>
+<p>自愈能力是嵌入在正常执行链路里的，绝不能因为自愈本身拖慢执行速度，更不能因为自愈模块故障导致整个用例失败。为此我们设计了三项核心调度机制：</p>
+<ul>
+<li><strong>并发调度：同时拉起多类信号检测，在同一个诊断窗口内快速收敛结果，最大限度降低自愈带来的额外等待时间；</strong></li>
+<li><strong>超时与降级机制：每一类检测信号、整个诊断流程都有超时控制，单个检测器失败或超时，不会拖垮整个主流程；引擎会基于已完成的结果输出可执行决策，保障执行链路始终可用；</strong></li>
+<li><strong>统一决策路由：把不同来源、不同类型的异构信号，统一归一为标准的决策指令，并按优先级排序输出，避免多个策略互相冲突。</strong></li>
+</ul>
+<h3>2.4 弹窗引擎：如何让大模型认识弹窗？</h3>
+<p>弹窗是移动端自动化的头号“拦路虎”，而移动端弹窗的碎片化程度，远超很多人的预期，核心挑战来自三个方面：</p>
+<p>第一是<strong>跨平台多品牌差异</strong>。Android、iOS、HarmonyOS三大平台本身规则不同，再加上苹果、华为、小米、OPPO、VIVO、荣耀等厂商的深度定制，同一种弹窗在不同设备上的表现天差地别。 </p>
+<p>第二是<strong>弹窗类型多样</strong>。既有系统级的权限申请、系统通知、隐私合规弹窗，也有App内部的引导提示、消息通知、协议弹窗，每一类的处理逻辑都不一样。</p>
+<p>第三是<strong>表象多样性</strong>。哪怕是同一类弹窗，按钮的排列方式、交互文案也不统一。比如最常见的位置权限申请，华为显示“仅使用时允许”，vivo显示“使用应用时允许”，苹果显示“使用App时允许”，小米显示“仅在使用中允许”，OPPO显示“使用时允许”——一字之差，靠写死规则就要写五套，还没算上小众厂商和不同系统版本的差异。</p>
+<p>靠规则枚举显然是穷举不完的，所以我们换了一个思路：不去匹配表面的文案，而是通过视觉模型，从视觉布局和语义关键词两个维度，抽象弹窗的本质特征。</p>
+<p>我们构建了结构化的弹窗知识库，对所有弹窗做多维度的语义分类，并预设了对应的处理逻辑：</p>
+<ul>
+<li>
+<p>权限申请类、隐私合规类：执行授予操作，匹配“同意、允许”类正向按钮</p>
+</li>
+<li>
+<p>系统通知类、厂商定制类：执行绕过操作，匹配“忽略、跳过、稍后、不再提醒”类按钮</p>
+</li>
+</ul>
+<p>大模型基于特征库提取弹窗的主体语义，完成分类后自动输出对应的处理决策。</p>
+<p>这套方案把弹窗处理从传统的“规则驱动”，升级成了“理解驱动”：传统枚举法只能处理写过规则的弹窗，UI一变就失效，维护成本随场景线性增长；而AI智能处理基于语义理解与特征泛化，能够处理从未见过的弹窗变体，鲁棒性更强，特征库只需要轻量校准就能持续迭代，维护成本大幅降低，同时这套能力是平台级的通用资产，可以在所有业务线复用。</p>
+<h3>2.5 页面感知引擎：如何让大模型感知页面变化？</h3>
+<p>除了弹窗，UI变更导致的定位失效是第二大失败原因。我们梳理了历史上的元素失效案例，主要分为三类：文案重构（产品优化体验用词）、ID重构（研发出于代码混淆或安全考虑，将静态ID改为动态）、布局重构（研发技改或性能优化，调整页面层级与容器结构）——每一类都会让传统的定位策略直接失效。</p>
+<p>要让大模型精准感知页面变更，只靠单一维度的数据远远不够，我们采用了多模态协同的方案：同时输入截图、OCR文本、DOM控件树、控件画像，让大模型从语义、结构、视觉三个维度交叉判断，精准捕捉UI变更并匹配到新的控件。</p>
+<h4>阶段一：多模态数据基线形成</h4>
+<p>要做对比，先要有基准。在测试执行过程中，我们会监听每一个成功执行的关键步骤，同步采集三类数据：步骤截图、OCR识别文本、DOM结构，并匹配对应的脚本ID、步骤序号与动作类型，形成原始基线。</p>
+<p>采集完成后会做一轮数据清洗，目的是提升推理效率、降低干扰与成本：在不影响大模型判断的前提下压缩图片体积；剪裁掉状态栏、导航栏等与业务无关的非关键区域；清洗掉DOM树中冗余的、不影响定位的节点属性。 最终将清洗后的多模态数据做融合分析，形成每一个步骤的控件画像，作为后续比对的基准。</p>
+<h4>阶段二：当前快照和基线对比</h4>
+<p>当脚本执行失败触发自愈时，我们会采集当前步骤的快照，与历史基线做比对，分为两条并行的分析线路：</p>
+<ul>
+<li><strong>文案分析线路：基于控件画像与业务基线，匹配语义合理、功能匹配、布局一致的期望文案，判断是否发生了文案层面的变更；</strong></li>
+<li><strong>元素分析线路：基于控件画像与业务基线，匹配结构合理、语义对齐的期望元素，判断是否发生了元素层面的变更。</strong></li>
+</ul>
+<p>为了保证匹配的准确性，我们从三个维度做交叉验证：</p>
+<ul>
+<li>
+<p>语义层面：通过语义相似度分析控件的核心意图，判断变更前后的控件功能是否等价；</p>
+</li>
+<li>
+<p>位置层面：验证控件的拓扑关系，通过视觉边界与相邻节点做匹配，确认控件位置变化后依然对应同一个功能；</p>
+</li>
+<li>
+<p>结构层面：分析DOM树关键路径的变化，识别页面层级重构的场景，避免因为整体布局调整就认不出控件。</p>
+</li>
+</ul>
+<h4>阶段三：智能修复</h4>
+<p>定位到变更类型后，引擎会输出对应的修复策略：</p>
+<ul>
+<li>
+<p>如果是文案优化、元素重构类变更：大模型直接输出新的定位器值，替换原有失效定位</p>
+</li>
+<li>
+<p>如果是布局调整类变更：按健壮性优先级选择定位方式，优先用ID，其次用文本，再次用相对xpath，最后用绝对路径兜底</p>
+</li>
+</ul>
+<p>修复采用步骤级别重试，也就是只重试当前失败的步骤，保留前面所有的业务数据状态，不需要从头重新执行整个用例，修复的执行效率更高。</p>
+<h3>2.6 控件画像：控件的数字身份证</h3>
+<p>在落地过程中我们发现，大模型的泛化能力是一把双刃剑：泛化太强，就容易出现跨场景误判，比如把A页面的“确认”按钮，当成B页面的“确认”去点击，这在测试场景中是非常危险的。</p>
+<p>为了解决这个问题，我们为每一个控件构建了“数字身份证”——控件画像，从三个维度完整刻画一个控件，把大模型的识别约束在正确的上下文里：</p>
+<ol>
+<li>
+<p><strong>控件类型：认识控件是谁</strong></p>
+<p>从控件类名、功能类型（语义角色）、文本内容、视觉特征、交互属性等维度描述，让大模型识别出“这是一个橙色的确认按钮”，而不是只认识一个冰冷的ID。</p>
+</li>
+<li>
+<p><strong>关系上下文：理解控件要做什么</strong></p>
+<p>结合页面全文语义与业务上下文描述，让大模型理解“这是隐私政策协议底部的同意按钮”，而不是页面上任意一处写着“同意”的文本。</p>
+</li>
+<li>
+<p><strong>结构关系：对抗布局微调</strong></p>
+<p>从DOM路径、深度层级、父容器、兄弟节点、子节点等维度描述控件的结构位置，提升布局微调场景下的识别稳定性。</p>
+</li>
+</ol>
+<p>简单来说，控件画像就是给大模型建立了一道“语义防火墙”，防止它无边界地泛化。举个很典型的场景：用例本来在支付页面点击“确认支付”，如果登录态失效，页面跳回了登录页，登录页正好也有一个“确认”按钮；没有控件画像约束的话，大模型很可能误以为是文案变了，直接点击登录页的确认，导致用例假成功。而有了画像的上下文约束，大模型会识别出当前场景不对，不会触发错误的自愈。</p>
+<p>同时，控件画像也把脆弱的“路径定位”，转化成了健壮的“业务逻辑定位”。过去很多依赖绝对xpath的控件，只要页面多一层布局嵌套，整串定位就直接失效；而基于画像的定位，是去找“符合这个功能、在这个区域、有这个上下文的控件”，布局微调基本不会影响识别结果。</p>
+<h2>三、AI脚本生成</h2>
+<h3>建设目标：解决了存量脚本的维护痛点之后，我们进一步向生产端延伸，目标是减少新增脚本的人工录制与调试成本，让AI自动生成可用、稳定的自动化脚本。</h3>
+<h3>3.1 方案选型</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06a3ebd591307d91613b42c1ab00a24b88a92ccb63da07802353a75037862c44/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716c715966427a30765671366e59376252353271354d58624e38536d5341527a54547869636962746330703046534a696379596e4b3575386837563833734148584145495672696153396c41397879674d50444d42644935615a6c665a315a44437551486a592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/06a3ebd591307d91613b42c1ab00a24b88a92ccb63da07802353a75037862c44/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716c715966427a30765671366e59376252353271354d58624e38536d5341527a54547869636962746330703046534a696379596e4b3575386837563833734148584145495672696153396c41397879674d50444d42644935615a6c665a315a44437551486a592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqlqYfBz0vVq6nY7bR52q5MXbN8SmSARzTTxicibtc0p0FSJicyYnK5u8h7V83sAHXAEIVriaS9lA9xygMPDMBdI5aZlfZ1ZDCuQHjY/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>在启动项目时，我们调研了行业内两种主流的脚本生成技术路径：</p>
+<ul>
+<li>
+<p><strong>方案一：UI视觉图+需求文档驱动</strong></p>
+<p>流程是解析UI视觉图→提取交互逻辑→生成脚本步骤。这个方案的优势是生成速度快，但缺点也非常明显：它严重依赖视觉图的完整性，而实际业务中，UI视觉稿往往只有主流程界面，缺少大量中间态、异常态，也很难覆盖多平台差异，生成出来的步骤很多根本跑不通，稳定性没有保障。</p>
+</li>
+<li>
+<p><strong>方案二：需求文档+AI规划驱动</strong></p>
+<p>流程是结构化解析需求→AI推理执行路径→边执行边验证→输出标准化脚本。这个方案的核心是，脚本不是“想出来”的，而是真机“跑出来”的，所有步骤都经过了实际执行验证，因此跑通率有保障，生成的脚本可以直接用于回归。</p>
+</li>
+</ul>
+<p>综合评估下来，我们选择了方案二作为落地方向。对测试团队而言，脚本的核心价值是“能跑、稳定”，而不是生成速度快，哪怕生成过程多花一点时间，只要产出就能用，整体ROI反而更高。</p>
+<h3>3.2 脚本生成方案：AI执行场景 → 脚本</h3>
+<p>整个生成方案的核心逻辑可以概括为：让AI先把用例真机跑一遍，再把它的执行轨迹清洗、标准化，最终沉淀为自动化脚本。整个过程分为两个核心环节：</p>
+<ol>
+<li>
+<p><strong>语义理解：读懂刚才发生了什么</strong></p>
+<p>从混杂的AI执行记录里，抽取稳定的语义信息，包括操作意图、操作对象、执行结果，把自然语言描述和具体的动作标签对齐，转化为可计算的执行事件。</p>
+</li>
+<li>
+<p><strong>标准化：生成可执行的脚本</strong></p>
+<p>把原始的执行轨迹拆解为原子化步骤，做到一步一动作，还原真实的执行顺序，最终收敛到Click、Input、Assert等有限的标准动作集合中。</p>
+</li>
+</ol>
+<p>整个流程的输入非常丰富，包括AI执行日志、模型思考过程、动作指令、页面视觉与DOM信息、运行上下文等，经过噪声抑制、路径提取、步骤排序、定位策略生成等处理，最终输出标准化的自动化脚本。</p>
+<h3>3.3 手工用例AI执行Agent</h3>
+<p>从人工用例到AI执行，分为三层递进的逻辑：</p>
+<ol>
+<li>
+<p><strong>形态层：测试用例自然语言转换</strong></p>
+<p>把人工编写的测试用例，转化为AI可以理解的自然语言描述，比如“点击底部「我的」，进入我的页面”“输入手机号，勾选隐私政策后获取验证码，输入验证码完成登录”。</p>
+</li>
+<li>
+<p><strong>轨迹层：测试场景AI自主规划</strong></p>
+<p>大模型理解用例描述后，自主推理完整的执行路径与操作步骤，规划出完整的测试流程。</p>
+</li>
+<li>
+<p><strong>步骤层：AI驱动真机执行</strong></p>
+<p>基于规划好的路径，AI驱动真机完成每一步操作，最终跑完整个测试用例。</p>
+</li>
+</ol>
+<p>底层配套了多Agent协同、多平台适配、业务知识库、数据工厂、敏感字段检测等一系列基建能力，保障AI执行是在业务规则内稳定运行，而不是无边界地探索。</p>
+<h3>3.4 固化AI执行轨迹</h3>
+<p>很多人会有疑问：既然AI能直接执行自然语言用例，为什么还要多此一举固化成脚本？我们主要出于四方面的考量：</p>
+<p>第一是<strong>降低不确定性</strong>。AI实时推理存在概率性，不同时刻的思考路径、元素定位、动作序列都可能有差异，导致执行结果忽好忽坏。而测试的核心要求是稳定、可复现，固化成脚本后，执行路径是固定的，结果是可预期的，也更便于问题定位。</p>
+<p>第二是<strong>提升执行效率</strong>。大模型每一步推理都需要时间，而货拉拉采用单周迭代，测试窗口非常紧凑。固化成脚本后，执行时不需要实时调用大模型推理，运行速度和传统自动化脚本一致，能够适配紧凑的迭代节奏。</p>
+<p>第三是<strong>节约Token成本</strong>。如果每一条业务线、每一次回归，都依赖AI实时自主规划，会产生非常高昂的算力成本。固化成脚本后，只有执行失败触发自愈时才会调用大模型，整体成本会下降一个数量级。</p>
+<p>第四是<strong>无缝对接AI自愈</strong>。固化生成的脚本，可以直接接入我们已经建设好的AI自愈能力，在后续运行中持续保障稳定性，形成“生成-执行-自愈-更新”的完整闭环。</p>
+<h3>3.5 步骤降噪</h3>
+<p>AI的执行轨迹并不是天然干净的，和人操作手机一样，AI也会“手滑”，也会“迷路”。我们定义了三类最常见的轨迹噪音：</p>
+<ul>
+<li>
+<p>误触：目标是明确的，但点击位置偏移，没有命中正确的目标元素</p>
+</li>
+<li>
+<p>无效Tap：点击了非交互的空白区域，系统没有任何响应</p>
+</li>
+<li>
+<p>规划错误：路径探索偏离了测试目标，误入了无关的页面场景</p>
+</li>
+</ul>
+<p>如果把这些噪音都录进脚本里，最终的脚本会充斥大量无效步骤，稳定性也很差。</p>
+<p>因此我们设计了专门的降噪处理环节：输入当前步骤的文本描述、点击动作数据、操作截图、UI结构信息，以意图识别为核心，分析当前动作的核心控件与业务目标，通过语义识别+多模态意图校准，过滤掉误触、无效点击、错误路径等噪音，同时单独标记弹窗、浮层等非预期干扰元素，最终还原出干净、准确的测试操作轨迹。</p>
+<h3>3.6 视觉定位</h3>
+<p>在定位方式上，我们采用了视觉+DOM双定位策略，互为补充。</p>
+<p>视觉定位的逻辑是：AI执行点击操作时，同步截取目标元素的图像区域，缓存原图并提取特征元数据，在脚本生成时关联到对应步骤。脚本执行时，通过SIFT特征匹配算法，将缓存的图像模板与当前页面做匹配，命中后执行点击操作。</p>
+<p>这种定位方式不依赖DOM结构，哪怕元素ID、层级完全变了，只要视觉上长得一样，就能准确识别，抗结构变更能力非常强。</p>
+<h3>3.7 DOM定位</h3>
+<p>除了视觉定位，我们同时保留了传统的DOM属性定位，保障执行效率。</p>
+<p>AI执行时同步采集当前页面的DOM结构，结合设备分辨率做坐标系换算，通过空间相交节点匹配、几何偏移择优，确定目标元素的属性定位器。回放时如果目标元素唯一，就直接用属性定位；如果有多个同类元素，则通过索引指定。</p>
+<p>DOM定位的优势是执行速度快、稳定性高，和视觉定位形成互补，适配不同的场景。</p>
+<h2>四、实践效果</h2>
+<h3>4.1 范式变更：人工驱动 → AI驱动闭环</h3>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a14891431355428c33239114294e11683f5c7846da81fd40ede93472e1023ece/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716d5559703437756d3853545135624f3039576f6a645573795147687077384b6c46503762506e63796b304f4e396b684d5073585642733162516963394e554b464e34423473544a6d365347504b6a71743769625a7a644a69623566526364584769617458452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/a14891431355428c33239114294e11683f5c7846da81fd40ede93472e1023ece/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f4e43416f69624e69615462716d5559703437756d3853545135624f3039576f6a645573795147687077384b6c46503762506e63796b304f4e396b684d5073585642733162516963394e554b464e34423473544a6d365347504b6a71743769625a7a644a69623566526364584769617458452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/NCAoibNiaTbqmUYp47um8STQ5bO09WojdUsyQGhpw8KlFP7bPncyk0ON9khMPsXVBs1bQic9NUKFN4B4sTJm6SGPKjqt7ibZzdJib5fRcdXGiatXE/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>这套体系落地后，最直观的变化，是整个UI自动化的运作模式发生了本质的跃迁。</p>
+<p>传统模式是典型的人工线性流程：需求/用例→人工理解→人工录制/编写脚本→人工调试定位、补充断言→平台执行→失败人工排查→人工修复脚本→版本迭代后再次失效。</p>
+<p>整个链路里，人是核心驱动力，每一个环节都离不开人工介入，最终陷入“越写越要修、越修越没时间写”的死循环。</p>
+<p>而升级为AI全链路驱动后，形成了完整的闭环飞轮：功能用例AI生成→自然语言AI执行→AI执行日志沉淀→AI生成UI脚本→调度平台执行→执行失败AI自愈→脚本自动更新→资产沉淀反哺模型。 </p>
+<p>人从一线的执行者、抢修者，变成了规则的制定者和效果的监督者，最终实现了生产降本、执行提稳、维护减负、资产沉淀、持续进化的全链路价值。</p>
+<h3>4.2 生成&amp;修复&amp;持续效果评估</h3>
+<p>整个体系的运行逻辑，是“实时保障+异步沉淀+持续度量”：</p>
+<ul>
+<li>
+<p><strong>脚本自动生成：脚本生成后会自动执行验证，确认跑通后才会纳入正式的回归脚本集，保证生成即可用；</strong></p>
+</li>
+<li>
+<p><strong>自愈实时性：异常不是等整个任务跑完再处理，而是在步骤执行失败的当下就触发诊断修复，尽可能保障任务继续执行，不阻塞整体回归进度；</strong></p>
+</li>
+<li>
+<p><strong>数据闭环性：运行时先做修复、保障任务推进，执行结束后，再异步把验证有效的修复固化到脚本里，沉淀为永久资产；</strong></p>
+</li>
+<li>
+<p><strong>效果可度量：每一次脚本更新后，都会持续跟踪后续的执行成功率，形成可观测的效果评估体系，验证修复的长期有效性。</strong></p>
+</li>
+</ul>
+<h3>4.3 更新安全机制</h3>
+<p>AI自动修改脚本，会不会改出问题？这是所有团队都会有的顾虑。为此我们设计了两层安全机制，把风险牢牢锁死：</p>
+<ul>
+<li>
+<p><strong>通知机制：变更全程可见</strong></p>
+<p>脚本自动更新成功后，系统会推送飞书卡片给脚本创建人和指定审核人，卡片里清晰展示脚本信息、步骤序号、变更前后的定位差异、执行报告链接。责任人可以第一时间知道“改了什么、影响哪里、是否可接受”，所有变更都透明可控。</p>
+</li>
+<li>
+<p><strong>回滚机制：风险随时可控</strong></p>
+<p>每一次脚本更新，都会保存修改前后的完整快照，支持按更新记录一键回滚。如果发现AI改错了，可以立刻恢复到之前的版本；同时所有Bad Case都会被记录下来，用于持续优化模型与策略，让系统越用越准。</p>
+</li>
+</ul>
+<h3>4.4 落地案例</h3>
+<p>目前这套方案已经在三类核心场景完成了验证落地：</p>
+<ul>
+<li>
+<p>脚本自动生成：从自然语言用例到可执行脚本，全程无需人工编写代码；</p>
+</li>
+<li>
+<p>弹窗智能处理：执行过程中遇到各类系统、App弹窗，自动识别并处理，不阻塞流程；</p>
+</li>
+<li>
+<p>元素重构修复：面对文案、ID、布局层面的UI变更，自动感知并修复定位器，保障用例通过。</p>
+</li>
+</ul>
+<h3>4.5 收益数据</h3>
+<p>经过货拉拉移动端司机端、用户端核心业务线的落地验证，方案的收益非常显著：</p>
+<ul>
+<li>
+<p>脚本生成首次通过率达到90%+，生成后无需大量人工调试；</p>
+</li>
+<li>
+<p>流水线脚本整体通过率从原来的80%，稳定提升至90%+；过去投入大量人力维护也突破不了的瓶颈，通过AI实时自愈轻松突破；</p>
+</li>
+<li>
+<p>目前已有5000+高频脚本完成落地验证，覆盖核心业务路径；</p>
+</li>
+<li>
+<p>整体节省约60%的脚本维护人力，把测试同学从重复的抢修工作里解放出来，转向探索性测试、复杂场景测试、质量体系建设等高价值工作。</p>
+</li>
+</ul>
+<h2>五、未来展望</h2>
+<p>关于后续的规划，我们主要有三个方向：</p>
+<p><strong>1.能力复用，扩大收益</strong></p>
+<p>目前脚本生成与自愈能力已经在Android、iOS平台验证跑通，后续我们会把这套能力拓展到小程序、鸿蒙平台，覆盖更多终端场景，把AI提效的收益进一步放大。</p>
+<p><strong>2.深耕能力边界，夯实技术壁垒</strong></p>
+<p>持续打磨脚本生成与自愈的能力边界，不断提升AI对复杂业务场景、边缘异常场景的适配水平，让系统能处理更复杂的测试问题，进一步提升智能化程度。</p>
+<p><strong>3.打通端到端链路，深度实现人力解耦</strong></p>
+<p>在现有能力的基础上，继续向前向后延伸，持续打通“用例生成-脚本产出-自动化执行-问题智能定位-缺陷辅助修复”的端到端自主链路，让AI在测试全流程中发挥更大价值，真正把人力从重复劳动中彻底解耦出来。</p>
+<hr>
+<h3>现场QA问答</h3>
+<p><strong>问</strong>：脚本生成的两个方案里，为什么不把UI视觉和需求文档都保留，只选择了基于需求文档的路径？</p>
+<p><strong>答</strong>：其实两种方案都同时用到了UI视觉图与需求文档，核心差异不在于输入，而在于是否经过真机执行验证。 方案一是静态解析生成步骤，相当于大模型“凭想象”写脚本，如果UI视觉图不完整、缺少中间态和异常场景，生成的步骤很可能根本跑不通，脚本有效性没有保障。方案二是AI边推理、边执行、边验证，执行过程中就能发现并处理异常，最终输出的是经过真机跑通的脚本，稳定性有保障，因此我们选择了方案二的路径。</p>
+<p><strong>问</strong>：90%的生成通过率，剩下10%失败的原因是什么？是否受前置条件构造的影响？</p>
+<p><strong>答</strong>：前置条件确实会影响执行成功率，我们也配套做了很多前置能力建设，尽量减少前置步骤对结果的干扰：比如订单类场景，我们会通过数据构造系统提前生成好订单，不需要从下单步骤开始跑；登录这类高频场景，我们会通过端能力直接完成登录态注入，而不是一步步UI操作，既快又稳。 剩下10%的失败是多方面因素共同导致的，并非单一的大模型问题，还包含复杂业务场景适配、特殊交互逻辑、环境差异等多种原因，这也是我们后续持续优化的方向。</p>
+<hr>
+<p><strong>--以上文稿基于MTSC2026深圳大会现场分享实况整理</strong></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db5ae2d37059d201a0d4fea657e72121fdc56c5e533b5877ce7a43248dc977ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716b6962547a444a4a70337a556b435257666e54666963715057466f764d5277556d7368744d47626963355a34444a476f506d5766565378436634654930386232724774436a533836794b796c584c71385a6f4d727a70454b6a52545864777065426a6f732f3634303f77785f666d743d706e672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31"><img src="https://camo.githubusercontent.com/db5ae2d37059d201a0d4fea657e72121fdc56c5e533b5877ce7a43248dc977ed/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f4e43416f69624e69615462716b6962547a444a4a70337a556b435257666e54666963715057466f764d5277556d7368744d47626963355a34444a476f506d5766565378436634654930386232724774436a533836794b796c584c71385a6f4d727a70454b6a52545864777065426a6f732f3634303f77785f666d743d706e672674703d7765627026777866726f6d3d352677785f6c617a793d3123696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/NCAoibNiaTbqkibTzDJJp3zUkCRWfnTficqPWFovMRwUmshtMGbic5Z4DJGoPmWfVSxCf4eI08b2rGtCjS86yKylXLq8ZoMrzpEKjRTXdwpeBjos/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=1" style="max-width: 100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58b77c9559b40fb46668c3cb66b1fc12fa5874801031fc6c46e4e6c9001222a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5969624946347569623544434b4f6d79556742584f424b66545951435830666a69623035514f574c31544c58446b414d6e38466c544e4e4e4f726a4a7068446c557050526e5565596e4343566e48325a5a457a4a3358496961772f3634303f77785f666d743d706e6723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/58b77c9559b40fb46668c3cb66b1fc12fa5874801031fc6c46e4e6c9001222a9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f5969624946347569623544434b4f6d79556742584f424b66545951435830666a69623035514f574c31544c58446b414d6e38466c544e4e4e4f726a4a7068446c557050526e5565596e4343566e48325a5a457a4a3358496961772f3634303f77785f666d743d706e6723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/YibIF4uib5DCKOmyUgBXOBKfTYQCX0fjib05QOWL1TLXDkAMn8FlTNNNOrjJphDlUpPRnUeYnCCVnH2ZZEzJ3XIiaw/640?wx_fmt=png#imgIndex=7" style="max-width: 100%;"></a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527957&amp;idx=2&amp;sn=6e5afbb2e110cab8f74de18ab4896a7d&amp;scene=21#wechat_redirect" rel="nofollow">招聘｜ NVIDIA英伟达开放四大测试团队招聘，覆盖AI智能体、机器人与CUDA全栈岗位</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527957&amp;idx=1&amp;sn=6409b34ee97e97c569171173eb01519b&amp;scene=21#wechat_redirect" rel="nofollow">大规模应用质量保障：基于“左移+分层防御”，如何搭建全链路App稳定性保障体系</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527931&amp;idx=1&amp;sn=a8463a6ab052fa58c9c7f19a10ecd197&amp;scene=21#wechat_redirect" rel="nofollow">AI发现bug太多太快，都修复不过来了？软件行业正在遭遇一场bug堰塞湖</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527903&amp;idx=1&amp;sn=564fdf712e27ecb2b884a72e6c6d4587&amp;scene=21#wechat_redirect" rel="nofollow">多Agent协同测试新范式：全域AI智能测试体系落地实战</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527892&amp;idx=1&amp;sn=c9945a662591f7b227204b086646bc6a&amp;scene=21#wechat_redirect" rel="nofollow">AGI质量新范式：基于SDD的CloudRobot AICoding全链路研发实践</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527863&amp;idx=1&amp;sn=c050dd7c10cb3aac17f8d29515c7f92c&amp;scene=21#wechat_redirect" rel="nofollow">软件交付新范式：从碎片化Prompt到结构化AI测试工作流</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527854&amp;idx=1&amp;sn=f67437293b64caa3cc3fedd05f4f16c4&amp;scene=21#wechat_redirect" rel="nofollow">华为Agentic AI智能体应用可靠性测试实践</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527800&amp;idx=1&amp;sn=1df44a1d02b8149454b95812a3547cf5&amp;scene=21#wechat_redirect" rel="nofollow">接口测试质效跃升：AI Native驱动接口测试全链路实践</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzkxMDM1NDQ0OA==&amp;mid=2247527751&amp;idx=1&amp;sn=882ddfaab69f121ef903aeb168b38d0a&amp;scene=21#wechat_redirect" rel="nofollow">AI质量工具链：从单点Agent到工程化落地</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
