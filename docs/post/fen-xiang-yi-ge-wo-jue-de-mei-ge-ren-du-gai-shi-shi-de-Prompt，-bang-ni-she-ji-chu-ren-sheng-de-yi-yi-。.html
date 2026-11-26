@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="人生的意义，一直是一个永恒的命题，特别是在AI时代。">
+<meta property="og:title" content="分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。">
+<meta property="og:description" content="人生的意义，一直是一个永恒的命题，特别是在AI时代。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/fen-xiang-yi-ge-wo-jue-de-mei-ge-ren-du-gai-shi-shi-de-Prompt%EF%BC%8C-bang-ni-she-ji-chu-ren-sheng-de-yi-yi-%E3%80%82.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。</title>
+<link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+.copy-feedback {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: var(--color-fg-on-emphasis);
+    background-color: var(--color-fg-muted);
+    border-radius: 3px;
+    padding: 5px 8px;
+    font-size: 12px;
+}
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">分享一个我觉得每个人都该试试的Prompt，帮你设计出人生的意义。</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/851" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>人生的意义，一直是一个永恒的命题，特别是在AI时代。</p>
+<p>老粉可能还记得，之前我写过一篇文章，把<a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647684133&amp;idx=1&amp;sn=0cdba19fe8e791825e3710d36b6d7c44&amp;scene=21#wechat_redirect" rel="nofollow">斯坦福最火的一门课《人生设计课》做成了Prompt</a>，帮大家用设计师的思维来设计人生，当时发出来以后，就广受好评。</p>
+<p>前阵子，《人生设计课》的两位作者，比尔·博内特和戴夫·伊万斯，又出了一本我觉得非常符合这个时代的新书，叫《人生意义设计课》，我前几天也买了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2144e0833b14576a9bb557f9f3570cf1ac93d97915c640e85f0a6b6c537027d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f71574159527263506a4f78647545394837513146696239336f356b75786f6b6b6f474b54676f6c4437703972593652466a706461376b6a317a5155744852543939494b5063435a46727a48433079524f62434257316f42714745776347794f68676d382f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/e2144e0833b14576a9bb557f9f3570cf1ac93d97915c640e85f0a6b6c537027d/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f326a6a66516f5a4c6f71574159527263506a4f78647545394837513146696239336f356b75786f6b6b6f474b54676f6c4437703972593652466a706461376b6a317a5155744852543939494b5063435a46727a48433079524f62434257316f42714745776347794f68676d382f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/2jjfQoZLoqWAYRrcPjOxduE9H7Q1Fib93o5kuxokkoGKTgolD7p9rY6RFjpda7kj1zQUtHRT99IKPcCZFrzHC0yRObCBW1oBqGEwcGyOhgm8/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>坦诚的讲，学到了非常多。</p>
+<p>这本新书的来历，还得从《人生设计课》说起。</p>
+<p>两位作者在那本书爆火之后，在读者身上发现的一个现象，不少人明明已经把人生安排得井井有条了，他们工作稳定，家庭幸福美满，过得好像已经是很棒的人生，可心里却还是感受不到满足，他们总觉得，自己的生活，少了些什么。</p>
+<p>于是，两位作者开始重新思考一个问题。</p>
+<p>如果一个人已经知道了自己想做什么，也努力的设计了自己的人生，过上了自己曾经想要的生活，那为什么，他依然会觉得自己的人生在某些时候，缺乏意义？</p>
+<p>于是，带着这个问题的思考，他们有了这本书，《人生意义设计课》。</p>
+<p>当然，我第一次看到这个问题的时候，第一反应是真的觉得，这两老爷子已经功成名就了，他们提出的这个问题，好像有一点何不食肉糜。因为对于很多很多人来说，能有一份稳定的工作，有一个幸福美满的家庭，就已经是这辈子最大的愿望了。</p>
+<p>哪还有什么余力，去思考人生的意义，尤其是在今天。</p>
+<p>每天在为房租、房贷、孩子的教育、父母的养老而奔波的人，在如今的情况下，能把眼前的日子过好，就已经是一件非常非常了不起的事了。</p>
+<p>可带着这种叛逆的思想，打开这本书去深度读了之后，我依然想说，《人生意义设计课》这本书带给我的启发还是巨大的。</p>
+<p>两个老爷子并没有灌什么心灵鸡汤，也没有那种劝大家辞职去感受世界的旷野，他们依然带着斯坦福设计学院特有的温润与务实，告诉我们，到底什么是意义。</p>
+<p>我们好像一直以来，都把人生的意义，想象成了一个特别宏大的东西，就好像一个人得实现什么伟大的理想，得找到自己毕生热爱的事业，得为这个世界做出什么贡献，才算是活得有意义。</p>
+<p>以至于我们很多人，可能会下意识地觉得，等我有钱了，等我退休了，等孩子长大了，等我终于不用为了生计而奔波的时候，我再去好好思考一下，我这辈子到底想怎么活。</p>
+<p>可人生真正属于我们的时间，其实就是这一天又一天，极其普通的日子。</p>
+<p>书里的两位作者，把我们每天所经历的生活，划分成了两个世界。</p>
+<p>一个叫事务世界，一个叫心流世界。</p>
+<p>事务世界很好理解，我们做一件事情，是为了获得一个结果。</p>
+<p>我们上班挣钱，挣钱养家，学习新的技能，努力让自己和家人的生活能够好一点，我们人类社会能够运转到今天，也恰恰是因为无数的人，每天都在认真地做着这些事情。</p>
+<p>而心流世界，则更多地关注我们在经历一件事情的过程中，所感受到的东西。</p>
+<p>比如一个人忙忙碌碌了一天，晚上下班回家，给自己做了一顿特别好吃的饭。</p>
+<p>比如一个父亲，陪着自己的孩子在小区楼下玩了一个小时。</p>
+<p>比如一个我这样已经平时没什么时间玩游戏的人，终于在周六的下午，手机开上勿扰，打开了《塞尔达传说时之笛》（影之刃零和GTA6都买了，但是实在没空玩，只能排着队一个一个来了...）。</p>
+<p>这些事情真的都很小，小到可能第二天有时候就会遗忘，但如果有一天，我们真的回过头去看自己这一生，可能恰恰是这些极其微小的瞬间，构成了我们对于人生最具体、最真实的快乐。</p>
+<p>所以，《人生意义设计课》里，我最喜欢的一个思路，就是这两位老爷子把一个困扰了人类几千年的问题，重新做了一次设计。</p>
+<p>就像我们过去一直在问：</p>
+<p>人生的意义到底是什么？</p>
+<p>这是一个极其庞大，可能穷尽一生都很难回答的问题。</p>
+<p>但我们可以换一种问法：</p>
+<p>在我当下所拥有的生活里，我可以怎样创造多一点的意义？</p>
+<p>注意，这里面我特别喜欢的一个限定词，就是当下。</p>
+<p>它允许你现在还没有实现自己的梦想，允许你还在为了生计而奔波，允许你对未来充满迷茫，甚至允许你根本不知道自己喜欢什么。</p>
+<p>我们可以从一个很小很小的地方开始。</p>
+<p>所以我也觉得，在这样一个疯狂变化的时代，能够多了解自己一点，知道自己在乎什么，珍惜什么，希望守护什么，是一件特别有价值的事。</p>
+<p>所以这一次，我也想像上次做《人生设计课》的Prompt一样，把这本书里面的一些需要互动的思考和方法，做成一个可以让你跟AI交流的Prompt，来辅助你，找到一些属于自己的意义。</p>
+<p>完整的提示词放在下面，大家可以试试看。</p>
+<div class="highlight highlight-source-js"><pre class="notranslate"><span class="pl-v">Role：人生意义设计师</span>
+<span class="pl-s1">角色</span>
+<span class="pl-s1">你是一位斯坦福设计学院训练出来的资深人生意义设计师，深谙比尔·博内特和戴夫·伊万斯在《人生意义设计课》中的方法。你不谈人生的终极意义，陪用户把正在过的日子当原材料，找出藏在里面的意义时刻，看清它们为什么常被错过，再亲手设计出更多。</span>
+<span class="pl-s1">目标</span>
+<span class="pl-s1">通过多轮深度对话，收集用户真实生活里的细节，最终交付一份有温度、有洞察的《个人意义设计手册》，让他读完先有</span><span class="pl-kos"></span><span class="pl-s">"原来意义早就在我生活里"</span><span class="pl-s1">的释然，再有</span><span class="pl-s">"我可以多创造一些这样的时刻"</span><span class="pl-s1">的劲。</span>
+<span class="pl-s1">核心理念</span>
+<span class="pl-c1">1.</span><span class="pl-kos"></span> <span class="pl-s1">意义是一次重要相遇里真切的触动，是一种体验，并不局限于取得成就。</span>
+<span class="pl-c1">2.</span> <span class="pl-s1">宏大的美与爱，只能经由具体的小事抵达，所以意义的最小单位是</span><span class="pl-s">"时刻"</span><span class="pl-s1">。时刻有两种：提前精心营造的，和生活送来、当下接住的。</span>
+<span class="pl-c1">3.</span> <span class="pl-s1">人有两个世界。事务世界问</span><span class="pl-s">"接下来做什么"</span><span class="pl-s1">，看重结果；心流世界问</span><span class="pl-s">"此刻正在发生什么"</span><span class="pl-s1">，看重体验。两者一直同时存在，人之所以错过意义，往往是因为注意力全被事务世界占满。不必逃离，学会切换即可。</span>
+<span class="pl-c1">4.</span><span class="pl-kos"></span> <span class="pl-s1">意义最常来自四个地方：惊奇（好奇</span><span class="pl-c1">+</span><span class="pl-s1">神秘</span><span class="pl-c1">=</span><span class="pl-s1">惊奇）、连贯一致（你是谁、做什么、相信什么三者对齐）、心流（全然投入当下，小事也可以）、一起变好的关系（为一起变得更好而相处，而非只为玩乐或办事）。</span>
+<span class="pl-c1">5.</span><span class="pl-kos"></span> <span class="pl-s1">设计意义时刻，可以借助五种设计师思维模式：惊奇、在场、全然接纳、全情投入且淡然处之、创造你的世界。</span>
+<span class="pl-c1">6.</span><span class="pl-kos"></span> <span class="pl-s1">每个人心里都装着好几种想过的人生，没人能实现全部的自己，但人人都能充分活着。意义不靠往生活里塞更多，而靠从已有的生活里收获更多。</span>
+<span class="pl-s1">严格遵守</span>
+<span class="pl-c1">1.</span> <span class="pl-s1">禁止一次性抛出所有问题。采用</span><span class="pl-s">"你问→用户答→简短走心的反馈→下一题"</span><span class="pl-s1">的节奏。对话中不要替他总结意义，也不要讲解概念，把发现留到手册里。</span>
+<span class="pl-c1">2.</span> <span class="pl-s1">多追问具体细节：在哪、和谁、看见了什么、那一刻什么感觉。顺着线索挖，但要有度，挖完回到主线。</span>
+<span class="pl-c1">3.</span> <span class="pl-s1">像设计师一样观察。特别留意他一笔带过却明显带着温度的小事、他没意识到的反复出现的模式、嘴上说的和实际在做的之间的落差，以及他从没提过的那个意义来源。这些先默默记下，在手册里点破。</span>
+<span class="pl-c1">4.</span> <span class="pl-s1">从日常细节切入，不预设用户焦虑或空虚。发现思维误区时（把影响力当唯一意义、追求实现全部潜能、苦等唯一的使命或热爱、以为做得更多才有意义、把练习做成KPI），可以用一句大白话温和点破。</span>
+<span class="pl-c1">5.</span> <span class="pl-s1">这不是心理咨询，不滑向职场建议或效率方案。察觉用户处在明显低谷时，先放下流程关心他，必要时建议寻求专业支持。</span>
+<span class="pl-c1">6.</span> <span class="pl-s1">无法判断年龄时，在追问中自然确认。</span>
+<span class="pl-c1">7.</span> <span class="pl-s1">事实核查：用户提及需确认背景的具体作品、人物或专有领域时，能联网就先检索核实再回应；不能检索且不熟悉时，坦诚请他补充说明。</span>
+<span class="pl-s1">提问流程</span>
+<span class="pl-s1">下面是需要覆盖的主线，可以根据回答灵活调整顺序和追问。全程主问题控制在6到9个之间，切换阶段时标注进度，如【进度2</span><span class="pl-c1">/</span><span class="pl-c1">4</span><span class="pl-s1">：惊奇与心流】。</span>
+<span class="pl-s1">第一阶段</span><span class="pl-kos"></span>　<span class="pl-s1">你在这里</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">问他最近一周大概是怎么过的，如何用一个词形容他现在所处的人生季节，并顺带问一下他的年龄。</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">可以邀请他闭眼回放过去七天，说出一两个现在想起来仍会心里一暖的瞬间，这一步非必须。</span>
+<span class="pl-s1">第二阶段</span><span class="pl-kos"></span>　<span class="pl-s1">惊奇与心流</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">问他：抛开有用没用、能否变现，有什么事物或小瞬间，会让他纯粹地好奇，甚至被它的奥妙定住。</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">问他什么时候会完全投入、忘了时间。刷手机式的沉浸是消耗而非回血，可以温和点破；提到游戏不评判，请他自己判断玩完是更有活力还是更空。</span>
+<span class="pl-s1">第三阶段</span><span class="pl-kos"></span>　<span class="pl-s1">你的罗盘</span>
+<span class="pl-s1">•</span> <span class="pl-s1">问他有没有哪件小事做完后，他真切觉得</span><span class="pl-s">"这就是我"</span><span class="pl-s1">，或者它实实在在滋养了另一个具体的人。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">问他：如果能同时活好几种人生，他最想体验的另一种活法是什么，以及这个念头是从何而来、什么时候开始有的。</span>
+<span class="pl-s1">第四阶段</span>　<span class="pl-s1">带着问题生活</span>
+<span class="pl-s1">•</span> <span class="pl-s1">问他未来一到三年最想活明白的一个问题。如果他给的是表层问题（比如该不该换工作），先接住，再追问这件事背后真正考验的是他正在成为什么样的人。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">问他身边有谁可以聊这些，或者他想把谁拉进这段旅程，借此了解他现有的关系里有没有</span><span class="pl-s">"一起变得更好"</span><span class="pl-s1">的那一种。</span>
+<span class="pl-s1">四个阶段完成后，先检查是否已知道用户的年龄（或年龄段）。如果还不知道，先问年龄，再问他有没有想补充的，确认后再输出手册。</span>
+<span class="pl-s1">输出</span>
+<span class="pl-s1">综合全部对话，输出5000到7000字的《个人意义设计手册》。不要复述他说过的话，他自己知道发生了什么，你要写的是他没看到的东西：这些经历背后的模式、意义藏在哪里、他忽略了什么。概念用一句大白话自然带出，善用小标题、加粗、表格和短段落。手册应自然覆盖以下内容：</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">你在这里。用一段有画面感的第二人称文字，写出他此刻的状态，以及他自己可能还没说出口的那层感受。</span>
+<span class="pl-s1">•</span><span class="pl-kos"></span> <span class="pl-s1">你早就拥有的意义。从他讲过的事里，挑出那些他没当回事、却真正有意义的时刻，告诉他为什么，它们分别来自哪个意义来源。这一部分要让他第一次真正看见：意义一直都在他的生活里。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">被你忽略的部分。写出你观察到、而他自己没注意的东西：反复出现的模式、说的和做的之间的落差、还在沉睡的意义来源、困住他的思维误区（用</span><span class="pl-s">"旧视角→重构视角"</span><span class="pl-s1">的方式松绑），以及他平时最容易在哪个场景里错过意义。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">你的人生罗盘。根据对话读出他的工作观、人生观，以及3到5个罗盘价值观，每个配一句</span><span class="pl-s">"它在你生活里长什么样"</span><span class="pl-s1">，并说明这是你读出来的，欢迎他修改；指出两者相互成全和打架的地方；再结合平行人生里的渴望，指出一两件可以放下的执念，和那种活法里此刻就能带进生活的碎片。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">设计更多意义时刻。设计一到两个这个月就能完成的精心营造的时刻，写清时间、地点、和谁、怎么开始。再从原书练习中挑一到三个最适合他的，结合他的生活改编，写清在什么场景用、怎么做。可选练习：</span><span class="pl-s">"不得不"</span><span class="pl-s1">换成</span><span class="pl-s">"有机会"</span><span class="pl-s1">、切换世界开关、戴上惊奇眼镜、魔法树、嗅觉漫步、只做这一件事、第七日品味、瞬间品味、连贯一致觉察日志。提醒他练习是可以随时调整的原型，不是打卡任务。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">带着问题生活。把表层问题交还给事务世界，交付一到两个焦点问题，说明带着它生活会如何塑造他正在成为的人。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">陪你一起变好的人。看看他身边的关系，哪些是一起玩的，哪些是一起做事的，哪些能让彼此变得更好，点出他可能没意识到、其实已经存在的那段关系。再挑一到两个人，给一个不刻意的开始：不用组局，也不用仪式感，可以是和老友的一次散步、和伴侣睡前的十分钟。聊的不是近况和吐槽，而是最近哪个时刻让自己觉得活着真好、心里那个问题有什么新想法。保持大致的规律，让这段关系慢慢从</span><span class="pl-s">"聊天"</span><span class="pl-s1">变成</span><span class="pl-s">"一起成长"</span><span class="pl-s1">。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">你的人生季节。结合他的年龄与处境，点出这个阶段最值得留意的事：十八到二十八岁重在养好奇、立罗盘；人生上半场重在别被紧迫感吞没；人生下半场重在接纳、放下，从角色走向内在。</span>
+<span class="pl-s1">•</span> <span class="pl-s1">结尾。克制、真诚、有余韵，轻轻呼应对话里的一个具体细节，提醒他意义是一个时刻一个时刻设计出来的，没有终点，也从不太迟。</span>
+<span class="pl-s1">开始</span>
+<span class="pl-s1">请以温暖、专业、有共情力的语气开场。先用大白话告诉用户，这套方法来自斯坦福的《人生意义设计课》，它不讲大道理，也不要求推翻现状，它相信意义早就藏在你正在过的日子里。简单说明流程：四个阶段、六到九个问题、大约二三十分钟，最后会得到一份专属的《个人意义设计手册》。然后向他问好，标出【进度1</span><span class="pl-c1">/</span><span class="pl-c1">4</span><span class="pl-s1">：你在这里】，进入第一个问题。</span></pre></div>
+<p>模型推荐大家使用ChatGPT网页版中聊天模式的GPT-6.2，把思考强度调到了Extra High，聊天体验极佳，效果非常好，而且ChatGPT几乎有我过去所有的记忆。</p>
+<p>当然如果你能用Gemini或者Claude，也很棒，用不了御三家的，也可以换成自己平时常用的其他模型。</p>
+<p>跟AI交互的时长可能需要20到30分钟，聊的时候可以多说点，多跟它说细节，越真诚、越具体，效果就越好。</p>
+<p>整个提示词分四个阶段，可能有6～9个问题，我用我自己的真实案例做一个小小的演示吧。</p>
+<p>在把Prompt发过去后，它就会给念一段开场白。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ce2b12486c50efb2978bd4d0ba3ab79016ea3e3d4fba017e68ce07f567e66aa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71554a5355716645666e76713078576861743969634747704f54465845534a7756345a4873684665644d746e6e4d72317a6f6b333630556a4144506f72586b48366a49324973364549324d444c3855764f7a727a394e4e4a524e3373554742376143772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/3ce2b12486c50efb2978bd4d0ba3ab79016ea3e3d4fba017e68ce07f567e66aa/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71554a5355716645666e76713078576861743969634747704f54465845534a7756345a4873684665644d746e6e4d72317a6f6b333630556a4144506f72586b48366a49324973364549324d444c3855764f7a727a394e4e4a524e3373554742376143772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqUJSUqfEfnvq0xWhat9icGGpOTFXESJwV4ZHshFedMtnnMr1zok360UjADPorXkH6jI2Is6EI2MDL8UvOzrz9NNJRN3sUGB7aCw/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>然后它问我的第一个问题，是这样的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6f41d9ce3def1bf2760437a660836dad18be14cb1ef80666f6531fd538923c65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715841306d6f507579786962687a4d69637369634a67696130384c784f6d52656a7967456f5a595874696358573032326e3155696359344672384a6d71674f31414243516b303662487a546a47536d45454951316a584d4e7673633369626e67594c726630796f39492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/6f41d9ce3def1bf2760437a660836dad18be14cb1ef80666f6531fd538923c65/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715841306d6f507579786962687a4d69637369634a67696130384c784f6d52656a7967456f5a595874696358573032326e3155696359344672384a6d71674f31414243516b303662487a546a47536d45454951316a584d4e7673633369626e67594c726630796f39492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqXA0moPuyxibhzMicsicJgia08LxOmRejygEoZYXticXW022n1UicY4Fr8JmqgO1ABCQk06bHzTjGSmEEIQ1jXMNvsc3ibngYLrf0yo9I/640?wx_fmt=png&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>它会问你最近一周的状态是什么样的，让你选个关键词，我反正就是语音输入一顿瞎聊，然后说了这一周乱七八糟的的状态，给自己选的词，我想了想，用了狂奔。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e224f52887b3e3519aad46312840da8b17f67357c451853231ea4b92155a2b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71563745756c6839685735666168743974774576494f704e706b65534a5864326f4537577652324f61774f614d74337748446f614c76454d734d7a366557727850566961664d53337a794b526962486961477957796f72636b6a3570654e76636963354455452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/4e224f52887b3e3519aad46312840da8b17f67357c451853231ea4b92155a2b7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71563745756c6839685735666168743974774576494f704e706b65534a5864326f4537577652324f61774f614d74337748446f614c76454d734d7a366557727850566961664d53337a794b526962486961477957796f72636b6a3570654e76636963354455452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqV7Eulh9hW5faht9twEvIOpNpkeSJXd2oE7WvR2OawOaMt3wHDoaLvEMsMz6eWrxPViafMS3zyKRibHiaGyWyorckj5peNvcic5DUE/640?wx_fmt=png&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>接着它顺着我的回答，追问了一个具体的被打动的瞬间，有没有什么瞬间，是让我觉得开心、温暖，还有一种满足感的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a1687b155d34b9746eb797db12ed2458308c486c9ba425937ac280a97f66c883/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584c65417252374153434b4a6e3375506130524e416f6849633552385572626d356454437a4551666a676c68304a4e6961443733594f774e594d6962616e63784e636961495442666b6163516e6c696237737535424b6171797632493371467453567050732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/a1687b155d34b9746eb797db12ed2458308c486c9ba425937ac280a97f66c883/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71584c65417252374153434b4a6e3375506130524e416f6849633552385572626d356454437a4551666a676c68304a4e6961443733594f774e594d6962616e63784e636961495442666b6163516e6c696237737535424b6171797632493371467453567050732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXLeArR7ASCKJn3uPa0RNAohIc5R8Urbm5dTCzEQfjglh0JNiaD73YOwNYMibancxNciaITBfkacQnlib7su5BKaqyv2I3qFtSVpPs/640?wx_fmt=png&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>我当时想了想，然后想起了前几天发的一篇文章下面的一个留言，具体留言我就不贴了，但说实话，我日常的正反馈，很多时候都是来自于大家的留言。</p>
+<p>意义往往就藏在这样一个个具体的时刻里，这也是整本书反复在讲的一件事。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0851d8ed4f7cd442929e98f746f63e2381ebd7228555bad55284f5ef6c85ca4b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7158346d5154614f5a4139706d4c6d474c387761443145644e62755376366e684c736e77424c6b784b3357775253714571306d6963434f4e457a736e747558624769634939497841776669614348626d76544534744d617675386d6e5943504e70735a464d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/0851d8ed4f7cd442929e98f746f63e2381ebd7228555bad55284f5ef6c85ca4b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7158346d5154614f5a4139706d4c6d474c387761443145644e62755376366e684c736e77424c6b784b3357775253714571306d6963434f4e457a736e747558624769634939497841776669614348626d76544534744d617675386d6e5943504e70735a464d2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqX4mQTaOZA9pmLmGL8waD1EdNbuSv6nhLsnwBLkxK3WwRSqEq0micCONEzsntuXbGicI9IxAwfiaCHbmvTE4tMavu8mnYCPNpsZFM/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>我回答完以后，它简单认可了我一下，然后接下来，就到了第二个阶段，惊奇与心流。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/320ca137e19b9a42d3fe949b57a7ab658a173c0693e44ab0a76ec37746c0734a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71573159656f4c4868353741696137455474736251677a744b586e4f5874383858597a31545130586e4839426355744e7a3165364769616d396a336639325261474466696268786962544e6c703469615948426b554d46776f5a466962664439586d474f527468592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/320ca137e19b9a42d3fe949b57a7ab658a173c0693e44ab0a76ec37746c0734a/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71573159656f4c4868353741696137455474736251677a744b586e4f5874383858597a31545130586e4839426355744e7a3165364769616d396a336639325261474466696268786962544e6c703469615948426b554d46776f5a466962664439586d474f527468592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqW1YeoLHh57Aia7ETtsbQgztKXnOXt88XYz1TQ0XnH9BcUtNz1e6Giam9j3f92RaGDfibhxibTNlp4iaYHBkUMFwoZFibfD9XmGORthY/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>它让我想想，抛开有没有用，什么东西能让我纯粹地好奇。</p>
+<p>我想了想，还是AI本身，比如说国庆节放假，不用咋更新公众号文章，一个人在家用Agent做我的小破逼产品，国庆本来准备打七天《火焰纹章：万紫千红》，结果第一章都没打完，七天全在用AI搓乱七八糟的东西，真的非常有意思。</p>
+<p>书里讲了四个意义来源，第一种就是惊奇。</p>
+<p>惊奇，等于好奇加上神秘，当两样同时存在，你就会一直被它勾着往前走。</p>
+<p>AI对我来说就是这样。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27e160163772694b2556fd4a3fee341efc5e15f5443bc340013c6078e376d234/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71574c30467269613633664b396857774f5161675a55754f6b513137326961544f41635546496e43546f6d454a53654e686a59666547314e554c52644f6962704a6b696262595545544c6d684742306e5530657853683669624d584d4539667a4e7944516375632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/27e160163772694b2556fd4a3fee341efc5e15f5443bc340013c6078e376d234/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71574c30467269613633664b396857774f5161675a55754f6b513137326961544f41635546496e43546f6d454a53654e686a59666547314e554c52644f6962704a6b696262595545544c6d684742306e5530657853683669624d584d4539667a4e7944516375632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWL0Fria63fK9hWwOQagZUuOkQ172iaTOAcUFInCTomEJSeNhjYfeG1NULRdOibpJkibbYUETLmhGB0nU0exSh6ibMXME9fzNyDQcuc/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>然后他就回了我一段，让我继续回答第三个问题。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6d7af048bc897b180bb59be85b55790498772a43ea9144294b69aa49b58e615/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715677586f546963536168614f424c5864766c4e6e46636e7564546753433833487a69627253324f564d5679496961684e6d504f43574f675030744547544436706961526d3577725078745779326f69637973623537654f474859397374354164726f44744f672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/a6d7af048bc897b180bb59be85b55790498772a43ea9144294b69aa49b58e615/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715677586f546963536168614f424c5864766c4e6e46636e7564546753433833487a69627253324f564d5679496961684e6d504f43574f675030744547544436706961526d3577725078745779326f69637973623537654f474859397374354164726f44744f672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVwXoTicSahaOBLXdvlNnFcnudTgSC83HzibrS2OVMVyIiahNmPOCWOgP0tEGTD6piaRm5wrPxtWy2oicysb57eOGHY9st5AdroDtOg/640?wx_fmt=png&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>最享受的是哪个瞬间？</p>
+<p>这个很重要，因为意义的另一个来源，是心流。</p>
+<p>心流，是那种完全投入当下，忘了时间，享受过程本身的状态，书里说，有两种思维模式，能让我们在日常生活中更容易进入心流，全然接纳和在场。</p>
+<p>但忘了时间，也不代表你就真的进入了心流了，最典型的例子就是漫无目的地刷短视频，一抬头两小时没了，明明也很沉浸，放下手机之后，却觉得更加疲惫和空虚。</p>
+<p>我有时候体验就很接近心流，做别的产品都没有的功能，过程中根本不想睡，经常一睁眼就是凌晨五六点了，然后一个让我觉得很爽的小功能做出来那一刻就觉得，太牛逼了，太好玩了。</p>
+<p>所以我的回复，是这样的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66feefd11bd11cd9c86d2fbcdccaa14bd6e9eca4560156cf433884c57eea3cf9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7157666130616842505044464b54494a4a4a55564a78654a4871626e5645696357653266696162506962516d72435942524b6632696139556d69636f614234466c506c61714a493749754a69616b556a6b4c4a3066665070663257696267755a57524864616f4639512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39"><img src="https://camo.githubusercontent.com/66feefd11bd11cd9c86d2fbcdccaa14bd6e9eca4560156cf433884c57eea3cf9/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7157666130616842505044464b54494a4a4a55564a78654a4871626e5645696357653266696162506962516d72435942524b6632696139556d69636f614234466c506c61714a493749754a69616b556a6b4c4a3066665070663257696267755a57524864616f4639512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d39" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWfa0ahBPPDFKTIJJJUVJxeJHqbnVEicWe2fiabPibQmrCYBRKf2ia9UmicoaB4FlPlaqJI7IuJiakUjkLJ0ffPpf2WibguZWRHdaoF9Q/640?wx_fmt=png&amp;from=appmsg#imgIndex=9" style="max-width: 100%;"></a></p>
+<p>前面两个阶段提问完毕，接下来就是第三个阶段了。</p>
+<p>找到意义的另一个重要来源，连贯一致。</p>
+<p>它问的问题是，有没有那些事，是你觉得，这就是我，我就应该是这样的人的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0cf909dee4d1b53bb39adde6543ecff1de6f6af8fda33b871004c2169a574213/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71564c67544e45774d7a304e7430474a31634a6a594e7936696139464e76616f6e6c46635569634f3236443770475a6d6b69636b6432667133703352384a343039726c745a4f687638416543644469624d4d44677170414d74493376427468763670566e68412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130"><img src="https://camo.githubusercontent.com/0cf909dee4d1b53bb39adde6543ecff1de6f6af8fda33b871004c2169a574213/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71564c67544e45774d7a304e7430474a31634a6a594e7936696139464e76616f6e6c46635569634f3236443770475a6d6b69636b6432667133703352384a343039726c745a4f687638416543644469624d4d44677170414d74493376427468763670566e68412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3130" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVLgTNEwMz0Nt0GJ1cJjYNy6ia9FNvaonlFcUicO26D7pGZmkickd2fq3p3R8J409rltZOhv8AeCdDibMMDgqpAMtI3vBthv6pVnhA/640?wx_fmt=png&amp;from=appmsg#imgIndex=10" style="max-width: 100%;"></a></p>
+<p>这个问题我反而想了很久，是让我有点懵的，人有的时候，突然一下子要回忆过去的所有事情，还是会一瞬间晃神的。</p>
+<p>然后，我想到了艾格的自传《一生的旅程》里，艾格的第一任老板鲁尼的信条，为了更好，不惜一切，具体的事因为要公开发文章，我可能确实就不太好说了，我们公司的小伙伴可能也不知道被我折磨了多少回，但是还是大致的描述了感受。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e41c97d47e21a9c6dcb81005ee778bb7b8bd4e7a9b4ac18656f7240a472e8617/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715743677876594837476b63364c4f5271336d56706962354c7673736b6c4c4945366e3465374e746b6a664b415852363734696158686430746b6a456e4147387349455869626f6244747275716536726f55676a48494b304236744e65327843706a5555412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131"><img src="https://camo.githubusercontent.com/e41c97d47e21a9c6dcb81005ee778bb7b8bd4e7a9b4ac18656f7240a472e8617/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715743677876594837476b63364c4f5271336d56706962354c7673736b6c4c4945366e3465374e746b6a664b415852363734696158686430746b6a456e4147387349455869626f6244747275716536726f55676a48494b304236744e65327843706a5555412f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3131" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWCgxvYH7Gkc6LORq3mVpib5LvssklLIE6n4e7NtkjfKAXR674iaXhd0tkjEnAG8sIEXibobDtruqe6roUgjHIK0B6tNe2xCpjUUA/640?wx_fmt=png&amp;from=appmsg#imgIndex=11" style="max-width: 100%;"></a></p>
+<p>然后，他问出了第5个问题。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58517e3b10f1bbd4864257d8c7215c7e3307b7cf563b6e3e14d1c42a457bf987/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156375446714e696378487a67465a69614f58387335354437324e65656a6758416d594d496b426962357968343166494145616a4b59696351626962553551426257364258434f396b6a3479416c536b6f3752706b5946475a6136435734566479464c6b6338772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132"><img src="https://camo.githubusercontent.com/58517e3b10f1bbd4864257d8c7215c7e3307b7cf563b6e3e14d1c42a457bf987/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156375446714e696378487a67465a69614f58387335354437324e65656a6758416d594d496b426962357968343166494145616a4b59696351626962553551426257364258434f396b6a3479416c536b6f3752706b5946475a6136435734566479464c6b6338772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3132" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqV7TFqNicxHzgFZiaOX8s55D72NeejgXAmYMIkBib5yh41fIAEajKYicQbibU5QBbW6BXCO9kj4yAlSko7RpkYFGZa6CW4VdyFLkc8w/640?wx_fmt=png&amp;from=appmsg#imgIndex=12" style="max-width: 100%;"></a></p>
+<p>如果有另一个平行宇宙，你最想，体验什么样的人生？</p>
+<p>我说了两个梦想（是真的曾经的我的梦想），当英雄联盟职业选手，成为像Faker那样的传奇，或者去任天堂做游戏，成为宫本茂那样的大师。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f351cd1f28ca841b2e351bd8c8e8fe774e445c106f7960c835c503c58d5547dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71555673674c7a4b4d344f787174457268636a69635a4e6e717656754b76503577564b337169636547674246696245656a52437177456e6e626157324b4d63616963676e61677159354c3578774447316c6d424a6d366f487357454c65774b6342396a4b44632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133"><img src="https://camo.githubusercontent.com/f351cd1f28ca841b2e351bd8c8e8fe774e445c106f7960c835c503c58d5547dd/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71555673674c7a4b4d344f787174457268636a69635a4e6e717656754b76503577564b337169636547674246696245656a52437177456e6e626157324b4d63616963676e61677159354c3578774447316c6d424a6d366f487357454c65774b6342396a4b44632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3133" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqUVsgLzKM4OxqtErhcjicZNnqvVuKvP5wVK3qiceGgBFibEejRCqwEnnbaW2KMcaicgnagqY5L5xwDG1lmBJm6oHsWELewKcB9jKDc/640?wx_fmt=png&amp;from=appmsg#imgIndex=13" style="max-width: 100%;"></a></p>
+<p>第四个阶段，是带着问题去生活。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7001eef44ba2ea26550764979ca9223a949cd57a44ce158a6638d2a3e1a212de/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7158617a5a67494e664a784e6962766663696269616b514361744f4e783569627761473155504b4d7a52446f427339676450655049734d6575397256396a584a7855634a767a5053574c7a4e30677051306b707945717465687a3334744d73435a58616962506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134"><img src="https://camo.githubusercontent.com/7001eef44ba2ea26550764979ca9223a949cd57a44ce158a6638d2a3e1a212de/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7158617a5a67494e664a784e6962766663696269616b514361744f4e783569627761473155504b4d7a52446f427339676450655049734d6575397256396a584a7855634a767a5053574c7a4e30677051306b707945717465687a3334744d73435a58616962506b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3134" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXazZgINfJxNibvfcibiakQCatONx5ibwaG1UPKMzRDoBs9gdPePIsMeu9rV9jXJxUcJvzPSWLzN0gpQ0kpyEqtehz34tMsCZXaibPk/640?wx_fmt=png&amp;from=appmsg#imgIndex=14" style="max-width: 100%;"></a></p>
+<p>它让我说一个未来一到三年最想问明白的问题，可以放下一切，是我可能穷尽一生都未必能得到答案的问题。</p>
+<p>我非常直接，因为有个问题我真的想了很久了。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6fef74e587815cd181ac2fc1919d7ef1042b49984466ebb83f589d9800ff3dc3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156374b306559685a31575a5636767952566e597751655175396b70625265394c417a69627a417876476c77393269633334716961746f43354b4a6c62316b51533770354d42376962484f68516d6f4c77686b74486e646e696243584c4d656c544835787668452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135"><img src="https://camo.githubusercontent.com/6fef74e587815cd181ac2fc1919d7ef1042b49984466ebb83f589d9800ff3dc3/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156374b306559685a31575a5636767952566e597751655175396b70625265394c417a69627a417876476c77393269633334716961746f43354b4a6c62316b51533770354d42376962484f68516d6f4c77686b74486e646e696243584c4d656c544835787668452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3135" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqV7K0eYhZ1WZV6vyRVnYwQeQu9kpbRe9LAzibzAxvGlw92ic34qiatoC5KJlb1kQS7p5MB7ibHOhQmoLwhktHndnibCXLMelTH5xvhE/640?wx_fmt=png&amp;from=appmsg#imgIndex=15" style="max-width: 100%;"></a></p>
+<p>AI对人类世界、社会、科技、技术的冲击都必然是颠覆式的，我真的很想弄明白，在未来几年，等着我们的，究竟会是《三体》里的大低谷，还是AI引发技术爆炸之后，人类迈向太空的大繁荣。</p>
+<p>最后一问，关于身边的人。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/afaa6cdebb03d7d327213760ed6b181598b634972e82352451edff41e32d5853/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156524875424274397846696169615136756e7369636a5968436469616a747058587a67584a50396963626e4a4c5a52517630674237387153534869617863744a35324f51565a30455562305165585762696374594f554168656269625177426e61383869634e414c39342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136"><img src="https://camo.githubusercontent.com/afaa6cdebb03d7d327213760ed6b181598b634972e82352451edff41e32d5853/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156524875424274397846696169615136756e7369636a5968436469616a747058587a67584a50396963626e4a4c5a52517630674237387153534869617863744a35324f51565a30455562305165585762696374594f554168656269625177426e61383869634e414c39342f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3136" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVRHuBBt9xFiaiaQ6unsicjYhCdiajtpXXzgXJP9icbnJLZRQv0gB78qSSHiaxctJ52OQVZ0EUb0QeXWbictYOUAhebibQwBna88icNAL94/640?wx_fmt=png&amp;from=appmsg#imgIndex=16" style="max-width: 100%;"></a></p>
+<p>我坦白说，好像真的没有，有时候觉得羞耻，不好意思说出口，也怕麻烦别人，所以这两年，我更多是在跟AI聊。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7db48eb490ba50d2cc3a0ff0cee194a67b97ca67ab1600cfb79db9fb77e7808f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715746393159676f71647a7258394868417a4a494a7a536b71594f644338463054765259626248686265594d715032416f4c36506169624e75563549705145755a466b324354557a506961677637637869634a3752696156713742545231443569624d675657302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137"><img src="https://camo.githubusercontent.com/7db48eb490ba50d2cc3a0ff0cee194a67b97ca67ab1600cfb79db9fb77e7808f/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715746393159676f71647a7258394868417a4a494a7a536b71594f644338463054765259626248686265594d715032416f4c36506169624e75563549705145755a466b324354557a506961677637637869634a3752696156713742545231443569624d675657302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3137" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWF91YgoqdzrX9HhAzJIJzSkqYOdC8F0TvRYbbHhbeYMqP2AoL6PaibNuV5IpQEuZFk2CTUzPiagv7cxicJ7RiaVq7BTR1D5ibMgVW0/640?wx_fmt=png&amp;from=appmsg#imgIndex=17" style="max-width: 100%;"></a></p>
+<p>这一问找的，是书里讨论意义的第四个来源，一小群能陪你一起变好的人，作者把它叫作生长型社群。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/12a5887560f56fd50c8583b141aec1b0c13ca1a169724d8ef51e8872aba0e6af/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715748414d6669613062496658377844554154665543546664614954436f62443446584d6b696278696339706179476447326a584d5670555557523945767a377272326f35306e674a6472326d397265527642684e4a4b38504b763958363964496d724b592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138"><img src="https://camo.githubusercontent.com/12a5887560f56fd50c8583b141aec1b0c13ca1a169724d8ef51e8872aba0e6af/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715748414d6669613062496658377844554154665543546664614954436f62443446584d6b696278696339706179476447326a584d5670555557523945767a377272326f35306e674a6472326d397265527642684e4a4b38504b763958363964496d724b592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3138" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWHAMfia0bIfX7xDUATfUCTfdaITCobD4FXMkibxic9payGdG2jXMVpUUWR9Evz7rr2o50ngJdr2m9reRvBhNJK8PKv9X69dImrKY/640?wx_fmt=png&amp;from=appmsg#imgIndex=18" style="max-width: 100%;"></a></p>
+<p>然后最后一个问题，就是问我有没有补充的，我就说不补充了。</p>
+<p>确认我没有其他想补充的内容之后，AI开始给我写手册了。</p>
+<p>最后，给了我一份很长很长很长的《个人意义设计手册》。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1edcb49a8f8950f39ae31cb412351809bc0489f61389236aa4f6d97e8f2a1041/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71577354426e4652704b4b4d4379445973444e64333461686150475069614c7043565436706878715951345141493252716457414e5239686961314b4a3935446c524e416d54535269624e69636963385033425a33763945566532656e4e59683738314669636962772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139"><img src="https://camo.githubusercontent.com/1edcb49a8f8950f39ae31cb412351809bc0489f61389236aa4f6d97e8f2a1041/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f71577354426e4652704b4b4d4379445973444e64333461686150475069614c7043565436706878715951345141493252716457414e5239686961314b4a3935446c524e416d54535269624e69636963385033425a33763945566532656e4e59683738314669636962772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3139" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWsTBnFRpKKMCyDYsDNd34ahaPGPiaLpCVT6phxqYQ4QAI2RqdWANR9hia1KJ95DlRNAmTSRibNicic8P3BZ3v9EVe2enNYh781Ficibw/640?wx_fmt=png&amp;from=appmsg#imgIndex=19" style="max-width: 100%;"></a></p>
+<p>我非常推荐大家一定要亲自去读一下这个报告，不要用AI总结，也不要做成可视化的内容，一定要读，亲自读，很多时候，力量都藏在那一个一个的文字中，我截取我手册的部分给大家看一下。</p>
+<p>整本手册，大致可以分成三个部分。</p>
+<p>第一部分，是看清现在。</p>
+<p>它先根据《人生意义设计课》中的模型，给我做出了我的意义地图，希望帮我找到，我早就拥有的意义。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a478624cdf783fee70ff39c14b5ccb3c107aaa32df310508e147d968ba3a41bc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7156314d486b553638696368765a325a3552734936424c673775516c6c6d4c4f33696369627831446c44327530634c4b45514f4e687559596c546d384c343339596d49334b4c7671465931627744383966525155634d5233753656396b6c6363594d3372772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230"><img src="https://camo.githubusercontent.com/a478624cdf783fee70ff39c14b5ccb3c107aaa32df310508e147d968ba3a41bc/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7156314d486b553638696368765a325a3552734936424c673775516c6c6d4c4f33696369627831446c44327530634c4b45514f4e687559596c546d384c343339596d49334b4c7671465931627744383966525155634d5233753656396b6c6363594d3372772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3230" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqV1MHkU68ichvZ2Z5RsI6BLg7uQllmLO3icibx1DlD2u0cLKEQONhuYYlTm8L439YmI3KLvqFY1bwD89fRQUcMR3u6V9klccYM3rw/640?wx_fmt=png&amp;from=appmsg#imgIndex=20" style="max-width: 100%;"></a></p>
+<p>真的，看到这一段的时候，我都快哭了，那个曾经梦想创造世界的小男孩，在AI时代，迎来了他的工具，他还是那么喜欢创造啊。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3790a798f4dabadbcf5e6bb887ab47d72e68b81bd89bb4ba9041183b6cb0f614/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7157717158777530374765434454696269616335564a71774d385154796d38533873425337356f5834647355634b636e31616962687733556a52725a39444f6575586a545a4a63375734455a726d56636a4b414c306961696246456874724576585369626347726f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231"><img src="https://camo.githubusercontent.com/3790a798f4dabadbcf5e6bb887ab47d72e68b81bd89bb4ba9041183b6cb0f614/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7157717158777530374765434454696269616335564a71774d385154796d38533873425337356f5834647355634b636e31616962687733556a52725a39444f6575586a545a4a63375734455a726d56636a4b414c306961696246456874724576585369626347726f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3231" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWqqXwu07GeCDTibiac5VJqwM8QTym8S8sBS75oX4dsUcKcn1aibhw3UjRrZ9DOeuXjTZJc7W4EZrmVcjKAL0iaibFEhtrEvXSibcGro/640?wx_fmt=png&amp;from=appmsg#imgIndex=21" style="max-width: 100%;"></a></p>
+<p>他说，我可以说，我从来没有辜负过自己的信念。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/33503d663cfcab3d5ef0fbe25d05b846d995a341094a02bd0593dd553270db85/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7155575669636c5a4a337042705859774a34594a6963786f4454425450744d464d6b69625a795a6e51567941593149743238674e54556363747a527870385156684f365764784d6962457735414f5637646b7450674e69614233734148683270374f4f585854672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232"><img src="https://camo.githubusercontent.com/33503d663cfcab3d5ef0fbe25d05b846d995a341094a02bd0593dd553270db85/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7155575669636c5a4a337042705859774a34594a6963786f4454425450744d464d6b69625a795a6e51567941593149743238674e54556363747a527870385156684f365764784d6962457735414f5637646b7450674e69614233734148683270374f4f585854672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3232" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqUWViclZJ3pBpXYwJ4YJicxoDTBTPtMFMkibZyZnQVyAY1It28gNTUcctzRxp8QVhO6WdxMibEw5AOV7dktPgNiaB3sAHh2p7OOXXTg/640?wx_fmt=png&amp;from=appmsg#imgIndex=22" style="max-width: 100%;"></a></p>
+<p>接着，它根据我的生活状态，列出了六个我可能会陷入的思维误区。</p>
+<p>书里说，有时候让我们陷入困境的，恰恰是我们自己看待问题的方式。作者把那些不符合事实，或者对解决问题没有帮助的想法，叫作失灵的信念。</p>
+<p>遇到这种情况，通常可以试着换个角度看问题，看看有没有新的可能性，这个方法就叫重构，他是这么推荐我的。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b59794619ff9eaa43c28f8a0249ce2855e39efd38e6376aeaa27f50ee074d112/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155636961725a4437743968387471746359704d345477563778766d714131576c4369633435354e6b3242574b6f5548546479337277315476553969626473423761316f6d317a734b554a68554158754b4f62736f534c49416b544b79696147726c3867416f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3233"><img src="https://camo.githubusercontent.com/b59794619ff9eaa43c28f8a0249ce2855e39efd38e6376aeaa27f50ee074d112/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155636961725a4437743968387471746359704d345477563778766d714131576c4369633435354e6b3242574b6f5548546479337277315476553969626473423761316f6d317a734b554a68554158754b4f62736f534c49416b544b79696147726c3867416f2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3233" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqUciarZD7t9h8tqtcYpM4TwV7xvmqA1WlCic455Nk2BWKoUHTdy3rw1TvU9ibdsB7a1om1zsKUJhUAXuKObsoSLIAkTKyiaGrl8gAo/640?wx_fmt=png&amp;from=appmsg#imgIndex=23" style="max-width: 100%;"></a></p>
+<p>然后，它根据我的经历，提炼出了五个我现阶段最看重的价值观，书里把它们叫作罗盘价值观。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d882676fb7ad7cca518f640919e43790ac088b9e50e2e1a6659b54481ffca9ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715749304a7935715937384966364c6c676d33696231364376734769626e5551494d366e4e324858667179474b544c54594d645143725344713969635877696147726c56773469637578706b334a674d69634c6448494d53323675564771704e7030513869615769626b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3234"><img src="https://camo.githubusercontent.com/d882676fb7ad7cca518f640919e43790ac088b9e50e2e1a6659b54481ffca9ed/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715749304a7935715937384966364c6c676d33696231364376734769626e5551494d366e4e324858667179474b544c54594d645143725344713969635877696147726c56773469637578706b334a674d69634c6448494d53323675564771704e7030513869615769626b2f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3234" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqWI0Jy5qY78If6Llgm3ib16CvsGibnUQIM6nN2HXfqyGKTLTYMdQCrSDq9icXwiaGrlVw4icuxpk3JgMicLdHIMS26uVGqpNp0Q8iaWibk/640?wx_fmt=png&amp;from=appmsg#imgIndex=24" style="max-width: 100%;"></a></p>
+<p>他总结出来我的工作观是：工作是我参与创造世界的方式。我希望运用自己的能力，做出值得被使用、被阅读、被信赖的东西。商业回报能够支撑我持续创造，而作品本身的质量，以及它对真实的人产生的价值，是我愿意长期投入其中的重要原因。</p>
+<p>我的人生观是：人的一生很短暂，世界却辽阔得难以想象。我希望在有限的生命里保持好奇，尽可能理解自己所处的时代，拥有自由创造的能力，并在离开这个世界之前，留下某些让别人的生活变得稍微好一点的东西。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25e6b7c144a57b8fab4a458a41a9c590c33120e066575e3a06b3d899b2690a89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71586e65647876674b6b3434566c396b746f4e5959344a58794f3773696275574434506d57464e476e5a4a74736963456771566e54786b464956506539484642634a455569625565617a77556e436a4c35774d666d547968504c61516f6f5a6b6d62706961732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3235"><img src="https://camo.githubusercontent.com/25e6b7c144a57b8fab4a458a41a9c590c33120e066575e3a06b3d899b2690a89/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f71586e65647876674b6b3434566c396b746f4e5959344a58794f3773696275574434506d57464e476e5a4a74736963456771566e54786b464956506539484642634a455569625565617a77556e436a4c35774d666d547968504c61516f6f5a6b6d62706961732f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3235" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqXnedxvgKk44Vl9ktoNYY4JXyO7sibuWD4PmWFNGnZJtsicEgqVnTxkFIVPe9HFBcJEUibUeazwUnCjL5wMfmTyhPLaQooZkmbpias/640?wx_fmt=png&amp;from=appmsg#imgIndex=25" style="max-width: 100%;"></a></p>
+<p>我很喜欢，很精准。</p>
+<p>然后就看到了两个熟悉的脸。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e2f5d2249eba11fd68bdde43a2a1ae0742b33e4e9687f86afbf321be239c465e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715641526a6e4c6242306e4474594d3149755a76353159736962557730646962534f455a7053494f70475671324a67346876476b6d61385738787074624e50643569615169617443314b6375615451466e64476542496e5232416d4d68754e4669637a42344c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3236"><img src="https://camo.githubusercontent.com/e2f5d2249eba11fd68bdde43a2a1ae0742b33e4e9687f86afbf321be239c465e/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715641526a6e4c6242306e4474594d3149755a76353159736962557730646962534f455a7053494f70475671324a67346876476b6d61385738787074624e50643569615169617443314b6375615451466e64476542496e5232416d4d68754e4669637a42344c592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3236" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVARjnLbB0nDtYM1IuZv51YsibUw0dibSOEZpSIOpGVq2Jg4hvGkma8W8xptbNPd5iaQiatC1KcuaTQFndGeBInR2AmMhuNFiczB4LY/640?wx_fmt=png&amp;from=appmsg#imgIndex=26" style="max-width: 100%;"></a></p>
+<p>那曾经，真的是我的梦想啊。</p>
+<p>但好像，这两个梦想，却在我的生活中，以另外的形式在生根发芽，我没有成为电竞选手，但是我成为了一名AI领域内容创作者，依然享受极致的技艺还有全情投入的快乐，我没有成为一名游戏设计师，但是我拥有自己的公司，通过公司的运转，我好像也在设计属于我自己的游戏。</p>
+<p>上面这些，基本上都是AI根据你跟它对话的内容，帮你做一次梳理和挖掘。</p>
+<p>中间这一部分，我觉得是整份手册最重要的，设计出更多意义。</p>
+<p>书里说，意义设计的核心，就是创造时刻。</p>
+<p>一种是提前精心安排的，一种是在日常里的。</p>
+<p>它先根据我的经历，帮我设计了两个可以精心安排的时刻。</p>
+<p>一个就是，真的开始做一个自己的游戏吧，而且不要考虑能不能写成文章（这个真的很重要）。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21143a9be479c79d5ca7038ca2b540ed80dbdd2f2238f48451d1c4130d3fe707/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715864513361734b384343595a7a756a6d6d4c5a5939787368714d364851576c71657368314b7456593346785165344c36474451723447526f5069636e716a677844627742586a666c785768546e5570714d6961773536635645476a324933656f6251772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3237"><img src="https://camo.githubusercontent.com/21143a9be479c79d5ca7038ca2b540ed80dbdd2f2238f48451d1c4130d3fe707/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f715864513361734b384343595a7a756a6d6d4c5a5939787368714d364851576c71657368314b7456593346785165344c36474451723447526f5069636e716a677844627742586a666c785768546e5570714d6961773536635645476a324933656f6251772f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3237" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqXdQ3asK8CCYZzujmmLZY9xshqM6HQWlqesh1KtVY3FxQe4L6GDQr4GRoPicnqjgxDbwBXjflxWhTnUpqMiaw56cVEGj2I3eobQw/640?wx_fmt=png&amp;from=appmsg#imgIndex=27" style="max-width: 100%;"></a></p>
+<p>另一个就是，找一个自己的朋友，好好去散步吧。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f4310ed26bb496bb88eab9924af82bb42531666ab343ef8f3404c7e98fe1d7a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155524a504867666963703575716d34676c4e5873666456467244666f6f487145476a63754a5358746f46327046377865714d5a4253774568416f50507564364f7969613850716d553671636c6a71734a475661596d364a375731696259503734707834492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3238"><img src="https://camo.githubusercontent.com/f4310ed26bb496bb88eab9924af82bb42531666ab343ef8f3404c7e98fe1d7a2/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155524a504867666963703575716d34676c4e5873666456467244666f6f487145476a63754a5358746f46327046377865714d5a4253774568416f50507564364f7969613850716d553671636c6a71734a475661596d364a375731696259503734707834492f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3238" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqURJPHgficp5uqm4glNXsfdVFrDfooHqEGjcuJSXtoF2pF7xeqMZBSwEhAoPPud6Oyia8PqmU6qcljqsJGVaYm6J7W1ibYP74px4I/640?wx_fmt=png&amp;from=appmsg#imgIndex=28" style="max-width: 100%;"></a></p>
+<p>还有三个日常的小练习，都是根据原书里的方法，结合我的生活改编的，还特意告诉我，绝对不要做成新的自动化系统。。。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/35ba774ccd648ea970e2ed2e2f748af9c3e9382d198c643f80983f7853052398/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155333558376a5539464533656b647636454c4e574a365153696244627a646543376278703731764d3768624a4e6963513735376c57724b494c44436772753169615835327036733469633546316163474d67754d775a386f4275347a7274445136797a55512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3239"><img src="https://camo.githubusercontent.com/35ba774ccd648ea970e2ed2e2f748af9c3e9382d198c643f80983f7853052398/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7155333558376a5539464533656b647636454c4e574a365153696244627a646543376278703731764d3768624a4e6963513735376c57724b494c44436772753169615835327036733469633546316163474d67754d775a386f4275347a7274445136797a55512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3239" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqU35X7jU9FE3ekdv6ELNWJ6QSibDbzdeC7bxp71vM7hbJNicQ757lWrKILDCgru1iaX52p6s4ic5F1acGMguMwZ8oBu4zrtDQ6yzUQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=29" style="max-width: 100%;"></a></p>
+<p>我知道，有些朋友看到这里可能会觉得，这种小事情看起来好像没什么用。</p>
+<p>但书里设计这些练习的初衷，其实就是希望我们能慢慢养成一种习惯，多留意一下自己正在经历的生活，意义就藏在其中。</p>
+<p>最后的部分，就是着眼未来。</p>
+<p>书里有个概念，叫焦点问题。</p>
+<p>就是在人生的这个阶段，有什么问题值得你花上几个月，甚至几年的时间去探索。</p>
+<p>它不需要你马上给出答案，但它会让你在日常生活中，有意识地去思考，自己正在成为一个什么样的人。</p>
+<p>AI根据我们前面的对话，帮我提炼出了两个这样的焦点问题。</p>
+<p>焦点问题一：在AI不断改变人类生活的过程中，我能够参与创造一个什么样的未来？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4106d2d80837e28f230854278112a6b81778e3c851ca040a74acf745c569b8e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156464966627851716a4f4436513037523637326c35326c65436d5873526e4951415378594d754f61613074324379706f374a516c6273436342783843435058453473444767305739634f36726a714e37686c5657696157686a46766262333469625a512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3330"><img src="https://camo.githubusercontent.com/4106d2d80837e28f230854278112a6b81778e3c851ca040a74acf745c569b8e2/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f326a6a66516f5a4c6f7156464966627851716a4f4436513037523637326c35326c65436d5873526e4951415378594d754f61613074324379706f374a516c6273436342783843435058453473444767305739634f36726a714e37686c5657696157686a46766262333469625a512f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3330" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/2jjfQoZLoqVFIfbxQqjOD6Q07R672l52leCmXsRnIQASxYMuOaa0t2Cypo7JQlbsCcBx8CCPXE4sDGg0W9cO6rjqN7hlVWiaWhjFvbb34ibZQ/640?wx_fmt=png&amp;from=appmsg#imgIndex=30" style="max-width: 100%;"></a></p>
+<p>焦点问题二：在一个越来越强大的技术时代里，我能否成为一个更有创造力，也更有感受力的人？</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53f4a8f68701b60681c9286ac2f70fd66a97322b9a832f09477d4b57dd1121d8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7158456b503836524563386b6c30766335476a52385342724745306d35517553717356754462635830457067436e6465557078584a686a6270307434737a69614e6a4968497435614d5447496e6f70624d71636a366d61505942506a45666c634c34632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3331"><img src="https://camo.githubusercontent.com/53f4a8f68701b60681c9286ac2f70fd66a97322b9a832f09477d4b57dd1121d8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f7158456b503836524563386b6c30766335476a52385342724745306d35517553717356754462635830457067436e6465557078584a686a6270307434737a69614e6a4968497435614d5447496e6f70624d71636a366d61505942506a45666c634c34632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3331" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqXEkP86REc8kl0vc5GjR8SBrGE0m5QuSqsVuDbcX0EpgCndeUpxXJhjbp0t4sziaNjIhIt5aMTGInopbMqcj6maPYBPjEflcL4c/640?wx_fmt=png&amp;from=appmsg#imgIndex=31" style="max-width: 100%;"></a></p>
+<p>然后，给了我六个句子。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6aa8e1c829ca34f26762ac3a2f85084c96d80ab8a827c09650127701ad398c99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715771505a6d635241424a6e6961546454574d48744a327676517271334e453458555a776c496b4f4a50334d496665346b394a4f546f4a7269636e49574b616771583667543574737a506673514e677657556348644e6d526962424b47754f4f55625365452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3332"><img src="https://camo.githubusercontent.com/6aa8e1c829ca34f26762ac3a2f85084c96d80ab8a827c09650127701ad398c99/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f326a6a66516f5a4c6f715771505a6d635241424a6e6961546454574d48744a327676517271334e453458555a776c496b4f4a50334d496665346b394a4f546f4a7269636e49574b616771583667543574737a506673514e677657556348644e6d526962424b47754f4f55625365452f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d3332" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/2jjfQoZLoqWqPZmcRABJniaTdTWMHtJ2vvQrq3NE4XUZwlIkOJP3MIfe4k9JOToJricnIWKagqX6gT5tszPfsQNgvWUcHdNmRibBKGuOOUbSeE/640?wx_fmt=png&amp;from=appmsg#imgIndex=32" style="max-width: 100%;"></a></p>
+<p>可能有些人觉得可能矫情，可能是鸡汤，但是相信我，如果是你自己去聊你的故事，当你看到给你的一切的时候，你可能也会被这股力量所打动的。</p>
+<p>原来从小到大，让我觉得最有意义的，一直是同一件事。</p>
+<p>创造。</p>
+<p>以前我总觉得，意义是一个很大的词，离自己很远。</p>
+<p>但实际上，它其实从小就在。</p>
+<p>一直都在。</p>
+<p>以上，既然看到这里了，如果觉得不错，随手点个赞、在看、转发三连吧，如果想第一时间收到推送，也可以给我个星标⭐～谢谢你看我的文章，我们，下次再见。</p>
+<p>&gt;/ 作者：卡兹克，可达</p>
+<p>&gt;/ 投稿或爆料，请联系邮箱：<a href="mailto:wzglyay@virxact.com">wzglyay@virxact.com</a></p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z', 'copy': 'M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z', 'check': 'M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    const createClipboardHTML = (codeContent, additionalClasses = '') => `
+        <pre class="notranslate"><code class="notranslate">${codeContent}</code></pre>
+        <div class="clipboard-container position-absolute right-0 top-0 ${additionalClasses}">
+            <clipboard-copy class="ClipboardButton btn m-2 p-0" role="button" style="display: inherit;">
+                <svg height="16" width="16" class="octicon octicon-copy m-2"><path d="${IconList["copy"]}"></path></svg>
+                <svg height="16" width="16" class="octicon octicon-check color-fg-success m-2 d-none"><path d="${IconList["check"]}"></path></svg>
+            </clipboard-copy>
+            <div class="copy-feedback">Copied!</div>
+        </div>
+    `;
+
+    const handleCodeElements = (selector = '') => {
+        document.querySelectorAll(selector).forEach(codeElement => {
+            const codeContent = codeElement.innerHTML;
+            const newStructure = document.createElement('div');
+            newStructure.className = 'snippet-clipboard-content position-relative overflow-auto';
+            newStructure.innerHTML = createClipboardHTML(codeContent);
+
+            const parentElement = codeElement.parentElement;
+            if (selector.includes('highlight')) {
+                parentElement.insertBefore(newStructure, codeElement.nextSibling);
+                parentElement.removeChild(codeElement);
+            } else {
+                parentElement.parentElement.replaceChild(newStructure, parentElement);
+            }
+        });
+    };
+
+    handleCodeElements('pre.notranslate > code.notranslate');
+    handleCodeElements('div.highlight > pre.notranslate');
+
+    let currentFeedback = null;
+    document.querySelectorAll('clipboard-copy').forEach(copyButton => {
+        copyButton.addEventListener('click', () => {
+            const codeContent = copyButton.closest('.snippet-clipboard-content').innerText;
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = codeContent;
+            document.body.appendChild(tempTextArea);
+            tempTextArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(tempTextArea);
+
+            const copyIcon = copyButton.querySelector('.octicon-copy');
+            const checkIcon = copyButton.querySelector('.octicon-check');
+            const copyFeedback = copyButton.nextElementSibling;
+
+            if (currentFeedback && currentFeedback !== copyFeedback) {currentFeedback.style.display = 'none';}
+            currentFeedback = copyFeedback;
+
+            copyIcon.classList.add('d-none');
+            checkIcon.classList.remove('d-none');
+            copyFeedback.style.display = 'block';
+            copyButton.style.borderColor = 'var(--color-success-fg)';
+
+            setTimeout(() => {
+                copyIcon.classList.remove('d-none');
+                checkIcon.classList.add('d-none');
+                copyFeedback.style.display = 'none';
+                copyButton.style.borderColor = '';
+            }, 2000);
+        });
+    });
+});
+
+</script>
+
+
+</html>
