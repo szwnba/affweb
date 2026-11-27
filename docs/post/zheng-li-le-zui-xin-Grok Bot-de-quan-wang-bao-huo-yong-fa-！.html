@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
+    <script src='https://blog.meekdai.com/assets/GmeekBSZ.js'></script>
+    <link rel="icon" href="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png"><script>
+        let theme = localStorage.getItem("meek_theme") || "light";
+        document.documentElement.setAttribute("data-color-mode", theme);
+    </script>
+<meta name="description" content="大多数人第一次打开 AI 助手，依然习惯把它当成一个“问一句、答一句”的聊天窗口。">
+<meta property="og:title" content="整理了最新Grok Bot的全网爆火用法！">
+<meta property="og:description" content="大多数人第一次打开 AI 助手，依然习惯把它当成一个“问一句、答一句”的聊天窗口。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://126.plus/post/zheng-li-le-zui-xin-Grok%20Bot-de-quan-wang-bao-huo-yong-fa-%EF%BC%81.html">
+<meta property="og:image" content="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png">
+<title>整理了最新Grok Bot的全网爆火用法！</title>
+
+
+
+</head>
+<style>
+body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;padding: 45px;font-size: 16px;font-family: sans-serif;line-height: 1.25;}
+#header{display:flex;padding-bottom:8px;border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));margin-bottom: 16px;}
+#footer {margin-top:64px; text-align: center;font-size: small;}
+
+</style>
+
+<style>
+.postTitle{margin: auto 0;font-size:40px;font-weight:bold;}
+.title-right{display:flex;margin:auto 0 0 auto;}
+.title-right .circle{padding: 14px 16px;margin-right:8px;}
+#postBody{border-bottom: 1px solid var(--color-border-default);padding-bottom:36px;}
+#postBody hr{height:2px;}
+#cmButton{height:48px;margin-top:48px;}
+#comments{margin-top:64px;}
+.g-emoji{font-size:24px;}
+@media (max-width: 600px) {
+    body {padding: 8px;}
+    .postTitle{font-size:24px;}
+}
+
+</style>
+
+
+
+
+<body>
+    <div id="header">
+<h1 class="postTitle">整理了最新Grok Bot的全网爆火用法！</h1>
+<div class="title-right">
+    <a href="https://126.plus" id="buttonHome" class="btn btn-invisible circle" title="首页">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathHome" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+    <a href="https://github.com/szwnba/affweb/issues/853" target="_blank" class="btn btn-invisible circle" title="Issue">
+        <svg class="octicon" width="16" height="16">
+            <path id="pathIssue" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+    
+
+    <a class="btn btn-invisible circle" onclick="modeSwitch();" title="切换主题">
+        <svg class="octicon" width="16" height="16" >
+            <path id="themeSwitch" fill-rule="evenodd"></path>
+        </svg>
+    </a>
+
+</div>
+</div>
+    <div id="content">
+<div class="markdown-body" id="postBody"><p>大多数人第一次打开 AI 助手，依然习惯把它当成一个“问一句、答一句”的聊天窗口。一旦遇到需要跨软件操作、长期跟进进度或者按固定节奏重复处理的日常工作，最后往往还是得自己亲手去点鼠标、填表格、发消息。</p>
+<p>前几天，SpaceX 与 xAI 旗下 Grok Bot 工程负责人、React 核心团队成员 Lauren Tan 在 X 平台发出一篇实操长文《Automate Anything with Grok Bot》，单帖浏览量突破 314 万，收藏数高达 3.38 万，几乎是点赞数的两倍。</p>
+<p>她在发帖时直言，很多人没能发挥出 Grok Bot 的真正潜力，并不是因为不会写代码，而是不知道怎么把手头的工作拆解成一套能让 AI 独立接管的流程。在这篇指南里，她结合自己日常研发和生活的真实经验，把配置 AI 助手的完整步骤和 5 套对话提示词模板逐一梳理了出来。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f879712f48382e0bd90ed89f85066c940ddf3dfe4b6e4ad7d152fcd23ca34e98/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353393656564d30673253336476574459394456727444596c62706a435261636d397561423264566963575362764a325551463844705648446a6d354a527a684b305546533751724c33584f6e6963446d763332764d5a506656744c615a474b36415652772f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30"><img src="https://camo.githubusercontent.com/f879712f48382e0bd90ed89f85066c940ddf3dfe4b6e4ad7d152fcd23ca34e98/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353393656564d30673253336476574459394456727444596c62706a435261636d397561423264566963575362764a325551463844705648446a6d354a527a684b305546533751724c33584f6e6963446d763332764d5a506656744c615a474b36415652772f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d30" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zW6S9vt0cS96VVM0g2S3dvWDY9DVrtDYlbpjCRacm9uaB2dVicWSbvJ2UQF8DpVHDjm5JRzhK0UFS7QrL3XOnicDmv32vMZPfVtLaZGK6AVRw/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=0" style="max-width: 100%;"></a></p>
+<p>一、先认清手里的工具，每个 Bot 都是一台全天候在线的云端电脑</p>
+<p>在动手配置之前，需要先搞清楚 Grok Bot 和常规网页聊天 AI 的区别。</p>
+<p>xAI 于今年 8 月推出 Grok Bot（官方入口 <code class="notranslate">x.ai/bot</code>）时，给它的官方定位是“TEST_XYZ_123”。每一个新建出来的 Bot，都运行在云端一台独立的持久化 Linux 虚拟机上，内置了完整的浏览器、文件系统和终端环境。</p>
+<p>这意味着两件事。第一，它能自己移动鼠标点击界面、安装并登录你日常使用的各类办公软件、自己打开浏览器查资料，甚至直接进入 Zoom、Google Meet 或 Teams 会议旁听记纪要；第二，哪怕你合上笔记本电脑去休息，云端的 Bot 依然在后台继续运行。</p>
+<p>今年 10 月，官方还为每个 Bot 配备了独立的专属邮箱（形如 <code class="notranslate">your-bot@mail.grokbot.com</code>）。你可以直接让它用自己的邮箱去注册外部服务、联系合作商家，或者替你和别人预约会议时间，把自动化账号权限与个人主邮箱隔离开。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efd0dcb01b17d7d7805142c0e531f9e6318386f40e9caf183c32414da17a3040/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353397a6f476e576678764c6a706962326b625473776a414c4a6739564b72436f564e6b77616a42667a516b7175434b61426a7834624447775151525a696271726b6858523956486b6b304d786374305a743052524154446672584f6f5667433933696174592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31"><img src="https://camo.githubusercontent.com/efd0dcb01b17d7d7805142c0e531f9e6318386f40e9caf183c32414da17a3040/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f706e672f7a573653397674306353397a6f476e576678764c6a706962326b625473776a414c4a6739564b72436f564e6b77616a42667a516b7175434b61426a7834624447775151525a696271726b6858523956486b6b304d786374305a743052524154446672584f6f5667433933696174592f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d31" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_png/zW6S9vt0cS9zoGnWfxvLjpib2kbTswjALJg9VKrCoVNkwajBfzQkquCKaBjx4bDGwQQRZibqrkhXR9VHkk0Mxct0Zt0RRATDfrXOoVgC93iatY/640?wx_fmt=png&amp;from=appmsg#imgIndex=1" style="max-width: 100%;"></a></p>
+<p>在安全控制上，系统连接外部服务或执行外发邮件、向客户发消息等敏感动作前，默认会弹出审批确认（Approval）；你也可以在设置面板里按细粒度规则设定哪些操作允许自动放行、哪些必须经过人工确认。</p>
+<p>理解了这套运行机制，就能明白 Lauren Tan 反复强调的第一条使用原则：不要按“今天临时想问个问题”去建聊天框，而是从你每天最繁琐、最不想重复做的那件具体工作切入，按“一项可独立交接的长期职责”去创建专职 Bot。</p>
+<p>二、xAI 工程师手把手拆解，五步把重复工作交给 AI</p>
+<p>确定了要交出去的工作后，怎么把一个新建的空白助手引导到能独立上手的程度？Lauren Tan 将整个过程拆成了五个连续步骤，并给出了每一步可直接复制使用的提示词。</p>
+<p>1. 先定最终目标，别把“填表格、发邮件”当成目的</p>
+<p>进入 Grok Bot 新建助手时，可以先随便给它起个临时名字（比如她自己常用的 <code class="notranslate">Potato</code>）。在正式派活前，新手最容易犯的错误，就是把“中间操作步骤”当成了“最终目标”。</p>
+<p>比如你在公司有一套固定的日常工作流，每天要填几张表、发几封确认信。但填表和发邮件本身只是手段，背后的真实目标可能是“促成一笔新订单”、“准确控制库存采购量以降低成本”，或者“替门店排好客户预约并减少爽约”。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6cc618c399f7404db11e4e7580578b928d316262b648906e316d63274e0d9da7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a5736533976743063533962447138696358527159547a586962554d385753484d396e3349334f6c547a67355956516a486a6961696231395471734b487772314756696268765965726a394f4f353247424270706961385142497a416961734869637a72763759634a4c4a726f4e524e735a552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d32"><img src="https://camo.githubusercontent.com/6cc618c399f7404db11e4e7580578b928d316262b648906e316d63274e0d9da7/68747470733a2f2f6d6d62697a2e717069632e636e2f737a5f6d6d62697a5f6a70672f7a5736533976743063533962447138696358527159547a586962554d385753484d396e3349334f6c547a67355956516a486a6961696231395471734b487772314756696268765965726a394f4f353247424270706961385142497a416961734869637a72763759634a4c4a726f4e524e735a552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d32" alt="" data-canonical-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/zW6S9vt0cS9bDq8icXRqYTzXibUM8WSHM9n3I3OlTzg5YVQjHjiaib19TqsKHwr1GVibhvYerj9OO52GBBppia8QBIzAiasHiczrv7YcJLJroNRNsZU/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=2" style="max-width: 100%;"></a></p>
+<p>先把最终想要的结果告诉 Bot，它不仅能理解全局意图，往往还能反过来帮你简化原有人工流程里多余的环节。确定目标后，可以直接发送第一段起手提示词：</p>
+<p>你好 Potato，这是我希望你负责达成的最终目标：&lt;填写你的目标&gt;。请根据这项职责，为你自己挑一个合适的名字和头像。</p>
+<p>（英文原版：Hi Potato, this is the goal I want you to be responsible for: <code class="notranslate">&lt;goal&gt;</code>. Pick out a name and picture for yourself based on it.）</p>
+<p>如果你一时说不清目标该怎么描述，也可以直接让它向你提问，帮你一步步把目标梳理清楚：</p>
+<p>你好 Potato，我想交给你负责一项长期目标，但还没想好怎么准确描述它。请你一步步向我提问，帮我把目标梳理清楚，直到我们敲定一个满意的目标描述。</p>
+<p>（英文原版：Hi Potato, I'd like you to be responsible for a goal, but I'm not sure how to best describe it. Can you ask me some questions and interview me until we have a goal that I'm happy with?）</p>
+<p>2. 用语音讲清日常做法，要求它先复述确认、暂不执行</p>
+<p>目标对齐之后，下一步是把你平时自己处理这件工作的做法教给它。</p>
+<p>Lauren Tan 分享了她最常用的省力技巧：不要坐在键盘前苦想怎么写长篇说明文档，直接打开 Grok Bot 的语音输入模式（Voice Mode），像带新同事一样开口讲上几分钟，把平时做事的细节完整说出来，完全不用提前整理语序。</p>
+<p>口述时重点交代清楚六件事即可：平时按哪几个步骤操作，中间重点留意哪些容易出错的细节，全程要打开哪些软件或网站，做完之后怎么检查结果对不对，干活所需的信息从邮件、Slack 还是工单系统里获取，以及事后去哪里查看客户评价或同事反馈。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2410a866d5b6a53fff9ce10bf9911c16eaaab4d0affab148e48d739b7a8a2d1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a5736533976743063536963414c52544d7845716963457a5633747a506d76445476564973796d61696341515346356e584c6f474a7079677944654b4337417239593731526c667a333948395453395a326d524d7a426c31766d4b6c5a63626345386663413768447a73795743552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d33"><img src="https://camo.githubusercontent.com/2410a866d5b6a53fff9ce10bf9911c16eaaab4d0affab148e48d739b7a8a2d1b/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a5736533976743063536963414c52544d7845716963457a5633747a506d76445476564973796d61696341515346356e584c6f474a7079677944654b4337417239593731526c667a333948395453395a326d524d7a426c31766d4b6c5a63626345386663413768447a73795743552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d33" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zW6S9vt0cSicALRTMxEqicEzV3tzPmvDTvVIsymaicAQSF5nXLoGJpygyDeKC7Ar9Y71Rlfz39H9TS9Z2mRMzBl1vmKlZcbcE8fcA7hDzsyWCU/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=3" style="max-width: 100%;"></a></p>
+<p>口述结束后，先不要让它直接开始执行，而是补上这句关键的控制提示词：</p>
+<p>Potato，这就是我平时自己完成这项工作的方式：&lt;粘入语音转写内容&gt;。我希望你想办法把整套工作完整接过去。但在真正动手之前，请先用简单直白的话复述一遍你理解的目标和步骤，方便我确认和补充。现在先不要开始执行，我们先把流程计划定准。</p>
+<p>（英文原版：Potato, this is how I usually do this goal myself: <code class="notranslate">&lt;process&gt;</code>. I want you to think about how you can take this over completely from me. Before you begin, restate what you think my goal and process is in simple English so I can give you feedback and confirm it. I don't want you to start executing on this yet, let's focus on getting the process planned first.）</p>
+<p>核对一遍它的复述，有偏差的地方当场纠正，来回两三轮就能把方案定稳，随后再让它去连接对应的软件工具。如果你想顺便优化老流程，还可以追问一句：</p>
+<p>请对照我最初设定的目标重新审视这套流程，如果你发现有更高效、更省事的做法，请直接告诉我。</p>
+<p>（英文原版：Review our process against my original goal, and if you see a way to make it better or more efficient, let me know.）</p>
+<p>3. 让它一次问一个问题，补齐你容易忽略的隐性经验</p>
+<p>很多人觉得自动化难配置，原因在于人在熟手工作里有很多不假思索的默认判断。</p>
+<p>比如替门店安排客户预约，你自然知道哪类服务耗时更长、哪位技师擅长哪类项目、什么情况下两单之间要预留缓冲时间；再比如当邮件里写的时间和预约系统里记的时间不一致时以哪边为准，以及发完邮件并不算预约结束，必须等系统保存成功并向客户发出确认信才算真正办完，尚未回复的还要持续跟进、避免重复建单。这些判断对你来说习以为常，但如果不提前说明，Bot 就缺少处理依据。</p>
+<p>不必试图在第一天就把所有特殊情况想全。可以先拿几个真实案例（尤其是之前出过错、需要特殊处理的例子）考考它怎么应对，再发送下面这段提示词，让它主动提问补齐遗漏：</p>
+<p>Potato，请帮我找出关于这套流程我还没交代清楚的地方。围绕我平时怎么拿主意、从哪里查信息、怎么验收结果、以及什么情况下必须停下来找我帮忙，请你向我提问。每次只问一个问题，问完后带我推演几个具体例子，等我给完反馈我们再正式启动自动化。</p>
+<p>（英文原版：Potato, help me figure out what I haven't told you about this process yet. Ask me questions about how I make decisions, where I get my information, how I check the work, and when you should ask me for help. Ask one question at a time, then walk me through a few examples so I can give you feedback before we automate this.）</p>
+<p>在早先的实操工作坊和访谈里，Lauren Tan 还补充了一个实用习惯：带着 Bot 跑通一两次并完成修正后，直接让它把这套验证有效的步骤保存成可复用的技能（Skill），甚至可以让它建一个私有 GitHub 仓库专门存放这些技能文件，保证后续长期对话里执行标准一致。</p>
+<p>4. 接入真实反馈渠道，缺数据就让它写个小工具来记录</p>
+<p>流程跑起来之后，想让 Bot 持续改进工作质量，关键是让它自己能看到执行结果的反馈。</p>
+<p>如果线上本来就有反馈渠道（比如客户邮件、社媒评论或门店评价平台），可以直接授权 Bot 定期查看这些反馈。一旦发现有顾客反映等待时间过长，它就能主动去查当天的排班和接待记录，定位问题环节并向你提出改进建议。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/572b95aac55b5237a037c155668c5f6e12b6c4aecb21a1437ca71d262533f6f0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353696365517a64446e684156564574523371486d70576b356758324a73724538476739614c325a6d324d446b626c426f566963696250547470555a74346a6d563177317753443735676464696137486961696237396162614b37454368746130513336746961346e552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d34"><img src="https://camo.githubusercontent.com/572b95aac55b5237a037c155668c5f6e12b6c4aecb21a1437ca71d262533f6f0/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353696365517a64446e684156564574523371486d70576b356758324a73724538476739614c325a6d324d446b626c426f566963696250547470555a74346a6d563177317753443735676464696137486961696237396162614b37454368746130513336746961346e552f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d34" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zW6S9vt0cSiceQzdDnhAVVEtR3qHmpWk5gX2JsrE8Gg9aL2Zm2MDkblBoVicibPTtpUZt4jmV1w1wSD75gddia7Hiaib79abaK7EChta0Q36tia4nU/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=4" style="max-width: 100%;"></a></p>
+<p>如果线下业务还没有现成的数字化记录，Lauren Tan 给出了一个很实用的办法：既然 Grok Bot 自带电脑且能写代码，可以直接让它帮你做一个记录数据的网页或手机小应用。比如经营一家汽车维修店，可以让它写个简单的登记页面，依次记录客户到店、接待沟通、交接车钥匙、开始维修与完工的时间点，很快就能算出真实的等待时长。</p>
+<p>同时，跨多个软件协同处理事务时，记得保留一个统一的关联标识（如客户邮箱、订单号、工单编号或条形码），方便 Bot 把分散在不同工具里的记录准确对应起来。</p>
+<p>5. 设置 Routines 自动触发，不用每次手动催办</p>
+<p>走完前面四步，Bot 已经能稳定完成单次任务了。最后一步是设定它什么时候自动运行。</p>
+<p>如果不设置例程（Routines），每次还是得靠人手动发消息触发。在 Grok Bot 里，可以直接用自然语言设好触发条件：既可以按事件触发（例如收到新询盘邮件、或 Slack 频道出现特定消息时自动启动），也可以按固定周期触发（例如每天早上 9 点或每周五下午准时汇总运行），省去人工反复跟进的精力。</p>
+<p>三、从研发团队到生活管家，四个落地玩法与现成模板</p>
+<p>结合 Lauren Tan 本人与 xAI 团队公开的日常实践，下面四个已经跑通的真实用法可以直接作为配置参考。</p>
+<p>1. 用幕僚长和工程主管带四个研发助手分工协作</p>
+<p>在科技创作者 Peter Yang 的专访实录中，Lauren Tan 展示了她日常使用的 Grok Bot 桌面端真实界面。她在工作和生活里一共配置了 14 个职责分明的助手，但平时自己主要只跟名叫 <code class="notranslate">kero</code> 的“幕僚长（Chief of Staff）”沟通。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c81f93e6b32d463cd6bc2a44a3c26cf0408566db5172c04932ad63a2afbddea8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a57365339767430635369635638593138373467585a4b6c677a4b3348776a537935414a646752416a3936344d344167326f334e32624d796a374b534577637861516766515a35667135386d663051696366517169635879426d6e4a66756464363546577270543736566d586961672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35"><img src="https://camo.githubusercontent.com/c81f93e6b32d463cd6bc2a44a3c26cf0408566db5172c04932ad63a2afbddea8/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a57365339767430635369635638593138373467585a4b6c677a4b3348776a537935414a646752416a3936344d344167326f334e32624d796a374b534577637861516766515a35667135386d663051696366517169635879426d6e4a66756464363546577270543736566d586961672f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d35" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cSicV8Y1874gXZKlgzK3HwjSy5AJdgRAj964M4Ag2o3N2bMyj7KSEwcxaQgfQZ5fq58mf0QicfQqicXyBmnJfudd65FWrpT76VmXiag/640?wx_fmt=png&amp;from=appmsg#imgIndex=5" style="max-width: 100%;"></a></p>
+<p>幕僚长接到需求后，会转交给名叫 <code class="notranslate">matcha</code> 的“工程主管 Bot（eng lead）”，再由工程主管把任务拆细，分配给底下的 <code class="notranslate">daifuku</code>、<code class="notranslate">gyoza</code>、<code class="notranslate">benny</code> 等 4 个研发 Bot 并行写代码、跑测试。她在配置工程主管时特意写明一条硬性规则：主管只负责拆解任务、分配工作和检查进度，不能自己动手写代码。这套清晰的职责划分，支撑她个人在半年内合入了超过 5000 个 PR，仅 8 月单月就合入 2500 个。</p>
+<p>2. 配一个绝不越权代发帖的全天候社媒监测助手</p>
+<p>单职能助手在日常信息筛选上同样实用。Lauren Tan 公开分享过她管理 X 账号的专职助手 <code class="notranslate">tibot</code>（单帖超 100 万浏览）：它会全天检索全网提到她或特定关键词的帖子（即使对方没有 <code class="notranslate">@</code> 也能识别），过滤掉营销广告与无关争吵，将非英语讨论自动翻译整理，每天按固定时间发来一份精简的分类摘要。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e9f4366d5c3ac8e72e6f2ecaac498200ce2ac19ee32de3583628bb5d33938c5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a5736533976743063536963343568416561457a30646557734c34534e3041466c68304a66393269624c35696271773845443241793178767332706163464171766a3373616f3834696255636d4c4a4a45506c635a4a6444736430337068495a50676b4e4a4b6569616872666f4f58302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36"><img src="https://camo.githubusercontent.com/7e9f4366d5c3ac8e72e6f2ecaac498200ce2ac19ee32de3583628bb5d33938c5/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a5736533976743063536963343568416561457a30646557734c34534e3041466c68304a66393269624c35696271773845443241793178767332706163464171766a3373616f3834696255636d4c4a4a45506c635a4a6444736430337068495a50676b4e4a4b6569616872666f4f58302f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d36" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cSic45hAeaEz0deWsL4SN0AFlh0Jf92ibL5ibqw8ED2Ay1xvs2pacFAqvj3sao84ibUcmLJJEPlcZJdDsd03phIZPgkNJKeiahrfoOX0/640?wx_fmt=png&amp;from=appmsg#imgIndex=6" style="max-width: 100%;"></a></p>
+<p>同时她在规则里明确限定 <code class="notranslate">tibot</code> 绝不能替她公开发帖，所有文章和推文仍由她本人撰写，既节省了浏览信息流的时间，也守住了账号安全边界。</p>
+<p>3. 盯住推特收藏夹自动写好代码并部署早报预览</p>
+<p>很多开发者平时刷推特看到新出的开源库或工具，随手点个收藏（Bookmark）就留在了列表里。xAI 工程师 Matt Palmer 在公开实操课上分享了他的做法：专门建一个监控自己 X 收藏夹的 Grok Bot。</p>
+<p>每当他在推特收藏了感兴趣的新技术包，这个 Bot 就会自动在云端环境里用该技术搭出一个可运行的最小 Demo，配置好代码仓库并通过 Cloudflare 部署在线预览。第二天一早，他打开电脑就能收到一条汇总消息，里面直接附着昨天收藏项目的在线体验链接。</p>
+<p>4. 用官方引导模板与五十六个现成岗位一键起步</p>
+<p>如果你觉得从零编写提示词还是麻烦，Lauren Tan 在这篇教程的评论区同步放出了她最新升级的创建助手模板 Dr Eggbot v2。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c999a30fdd8968d34094654392995396e3e16219d7696b59497f46b58a67357e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353386c6f4d44516277736b31304571473548444839366f6a4a61725446396c77633468495a4f594269636554654d767769626b4b5970356b515a573939496d567551674e575842487070634a75595a506e3544796a4372386f55506c7746326d716148632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37"><img src="https://camo.githubusercontent.com/c999a30fdd8968d34094654392995396e3e16219d7696b59497f46b58a67357e/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f706e672f7a573653397674306353386c6f4d44516277736b31304571473548444839366f6a4a61725446396c77633468495a4f594269636554654d767769626b4b5970356b515a573939496d567551674e575842487070634a75595a506e3544796a4372386f55506c7746326d716148632f3634303f77785f666d743d706e672666726f6d3d6170706d736723696d67496e6465783d37" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_png/zW6S9vt0cS8loMDQbwsk10EqG5HDH96ojJarTF9lwc4hIZOYBiceTeMvwibkKYp5kQZW99ImVuQgNWXBHppcJuYZPn5DyjCr8oUPlwF2mqaHc/640?wx_fmt=png&amp;from=appmsg#imgIndex=7" style="max-width: 100%;"></a></p>
+<p>它本身就是一个内置了上述配置思路的引导助手。安装后只需告诉它你想交出去哪项工作，它就会按照“单一职责、边界清晰、不留多余工具”的标准主动向你提问，理清目标和步骤后直接帮你创建好对应的新助手。</p>
+<p>此外，官方也在应用市场（<code class="notranslate">x.ai/bot``/use-cases</code>）免费开放了覆盖市场、销售、研发、财务运营、招聘与个人生活事务的 56 个一键安装职位模板，包括收件箱管家、日报整理员、报销核对员、租房房源筛选助手等常见角色。刚开始上手时，可以先从这 56 个现成岗位里挑一件平时最耗精力的事务试起。</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2607712dce54a07f47f7d0c542261e35b4d0394e42eb030e002e96b7a8c1d4e9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353394f626c3946466842624153724c544369616467637069637255687476696172634b37414572517a4b43796e50767a69613369635a386e6d794c48676255635248306a68374370364f6f4231326d6b356d6b587a4f47343641496961534d62685255524a417a732f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d38"><img src="https://camo.githubusercontent.com/2607712dce54a07f47f7d0c542261e35b4d0394e42eb030e002e96b7a8c1d4e9/68747470733a2f2f6d6d62697a2e717069632e636e2f6d6d62697a5f6a70672f7a573653397674306353394f626c3946466842624153724c544369616467637069637255687476696172634b37414572517a4b43796e50767a69613369635a386e6d794c48676255635248306a68374370364f6f4231326d6b356d6b587a4f47343641496961534d62685255524a417a732f3634303f77785f666d743d6a7065672666726f6d3d6170706d736723696d67496e6465783d38" alt="" data-canonical-src="https://mmbiz.qpic.cn/mmbiz_jpg/zW6S9vt0cS9Obl9FFhBbASrLTCiadgcpicrUhtviarcK7AErQzKCynPvzia3icZ8nmyLHgbUcRH0jh7Cp6OoB12mk5mkXzOG46AIiaSMbhRURJAzs/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=8" style="max-width: 100%;"></a></p>
+<p>写在最后</p>
+<p>回看 Lauren Tan 这套高收藏自动化指南，最核心的经验可以浓缩成她总结的四步工作节奏：先看着它执行并当场纠正偏差，把跑通的做法存为技能（Skill），等它能稳定一次做对，再设为自动例程（Routine）。</p>
+<p>实际使用时也有两点现实限制需要留意。一是助手贵精不贵多，社区里有团队把五六个 Bot 同时拉进同一个客户群聊，结果每发一条消息都会把所有 Bot 唤醒一遍，白白消耗不少每周配额（今年 11 月初，马斯克就曾因算力成本过高收紧过使用限额）；二是涉及对外发邮件、访问内部系统或财务数据时，初期应在设置里开启前置人工审批（Auto Review），等运行稳定后再逐步放宽权限。不妨先挑一件每天最耗时费力的重复小事，用语音跟你的第一个云端助手聊上五分钟试试。</p></div>
+<div style="font-size:small;margin-top:8px;float:right;"></div>
+
+<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
+<div class="comments" id="comments"></div>
+
+</div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://126.plus">Johnson的备忘录</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021165387号-1</a> • </span>
+    <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
+</div>
+
+<script>
+var now=new Date();
+document.getElementById("copyrightYear").innerHTML=now.getFullYear();
+
+if("07/15/2024"!=""){
+    var startSite=new Date("07/15/2024");
+    var diff=now.getTime()-startSite.getTime();
+    var diffDay=Math.floor(diff/(1000*60*60*24));
+    document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
+}
+</script></div>
+</body>
+<script>
+var IconList={'sun': 'M8 10.5a2.5 2.5 0 100-5 2.5 2.5 0 000 5zM8 12a4 4 0 100-8 4 4 0 000 8zM8 0a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0V.75A.75.75 0 018 0zm0 13a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 018 13zM2.343 2.343a.75.75 0 011.061 0l1.06 1.061a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zm9.193 9.193a.75.75 0 011.06 0l1.061 1.06a.75.75 0 01-1.06 1.061l-1.061-1.06a.75.75 0 010-1.061zM16 8a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5h1.5A.75.75 0 0116 8zM3 8a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h1.5A.75.75 0 013 8zm10.657-5.657a.75.75 0 010 1.061l-1.061 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm-9.193 9.193a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 11-1.061-1.06l1.06-1.061a.75.75 0 011.061 0z', 'moon': 'M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z', 'sync': 'M1.705 8.005a.75.75 0 0 1 .834.656 5.5 5.5 0 0 0 9.592 2.97l-1.204-1.204a.25.25 0 0 1 .177-.427h3.646a.25.25 0 0 1 .25.25v3.646a.25.25 0 0 1-.427.177l-1.38-1.38A7.002 7.002 0 0 1 1.05 8.84a.75.75 0 0 1 .656-.834ZM8 2.5a5.487 5.487 0 0 0-4.131 1.869l1.204 1.204A.25.25 0 0 1 4.896 6H1.25A.25.25 0 0 1 1 5.75V2.104a.25.25 0 0 1 .427-.177l1.38 1.38A7.002 7.002 0 0 1 14.95 7.16a.75.75 0 0 1-1.49.178A5.5 5.5 0 0 0 8 2.5Z', 'home': 'M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z', 'github': 'M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z'};
+var utterancesLoad=0;
+
+let themeSettings={
+    "dark": ["dark","moon","#00f0ff","dark-blue"],
+    "light": ["light","sun","#ff5000","github-light"],
+    "auto": ["auto","sync","","preferred-color-scheme"]
+};
+function changeTheme(mode, icon, color, utheme){
+    document.documentElement.setAttribute("data-color-mode",mode);
+    document.getElementById("themeSwitch").setAttribute("d",value=IconList[icon]);
+    document.getElementById("themeSwitch").parentNode.style.color=color;
+    if(utterancesLoad==1){utterancesTheme(utheme);}
+}
+function modeSwitch(){
+    let currentMode=document.documentElement.getAttribute('data-color-mode');
+    let newMode = currentMode === "light" ? "dark" : currentMode === "dark" ? "auto" : "light";
+    localStorage.setItem("meek_theme", newMode);
+    if(themeSettings[newMode]){
+        changeTheme(...themeSettings[newMode]);
+    }
+}
+function utterancesTheme(theme){
+    const message={type:'set-theme',theme: theme};
+    const iframe=document.getElementsByClassName('utterances-frame')[0];
+    iframe.contentWindow.postMessage(message,'https://utteranc.es');
+}
+if(themeSettings[theme]){changeTheme(...themeSettings[theme]);}
+console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 0;background:#02d81d;color:#fff");
+</script>
+
+<script>
+document.getElementById("pathHome").setAttribute("d",IconList["home"]);
+document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
+
+function openComments(){
+    cm=document.getElementById("comments");
+    cmButton=document.getElementById("cmButton");
+    cmButton.disabled=true;
+    cmButton.innerHTML="loading";
+    span=document.createElement("span");
+    span.setAttribute("class","AnimatedEllipsis");
+    cmButton.appendChild(span);
+
+    script=document.createElement("script");
+    script.setAttribute("src","https://utteranc.es/client.js");
+    script.setAttribute("repo","szwnba/affweb");
+    script.setAttribute("issue-term","title");
+    
+    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
+    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
+    else{script.setAttribute("theme","preferred-color-scheme");}
+    
+    script.setAttribute("crossorigin","anonymous");
+    script.setAttribute("async","");
+    cm.appendChild(script);
+
+    int=self.setInterval("iFrameLoading()",200);
+}
+
+function iFrameLoading(){
+    var utterances=document.getElementsByClassName('utterances');
+    if(utterances.length==1){
+        if(utterances[0].style.height!=""){
+            utterancesLoad=1;
+            int=window.clearInterval(int);
+            document.getElementById("cmButton").style.display="none";
+            console.log("utterances Load OK");
+        }
+    }
+}
+
+
+
+</script>
+
+
+</html>
